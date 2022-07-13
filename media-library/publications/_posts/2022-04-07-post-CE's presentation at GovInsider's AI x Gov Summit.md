@@ -32,7 +32,7 @@ During the session of <b>"The great migration: Securing the move to cloud"</b>, 
 </td>
 		</tr>
 		<tr>
-			<td width="45%" style="text-align:center;"><br><img src="/images/Media/AiXGovImage2.png" /></td>
+			<td width="25%" style="text-align:center;"><br><img src="/images/Media/AiXGovImage2.png" /></td>
 			<td>   
 <div><b>You may view the video of presentation by clicking this <a href="/media-library/videos/ce-presentation-govinsider-ai-gov-summit">LINK
 	</a></div></b></td></tr></table>
