@@ -25,7 +25,7 @@ During the session of <b>"The great migration: Securing the move to cloud"</b>, 
 			</td>
 			</tr>
 		<tr style="background-color:#FFFFE0;">
-			<td width="40%" style="text-align:center;"><br><img src="/images/Media/AiXGovImage1.png" /></td>
+			<td width="45%" style="text-align:center;"><br><img src="/images/Media/AiXGovImage1.png" /></td>
 <td>
 	<div><ol type="1"><li><b>Policy-ops-tech integration:</b> VITAL is going upstream to consult and influence policies so that we make our processes better, easier and faster.</li> 
 		<li><b>The cloud:</b> Technologies from the cloud, especially the low-code and no-code platforms, give everyone an opportunity to participate in this modern digital world. </li>
