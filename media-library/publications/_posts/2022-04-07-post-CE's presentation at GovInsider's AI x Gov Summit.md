@@ -33,5 +33,5 @@ During the session of <b>"The great migration: Securing the move to cloud"</b>, 
 		</tr>
 		<tr>
 <td colspan="3">
-<div><b><i>You may view the video of presentation by clicking this <a href="/media-library/videos/ce-presentation-govinsider-ai-gov-summit">link.
-	</a></i></div></b></td></tr></table>
+<b><i>You may view the video of presentation by clicking this <a href="/media-library/videos/ce-presentation-govinsider-ai-gov-summit">link.</a></i></b>
+</td></tr></table>
