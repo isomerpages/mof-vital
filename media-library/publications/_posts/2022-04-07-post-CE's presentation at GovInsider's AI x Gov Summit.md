@@ -5,10 +5,10 @@ date: 2022-04-07
 layout: post
 description: CE's presentation at GovInsider's AI x Gov Summit
 ---
-<table class="center" border="0">
+<table class="center" style="padding:0px;border:0;">
 <tr>
-	<td colspan = "2">
-<img src="/images/Media/AiXGovHeader.png" width="100%" height="100%"  /> 
+	<td colspan = "2" width="100%" style="padding:0px;border:0;">
+<img src="/images/Media/AiXGovHeader.png"  /> 
 	</td>
 	</tr>
 <tr style="background-color:#FFFFE0;">
@@ -32,7 +32,7 @@ During the session of <b>"The great migration: Securing the move to cloud"</b>, 
 </td>
 		</tr>
 		<tr>
-			<td width="20%" style="text-align:center;"><br><img src="/images/Media/AiXGovImage2.png" height="30%" width ="30%" /></td>
+			<td style="padding:0px;border:0;height:10%;width:10%"><br><img src="/images/Media/AiXGovImage2.png" /></td>
 			<td>   
 <div><b>You may view the video of presentation by clicking this <a href="/media-library/videos/ce-presentation-govinsider-ai-gov-summit">LINK
 	</a></div></b></td></tr></table>
