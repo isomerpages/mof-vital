@@ -13,10 +13,10 @@ description: CE's presentation at GovInsider's AI x Gov Summit
 	</tr>
 <tr style="background-color:#FFFFE0;">
 	<td colspan = "3">
-		<div style="font-size:20px">Mr Dennis Lui, Chief Executive (CE) of VITAL, spoke at <b>GovInsider's AI x GOV summit</b> on 7 April  2022.
-
+		<p style="font-size:18px">Mr Dennis Lui, Chief Executive (CE) of VITAL, spoke at <b>GovInsider's AI x GOV summit</b> on 7 April  2022.</p>
+<p style="font-size:18px">
 During the session of <b>"The great migration: Securing the move to cloud"</b>, Mr Lui joined other leaders from Asia Cloud Computing Association, Temasek Polytechnic and Amazon Web Services as panellists to discuss <b>how public agencies have used the cloud to expand and improve services securely.</b>
-		</div>
+		</p>
 		<tr style="background-color:#151B54;">
 	<td colspan = "3">
 		<p style="color:#FFFFFF;text-align:center;font-size:24px"><b>Highlights from Mr Lui’s Presentation</b></p>
