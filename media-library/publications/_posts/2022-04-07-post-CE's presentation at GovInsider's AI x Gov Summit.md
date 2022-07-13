@@ -29,10 +29,10 @@ During the session of <b>"The great migration: Securing the move to cloud"</b>, 
 		<li><b>The cloud:</b> Technologies from the cloud, especially the low-code and no-code platforms, give everyone an opportunity to participate in this modern digital world. </li>
 		<li><b>Citizen developer strategy:</b> VITAL has put in place programs to let everybody have a stake and upskill in this journey.</li>
 		</div>
-
-
-
 </td>
 		</tr>
-<a href="/media-library/videos/ce-presentation-govinsider-ai-gov-summit">
-</a>
+		<tr>
+			<td width="45%" style="text-align:center;"><br><img src="/images/Media/AiXGovImage2.png" /></td>
+			<td>   
+<div><b>You may view the video of presentation by clicking this <a href="/media-library/videos/ce-presentation-govinsider-ai-gov-summit">LINK
+	</a></div></b></td></tr></table>
