@@ -72,8 +72,8 @@ People will need to demonstrate skills such as creativity, leadership, communica
 <p style="font-size: 20px;color:#2c2c2c">
 Training employees on how to develop their own automations - in addition to teaching them how to use ones handed to them by leadership - positions employees to take an active role in the initiative. This fosters a sense of autonomy over their workloads; when workers know how to tailor automation software to support the specific requirements of their jobs, they can establish a way of work that is entirely their own, thereby boosting productivity and job satisfaction.
 </p>
-<p style="font-size: 20px;color:#49759a;">
-VITAL - the shared services arm of the Singapore government, which leads the public sector's robotics initiatives - has done exactly that. One of their first initiatives has been to implement a Citizen Developer Strategy to provide no/low code solutions to enable users, even those without programming skills, to develop their own automation scripts and reap its benefits.
+<p style="font-size: 20px;color:#49759a;"><b>
+VITAL - the shared services arm of the Singapore government, which leads the public sector's robotics initiatives - has done exactly that. One of their first initiatives has been to implement a Citizen Developer Strategy to provide no/low code solutions to enable users, even those without programming skills, to develop their own automation scripts and reap its benefits.</b>
 </p>
 <p style="font-size: 20px;color:#2c2c2c">
 Designating automation champions to be individual workers' go-to when they need automation assistance on the job, or get help deploying an automation they have created, is also important. Having a go-to team for employees to consult offers them continuous reassurance and guidance on an innovation that may be unfamiliar to them, which avoids them abandoning the technology in favour of old ways of work.
