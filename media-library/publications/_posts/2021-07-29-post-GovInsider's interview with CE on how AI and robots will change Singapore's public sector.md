@@ -164,5 +164,5 @@ On the RPA front, we are augmenting with AI by exploring Document Understanding 
 <div>&nbsp;&nbsp;</div>
 <div>&nbsp;&nbsp;</div>
 <div style="font-size: 16px;">
-<i>Interview responses have been edited for clarity.</i>
+Interview responses have been edited for clarity.
 </div>
