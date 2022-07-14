@@ -9,8 +9,7 @@ description: GovInsider's interview with CE on digitalisation and automation
 <div style="font-size: 18px;color:#585858">
 Dennis Lui, Chief Executive of VITAL, Ministry of Finance, shares how digitalisation helps rank-and-file staff in government work more efficiently.
 </div>
-<br>
-<div style="font-size: 15px;color:#585858">By Liew Ming En | 05 APR 2022</div>
+<p style="font-size: 15px;color:#585858">By Liew Ming En | 05 APR 2022</p>
 <hr style="height: 1px; width: 100%; margin:0 auto;line-height:1px;background-color: #585858; border:0 none;"/>
 <p style="font-size: 22px;color:#585858">
 In a magic show, everyone applauds the magician and their assistant for illusions well performed. Yet, no show would be successful without the work of the crew behind the scenes. Those manning the props, lighting, music, and other details help make magic happen.
