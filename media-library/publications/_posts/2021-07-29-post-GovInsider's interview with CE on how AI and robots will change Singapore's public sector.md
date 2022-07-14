@@ -7,7 +7,7 @@ layout: post
 description: GovInsider's interview with CE on how AI and robots will change
   Singapore's public sector
 ---
-<p style="font-size: 24px;color:#585858"><b>AI Futures: How AI and Robots will change Singapore's public sector</b></p>
+<p style="font-size: 28px;color:#585858"><b>AI Futures: How AI and Robots will change Singapore's public sector</b></p>
 <div style="font-size: 18px;color:#585858">
 Interview with Dennis Lui, Chief Executive at VITAL.
 </div>
