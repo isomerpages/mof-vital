@@ -34,7 +34,6 @@ Intelligence (AI) for objective and unbiased selections</li>
 shorten hiring lead time</li>
 <li>Enhance candidate engagement & virtual assessment capabilities</li>
 </ul>  
-</div>
 <div>&nbsp;&nbsp;</div>
 <div style="font-size: 22px;color:#49759a;">
 “VITAL is in unique position within Singapore Public Service to experiment with emerging technologies such as AI, automation. With capable recruitment system and ready database of qualified candidates, we foresee
