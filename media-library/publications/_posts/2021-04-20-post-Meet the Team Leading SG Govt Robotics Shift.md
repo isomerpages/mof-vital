@@ -129,6 +129,6 @@ As custodian of the public sector’s most fundamental processes, VITAL’s job 
 </div>
 <div>&nbsp;&nbsp;</div>
 <div>&nbsp;&nbsp;</div>
-<div style="font-size: 18px;">
-	<i><a href="#MainImage">Main image from VITAL.</a> From left to right: Janel Lee, Gerald Tay, Toe Saibun, VITAL Chief Executive Dennis Lui, Ang Chin Pei, Jessica Ong, Kho Hock Guan.</i>
+<div style="font-size: 16px;">
+	<a href="#MainImage">Main image from VITAL.</a> From left to right: Janel Lee, Gerald Tay, Toe Saibun, VITAL Chief Executive Dennis Lui, Ang Chin Pei, Jessica Ong, Kho Hock Guan.
 </div>
