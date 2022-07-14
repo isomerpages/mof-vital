@@ -37,7 +37,7 @@ shorten hiring lead time</li>
 </ul>  
 </div>
 <div>&nbsp;&nbsp;</div>
-<div style="font-size: 20px;color:#49759a;"><i>
+<div style="font-size: 22px;color:#49759a;"><i>
 “VITAL is in unique position within Singapore Public Service to experiment with emerging technologies such as AI, automation. With capable recruitment system and ready database of qualified candidates, we foresee
 more effective, efficient hiring processes. We look forward to partner with X0PA.”</i>
 </div>
@@ -46,50 +46,42 @@ more effective, efficient hiring processes. We look forward to partner with X0PA
 </div>
 <div>&nbsp;&nbsp;</div>
 <div>&nbsp;&nbsp;</div>
-<div style="font-size: 20px;color:#49759a;"><i>“X0PA is committed to solving talent management challenges, making process transparent, objective with
+<div style="font-size: 22px;color:#49759a;"><i>“X0PA is committed to solving talent management challenges, making process transparent, objective with
 the power of ethical AI. With this strategic engagement with VITAL, X0PA is determined to augment existing recruitment capabilities. Someday, it will do so for the whole of public service. X0PA AI will help improve both user experience and create measurable outcomes with transparent and objective hiring processes on platform.”</i>
 </div>
 <div style="font-size: 20px;color:#49759a;">
 <i>- Sid S., Global Head of Sales, X0PA AI</i>
 </div>
-<div>&nbsp;&nbsp;</div>
-<div>&nbsp;&nbsp;</div>
-<div style="font-size: 25px;">
+<br>
+<p style="font-size: 32px;color:#a91932">
 Media Contacts
-</div>
-	<div>&nbsp;&nbsp;</div>
-<div style="font-size: 20px;">
+<p>
+<div style="font-size: 22px;color:#585858">
 X0PA AI
 </div>
-<div style="font-size: 20px;">
+<div style="font-size: 22px;color:#585858">
 marketing@X0PA.com
 </div>
 <div>&nbsp;&nbsp;</div>
-<div>&nbsp;&nbsp;</div>
-<div>&nbsp;&nbsp;</div>
-<div style="font-size: 25px;">
+<p style="font-size: 32px;color:#a91932">
 About VITAL
-</div>
-	<div>&nbsp;&nbsp;</div>
-<div style="font-size: 20px;">
+</p>
+<div style="font-size: 22px;color:#585858">
 VITAL is Central Agency for Corporate shared services in the Singapore Public Service. A department established under Ministry of Finance, VITAL’s
 mandate is to aggregate common corporate services within public sector to
 leverage economies of scale, improve efficiency and enhance service quality. Today, VITAL serves more than 110,000 public officers across more than 100 agencies spanning a wide range of corporate and administrative processes in finance, human resource and procurement.
 </div>
 <div>&nbsp;&nbsp;</div>
-<div>&nbsp;&nbsp;</div>
-<div>&nbsp;&nbsp;</div>
-<div style="font-size: 25px;">
+<p style="font-size: 32px;color:#a91932">
 About X0PA AI
-	</div>
-	<div>&nbsp;&nbsp;</div>
-<div style="font-size: 20px;">
+</p>
+<div style="font-size: 22px;color:#585858">
 Singapore headquartered, X0PA AI is SaaS company that helps in talent
 acquisition, hiring, assessment and areas that use Artificial Intelligence,
 Machine Learning.
-		</div>
+</div>
 	<div>&nbsp;&nbsp;</div>
-<div style="font-size: 20px;">
+<div style="font-size: 22px;color:#585858">
 X0PA AI also combines this technology with automation to improve accuracy,
 objectivity and efficiency while hiring at scale.
 IDC recently recognised X0PA AI as one of four innovative companies in Asia-
@@ -98,7 +90,7 @@ Furthermore, X0PA AI is a <b>partner of Microsoft, SAP, Oracle, Intel and
 	Nvidia.</b>
 		</div>
 	<div>&nbsp;&nbsp;</div>
-<div style="font-size: 20px;">
+<div style="font-size: 22px;color:#585858">
 As a strategic partner of Microsoft, X0PA AI has developed cloud-based tools
 and products to enhance hiring and selection processes for government,
 academia and enterprise.
