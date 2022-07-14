@@ -36,7 +36,7 @@ These are all critical questions that have to be addressed. Business leaders wil
 <p style="font-size: 20px;color:#2c2c2c">
 To get there, there are 4 key actions that they can take:
 </p>
-<p style="font-size: 26px;color:#a91932">
+<p style="font-size: 30px;color:#a91932">
 <b>Convey the value of automation to the workforce</b>
 </p>
 <p style="font-size: 20px;color:#2c2c2c">
@@ -45,7 +45,7 @@ Implementing automation technologies alone is not enough, and will not achieve b
 <p style="font-size: 20px;color:#2c2c2c">
 Aside from touting the benefits in terms of driving efficiency and productivity, it is critical that business leaders stress that automation, contrary to popular belief, does not take away jobs. Instead, automation takes over manual and tedious operational activities such as data entry and other rules-based processes, giving workers more time back in their day to focus on more strategic work. Having technology execute these responsibilities allows employees to advance into higher-skilled roles - effectively furthering them in their careers instead of stopping them short.
 </p>
-<p style="font-size: 26px;color:#a91932">
+<p style="font-size: 30px;color:#a91932">
 <b>Build skill sets for the automation era</b>
 </p>
 <p style="font-size: 20px;color:#2c2c2c">
@@ -57,7 +57,7 @@ Addressing this early by focusing on workforce skill-building will be crucial. O
 <p style="font-size: 20px;color:#2c2c2c">
 Singapore, in particular, has provided many opportunities for the workforce to upskill themselves. Recently, the government highlighted enhancements to the TechSkills Accelerator and SkillsFuture Enterprise Credit scheme in Budget 2022. On the other hand, businesses will also need to play their part in building the next-gen workforce. For instance, UiPath's Academic Alliance programme provides significant opportunities for students and professionals to educate and upskill themselves in automation, equipping them with the skill sets to take on more creative, strategic and fulfilling work in the future.
 </p>
-<p style="font-size: 26px;color:#a91932">
+<p style="font-size: 30px;color:#a91932">
 <b>Offer training beyond technical skills</b>
 </p>
 <p style="font-size: 20px;color:#2c2c2c">
@@ -66,7 +66,7 @@ In addition to teaching technical skill sets, training opportunities must also i
 <p style="font-size: 20px;color:#2c2c2c">
 People will need to demonstrate skills such as creativity, leadership, communications and flexibility, among others - skills which robots cannot replace. A McKinsey & Company study found that to prepare their workforces for a post-Covid world, organisations are emphasising training in human-centred skills like leadership and managing others; critical thinking and decision-making; project management; and adaptability and continuous learning.
 </p>
-<p style="font-size: 26px;color:#a91932">
+<p style="font-size: 30px;color:#a91932">
 <b>Give employees an active role in the automation initiative</b>
 </p>
 <p style="font-size: 20px;color:#2c2c2c">
