@@ -8,7 +8,6 @@ description: VITAL partners XOPA to make hiring processes more effective and eff
 <img src="/images/Media/XOPA.png" />	
 <p style="font-size: 24px;color:#585858"><b>VITAL Chooses X0PA AI as its Platform of
 Choice for Objectivity and Efficiency</b></p>
-<div>&nbsp;&nbsp;</div>
 <div style="font-size: 18px;color:#585858">
 News Article by XOPA AI
 </div>
