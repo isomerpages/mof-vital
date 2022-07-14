@@ -5,10 +5,8 @@ date: 2021-08-27
 layout: post
 description: Inaugural Enabling Mark Award (Gold)
 ---
-<div style="font-size: 24px">
+<p style="font-size: 24px;color:#585858">
 	<b>VITAL has been conferred inaugural Enabling Mark Award (Gold)</b>
-</div>
-<div>&nbsp;&nbsp;</div>
-<div style="font-size: 20px">
+<p style="font-size: 22px;color:#585858">
 <a href = "/files/Enabling%20Mark%20-%20for%20website.pdf">Inaugural Enabling Mark Award (Gold)</a>
-</div>
+</p>
