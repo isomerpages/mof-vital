@@ -84,7 +84,7 @@ Below is an illustration of how VITAL uses RPA to extract and verify data for an
 <p style="font-size: 22px;color:#49759a ">
 Finance Process – Deposit Record Creation
 </p>
-<img src="/images/Media/AI-Future_2.jpg" />
+<img src="/images/Media/AI-Future_2.png" />
 <p style="font-size: 22px;color:#585858">
 The deposit record creation process is a finance service provided by VITAL for more than 30 Singapore Government agencies. The unattended automation is used for multiple agencies and requires interaction with a central finance system.
 </p>
