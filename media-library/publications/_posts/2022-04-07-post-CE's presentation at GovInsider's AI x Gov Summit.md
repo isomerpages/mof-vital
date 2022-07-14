@@ -36,7 +36,7 @@ description: CE's presentation at GovInsider's AI x Gov Summit
 	</tr>
 	<tr>
 		<td colspan="2">
-			<div style="font-size:16px"><b><i>You may view the video of presentation by clicking this <a href="/media-library/videos/ce-presentation-govinsider-ai-gov-summit">link.</a></i></b></div>
+			<div style="font-size:16px"><b>You may view the video of presentation by clicking this <a href="/media-library/videos/ce-presentation-govinsider-ai-gov-summit">link.</a></b></div>
 		</td>
 	</tr>
 </table>
