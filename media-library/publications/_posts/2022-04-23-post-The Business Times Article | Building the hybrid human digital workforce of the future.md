@@ -15,7 +15,6 @@ By Rick Harshman, senior vice-president and managing director of UiPath Asia-Pac
 <br>
 23 April 2022
 </div>
-<div>&nbsp;&nbsp;</div>
 <p style="font-size: 20px;color:#464646">
 Working alongside robot assistants sounds a bit like science fiction, but in 2022, this is closer to reality than you think.
 </p>
