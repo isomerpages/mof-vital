@@ -6,22 +6,15 @@ layout: post
 description: VITAL receives Business Resilience Impact Award (Silver) at SSON
   Asia Impact Awards 2021
 ---
-<div style="font-size: 24px">
+<p style="font-size: 24px;color:#585858">
 	<b>VITAL receives Business Resilience Impact Award (Silver) at SSON Asia Impact Award 2021</b>
-</div>
-<div>&nbsp;&nbsp;</div>
-<div>
-<div style="font-size: 20px">
+</p>
+<p style="font-size: 22px;color:#585858">
 This award focuses on the crisis management, risk management and business continuity planning strategy to secure long-term stability in shared services.
-</div>
-<div>&nbsp;&nbsp;</div>
-<div>
-<div style="font-size: 20px">
+</p>
+<p style="font-size: 22px;color:#585858">
 VITAL's work was also recognised by the industry for the Diversity & Inclusion Impact Award (Finalist) which aims to identify business impact of a culture of inclusion across the full spectrum of diversity in shared services.
-</div>
-<div>&nbsp;&nbsp;</div>
-</div>
-<div>&nbsp;&nbsp;</div>
-<div style="font-size: 20px">
+</p>
+<p style="font-size: 22px;color:#585858">
 <a href = "/files/SSON%20Award%20-%20for%20website.pdf">SSON Business Resilience Impact Award (Silver)</a>
-	</div>
+	</p>
