@@ -19,7 +19,6 @@ By Rick Harshman, senior vice-president and managing director of UiPath Asia-Pac
 <p style="font-size: 20px;color:#464646">
 Working alongside robot assistants sounds a bit like science fiction, but in 2022, this is closer to reality than you think.
 </p>
-<div>&nbsp;&nbsp;</div>
 <p style="font-size: 20px;color:#464646">
 With the labour crunch emerging as one of the more pressing challenges facing our workforces today, organisations urgently need to find ways to mitigate the impacts and future-proof their business. Against this backdrop, software automation has emerged as a game changer as we transition to the future of work.
 </p>
