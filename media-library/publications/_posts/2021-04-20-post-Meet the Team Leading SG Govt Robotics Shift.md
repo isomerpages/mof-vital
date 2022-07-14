@@ -10,11 +10,9 @@ description: Meet the Team Leading SG Govt Robotics Shift
 <p style="font-size: 24px;color:#585858;text-align:justify;">
 Interview with Dennis Lui, Chief Executive, VITAL, Ministry of Finance.
 </p>
-<hr style="height: 1px; width: 100%; margin:0 auto;line-height:1px;background-color: #585858; border:0 none;"/>
 <div style="font-size: 18px;color:#585858;text-align:justify;">
 Yun Xuan Poon | 20 Apr 2021
 </div>
-<div>&nbsp;&nbsp;</div>
 <img id="MainImage" src="/images/Media/roboticshift_1.png" alt="Main image from VITAL">
 <div>&nbsp;&nbsp;</div>	
 <div style="font-size: 20px;">
