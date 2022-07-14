@@ -60,7 +60,7 @@ X0PA AI
 <div style="font-size: 22px;color:#585858">
 marketing@X0PA.com
 </div>
-<div>&nbsp;&nbsp;</div>
+<br>
 <p style="font-size: 32px;color:#a91932">
 About VITAL
 </p>
@@ -69,7 +69,7 @@ VITAL is Central Agency for Corporate shared services in the Singapore Public Se
 mandate is to aggregate common corporate services within public sector to
 leverage economies of scale, improve efficiency and enhance service quality. Today, VITAL serves more than 110,000 public officers across more than 100 agencies spanning a wide range of corporate and administrative processes in finance, human resource and procurement.
 </div>
-<div>&nbsp;&nbsp;</div>
+<br>
 <p style="font-size: 32px;color:#a91932">
 About X0PA AI
 </p>
@@ -78,7 +78,7 @@ Singapore headquartered, X0PA AI is SaaS company that helps in talent
 acquisition, hiring, assessment and areas that use Artificial Intelligence,
 Machine Learning.
 </div>
-	<div>&nbsp;&nbsp;</div>
+<br>
 <div style="font-size: 22px;color:#585858">
 X0PA AI also combines this technology with automation to improve accuracy,
 objectivity and efficiency while hiring at scale.
@@ -87,7 +87,7 @@ Pacific that provide Artificial intelligence-powered automation solutions.
 Furthermore, X0PA AI is a <b>partner of Microsoft, SAP, Oracle, Intel and
 	Nvidia.</b>
 		</div>
-	<div>&nbsp;&nbsp;</div>
+<br>
 <div style="font-size: 22px;color:#585858">
 As a strategic partner of Microsoft, X0PA AI has developed cloud-based tools
 and products to enhance hiring and selection processes for government,
