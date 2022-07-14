@@ -5,7 +5,7 @@ date: 2022-04-07
 layout: post
 description: CE's presentation at GovInsider's AI x Gov Summit
 ---
-<table class="center" style="padding:0px;border:0;">
+<table style="padding:0px;border:0;">
 	<tr>
 		<td colspan = "2" width="100%" style="padding:0px;border:0;">
 			<img src="/images/Media/AiXGovHeader.png"  /> 
