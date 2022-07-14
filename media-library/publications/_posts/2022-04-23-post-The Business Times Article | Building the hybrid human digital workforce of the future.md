@@ -24,28 +24,22 @@ With the labour crunch emerging as one of the more pressing challenges facing ou
 <p style="font-size: 20px;color:#2c2c2c">
 While adoption in automation is accelerating significantly, with Forrester predicting that the global Robotic Process Automation (RPA) market will grow to US$22 billion by 2025, many governments and businesses in Asia-Pacific (Apac) are already increasingly prioritising investment in automation solutions. For example, Singapore has earmarked S$600 million in its Budget 2022 to help small and medium-size enterprises (SMEs) boost their productivity by digitalising and automating their business processes.
 </p>
-<div>&nbsp;&nbsp;</div>
-<div style="font-size: 20px;color:#464646">
+<p style="font-size: 20px;color:#2c2c2c">
 As a result, we can expect hybrid human-digital workforces to become commonplace within the next 5 years. People will work side by side with their virtual software assistants, sharing tasks, handing work off, and taking it back many times throughout the day.
-</div>
-<div>&nbsp;&nbsp;</div>
-<div style="font-size: 20px;color:#464646">
+</p>
+<p style="font-size: 20px;color:#2c2c2c">
 As we edge closer towards that reality, how can we ensure that employees embrace automation and learn to work effectively with automated processes and digital assistants? And as robots take on lower-skilled, mundane, and repetitive tasks, how can organisations best redeploy workers and prepare them to take on new, higher-skilled, and more strategic work?
-</div>
-<div>&nbsp;&nbsp;</div>
-<div style="font-size: 20px;color:#464646">
+</p>
+<p style="font-size: 20px;color:#2c2c2c">
 These are all critical questions that have to be addressed. Business leaders will need to focus on job redesign, redeployment plans, and build out upskilling, reskilling, and hiring plans for the future. They will also need to begin training everyday workers in tandem, so that they can be comfortable with leveraging automation technologies in their day-to-day work.
-</div>
-<div>&nbsp;&nbsp;</div>
-<div style="font-size: 20px;color:#464646">
+</p>
+<p style="font-size: 20px;color:#2c2c2c">
 To get there, there are 4 key actions that they can take:
-</div>
-<div>&nbsp;&nbsp;</div>
-<div style="font-size: 20px;color:#a91932">
+</p>
+<p style="font-size: 24px;color:#a91932">
 <b>Convey the value of automation to the workforce</b>
-</div>
-<div>&nbsp;&nbsp;</div>
-<div style="font-size: 20px;">
+</p>
+<p style="font-size: 20px;color:#2c2c2c">
 Implementing automation technologies alone is not enough, and will not achieve business success. Businesses also need their employees to embrace these new tools for their investment to be worthwhile, and that depends on individuals truly understanding the value of automation.
 </div>
 <div>&nbsp;&nbsp;</div>
