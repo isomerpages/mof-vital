@@ -5,7 +5,7 @@ date: 2021-04-20
 layout: post
 description: Meet the Team Leading SG Govt Robotics Shift
 ---
-<p style="font-size: 32px;color:#585858;text-align:justify;">
+<p style="font-size: 30px;color:#585858;text-align:justify;">
 <b>Meet the team leading Singapore government’s robotics shift</b></p>
 <p style="font-size: 24px;color:#585858;text-align:justify;">
 Interview with Dennis Lui, Chief Executive, VITAL, Ministry of Finance.
