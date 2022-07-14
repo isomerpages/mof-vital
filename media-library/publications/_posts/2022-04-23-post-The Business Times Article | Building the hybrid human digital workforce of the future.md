@@ -6,44 +6,45 @@ date: 2022-04-23
 layout: post
 description: The Business Times Article | Building the hybrid human-digital workforce
 ---
-<p style="font-size: 22px;color:#464646">
+<p style="font-size: 20px;color:#000000">
 This article from The Business Times discusses how to prepare organisations for a seamless transition to digitalisation and automation. VITAL's citizen development strategy is cited as a good example to enable those without programming skills to actively participate in the automation initiative!
 </p>
+<hr></hr>
 <div style="font-size: 16px;color:#464646">
 By Rick Harshman, senior vice-president and managing director of UiPath Asia-Pacific and Japan
 <br>
 23 April 2022
 </div>
 <div>&nbsp;&nbsp;</div>
-<div style="font-size: 20px;">
+<div style="font-size: 20px;color:#464646">
 Working alongside robot assistants sounds a bit like science fiction, but in 2022, this is closer to reality than you think.
 </div>
 <div>&nbsp;&nbsp;</div>
-<div style="font-size: 20px;">
+<div style="font-size: 20px;color:#464646">
 With the labour crunch emerging as one of the more pressing challenges facing our workforces today, organisations urgently need to find ways to mitigate the impacts and future-proof their business. Against this backdrop, software automation has emerged as a game changer as we transition to the future of work.
 </div>
 <div>&nbsp;&nbsp;</div>
-<div style="font-size: 20px;">
+<div style="font-size: 20px;color:#464646">
 While adoption in automation is accelerating significantly, with Forrester predicting that the global Robotic Process Automation (RPA) market will grow to US$22 billion by 2025, many governments and businesses in Asia-Pacific (Apac) are already increasingly prioritising investment in automation solutions. For example, Singapore has earmarked S$600 million in its Budget 2022 to help small and medium-size enterprises (SMEs) boost their productivity by digitalising and automating their business processes.
 </div>
 <div>&nbsp;&nbsp;</div>
-<div style="font-size: 20px;">
+<div style="font-size: 20px;color:#464646">
 As a result, we can expect hybrid human-digital workforces to become commonplace within the next 5 years. People will work side by side with their virtual software assistants, sharing tasks, handing work off, and taking it back many times throughout the day.
 </div>
 <div>&nbsp;&nbsp;</div>
-<div style="font-size: 20px;">
+<div style="font-size: 20px;color:#464646">
 As we edge closer towards that reality, how can we ensure that employees embrace automation and learn to work effectively with automated processes and digital assistants? And as robots take on lower-skilled, mundane, and repetitive tasks, how can organisations best redeploy workers and prepare them to take on new, higher-skilled, and more strategic work?
 </div>
 <div>&nbsp;&nbsp;</div>
-<div style="font-size: 20px;">
+<div style="font-size: 20px;color:#464646">
 These are all critical questions that have to be addressed. Business leaders will need to focus on job redesign, redeployment plans, and build out upskilling, reskilling, and hiring plans for the future. They will also need to begin training everyday workers in tandem, so that they can be comfortable with leveraging automation technologies in their day-to-day work.
 </div>
 <div>&nbsp;&nbsp;</div>
-<div style="font-size: 20px;">
+<div style="font-size: 20px;color:#464646">
 To get there, there are 4 key actions that they can take:
 </div>
 <div>&nbsp;&nbsp;</div>
-<div style="font-size: 22px;">
+<div style="font-size: 20px;color:#a91932">
 <b>Convey the value of automation to the workforce</b>
 </div>
 <div>&nbsp;&nbsp;</div>
@@ -55,7 +56,7 @@ Implementing automation technologies alone is not enough, and will not achieve b
 Aside from touting the benefits in terms of driving efficiency and productivity, it is critical that business leaders stress that automation, contrary to popular belief, does not take away jobs. Instead, automation takes over manual and tedious operational activities such as data entry and other rules-based processes, giving workers more time back in their day to focus on more strategic work. Having technology execute these responsibilities allows employees to advance into higher-skilled roles - effectively furthering them in their careers instead of stopping them short.</div>
 <div>&nbsp;&nbsp;</div>
 <div>&nbsp;&nbsp;</div>
-<div style="font-size: 22px;">
+<div style="font-size: 20px;color:#a91932">
 <b>Build skill sets for the automation era</b>
 </div>
 <div>&nbsp;&nbsp;</div>
@@ -72,7 +73,7 @@ Singapore, in particular, has provided many opportunities for the workforce to u
 </div>
 <div>&nbsp;&nbsp;</div>
 <div>&nbsp;&nbsp;</div>
-<div style="font-size: 22px;">
+<div style="font-size: 20px;color:#a91932">
 <b>Offer training beyond technical skills</b>
 </div>
 <div>&nbsp;&nbsp;</div>
@@ -85,7 +86,7 @@ People will need to demonstrate skills such as creativity, leadership, communica
 </div>
 <div>&nbsp;&nbsp;</div>
 <div>&nbsp;&nbsp;</div>
-<div style="font-size: 22px;">
+<div style="font-size: 20px;color:#a91932">
 <b>Give employees an active role in the automation initiative</b>
 </div>
 <div>&nbsp;&nbsp;</div>
@@ -93,7 +94,7 @@ People will need to demonstrate skills such as creativity, leadership, communica
 Training employees on how to develop their own automations - in addition to teaching them how to use ones handed to them by leadership - positions employees to take an active role in the initiative. This fosters a sense of autonomy over their workloads; when workers know how to tailor automation software to support the specific requirements of their jobs, they can establish a way of work that is entirely their own, thereby boosting productivity and job satisfaction.
 </div>
 <div>&nbsp;&nbsp;</div>
-<div style="font-size: 20px;color:blue;">
+<div style="font-size: 20px;color:#2980b9;">
 VITAL - the shared services arm of the Singapore government, which leads the public sector's robotics initiatives - has done exactly that. One of their first initiatives has been to implement a Citizen Developer Strategy to provide no/low code solutions to enable users, even those without programming skills, to develop their own automation scripts and reap its benefits.
 </div>
 <div>&nbsp;&nbsp;</div>
