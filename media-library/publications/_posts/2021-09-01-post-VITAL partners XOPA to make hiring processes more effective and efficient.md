@@ -40,14 +40,14 @@ shorten hiring lead time</li>
 more effective, efficient hiring processes. We look forward to partner with X0PA.”
 </div>
 <div style="font-size: 20px;color:#49759a;">
-<i>- Dennis Lui, Chief Executive, VITAL</i>
+- Dennis Lui, Chief Executive, VITAL
 </div>
 <div>&nbsp;&nbsp;</div>
 <div>&nbsp;&nbsp;</div>
 <div style="font-size: 22px;color:#49759a;">“X0PA is committed to solving talent management challenges, making process transparent, objective with
 the power of ethical AI. With this strategic engagement with VITAL, X0PA is determined to augment existing recruitment capabilities. Someday, it will do so for the whole of public service. X0PA AI will help improve both user experience and create measurable outcomes with transparent and objective hiring processes on platform.”</div>
 <div style="font-size: 20px;color:#49759a;">
-<i>- Sid S., Global Head of Sales, X0PA AI</i>
+- Sid S., Global Head of Sales, X0PA AI
 </div>
 <br>
 <p style="font-size: 32px;color:#a91932">
