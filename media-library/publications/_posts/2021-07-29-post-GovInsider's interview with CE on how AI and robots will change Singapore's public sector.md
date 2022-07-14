@@ -98,22 +98,16 @@ The unattended automation of this process allows the robot to extract the releva
 <p style="font-size: 22px;color:#585858">
 In Singapore, we are making a strong push for Public Sector Transformation, and this includes the adoption of digital practices and automation initiatives. I am sure the other ASEAN governments are doing the same, and I would be glad to learn from them!
 </p>
-<p style="font-size: 32px;color:#a91932">What is the AI vision for Singapore’s shared services? Do you believe that Artificial Intelligence will become the new normal for government services in the next digital era?</b>
-</div>
-<div>&nbsp;&nbsp;</div>
-<div style="font-size: 20px;">
+<p style="font-size: 32px;color:#a91932">What is the AI vision for Singapore’s shared services? Do you believe that Artificial Intelligence will become the new normal for government services in the next digital era?</p>
+<p style="font-size: 22px;color:#585858">
 For VITAL, AI is yet another technology to augment the capabilities of our staff, so that we can create more value and impact for the agencies that we serve. For VITAL, AI can be deployed to enhance our operational capabilities.
-</div>
-<div>&nbsp;&nbsp;</div>
-<div style="font-size: 20px;">
+</p>
+<p style="font-size: 22px;color:#585858">
 I can cite three examples of current exploration. First, intelligent Chatbots would be able to help our officers answer the many questions received at our helpdesk, based on past and related queries. Second, Text Analytics is a promising technology has many potential use cases. Third, an intelligent engine to help us prioritize and escalate urgent tasks arising from service requests, would be useful, especially when resources are stretched during peak periods.
-</div>
-<div>&nbsp;&nbsp;</div>
-<div style="font-size: 20px;">
+</p>
+<p style="font-size: 22px;color:#585858">
 On the RPA front, we are augmenting with AI by exploring Document Understanding with Computer Vision capabilities to possibly read scanned documents and extract readable texts to enable information discovery and enhance searchability. Hopefully, our RPA bots would become smarter!
-</div>
-<div>&nbsp;&nbsp;</div>
-<div>&nbsp;&nbsp;</div>
-<div style="font-size: 16px;">
+</p>
+<p style="font-size: 16px;color:#585858">
 Interview responses have been edited for clarity.
-</div>
+</p>
