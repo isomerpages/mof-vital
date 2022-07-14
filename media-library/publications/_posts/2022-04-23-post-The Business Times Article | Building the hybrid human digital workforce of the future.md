@@ -72,19 +72,15 @@ People will need to demonstrate skills such as creativity, leadership, communica
 <p style="font-size: 20px;color:#2c2c2c">
 Training employees on how to develop their own automations - in addition to teaching them how to use ones handed to them by leadership - positions employees to take an active role in the initiative. This fosters a sense of autonomy over their workloads; when workers know how to tailor automation software to support the specific requirements of their jobs, they can establish a way of work that is entirely their own, thereby boosting productivity and job satisfaction.
 </p>
-<p style="font-size: 20px;color:#2980b9;">
+<p style="font-size: 20px;color:#49759a;">
 VITAL - the shared services arm of the Singapore government, which leads the public sector's robotics initiatives - has done exactly that. One of their first initiatives has been to implement a Citizen Developer Strategy to provide no/low code solutions to enable users, even those without programming skills, to develop their own automation scripts and reap its benefits.
 </p>
-<div>&nbsp;&nbsp;</div>
-<div style="font-size: 20px;">
+<p style="font-size: 20px;color:#2c2c2c">
 Designating automation champions to be individual workers' go-to when they need automation assistance on the job, or get help deploying an automation they have created, is also important. Having a go-to team for employees to consult offers them continuous reassurance and guidance on an innovation that may be unfamiliar to them, which avoids them abandoning the technology in favour of old ways of work.
-</div>
-<div>&nbsp;&nbsp;</div>
-<div style="font-size: 20px;">
+</p>
+<p style="font-size: 20px;color:#2c2c2c">
 With automation increasingly becoming commonplace in our workplace today, it is inevitable that business leaders must evolve to manage a human-digital workforce. We will have to prioritise training employees on how to effectively leverage automation technologies, and help them adjust to their new roles. Careful planning and continued oversight will be crucial to prepare organisations for a seamless transition to a future where robots and humans work alongside one another.
-</div>
-<div>&nbsp;&nbsp;</div>
-<div>&nbsp;&nbsp;</div>
-<div style="font-size: 16px;">
+</p>
+<p style="font-size: 16px;color:#2c2c2c">
 Click <a href="https://www.businesstimes.com.sg/leadership-management/building-the-hybrid-human-digital-workforce-of-the-future"> HERE</a> to read the original article from The Business Times website.
-</div>
+</p>
