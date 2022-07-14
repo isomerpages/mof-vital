@@ -6,7 +6,7 @@ date: 2022-04-23
 layout: post
 description: The Business Times Article | Building the hybrid human-digital workforce
 ---
-<p style="font-size: 20px;color:#000000">
+<p style="font-size: 20px;color:#464646">
 This article from The Business Times discusses how to prepare organisations for a seamless transition to digitalisation and automation. VITAL's citizen development strategy is cited as a good example to enable those without programming skills to actively participate in the automation initiative!
 </p>
 <hr>
