@@ -107,6 +107,6 @@ With automation increasingly becoming commonplace in our workplace today, it is 
 </div>
 <div>&nbsp;&nbsp;</div>
 <div>&nbsp;&nbsp;</div>
-<div style="font-size: 20px;">
+<div style="font-size: 18px;">
 <i>Click <a href="https://www.businesstimes.com.sg/leadership-management/building-the-hybrid-human-digital-workforce-of-the-future"> HERE</a> to read the original article from The Business Times website.</i>
 </div>
