@@ -19,7 +19,7 @@ description: CE's presentation at GovInsider's AI x Gov Summit
 	</tr>
 	<tr style="background-color:#151B54;">
 		<td colspan = "2">
-			<p style="color:#FFFFFF;text-align:center;font-size:24px"><b>Highlights from Mr Lui’s Presentation</b></p>
+			<p style="color:#FFFFFF;text-align:center;font-size:25px"><b>Highlights from Mr Lui’s Presentation</b></p>
 		</td>
 	</tr>
 	<tr style="background-color:#FFFFE0;">
