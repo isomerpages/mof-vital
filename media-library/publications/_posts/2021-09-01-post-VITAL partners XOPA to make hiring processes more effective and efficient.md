@@ -36,17 +36,17 @@ shorten hiring lead time</li>
 </ul>  
 </div>
 <div>&nbsp;&nbsp;</div>
-<div style="font-size: 22px;color:#49759a;"><i>
+<div style="font-size: 22px;color:#49759a;">
 “VITAL is in unique position within Singapore Public Service to experiment with emerging technologies such as AI, automation. With capable recruitment system and ready database of qualified candidates, we foresee
-more effective, efficient hiring processes. We look forward to partner with X0PA.”</i>
+more effective, efficient hiring processes. We look forward to partner with X0PA.”
 </div>
 <div style="font-size: 20px;color:#49759a;">
 <i>- Dennis Lui, Chief Executive, VITAL</i>
 </div>
 <div>&nbsp;&nbsp;</div>
 <div>&nbsp;&nbsp;</div>
-<div style="font-size: 22px;color:#49759a;"><i>“X0PA is committed to solving talent management challenges, making process transparent, objective with
-the power of ethical AI. With this strategic engagement with VITAL, X0PA is determined to augment existing recruitment capabilities. Someday, it will do so for the whole of public service. X0PA AI will help improve both user experience and create measurable outcomes with transparent and objective hiring processes on platform.”</i>
+<div style="font-size: 22px;color:#49759a;">“X0PA is committed to solving talent management challenges, making process transparent, objective with
+the power of ethical AI. With this strategic engagement with VITAL, X0PA is determined to augment existing recruitment capabilities. Someday, it will do so for the whole of public service. X0PA AI will help improve both user experience and create measurable outcomes with transparent and objective hiring processes on platform.”
 <div style="font-size: 20px;color:#49759a;">
 <i>- Sid S., Global Head of Sales, X0PA AI</i>
 </div>
