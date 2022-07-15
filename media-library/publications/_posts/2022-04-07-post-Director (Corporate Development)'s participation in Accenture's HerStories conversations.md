@@ -25,16 +25,15 @@ description: Director (Corporate Development)'s participation in Accenture's
 			<p style="color:#FFFFFF;text-align:center;font-size:20px">Tips from D(CD) on Life-Work Balance and Mental Wellness</p>
 		</td>
 	</tr>		
-	<tr style="background-color:#fff0fe;">
+	<tr style="padding:0px;border:0;background-color:#fff0fe;">
 		<td colspan="2">
-			<table style="padding:0px;border:0;">
+			<table >
 						<tr>
-							 <td width="30%">
+							 <td width="40%">
 										<img src="/images/Media/DCD_HerStories_Image2.png"  /> 							
 							 </td>																			
 							 <td>
-										<div style="font-size:16px;text-align:justify;color:#585858">								<b>1. Understanding and accepting trade-offs, and not being engulfed by guilt</b>
-							 </td>									
+										<div style="font-size:20px;text-align:justify;color:#b15ae6">								<b>1. Understanding and accepting trade-offs, and not being engulfed by guilt</b></div><div>&nbsp;</div><div style="font-size:16px;text-justify: auto;color:#585858"><b>Find your rhythm, down time, and accept trade-offs.</b> For example, caring for sick children could mean less time for work or saying no to drinks with friends; attending an important meeting could mean missing child’s show and tell. </div></td>									
 							</tr>
 			</table>
 		</td>
