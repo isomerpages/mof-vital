@@ -14,10 +14,10 @@ description: Director (Corporate Development)'s participation in Accenture's
 		</td>
 	</tr>
 	<tr style="background-color:#f2d5f0;padding:0px;border:0;">
-		<td style="background-color:#f2d5f0;padding-left:15px;border:0;" width="65%">
+		<td style="background-color:#f2d5f0;padding-left:15px;border:0;" width="55%">
 			<div style="font-size:16px;text-align:justify;color:#585858">Ms Yang Wen, Director (Corporate Development), participated in <b>Accenture’s HerStories human conversations</b> as a panellist, together with other women leaders from across industries in APAC on 7 April 2022.</div><br>
-		<div style="font-size:16px;text-align:justify;color:#585858">Centred around the theme of <b>"Life in Balance – Mental Wellness"</b>, the panellists shared how they <b>cultivate and lead in an inclusive environment</b>and <b>promote a healthy life-work balance in the organisation</b>.</div>
-		</td>																																																															 <td>
+		<div style="font-size:16px;text-align:justify;color:#585858">Centred around the theme of <b>"Life in Balance – Mental Wellness"</b>, the panellists shared how they <b>cultivate and lead in an inclusive environment</b> and <b>promote a healthy life-work balance in the organisation</b>.</div>
+		</td>																																																															 <td style="background-color:#f2d5f0;padding-right:5px;border:0;">
 				<img src="/images/Media/DCD_HerStories_Image1.png"  /> 																</td>
 	</tr>
 	<tr style="background-color:#151B54;">
