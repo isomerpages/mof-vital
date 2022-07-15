@@ -22,25 +22,21 @@ description: Director (Corporate Development)'s participation in Accenture's
 	</tr>
 	<tr style="background-color:#b05dd9;">
 		<td colspan = "2">
-			<p style="color:#FFFFFF;text-align:center;font-size:18px"><b>Tips from D(CD) on Life-Work Balance and Mental Wellness
-</b></p>
+			<p style="color:#FFFFFF;text-align:center;font-size:20px">Tips from D(CD) on Life-Work Balance and Mental Wellness</p>
 		</td>
-	</tr>
-	<tr style="background-color:#FFFFE0;">
-		<td width="45%" style="text-align:center;">
-			<br><img src="/images/Media/AiXGovImage1.png" />
-		</td>
-		<td style="padding-right: 20px;padding-left: 5px;">
-			<ol type="1" style="font-size:20px;text-align:justify;color:#585858">
-				<li><b>Policy-ops-tech integration:</b> VITAL is going upstream to consult and influence policies so that we make our processes better, easier and faster</li>
-				<li><b>The cloud:</b> Technologies from the cloud, especially the low-code and no-code platforms, give everyone an opportunity to participate in this modern digital world.</li>
-				<li><b>Citizen developer strategy:</b> VITAL has put in place programs to let everybody have a stake and upskill in this journey.</li>
-			</ol>
-		</td>
-	</tr>
-	<tr>
+	</tr>		
+	<tr style="background-color:#fff0fe;">
 		<td colspan="2">
-			<div style="font-size:16px;color:#585858">You may view the video of presentation by clicking this <a href="/media-library/videos/ce-presentation-govinsider-ai-gov-summit">link.</a></div>
+			<table style="padding:0px;border:0;">
+						<tr>
+							 <td width="30%">
+										<img src="/images/Media/DCD_HerStories_Image2.png"  /> 							
+							 </td>																			
+							 <td>
+										<div style="font-size:16px;text-align:justify;color:#585858">								<b>1. Understanding and accepting trade-offs, and not being engulfed by guilt</b>
+							 </td>									
+							</tr>
+			</table>
 		</td>
 	</tr>
 </table>
