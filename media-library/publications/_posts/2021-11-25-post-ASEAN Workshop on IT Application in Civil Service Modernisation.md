@@ -5,7 +5,7 @@ date: 2021-11-25
 layout: post
 description: ASEAN Workshop on IT Application in Civil Service Modernisation
 ---
-<p style="font-size: 24px;color:#585858;text-align:justify;">
+<p style="font-size: 26px;color:#585858;text-align:justify;">
 <b>ASEAN Workshop on IT Application in Civil Service Modernisation on 25 November 2021</b>
 </p>
 <p style="font-size: 20px;color:#585858;text-align:justify;">
