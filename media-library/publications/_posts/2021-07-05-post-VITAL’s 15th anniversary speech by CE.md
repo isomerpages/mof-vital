@@ -124,7 +124,7 @@ Emerging Stronger
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 Let me conclude with 3 points.
 </p>
-<p style="font-size: 22px;color:#585858;text-align:justify;">
+<p style="font-size: 20px;color:#585858;text-align:justify;">
 <b>First,</b> let us relish the opportunity to do more as Central
 Agency for Corporate Shared Services. 
 </p>
@@ -132,14 +132,14 @@ Agency for Corporate Shared Services.
 We are essential and we are important. That is why Minister Wong strongly encouraged VITAL to continue to excel and improve in whatever we do. By doing our work well, and giving our agency partners the peace of mind,
 they can then focus all their efforts to serve Singapore and Singaporeans in their respective missions.
 </p>
-<p style="font-size: 22px;color:#585858;text-align:justify;">
+<p style="font-size: 20px;color:#585858;text-align:justify;">
 <b>Second,</b> let us learn the lessons from COVID-19 and lock
 in the gains.
 </p>
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 Most importantly, it is the agile mindset that we must embrace in this volatile and uncertain world.
 </p>
-<p style="font-size: 22px;color:#585858;text-align:justify;">
+<p style="font-size: 20px;color:#585858;text-align:justify;">
 <b>Third,</b> VITAL will grow our people.
 </p>
 <p style="font-size: 20px;color:#585858;text-align:justify;">
@@ -148,8 +148,8 @@ You have my commitment that VITAL will grow our people and prepare ourselves for
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 The journey ahead will not be easy, but together, we can achieve our dreams and aspirations, to become the Central Agency for Corporate Shared Services that all of us will be proud of.
 </p>
-<p style="font-size: 20px;color:#585858;text-align:justify;">
-	<b>Happy 15th birthday VITAL!</b>
+<p style="font-size: 24px;color:#585858;text-align:justify;">
+	Happy 15th birthday VITAL!
 </p>
 <img src="/images/Media/VITAL-15-Anniversary_2.png" />	
 <div style="font-size: 16px;color:#585858;text-align:justify;">
