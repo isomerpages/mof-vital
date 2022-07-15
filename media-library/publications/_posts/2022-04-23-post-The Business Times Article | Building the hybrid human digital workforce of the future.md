@@ -13,7 +13,7 @@ This article from The Business Times discusses how to prepare organisations for 
 <div style="font-size: 16px;color:#585858;text-align:justify;">
 By Rick Harshman, senior vice-president and managing director of UiPath Asia-Pacific and Japan
 <br>
-23 April 2022
+	23 April 2022
 </div>
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 Working alongside robot assistants sounds a bit like science fiction, but in 2022, this is closer to reality than you think.
@@ -54,7 +54,7 @@ Wide-scale training will be needed to move current employees into these higher-v
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 Addressing this early by focusing on workforce skill-building will be crucial. Our education and training policies must nurture in-demand automation skills, and provide upskilling opportunities to help workers keep pace with advances in the technology. Not only that, workers themselves too must develop the mindset of continuous learning to keep up with rapid technical changes and job changes.
 </p>
-<p style="font-size: 20px;color:#585858;text-justify: auto;">
+<p style="font-size: 20px;color:#585858;text-align:justify;">
 Singapore, in particular, has provided many opportunities for the workforce to upskill themselves. Recently, the government highlighted enhancements to the TechSkills Accelerator and SkillsFuture Enterprise Credit scheme in Budget 2022. On the other hand, businesses will also need to play their part in building the next-gen workforce. For instance, UiPath's Academic Alliance programme provides significant opportunities for students and professionals to educate and upskill themselves in automation, equipping them with the skill sets to take on more creative, strategic and fulfilling work in the future.
 </p>
 <p style="font-size: 32px;color:#a91932;text-align:justify;">
