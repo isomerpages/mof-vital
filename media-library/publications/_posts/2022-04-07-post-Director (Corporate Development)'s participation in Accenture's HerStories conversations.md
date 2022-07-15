@@ -9,7 +9,7 @@ description: Director (Corporate Development)'s participation in Accenture's
 ---
 <table style="padding:0px;border:0;">
 	<tr>
-		<td colspan = "2" width="100%" height=100%" style="padding:0px;border:0;">
+		<td colspan = "2" style="padding:0px;border:0;">
 			<img src="/images/Media/DCD_HerStories_Header.png"  /> 
 		</td>
 	</tr>
