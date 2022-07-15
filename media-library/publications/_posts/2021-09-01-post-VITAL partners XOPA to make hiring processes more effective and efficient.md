@@ -9,11 +9,11 @@ description: VITAL partners XOPA to make hiring processes more effective and eff
 <p style="font-size: 24px;color:#585858;text-align:justify;">
 	<b>VITAL Chooses X0PA AI as its Platform of Choice for Objectivity and Efficiency</b>
 </p>
-<div style="font-size: 18px;color:#585858;text-align:justify;">
+<div style="font-size: 16px;color:#585858;text-align:justify;">
 News Article by XOPA AI
 </div>
 <hr style="height: 1px; width: 100%; margin:0 auto;line-height:1px;background-color: #585858; border:0 none;"/>
-<p style="font-size: 22px;color:#585858;text-align:justify;">
+<p style="font-size: 20px;color:#585858;text-align:justify;">
 VITAL, Central Agency for Shared Services in the Singapore Public Service, has embarked on recruitment tech pilot programme with X0PA’s AI Recruiter
 solution. The goal of the pilot is first to streamline recruitment processes and improve objectivity and efficiency in hiring. Therefore, with X0PA’s AI
 Recruiter platform, the pilot’s success depends on technology and machine
@@ -21,7 +21,7 @@ learning to create ready pool of qualified candidates and improve candidate
 job matching capabilities. Above all, this will ultimately reduce time and cost
 to hire within the public service.
 </p>
-<p style="font-size: 22px;color:#585858;text-align:justify;">
+<p style="font-size: 20px;color:#585858;text-align:justify;">
 X0PA AI’s AI Recruiter solution aims to significantly enhance the existing
 recruitment processes through:
 </p>
