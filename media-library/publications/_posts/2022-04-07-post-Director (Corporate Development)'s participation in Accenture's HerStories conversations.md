@@ -45,8 +45,22 @@ description: Director (Corporate Development)'s participation in Accenture's
 							 <td width="60%">
 											<div style="font-size:20px;text-align:justify;color:#b15ae6">								<b>2. Integrating the different roles to multiply your time</b></div><div>&nbsp;</div><div style="font-size:16px;text-justify: auto;color:#585858">Your different roles at home, at work and in society could <b>reinforce one another and allow you to multiply your time.</b> At VITAL, hybrid work arrangement allows us to better integrate family time into work. For example, working from home would give the children some understanding of what mummy/daddy actually does.</div>						
 							 </td>																			
-							 <td><img src="/images/Media/DCD_HerStories_Image2.png"  /> 
+							 <td><img src="/images/Media/DCD_HerStories_Image3.png"  /> 
 										</td>									
+							</tr>
+			</table>
+		</td>
+	</tr>
+	<tr style="padding:0px;border:0;background-color:#fff0fe;">
+		<td colspan="2">
+			<table >
+						<tr>
+							 <td width="40%">
+										<img src="/images/Media/DCD_HerStories_Image4.png"  /> 							
+							 </td>																			
+							 <td>
+										<div style="font-size:20px;text-align:justify;color:#b15ae6">								<b>3. Disciplined about deprioritisation and dropping work
+</b></div><div>&nbsp;</div><div style="font-size:16px;text-justify: auto;color:#585858">VITAL senior management’s role modelling for <b>"reductionism" at work</b> would make pursuing life-work balance possible. Their interest to know the staff and hear their stories would also <b>create a psychologically safe environment and a workplace culture that respects and values balance.</b></div></td>									
 							</tr>
 			</table>
 		</td>
