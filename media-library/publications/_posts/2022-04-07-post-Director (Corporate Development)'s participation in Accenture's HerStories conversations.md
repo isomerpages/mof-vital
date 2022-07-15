@@ -33,7 +33,7 @@ description: Director (Corporate Development)'s participation in Accenture's
 										<img src="/images/Media/DCD_HerStories_Image2.png"  /> 							
 							 </td>																			
 							 <td>
-										<div style="font-size:20px;text-align:justify;color:#703296">								<b>1. Understanding and accepting trade-offs, and not being engulfed by guilt</b></div><div>&nbsp;</div><div style="font-size:18px;text-justify: auto;color:#585858"><b>Find your rhythm, down time, and accept trade-offs.</b> For example, caring for sick children could mean less time for work or saying no to drinks with friends; attending an important meeting could mean missing child’s show and tell. </div></td>									
+										<div style="font-size:20px;text-align:justify;color:#703296">								<b>1. Understanding and accepting trade-offs, and not being engulfed by guilt</b></div><div>&nbsp;</div><div style="font-size:18px;text-align:justify;color:#585858"><b>Find your rhythm, down time, and accept trade-offs.</b> For example, caring for sick children could mean less time for work or saying no to drinks with friends; attending an important meeting could mean missing child’s show and tell. </div></td>									
 							</tr>
 			</table>
 		</td>
@@ -43,7 +43,7 @@ description: Director (Corporate Development)'s participation in Accenture's
 			<table >
 						<tr>
 							 <td width="60%">
-											<div style="font-size:20px;text-align:justify;color:#703296">								<b>2. Integrating the different roles to multiply your time</b></div><div>&nbsp;</div><div style="font-size:18px;text-justify: auto;color:#585858">Your different roles at home, at work and in society could <b>reinforce one another and allow you to multiply your time.</b> At VITAL, hybrid work arrangement allows us to better integrate family time into work. For example, working from home would give the children some understanding of what mummy/daddy actually does.</div>						
+											<div style="font-size:20px;text-align:justify;color:#703296">								<b>2. Integrating the different roles to multiply your time</b></div><div>&nbsp;</div><div style="font-size:18px;text-align:justify;color:#585858">Your different roles at home, at work and in society could <b>reinforce one another and allow you to multiply your time.</b> At VITAL, hybrid work arrangement allows us to better integrate family time into work. For example, working from home would give the children some understanding of what mummy/daddy actually does.</div>						
 							 </td>																			
 							 <td><img src="/images/Media/DCD_HerStories_Image3.png"  /> 
 										</td>									
@@ -60,7 +60,7 @@ description: Director (Corporate Development)'s participation in Accenture's
 							 </td>																			
 							 <td>
 										<div style="font-size:20px;text-align:justify;color:#703296">								<b>3. Disciplined about deprioritisation and dropping work
-</b></div><div>&nbsp;</div><div style="font-size:18px;text-justify: auto;color:#585858">VITAL senior management’s role modelling for <b>"reductionism" at work</b> would make pursuing life-work balance possible. Their interest to know the staff and hear their stories would also <b>create a psychologically safe environment and a workplace culture that respects and values balance.</b></div></td>									
+</b></div><div>&nbsp;</div><div style="font-size:18px;text-align:justify;color:#585858">VITAL senior management’s role modelling for <b>"reductionism" at work</b> would make pursuing life-work balance possible. Their interest to know the staff and hear their stories would also <b>create a psychologically safe environment and a workplace culture that respects and values balance.</b></div></td>									
 							</tr>
 			</table>
 		</td>
