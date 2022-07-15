@@ -20,9 +20,10 @@ description: Director (Corporate Development)'s participation in Accenture's
 		</td>																																																															 <td style="background-color:#f2d5f0;padding-right:5px;border:0;">
 				<img src="/images/Media/DCD_HerStories_Image1.png"  /> 																</td>
 	</tr>
-	<tr style="background-color:#151B54;">
+	<tr style="background-color:#b05dd9;">
 		<td colspan = "2">
-			<p style="color:#FFFFFF;text-align:center;font-size:25px"><b>Highlights from Mr Lui’s Presentation</b></p>
+			<p style="color:#FFFFFF;text-align:center;font-size:18px"><b>Tips from D(CD) on Life-Work Balance and Mental Wellness
+</b></p>
 		</td>
 	</tr>
 	<tr style="background-color:#FFFFE0;">
