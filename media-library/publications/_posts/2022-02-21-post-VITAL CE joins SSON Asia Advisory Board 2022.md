@@ -14,4 +14,3 @@ description: VITAL CE joins SSON Asia Advisory Board 2022
 		</td>
 	</tr>
 </table>
-
