@@ -35,7 +35,6 @@ Intelligence (AI) for objective and unbiased selections</li>
 shorten hiring lead time</li>
 <li>Enhance candidate engagement & virtual assessment capabilities</li>
 </ul>  
-<br>
 <div style="font-size: 20px;color:#49759a;text-align:justify;">
 <i>“VITAL is in unique position within Singapore Public Service to experiment with emerging technologies such as AI, automation. With capable recruitment system and ready database of qualified candidates, we foresee
 	more effective, efficient hiring processes. We look forward to partner with X0PA.”</i>
@@ -43,7 +42,6 @@ shorten hiring lead time</li>
 <div style="font-size: 18px;color:#49759a;text-align:justify;">
 - Dennis Lui, Chief Executive, VITAL
 </div>
-<br>
 <br>
 <div style="font-size: 20px;color:#49759a;text-align:justify;">
 <i>“X0PA is committed to solving talent management challenges, making process transparent, objective with
