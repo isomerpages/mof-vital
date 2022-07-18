@@ -32,7 +32,21 @@ description: VITAL CE joins SSON Asia Advisory Board 2022
 		</td>
 	</tr>
 	<tr style="border: 0px; padding:0px;">
-		<td colspan = "2" style="border: 0px;padding:0px;">
+		<td colspan="2">
+		<table style="border: 0;padding:0px;" width="100%" height="100%">	
+		<td style="border: 0px;vertical-align: middle;background-color:#3d5c82;" width="35%">
+			 <img src="/images/Media/SSON_Image2.png"  /> 
+		</td>
+		<td style="border: 0px;vertical-align: middle;background-color:#3d5c82;" >
+			<div style="font-size:15px;text-align:justify;color:#FFFFFF">   
+			   “It is my honour to join SSON Asia’s Advisory Board 2022. This will allow VITAL to connect more closely with respected industry leaders, and profile VITAL positively in the global shared services industry. I look forward to working with other Advisory Board members to make SSON Asia’s series of conferences a success!”
+				</div>
+			<div style="font-size:15px;text-align:right;color:#585858">   
+				Dennis Lui (Chief Executive, VITAL)
+				</div>
 		</td>
 	</tr>
 </table>
+	</td>
+	</tr>
+	</table>
