@@ -38,10 +38,10 @@ description: VITAL CE joins SSON Asia Advisory Board 2022
 		<td colspan="2">
 			<table style="border: 0;padding:0px;" width="100%" height="100%">	
 				<tr>
-				<td style="border: 0px;vertical-align: middle;background-color:#3d5c82;" width="30%">
+				<td style="border: 0px;vertical-align: middle;background-color:#042b5c;" width="30%">
 			 <img src="/images/Media/SSON_Image2.png"  /> 
 		</td>
-		<td style="border: 0px;vertical-align: middle;background-color:#3d5c82;" >
+		<td style="border: 0px;vertical-align: middle;background-color:#042b5c;" >
 			<div style="font-size:16px;text-align:justify;color:#FFFFFF">   
 			   “It is my honour to join SSON Asia’s Advisory Board 2022. This will allow VITAL to connect more closely with respected industry leaders, and profile VITAL positively in the global shared services industry. I look forward to working with other Advisory Board members to make SSON Asia’s series of conferences a success!”
 				</div>
