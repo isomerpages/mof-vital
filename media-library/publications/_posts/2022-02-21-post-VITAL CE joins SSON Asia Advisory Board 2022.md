@@ -14,9 +14,22 @@ description: VITAL CE joins SSON Asia Advisory Board 2022
 		</td>
 	</tr>
 	<tr style="border: 0px; padding:0px;" >
+		<td width="50%">
+			<div style="font-size:18px;text-align:justify;color:#585858">   
+				Mr Dennis Lui, Chief Executive of VITAL, has joined the Advisory Board of the Shared Services and Outsourcing Network (SSON) Asia 2022.
+			</div><br>			
+			<div style="font-size:18px;text-align:justify;color:#585858">   
+				SSON is the <b>largest and most established community of shared services and outsourcing professionals in the world</b> with over 180,000 members.
+				</div><br>			
+			<div style="font-size:18px;text-align:justify;color:#585858">   
+				Through sharing and exchange of insights and feedback, the Advisory Board will provide guidance to the series of conferences of SSON Asia 2022.
+				</div><br>			
+			<div style="font-size:18px;text-align:justify;color:#585858">   
+				Other Advisory Board members include leaders from renowned companies such as <b>Coca-Cola Bottlers Japan Business Services Inc., DHL and TESCO Global Business Services.</b>
+			</div>
+		</td>		
 		<td>
-		</td>
-		<td>
+			<img src="/images/Media/SSON_Image1.png"  /> 
 		</td>
 	</tr>
 	<tr style="border: 0px; padding:0px;">
