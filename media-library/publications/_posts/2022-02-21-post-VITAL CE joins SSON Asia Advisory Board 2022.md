@@ -8,7 +8,7 @@ description: VITAL CE joins SSON Asia Advisory Board 2022
 <table style="border: 10px #f7b334 solid;padding:0px;" width="100%" height="100%">	
 	<tr style="border: 0px;padding:0px;">
 		<td colspan = "2" style="border: 0px;padding:0px;vertical-align: middle;text-align: center;" height="90px">
-			<p style="font-size:32px;text-align:center;color:#585858;"><b>VITAL CE JOINS SSON ASIA ADVISORY BOARD 2022</b>
+			<p style="font-size:30px;text-align:center;color:#585858;"><b>VITAL CE JOINS SSON ASIA ADVISORY BOARD 2022</b>
 			</p>
 		</td>
 	</tr>
