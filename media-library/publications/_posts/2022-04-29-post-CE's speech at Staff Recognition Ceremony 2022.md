@@ -44,6 +44,19 @@ Promotees, Award recipients, your families and more VITALites can join us in
 		<td style="border: 0px;padding:0px;">
 			<div style="font-size: 20px;color:#585858;text-align:justify;">
 				You have done VITAL proud, and together with the rest of Senior Management, I would like to thank each and every one of you for your unwavering support and contributions.
+			</div><br>
+		</td>		
+	</tr>
+	<tr style="border: 0px;padding:0px;">
+		<td style="border: 0px;padding:0px;" width="5%">
+			<div style="font-size: 20px;color:#585858;text-align:justify;">
+			4.
+			</div>
+		</td>
+		<td style="border: 0px;padding:0px;">
+			<div style="font-size: 20px;color:#585858;text-align:justify;">
+				Today, we celebrate VITAL’s 66 Long Service Award recipients, 5 Special
+Appreciation Award recipients and 39 promotees. Congratulations to all of you!
 			</div>
 		</td>		
 	</tr>
