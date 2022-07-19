@@ -74,7 +74,7 @@ description: DCE's presentation at the Singapore OpenGov Leadership Forum
 			<table style="border: 0;padding:0px;">	
 				<tr style="border: 0px; padding:0px;">
 				<td style="border: 0px; padding:0px;" width = "30%" height="100%">
-					<img src="/images/Media/OpenGovImage4.png" height="100%" width="100%"/> 
+					<img src="/images/Media/OpenGovImage4.png" style="height: 100%; width: 100%; object-fit: contain" /> 
 			</td>
 		<td style="border: 0px;vertical-align: middle;background-color:#eeedfd" >
 			<div style="font-size:20px;text-align:justify;color:#a91932;">	
