@@ -19,13 +19,13 @@ At a webinar jointly organized by UiPath and the Singapore government’s shared
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 	As automation permeates the public sector, it frees up time for employees to improve the quality of the citizen experience.
-</p><br>
+</p>
 <div style="font-size: 22px;color:#49759a;text-align:justify;">
 	"Moving forward, the human-to-human interaction is still important, and that's intangible. Leveraging automation would enable public agencies to engage citizens in a positive way, which is a huge win."
-</div><br>
+</div>
 <div style="font-size: 16px;color:#585858;text-align:right;">
 	Tan Wearn Haw, Director of Service, Innovation, and Compliance, VITAL
-</div><br>
+</div>
 <p style="font-size: 30px;color:#a91932;text-align:justify;">
 The need for faster uptake
 </p>
@@ -37,13 +37,13 @@ The need for faster uptake
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 	There is a "huge opportunity" to address these issues now, said David Burrows, Public Sector Industries Leader at UiPath.
-</p><br>
+</p>
 <div style="font-size: 22px;color:#49759a;text-align:justify;">
 	"Most [agencies] have been focused on low-hanging fruit until now. Many large legacy systems in government are falling apart at the seams in terms of maintenance. Legacy systems are also expensive to replace, but RPA can help extend the life of legacy systems and get more value out of them."
-</div><br>
+</div>
 <div style="font-size: 16px;color:#585858;text-align:right;">
 	David Burrows, Public Sector Industries Leader, UiPath
-</div><br>
+</div>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 Automation is a key enabler towards <a href="https://www.uipath.com/blog/digital-transformation">digital transformation</a>. By leveraging automation, public sector employees can increase their bandwidth for more meaningful efforts, Burrows added. For example, employee efforts that strengthen trust between the people and the government.
 </p>
@@ -83,14 +83,12 @@ VITAL’s vision is that every officer can become a citizen developer, building 
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 Having a low-code/no-code automation tool has helped VITAL scale automation faster. “The UiPath Platform serves as an alternative with a lower learning barrier for non-IT-trained officers who find it challenging to learn the standard RPA developer software on top of their daily work,” said Jessica Ong, Assistant Director (Innovation Hub) at VITAL.
 </p>
-<br>
 <div style="font-size: 22px;color:#49759a;text-align:justify;">
 	"When talking about scalability, I don’t think there’s a silver bullet. That’s why we are embarking on the idea of citizen developers as part of a low-code or no-code solution. It is how we can scale RPA with enough flexibility and agility."
-</div><br>
+</div>
 <div style="font-size: 16px;color:#585858;text-align:right;">
 	Tan Wearn Haw, Director of Service, Innovation, and Compliance, VITAL
 </div>
-<br>
 <p style="font-size: 16px;color:#585858;text-align:justify;">
 Click <a href="https://www.uipath.com/blog/industry-solutions/public-sector-smart-robots"> HERE</a> to read the original blog post from UiPath website.
 </p>
