@@ -13,13 +13,13 @@ description: CE’s presentation at the 24th Asian Shared Services and Outsourci
 	</tr>
 	<tr style="border: 0px; padding:5px;background-color:#ffffcc" >
 		<td colspan = "2" style="border: 0px;padding:0px;vertical-align: middle;text-align: center;">
-			<div style="padding:10px;font-size:16px;text-align:justify;">
+			<div style="padding:10px;font-size:18px;text-align:justify;">
 			CE spoke at the Asian Shared Services & Outsourcing Week on 19 October 2021. The event was organised by the Shared Services and Outsourcing Network (SSON) which is <b>the largest and most established community of shared services and outsourcing professionals in the world</b> with over 160,000 members. CE was one of the speakers at the event, together with leaders from renowned companies such as the Goodyear Tire & Rubber Company, Kimberly Clark, Manulife, Schneider Electric and Thomson Reuters.
 			</div>
-			<div style="padding:10px;font-size:16px;text-align:justify;">
+			<div style="padding:10px;font-size:18px;text-align:justify;">
 				During his presentation, CE shared about VITAL’s <b>strategic pillars, priorities, digital roadmap and automation journey.</b> 
 			</div>
-			<div style="padding:10px;font-size:16px;text-align:justify;">
+			<div style="padding:10px;font-size:18px;text-align:justify;">
 				Here are 3 key take-aways!
 			</div>
 		</td>
@@ -32,10 +32,10 @@ description: CE’s presentation at the 24th Asian Shared Services and Outsourci
 					<img src="/images/Media/SSON24_Image1.png"/> 
 			</td>
 		<td style="border: 0px;vertical-align: middle;" >
-			<div style="font-size:20px;padding:5px;text-align:center;color:#FFFFFF;background-color:#002060">	
+			<div style="font-size:22px;padding:5px;text-align:center;color:#FFFFFF;background-color:#002060">	
 				<b>VITAL’s Intellectual Leadership Role</b>
 			</div>
-			<div style="font-size:16px;padding:5px;text-align:justify;">
+			<div style="font-size:18px;padding:5px;text-align:justify;">
 				VITAL can play the <b>intellectual leadership role</b> by <b>bringing in new technologies, experimenting and scaling</b>, before extending it to the rest of the agencies. This way, we can facilitate policy improvements and implementation upstream, and value-add to the Whole-of-Government ecosystem.
 				</div>
 		</td>
@@ -48,10 +48,10 @@ description: CE’s presentation at the 24th Asian Shared Services and Outsourci
 			<table style="border: 0;padding:0px;">	
 				<tr style="border: 0px; padding:0px;background-color:#ffffcc">
 					<td style="border: 0px;vertical-align: middle;" >
-			<div style="font-size:20px;padding:5px;text-align:center;color:#FFFFFF;background-color:#002060">	
+			<div style="font-size:22px;padding:5px;text-align:center;color:#FFFFFF;background-color:#002060">	
 				<b>Citizen Developer Journey</b>
 			</div>
-			<div style="font-size:16px;padding:5px;text-align:justify;">
+			<div style="font-size:18px;padding:5px;text-align:justify;">
 				A <b>citizen developer journey</b> requires every staff <b>to own it, to learn it and to execute it at their own local level</b>. We want to <b>democratise the technology</b> by involving all of them, training them up and bringing in the correct technologies.
 				</div>
 		</td>
@@ -70,10 +70,10 @@ description: CE’s presentation at the 24th Asian Shared Services and Outsourci
 					<img src="/images/Media/SSON24_Image3.png"/> 
 			</td>
 		<td style="border: 0px;vertical-align: middle;" >
-			<div style="font-size:20px;padding:5px;text-align:center;color:#FFFFFF;background-color:#002060">	
+			<div style="font-size:22px;padding:5px;text-align:center;color:#FFFFFF;background-color:#002060">	
 				<b>Partnering Private Sector</b>
 			</div>
-			<div style="font-size:16px;padding:5px;text-align:justify;">
+			<div style="font-size:18px;padding:5px;text-align:justify;">
 				VITAL needs partners from outside the government, such as the private sector, industry leaders, and tech leaders to <b>understand, facilitate and even collaborate</b>, especially when it comes to technology.
 				</div>
 		</td>
