@@ -59,7 +59,9 @@ UiPath assisted public sector agencies in setting up virtual contact centers. Wi
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 Meanwhile, contact center agents are on hand to offer a human touch should a problem escalates. When citizens’ needs are promptly met, their trust in the government improves, fostering stronger relationships between the two.
 </p>
-
+<p style="font-size: 18px;color:#585858;text-align:justify;">
+"Trust is something that is under a lot of pressure with the government,” said Burrows. “If people feel comfortable with how you are handling their issues, then you can successfully complete the mission. The return on investment is more than time and money in the public service, it has to be quality of service."
+</p>
 
 <table style="border: 0px;padding:0px;" width="100%" height="100%">
 	<tr style="border: 0px;padding:0px;">
