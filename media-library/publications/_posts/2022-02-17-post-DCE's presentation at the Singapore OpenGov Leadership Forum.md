@@ -82,7 +82,7 @@ description: DCE's presentation at the Singapore OpenGov Leadership Forum
 			</div>
 			<br>
 			<div style="font-size:16px;text-align:justify;">
-				RPA implementation should not solely be an IT function. A lot of involvement is required from business users who execute the scripts every day. VITAL has created a community of RPA users through <b>raising awareness of success stories, user training and facilitating access to knowledge and best practices.</b>
+				VITAL will focus on <b>synergising our RPA efforts with developments in the public sector ICT landscape, as well as the industry in general</b>, including leveraging the ICT capabilities and tools provided by GovTech. VITAL is also looking at <b>harnessing the potential of cloud-based applications, as well as infusing technological advances in AI and machine learning into RPA.</b>  
 				</div>
 		</td>
 	</tr>
