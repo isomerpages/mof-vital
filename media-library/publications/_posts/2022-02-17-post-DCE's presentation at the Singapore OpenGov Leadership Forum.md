@@ -32,11 +32,11 @@ description: DCE's presentation at the Singapore OpenGov Leadership Forum
 	<tr style="border: 0px; padding:0px;">
 		<td colspan="2">
 			<table style="border: 0;padding:0px;">	
-				<tr>
+				<tr  style="border: 0px; padding:0px;">
 				<td width = "40%">
-					<img src="/images/Media/OpenGovImage1.png"  /> 
+					<img src="/images/Media/OpenGovImage2.png"  /> 
 			</td>
-		<td style="border: 0px;vertical-align: middle;" >
+		<td style="border: 0px;vertical-align: middle;background-color:#fab739" >
 			<div style="font-size:20px;text-align:justify;color:#a91932;">	
 				<b>1. Creating an RPA Community and Raising Awareness</b>
 			</div>
@@ -51,7 +51,7 @@ description: DCE's presentation at the Singapore OpenGov Leadership Forum
 	<tr style="border: 0px;padding:0px;">
 		<td colspan = "2" style="border: 0px;padding:0px;vertical-align: middle;text-align: center;">
 			<table style="border: 0;padding:0px;" width="100%" height="100%">	
-				<tr>
+				<tr style="border: 0px; padding:0px;">
 				<td width="10%">
 					<img src="/images/Media/OpenGovImage5.png" /> 
 		</td>
