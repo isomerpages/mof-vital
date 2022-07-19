@@ -84,7 +84,7 @@ VITAL’s vision is that every officer can become a citizen developer, building 
 Having a low-code/no-code automation tool has helped VITAL scale automation faster. “The UiPath Platform serves as an alternative with a lower learning barrier for non-IT-trained officers who find it challenging to learn the standard RPA developer software on top of their daily work,” said Jessica Ong, Assistant Director (Innovation Hub) at VITAL.
 </p>
 <br>
-<div style="font-size: 20px;color:#49759a;text-align:justify;">
+<div style="font-size: 22px;color:#49759a;text-align:justify;">
 	"When talking about scalability, I don’t think there’s a silver bullet. That’s why we are embarking on the idea of citizen developers as part of a low-code or no-code solution. It is how we can scale RPA with enough flexibility and agility."
 </div><br>
 <div style="font-size: 16px;color:#585858;text-align:right;">
