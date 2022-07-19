@@ -74,9 +74,7 @@ Lifelong Learning & Upskilling
 		</td>
 		<td style="border: 0px;padding:0px;">
 			<div style="font-size: 20px;color:#585858;text-align:justify;">
-				In 2021, VITAL became the Central Agency for Corporate Shared Services and our role is now to transform corporate services delivery for the Whole-of-Government. We all need to adopt a lifelong learning mentality especially in this uncertain and fast-changing environment. Today, I would like to share with you inspiring lifelong learning journeys from 3 of our Long Service Award recipients.
-			</div>
-			<br>
+				In 2021, VITAL became the Central Agency for Corporate Shared Services and our role is now to transform corporate services delivery for the Whole-of-Government. We all need to adopt a lifelong learning mentality especially in this uncertain and fast-changing environment. Today, I would like to share with you inspiring lifelong learning journeys from 3 of our Long Service Award recipients.</div<br>
 		</td>		
 	</tr>
 	</table>
