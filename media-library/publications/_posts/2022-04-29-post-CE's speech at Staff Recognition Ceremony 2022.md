@@ -78,9 +78,7 @@ Lifelong Learning & Upskilling
 		</td>		
 	</tr>
 	</table>
-	<p style="font-size: 32px;color:#a91932;text-align:justify;">
-Long Service Award Recipients
-</p>
+	<p style="font-size: 32px;color:#a91932;text-align:justify;">Long Service Award Recipients</p>
 <table style="border: 0px;padding:0px;" width="100%" height="100%">
 	<tr style="border: 0px;padding:0px;">
 		<td style="border: 0px;padding:0px;" width="5%">
