@@ -33,13 +33,14 @@ description: DCE's presentation at the Singapore OpenGov Leadership Forum
 		<td colspan="2">
 			<table style="border: 0;padding:0px;">	
 				<tr style="border: 0px; padding:0px;">
-				<td style="border: 0px; padding:0px;" width = "40%">
+				<td style="border: 0px; padding:0px;" width = "35%">
 					<img src="/images/Media/OpenGovImage2.png" height="100%" width="100%"/> 
 			</td>
-		<td style="border: 0px;vertical-align: middle;background-color:#fab739" >
+		<td style="border: 0px;vertical-align: middle;background-color:#f7ba45" >
 			<div style="font-size:20px;text-align:justify;color:#a91932;">	
 				<b>1. Creating an RPA Community and Raising Awareness</b>
 			</div>
+			<br>
 			<div style="font-size:16px;text-align:justify;">
 				RPA implementation should not solely be an IT function. A lot of involvement is required from business users who execute the scripts every day. VITAL has created a community of RPA users through <b>raising awareness of success stories, user training and facilitating access to knowledge and best practices.</b>
 				</div>
