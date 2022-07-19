@@ -69,16 +69,16 @@ description: CE’s presentation at the 24th Asian Shared Services and Outsourci
 		<tr style="border: 0px; padding:0px;">
 		<td colspan="2" style="border: 0px; padding:0px;">
 			<table style="border: 0;padding:0px;">	
-				<tr style="border: 0px; padding:0px;">
-				<td style="border: 0px; padding:0px;background-color:#eeedfd;vertical-align: middle;" width= "35%" height="100%">
-					<img src="/images/Media/OpenGovImage4.png" /> 
+				<tr style="border: 0px; padding:0px;background-color:#ffffcc">
+				<td style="border: 0px;vertical-align: middle" width="40%" >
+					<img src="/images/Media/SSON24_Image3.png"/> 
 			</td>
-		<td style="border: 0px;vertical-align: middle;background-color:#eeedfd" >
-			<p style="font-size:20px;text-align:justify;color:#a91932;">	
-				<b>3. VITAL’s Future RPA Endeavors</b>
-			</p>
-			<div style="font-size:16px;text-align:justify;">
-				VITAL will focus on <b>synergising our RPA efforts with developments in the public sector ICT landscape, as well as the industry in general</b>, including leveraging the ICT capabilities and tools provided by GovTech. VITAL is also looking at <b>harnessing the potential of cloud-based applications, as well as infusing technological advances in AI and machine learning into RPA.</b>  
+		<td style="border: 0px;vertical-align: middle;" >
+			<div style="font-size:20px;padding:5px;text-align:center;color:#FFFFFF;background-color:#002060">	
+				<b>Partnering Private Sector</b>
+			</div>
+			<div style="font-size:16px;padding:5px;text-align:justify;">
+				VITAL needs partners from outside the government, such as the private sector, industry leaders, and tech leaders to <b>understand, facilitate and even collaborate</b>, especially when it comes to technology.
 				</div>
 		</td>
 	</tr>
@@ -87,6 +87,7 @@ description: CE’s presentation at the 24th Asian Shared Services and Outsourci
 	</tr>	
 	<tr style="border: 0px;padding:0px;">
 		<td colspan = "2" style="border: 0px;padding:0px;vertical-align: middle;text-align: center;">			
+			<br>
 			<div style="font-size:16px;text-align:Justify;">  
 			You may view the video of presentation by clicking this <a href="/media-library/videos/ce-presentation-24th-asian-shared-services-outsourcing-week">link.</a></div>			
 		</td>
