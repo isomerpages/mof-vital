@@ -80,9 +80,9 @@ For VITAL, its RPA journey has included creating a “bot library” of automati
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 VITAL’s vision is that every officer can become a citizen developer, building robots for themselves and their colleagues using low- or no-code tools such as <a href="https://www.uipath.com/product/studiox">UiPath StudioX.</a>
 </p>
-
-
-
+<p style="font-size: 18px;color:#585858;text-align:justify;">
+Having a low-code/no-code automation tool has helped VITAL scale automation faster. “The UiPath Platform serves as an alternative with a lower learning barrier for non-IT-trained officers who find it challenging to learn the standard RPA developer software on top of their daily work,” said Jessica Ong, Assistant Director (Innovation Hub) at VITAL.
+</p>
 <table style="border: 0px;padding:0px;" width="100%" height="100%">
 	<tr style="border: 0px;padding:0px;">
 		<td width ="25%" style="border: 0px;padding:0px;vertical-align: middle;">
