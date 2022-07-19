@@ -12,19 +12,16 @@ description: Blog post by UiPath
 	by <A HREF="https://www.uipath.com/blog/wen-ming-wong">Wen-Ming Wong</A> | 04 APRIL 2022</div>
 <img src="/images/Media/UiPathBlogPost_Image1.png">
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-	UiPath’s <a href="https://www.uipath.com/newsroom/new-uipath-study-reveals-half-of-office-workers-seeking-resignation">2022 Office Worker Survey</a> of more than 500 office workers in Singapore revealed that 66% of office workers are feeling increased pressure at work because their colleagues have quit within the last year, the third-highest of seven countries polled.
+	The mission of <a href="https://www.uipath.com/solutions/industry/public-sector-automation">public sector services</a> is often defined as serving the people, by the people. With the help of software robots, humans are empowered to achieve greater productivity and satisfaction at work, which benefits the employee, the organization, and the citizen. This is where <a href="https://www.uipath.com/rpa/robotic-process-automation">robotic process automation</a> (RPA) can shine.
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-Alarmingly, 86% of respondents have had to take on up to six new tasks outside of their job descriptions following co-workers' departure with 69% saying they no longer know their responsibilities.
-</p>
-<p style="font-size: 24px;color:#a91932;text-align:justify;">
-	Money is no longer the primary driver
+At a webinar jointly organized by UiPath and the Singapore government’s shared services department VITAL on Dec 9, 2021, experts shared insights that highlighted the need for public agencies to automate processes. Not only does automation improve public service delivery, but also enhances experiences for both employees and the public.
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-	<b>Labour shortages and mundane work are causing people to quit</b>: 73% of respondents in Singapore say they are interested or could be swayed into looking for a new job in the next six months. About 32% say they are currently applying for another job, and 28% have had interviews with another company in the past six months.
+	As automation permeates the public sector, it frees up time for employees to improve the quality of the citizen experience.
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-	Office workers are motivated to seek a new position due to increased pressure on work/life balance (40%), lack of employee recognition (28%), and spending too much time on administrative tasks (27%).
+	"Moving forward, the human-to-human interaction is still important, and that's intangible. Leveraging automation would enable public agencies to engage citizens in a positive way, which is a huge win."
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 	<b>Expanding roles are compounded by monotonous tasks</b>: 97% of respondents in Singapore say they feel exhausted at the end of a workday at least one day per week. They are frustrated by mundane tasks at work, like responding to emails (41%), scheduling calls and meetings (33%), and inputting data/creating datasets (33%).
