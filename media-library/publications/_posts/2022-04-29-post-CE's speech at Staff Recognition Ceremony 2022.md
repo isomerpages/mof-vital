@@ -87,10 +87,7 @@ Lifelong Learning & Upskilling
 			</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;">
-				First, Mdm Muntaj Begum. Muntaj started her career as an Office Attendant in 1981. She moved to the Salaries Section in MOE and joined VITAL in 2006 as a Payroll and Claims Senior Officer. Throughout her career, Muntaj invested time and effort to build up payroll expertise through on-the-job training, studying IM guidelines and payroll concepts, seeking advice from more experienced colleagues as well as learning how to operate with new payroll systems. It was very challenging, but she persevered!
-			</div>
-			<br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">First, Mdm Muntaj Begum. Muntaj started her career as an Office Attendant in 1981. She moved to the Salaries Section in MOE and joined VITAL in 2006 as a Payroll and Claims Senior Officer. Throughout her career, Muntaj invested time and effort to build up payroll expertise through on-the-job training, studying IM guidelines and payroll concepts, seeking advice from more experienced colleagues as well as learning how to operate with new payroll systems. It was very challenging, but she persevered!</div><br>
 		</td>		
 	</tr>
 	<tr style="border: 0px;padding:0px;">
