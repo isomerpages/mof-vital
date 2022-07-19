@@ -57,7 +57,7 @@ Promotees, Award recipients, your families and more VITALites can join us in
 			<div style="font-size: 20px;color:#585858;text-align:justify;">
 				Today, we celebrate VITAL’s 66 Long Service Award recipients, 5 Special
 Appreciation Award recipients and 39 promotees. Congratulations to all of you!
-			</div></br>
+			</div><br>
 		</td>		
 	</tr>
 	</table>
@@ -93,12 +93,8 @@ Long Service Award Recipients
 		</td>
 		<td style="border: 0px;padding:0px;">
 			<div style="font-size: 20px;color:#585858;text-align:justify;">
-				First, Mdm Muntaj Begum. Muntaj started her career as an Office Attendant in 1981. She moved to the Salaries Section in MOE and joined VITAL in 2006 as
-a Payroll and Claims Senior Officer. Throughout her career, Muntaj invested
-time and effort to build up payroll expertise through on-the-job training, studying
-IM guidelines and payroll concepts, seeking advice from more experienced
-colleagues as well as learning how to operate with new payroll systems. It was
-very challenging, but she persevered!
+				First, Mdm Muntaj Begum. Muntaj started her career as an Office Attendant in 1981. She moved to the Salaries Section in MOE and joined VITAL in 2006 as a Payroll and Claims Senior Officer. Throughout her career, Muntaj invested
+time and effort to build up payroll expertise through on-the-job training, studying IM guidelines and payroll concepts, seeking advice from more experienced colleagues as well as learning how to operate with new payroll systems. It was very challenging, but she persevered!
 			</div><br>
 		</td>		
 	</tr>
