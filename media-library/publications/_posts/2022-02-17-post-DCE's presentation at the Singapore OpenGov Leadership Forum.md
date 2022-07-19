@@ -36,7 +36,7 @@ description: DCE's presentation at the Singapore OpenGov Leadership Forum
 				<td width = "50%">
 			</td>
 		<td style="border: 0px;vertical-align: middle;" >
-			<div style="font-size:18px;text-align:justify;">	
+			<div style="font-size:20px;text-align:justify;color:#a91932;">	
 				<b>1. Creating an RPA Community and Raising Awareness</b>
 			</div>
 			<div style="font-size:16px;text-align:justify;">
