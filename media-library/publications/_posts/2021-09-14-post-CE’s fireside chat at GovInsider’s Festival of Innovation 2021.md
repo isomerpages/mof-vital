@@ -43,38 +43,108 @@ description: CE’s fireside chat at GovInsider’s Festival of Innovation 2021 
 </table>
 	</td>
 	</tr>	
-		<tr style="border: 0; padding:0px;">
-		<td colspan="2" style="border: 0; padding:0px;">
+	<tr style="border: 0px; padding:0px;">
+		<td colspan="2" style="border: 0px; padding:0px;">
 			<table style="border: 0;padding:0px;">	
-				<tr style="border: 0px; padding:0px;">				
-		<td style="border: 0px;vertical-align: middle;background-color:#f9f4de" >
-			<p style="font-size:20px;text-align:justify;color:#a91932;">	
-				<b>2. Tiered Training Approach</b>
-			</p>
-			<div style="font-size:16px;text-align:justify;">
-				   VITAL has adopted a tiered training approach for RPA. The majority of VITAL officers are <b>users of RPA</b> who are required to know how to execute an automation script. A smaller group are <b>citizen developers</b> who have basic automation skills and are able to build scripts. On top of these, a small core of <b>skilled RPA developers</b> will perform heavy lifting or the more complex coding.
-				</div>
+				<tr>
+					<td colspan="2" style="border: 0px;vertical-align: middle;background-color:#0076bd" >
+						<p style="padding:5px;font-size:22px;text-align:center;color:#f9b17e;">	
+							<b>VITAL’S ROLE IN THE PUBLIC SERVICE</b>
+						</p>
+						</td>					
+				</tr>
+				<tr style="border: 0px; padding:0px;">					
+				<td style="border: 0px;vertical-align: middle;" width="35%" >
+					<img src="/images/Media/Fireside_Image3.png"/> 
+			</td>		
+					<td style="border: 0px;vertical-align: middle;" >			
+						<div style="font-size:16px;text-align:justify;">
+						"The concept of VITAL being an ops tech leader leads to <b>two areas of opportunities, first being VITAL as a platform, and second, VITAL as a partner.</b> 
+						</div>
+						<br>
+						<div style="font-size:16px;text-align:justify;">
+At this central position as a platform, with all the transactions coming in, we are <b>aggregating and achieving economies of scale.</b> That is part one. Part two is what we can do when we bring all these transactions together, such that we can <b>create greater value</b> out of this. So by playing a leadership role, we can actively <b>transform the way corporate services are being done.</b> We are here to help set standards, push boundaries, and leverage on our unique position at the centre."
+</div>
 		</td>
-		<td style="border: 0px; padding:0px;vertical-align: middle;background-color:#f9f4de" width="35%" >
-					<img src="/images/Media/OpenGovImage3.png"/> 
-			</td>
 	</tr>
 </table>
 	</td>
 	</tr>	
-		<tr style="border: 0px; padding:0px;">
+	<tr style="border: 0px; padding:0px;">
 		<td colspan="2" style="border: 0px; padding:0px;">
 			<table style="border: 0;padding:0px;">	
+				<tr>
+					<td colspan="2" style="border: 0px;vertical-align: middle;background-color:#0076bd" >
+						<p style="padding:5px;font-size:22px;text-align:center;color:#f9b17e;">	
+							<b>VITAL AS GOVERNMENT’S ROBOTICS AND AUTOMATION LEAD FOR CORPORATE SERVICES</b>
+						</p>
+						</td>					
+				</tr>
 				<tr style="border: 0px; padding:0px;">
-				<td style="border: 0px; padding:0px;background-color:#eeedfd;vertical-align: middle;" width= "35%" height="100%">
-					<img src="/images/Media/OpenGovImage4.png" /> 
-			</td>
-		<td style="border: 0px;vertical-align: middle;background-color:#eeedfd" >
-			<p style="font-size:20px;text-align:justify;color:#a91932;">	
-				<b>3. VITAL’s Future RPA Endeavors</b>
-			</p>
-			<div style="font-size:16px;text-align:justify;">
-				VITAL will focus on <b>synergising our RPA efforts with developments in the public sector ICT landscape, as well as the industry in general</b>, including leveraging the ICT capabilities and tools provided by GovTech. VITAL is also looking at <b>harnessing the potential of cloud-based applications, as well as infusing technological advances in AI and machine learning into RPA.</b>  
+					<td style="border: 0px;vertical-align: middle;" >			
+						<div style="font-size:16px;text-align:justify;">
+							"One big lesson I learned and very heartened to is the <b>great strength and resilience in VITAL staff.</b> I told them we may have to go into a full lockdown, they knew exactly what to do. They had all their plans in place. All I had to do was encourage them, motivate them and if there were small roadblocks, push away for them.
+						</div>
+						<br>
+						<div style="font-size:16px;text-align:justify;">
+							Looking ahead, the second lesson will be how to <b>emerge stronger.</b> One of the key things that we needed to do was to <b>institutionalise this resilience and strength in my staff, and harness the energy going forward,</b> because it is no longer business as usual today. We are gonna live in a world of endemic."
+				</div>
+		</td>
+				<td style="border: 0px;vertical-align: middle;" width="35%" >
+					<img src="/images/Media/Fireside_Image2.png"/> 
+			</td>		
+	</tr>
+</table>
+	</td>
+	</tr>	
+	<tr style="border: 0px; padding:0px;">
+		<td colspan="2" style="border: 0px; padding:0px;">
+			<table style="border: 0;padding:0px;">	
+				<tr>
+					<td colspan="2" style="border: 0px;vertical-align: middle;background-color:#0076bd" >
+						<p style="padding:5px;font-size:22px;text-align:center;color:#f9b17e;">	
+							<b>VITAL’S ROLE IN THE PUBLIC SERVICE</b>
+						</p>
+						</td>					
+				</tr>
+				<tr style="border: 0px; padding:0px;">
+					<td style="border: 0px;vertical-align: middle;" >			
+						<div style="font-size:16px;text-align:justify;">
+							"One big lesson I learned and very heartened to is the <b>great strength and resilience in VITAL staff.</b> I told them we may have to go into a full lockdown, they knew exactly what to do. They had all their plans in place. All I had to do was encourage them, motivate them and if there were small roadblocks, push away for them.
+						</div>
+						<br>
+						<div style="font-size:16px;text-align:justify;">
+							Looking ahead, the second lesson will be how to <b>emerge stronger.</b> One of the key things that we needed to do was to <b>institutionalise this resilience and strength in my staff, and harness the energy going forward,</b> because it is no longer business as usual today. We are gonna live in a world of endemic."
+				</div>
+		</td>
+				<td style="border: 0px;vertical-align: middle;" width="35%" >
+					<img src="/images/Media/Fireside_Image2.png"/> 
+			</td>		
+	</tr>
+</table>
+	</td>
+	</tr>	
+	<tr style="border: 0px; padding:0px;">
+		<td colspan="2" style="border: 0px; padding:0px;">
+			<table style="border: 0;padding:0px;">	
+				<tr>
+					<td colspan="2" style="border: 0px;vertical-align: middle;background-color:#0076bd" >
+						<p style="padding:5px;font-size:22px;text-align:center;color:#f9b17e;">	
+							<b>VITAL’S ROLE IN THE PUBLIC SERVICE</b>
+						</p>
+						</td>					
+				</tr>
+				<tr style="border: 0px; padding:0px;">					
+				<td style="border: 0px;vertical-align: middle;" width="35%" >
+					<img src="/images/Media/Fireside_Image2.png"/> 
+			</td>		
+					<td style="border: 0px;vertical-align: middle;" >			
+						<div style="font-size:16px;text-align:justify;">
+							"One big lesson I learned and very heartened to is the <b>great strength and resilience in VITAL staff.</b> I told them we may have to go into a full lockdown, they knew exactly what to do. They had all their plans in place. All I had to do was encourage them, motivate them and if there were small roadblocks, push away for them.
+						</div>
+						<br>
+						<div style="font-size:16px;text-align:justify;">
+							Looking ahead, the second lesson will be how to <b>emerge stronger.</b> One of the key things that we needed to do was to <b>institutionalise this resilience and strength in my staff, and harness the energy going forward,</b> because it is no longer business as usual today. We are gonna live in a world of endemic."
 				</div>
 		</td>
 	</tr>
