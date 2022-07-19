@@ -196,14 +196,124 @@ invited to a gala dinner graced by the President!
 		</td>
 		<td style="border: 0px;padding:0px;">
 			<div style="font-size: 20px;color:#585858;text-align:justify;">
-				Throughout her long career, Salamah has worked in various portfolios such as HR, Finance, Payroll and Claims. Today, Salamah is a Pensions specialist.
-She takes pride in sharing her knowledge, guiding new hires and motivating the
-team. Over the years, Salamah attended programmes such as SkillsFuture for
-Digital Workplace and Microsoft Excel courses to keep up with new ways of
-working. Salamah is a recipient of numerous VITAL Star awards. In 2012, she
-received the PS21 Star Service Award and together with her spouse, was
-invited to a gala dinner graced by the President!
+				Mdm Muntaj, Ms Fariadah, Mdm Salamah and many other colleagues receiving their Special Appreciation Awards and Long-Service Awards today are models of what life-long learning looks like. They all kept their skills updated and
+relevant, even technology and demands of the workplace keep changing. And
+I am glad that VITAL has supported their journey all the way. Thank you for
+being such great role models for the rest of us!
 			</div></br>
+		</td>		
+	</tr>
+	</table>
+	<p style="font-size: 32px;color:#a91932;text-align:justify;">
+Exemplifying Our Core Competencies in Daily Work
+</p>
+<table style="border: 0px;padding:0px;" width="100%" height="100%">
+	<tr style="border: 0px;padding:0px;">
+		<td style="border: 0px;padding:0px;" width="5%">
+			<div style="font-size: 20px;color:#585858;text-align:justify;">
+			13.
+			</div>
+		</td>
+		<td style="border: 0px;padding:0px;">
+			<div style="font-size: 20px;color:#585858;text-align:justify;">
+				Learning is a never-ending journey. VITAL introduced the Shared Services
+Competency Framework. At the public service level, PSD introduced Our Core
+Competencies (or OCC) which articulate the critical behaviours expected of all
+public officers. We incorporated the OCCs in the Appraisal & Development Plan
+(ADP) to facilitate developmental conversations between you and your
+supervisors last year. Going forward, OCCs will also be used for performance,
+promotion readiness and leadership potential assessment. We will share more
+details later this year.
+			</div><br>
+		</td>		
+	</tr>
+	<tr style="border: 0px;padding:0px;">
+		<td style="border: 0px;padding:0px;" width="5%">
+			<div style="font-size: 20px;color:#585858;text-align:justify;">
+			14.
+			</div>
+		</td>
+		<td style="border: 0px;padding:0px;">
+			<div style="font-size: 20px;color:#585858;text-align:justify;">
+				I am equally encouraged to see that many of our VITAL staff have
+demonstrated various key competencies in their daily operations. Let me share
+some examples from our 2022 Promotees.
+			</div><br>
+		</td>		
+	</tr>
+	<tr style="border: 0px;padding:0px;">
+		<td style="border: 0px;padding:0px;" width="5%">
+			<div style="font-size: 20px;color:#585858;text-align:justify;">
+			15.
+			</div>
+		</td>
+		<td style="border: 0px;padding:0px;">
+			<div style="font-size: 20px;color:#585858;text-align:justify;">
+				Melissa Tay, from Compliance, acts as the liaison between our Finance
+Services (FS) and AGD auditors. She <b>works effectively with citizens and stakeholders</b> such as our auditors and functions to understand the reasons
+and the severity of the observations. Together with FS, gaps were identified
+and management comments prepared. Melissa explained to the auditors
+VITAL’s limitations in enforcing the proposed recommendations, discussed
+action plans and was instrumental in obtaining a favorable audit outcome.
+			</div><br>
+		</td>		
+	</tr>
+	<tr style="border: 0px;padding:0px;">
+		<td style="border: 0px;padding:0px;" width="5%">
+			<div style="font-size: 20px;color:#585858;text-align:justify;">
+			16.
+			</div>
+		</td>
+		<td style="border: 0px;padding:0px;">
+			<div style="font-size: 20px;color:#585858;text-align:justify;">
+				Anjani Ramrup, from Corporate HR, receives many HR-related queries from
+VITALites. In addressing these queries, she <b>serves with heart, commitment, and purpose</b>, and seeks to understand the question from their perspective so that she can better respond to them. She also sources for information beyond
+the IM, for example the Employment Act, so that she can respond to matters
+relating to temporary staff which is not covered in the IM. Anjani has put herself
+in the shoes of stakeholders to understand their needs and concerns.
+			</div><br>
+		</td>		
+	</tr>
+	<tr style="border: 0px;padding:0px;">
+		<td style="border: 0px;padding:0px;" width="5%">
+			<div style="font-size: 20px;color:#585858;text-align:justify;">
+			17.
+			</div>
+		</td>
+		<td style="border: 0px;padding:0px;">
+			<div style="font-size: 20px;color:#585858;text-align:justify;">
+				Muhammad Khidhir Bin Khairoman, from HRSA, has deep process knowledge
+and very strong tech skills. He plays an instrumental role in guiding key
+automation projects in the team. Wearing his ops-tech hat, he identifies
+processes, analyses the gaps and assesses if they are suitable for RPA before
+he recommends to proceed. Khid experiments with ideas, <b>innovates to improve work processes</b> and service delivery while managing risks and
+mitigating the potential impact of change.
+			</div><br>
+		</td>		
+	</tr>
+		<tr style="border: 0px;padding:0px;">
+		<td style="border: 0px;padding:0px;" width="5%">
+			<div style="font-size: 20px;color:#585858;text-align:justify;">
+			18.
+			</div>
+		</td>
+		<td style="border: 0px;padding:0px;">
+			<div style="font-size: 20px;color:#585858;text-align:justify;">
+				Png Si Yong, from Credit Management Services, was involved in several
+initiatives and process improvements undertaken by the CMS team. <b>Improving and innovating continuously,</b> he participated in CMS’ ideation of the new debt recovery system, transition from cheques to ibanking and advocated the use of productivity tools such as FormSG. He identified work processes that can be simplified and played an active role in implementing work improvement plans.
+			</div><br>
+		</td>		
+	</tr>
+		<tr style="border: 0px;padding:0px;">
+		<td style="border: 0px;padding:0px;" width="5%">
+			<div style="font-size: 20px;color:#585858;text-align:justify;">
+			19.
+			</div>
+		</td>
+		<td style="border: 0px;padding:0px;">
+			<div style="font-size: 20px;color:#585858;text-align:justify;">
+				Lee Yan Ni from Finance Services (FS) led a project team to analyse and review VITAL’s onboarding framework. <b>Having learnt the Design Thinking concept, she puts her skills into action</b> and applied the Design Thinking skills that she learnt to the project to enhance the overall service experience for customers and improve efficiency in the onboarding process.
+			</div><br>
 		</td>		
 	</tr>
 	</table>
