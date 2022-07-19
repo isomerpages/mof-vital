@@ -31,7 +31,7 @@ description: DCE's presentation at the Singapore OpenGov Leadership Forum
 	</tr>
 	<tr style="border: 0px; padding:0px;">
 		<td colspan="2" style="border: 0px; padding:0px;">
-			<table style="border: 0;padding:0px;">	
+			<table style="border: 0px;padding:0px;">	
 				<tr style="border: 0px; padding:0px;">
 				<td style="border: 0px;vertical-align: middle;background-color:#faa946" width="35%" >
 					<img src="/images/Media/OpenGovImage2.png"/> 
