@@ -54,8 +54,13 @@ Automation strengthens organizational resilience
 	<a href="https://www.uipath.com/resources/covid-automations">During the pandemic</a>, public agencies around the world have scrambled to cope with citizen requests like the influx of calls at contact centers. This has led to frustrated citizens and low morale among employees.
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-	"By freeing workers' time and maximising their job satisfaction, businesses can gain a competitive edge with the aid of emerging technology, which is now a business imperative," he continued.
+UiPath assisted public sector agencies in setting up virtual contact centers. With software robots, agencies are capable of providing round-the-clock assistance. And robots can deliver personalized replies to many inquiries.
 </p>
+<p style="font-size: 18px;color:#585858;text-align:justify;">
+Meanwhile, contact center agents are on hand to offer a human touch should a problem escalates. When citizens’ needs are promptly met, their trust in the government improves, fostering stronger relationships between the two.
+</p>
+
+
 <table style="border: 0px;padding:0px;" width="100%" height="100%">
 	<tr style="border: 0px;padding:0px;">
 		<td width ="25%" style="border: 0px;padding:0px;vertical-align: middle;">
