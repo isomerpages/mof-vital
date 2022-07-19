@@ -51,7 +51,7 @@ Automation is a key enabler towards <a href="https://www.uipath.com/blog/digital
 Automation strengthens organizational resilience
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-	Harshman suggests that businesses adopt technologies like automation to help to reduce mundane work and increase productivity, to ensure that they can retain and attract workers.
+	<a href="https://www.uipath.com/resources/covid-automations">During the pandemic</a>, public agencies around the world have scrambled to cope with citizen requests like the influx of calls at contact centers. This has led to frustrated citizens and low morale among employees.
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 	"By freeing workers' time and maximising their job satisfaction, businesses can gain a competitive edge with the aid of emerging technology, which is now a business imperative," he continued.
