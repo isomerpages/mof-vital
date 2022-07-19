@@ -91,5 +91,5 @@ Having a low-code/no-code automation tool has helped VITAL scale automation fast
 	Tan Wearn Haw, Director of Service, Innovation, and Compliance, VITAL
 </div>
 <p style="font-size: 16px;color:#585858;text-align:justify;">
-Click <a href="https://futurecio.tech/stopping-singapores-looming-labour-shortage/"> HERE</a> to read the original article from FutureCIO website.
+Click <a href="https://www.uipath.com/blog/industry-solutions/public-sector-smart-robots"> HERE</a> to read the original blog post from UiPath website.
 </p>
