@@ -59,7 +59,7 @@ description: DCE's presentation at the Singapore OpenGov Leadership Forum
 			</div>
 			<br>
 			<div style="font-size:16px;text-align:justify;">
-				   VITAL has adopted a tiered training approach for RPA. The majority of VITAL officers are <b>users of RPA</b> who are required to know how to execute an automation script. A smaller group are <b>citizen developers</b> who have basic automation skills and are able to build scripts. On top of these, a small core of <b>skilled RPA developers</b> will perform heavy lifting or the more complex coding.</b>
+				   VITAL has adopted a tiered training approach for RPA. The majority of VITAL officers are <b>users of RPA</b> who are required to know how to execute an automation script. A smaller group are <b>citizen developers</b> who have basic automation skills and are able to build scripts. On top of these, a small core of <b>skilled RPA developers</b> will perform heavy lifting or the more complex coding.
 				</div>
 		</td>
 		<td style="border: 0px; padding:0px;" width = "35%">
