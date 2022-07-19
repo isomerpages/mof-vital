@@ -44,9 +44,8 @@ The need for faster uptake
 <div style="font-size: 16px;color:#585858;text-align:right;">
 	David Burrows, Public Sector Industries Leader, UiPath
 </div><br>
-
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-	<a href="https://stats.mom.gov.sg/Pages/Unemployment-Summary-Table.aspx">Data</a> from the <a href="https://www.mom.gov.sg/">Ministry of Manpower</a> suggests that unemployment is heading back to pre-pandemic levels, from the steep 3.0% in 2020, down to 2.7% in 2021 and expectations to drop further in 2022.
+Automation is a key enabler towards digital transformation. By leveraging automation, public sector employees can increase their bandwidth for more meaningful efforts, Burrows added. For example, employee efforts that strengthen trust between the people and the government.
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 	Harshman suggests that businesses adopt technologies like automation to help to reduce mundane work and increase productivity, to ensure that they can retain and attract workers.
