@@ -33,7 +33,7 @@ The need for faster uptake
 	Today, despite the acceleration of remote work, public agencies worldwide are still lagging when implementing automation.
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-	<b>Automation can help fight the Great Resignation</b>: 77% of respondents in Singapore contend that incorporating automation—including training on automation—could help their organisation attract new and retain existing talent, which is the second-highest of all countries polled.
+	According to <a href="https://spectrumsmartcities.com/smarter-central/smart-government-digital-transformation.html">research firm Gartner</a>*, "more than 60% of governments will have tripled their digital services by 2023, but fewer than 25% will be integrated across organizations’ silos."
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 	"Office workers in Singapore are feeling burnt out and are seeking meaningful work, work/life balance and recognition. Businesses must innovate and transform with a long-term view as the war of talent continues to intensify in the country’s tightening labour market," said <a href="https://www.linkedin.com/in/richardharshman/?original_referer=https%3A%2F%2Ffuturecio.tech%2F">Rick Harshman</a>, senior vice-president and managing director of Asia Pacific at UiPath.
