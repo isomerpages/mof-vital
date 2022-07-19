@@ -130,23 +130,23 @@ At this central position as a platform, with all the transactions coming in, we 
 				<tr>
 					<td colspan="2" style="border: 0px;vertical-align: middle;background-color:#0076bd" >
 						<p style="padding:5px;font-size:22px;text-align:center;color:#f9b17e;">	
-							<b>VITAL’S ROLE IN THE PUBLIC SERVICE</b>
+							<b>TRAINING OF STAFF</b>
 						</p>
 						</td>					
 				</tr>
-				<tr style="border: 0px; padding:0px;">					
-				<td style="border: 0px;vertical-align: middle;" width="35%" >
-					<img src="/images/Media/Fireside_Image2.png"/> 
-			</td>		
+				<tr style="border: 0px; padding:0px;">							
 					<td style="border: 0px;vertical-align: middle;" >			
 						<div style="font-size:16px;text-align:justify;">
-							"One big lesson I learned and very heartened to is the <b>great strength and resilience in VITAL staff.</b> I told them we may have to go into a full lockdown, they knew exactly what to do. They had all their plans in place. All I had to do was encourage them, motivate them and if there were small roadblocks, push away for them.
+							"You need to <b>invest and make sure that people come along with you, and get the correct training.</b> We are no longer transactional in nature. We are a central agency to create more value for the ecosystem. 
 						</div>
 						<br>
 						<div style="font-size:16px;text-align:justify;">
-							Looking ahead, the second lesson will be how to <b>emerge stronger.</b> One of the key things that we needed to do was to <b>institutionalise this resilience and strength in my staff, and harness the energy going forward,</b> because it is no longer business as usual today. We are gonna live in a world of endemic."
+							Internally within VITAL, we have a <b>shared services competency framework that identifies the areas of competency that we need to upskill our staff.</b> It is a very systematic way we analyse the roles our officers need to fill going forward in this new environment, and we curate, design and send them back to school (for training)."
 				</div>
 		</td>
+					<td style="border: 0px;vertical-align: middle;" width="35%" >
+					<img src="/images/Media/Fireside_Image6.png"/> 
+			</td>	
 	</tr>
 </table>
 	</td>
@@ -154,6 +154,10 @@ At this central position as a platform, with all the transactions coming in, we 
 	<tr style="border: 0px;padding:0px;">
 		<td colspan = "2" style="border: 0px;padding:0px;vertical-align: middle;text-align: center;">
 			<table style="border: 0;padding:0px;" width="100%" height="100%">	
+				<tr>
+					<td colspan="2" style="border: 0px;vertical-align: middle;background-color:#0076bd" >
+						</td>					
+				</tr>
 				<tr style="border: 0px; padding:0px;">				
 		<td colspan="2" style="border: 0px;vertical-align: middle;" >
 			<div style="font-size:16px;text-align:Justify;">  
