@@ -15,8 +15,8 @@ The Commendation Medal is awarded to officer who has distinguished himself/herse
 Congratulations to all the award winners!
 </p>
 <p style="font-size: 16px;color:#585858;text-align:justify;">
-	Click <a href = "/media/Ministry of Finance Family National Day Awards - Efficiency Medal.pdf">HERE</a> to download VITAL Moments which features recipients of the Efficiency Medal.
+	Click <a href = "/files/Ministry of Finance Family National Day Awards - Efficiency Medal.pdf">HERE</a> to download VITAL Moments which features recipients of the Efficiency Medal.
 </p>
 <p style="font-size: 16px;color:#585858;text-align:justify;">
- Click <a href = "/media/Ministry of Finance Family National Day Awards - Commendation Medal.pdf">HERE</a> to download VITAL Moments which features recipients of the Commendation Medal.
+ Click <a href = "/files/Ministry of Finance Family National Day Awards - Commendation Medal.pdf">HERE</a> to download VITAL Moments which features recipients of the Commendation Medal.
 </p>
