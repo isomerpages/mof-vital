@@ -20,12 +20,12 @@ At a webinar jointly organized by UiPath and the Singapore government’s shared
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 	As automation permeates the public sector, it frees up time for employees to improve the quality of the citizen experience.
 </p>
-<p style="font-size: 18px;color:#585858;text-align:justify;">
-	"Moving forward, the human-to-human interaction is still important, and that's intangible. Leveraging automation would enable public agencies to engage citizens in a positive way, which is a huge win."
-</p>
-<p style="font-size: 18px;color:#585858;text-align:justify;">
-	<b>Expanding roles are compounded by monotonous tasks</b>: 97% of respondents in Singapore say they feel exhausted at the end of a workday at least one day per week. They are frustrated by mundane tasks at work, like responding to emails (41%), scheduling calls and meetings (33%), and inputting data/creating datasets (33%).
-</p>
+<div style="font-size: 20px;color:#49759a;text-align:justify;"><i>
+	"Moving forward, the human-to-human interaction is still important, and that's intangible. Leveraging automation would enable public agencies to engage citizens in a positive way, which is a huge win."</i>
+</div>
+<div style="font-size: 16px;color:#585858;text-align:right;">
+	Tan Wearn Haw, Director of Service, Innovation, and Compliance, VITAL
+</div>
 <p style="font-size: 24px;color:#a91932;text-align:justify;">
 What will stave off further resignations
 </p>
