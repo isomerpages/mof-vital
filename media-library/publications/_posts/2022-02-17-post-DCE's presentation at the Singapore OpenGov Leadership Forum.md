@@ -30,7 +30,7 @@ description: DCE's presentation at the Singapore OpenGov Leadership Forum
 		</td>
 	</tr>
 	<tr style="border: 0px; padding:0px;">
-		<td colspan="2" style="background: url('/images/Media/OpenGovImage2.png')">
+		<td colspan="2">
 			<table>	
 				<tr style="background: url('/images/Media/OpenGovImage2.png')">
 				<td>
