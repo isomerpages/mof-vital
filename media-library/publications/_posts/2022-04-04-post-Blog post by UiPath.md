@@ -85,7 +85,7 @@ Having a low-code/no-code automation tool has helped VITAL scale automation fast
 </p>
 <br>
 <div style="font-size: 20px;color:#49759a;text-align:justify;">
-	"Moving forward, the human-to-human interaction is still important, and that's intangible. Leveraging automation would enable public agencies to engage citizens in a positive way, which is a huge win."
+	"When talking about scalability, I don’t think there’s a silver bullet. That’s why we are embarking on the idea of citizen developers as part of a low-code or no-code solution. It is how we can scale RPA with enough flexibility and agility."
 </div><br>
 <div style="font-size: 16px;color:#585858;text-align:right;">
 	Tan Wearn Haw, Director of Service, Innovation, and Compliance, VITAL
