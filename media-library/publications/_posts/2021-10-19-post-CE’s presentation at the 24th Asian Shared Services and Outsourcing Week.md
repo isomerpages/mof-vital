@@ -87,7 +87,6 @@ description: CE’s presentation at the 24th Asian Shared Services and Outsourci
 	</tr>	
 	<tr style="border: 0px;padding:0px;">
 		<td colspan = "2" style="border: 0px;padding:0px;vertical-align: middle;text-align: center;">			
-			<br>
 			<div style="font-size:16px;text-align:Justify;">  
 			You may view the video of presentation by clicking this <a href="/media-library/videos/ce-presentation-24th-asian-shared-services-outsourcing-week">link.</a></div>			
 		</td>
