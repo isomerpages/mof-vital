@@ -33,7 +33,7 @@ The need for faster uptake
 	Today, despite the acceleration of remote work, public agencies worldwide are still lagging when implementing automation.
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-	According to <a href="https://spectrumsmartcities.com/smarter-central/smart-government-digital-transformation.html">research firm Gartner</a>*, "more than 60% of governments will have tripled their digital services by 2023, but fewer than 25% will be integrated across organizations’ silos."
+	According to <a href="https://spectrumsmartcities.com/smarter-central/smart-government-digital-transformation.html">research firm Gartner</a>, "more than 60% of governments will have tripled their digital services by 2023, but fewer than 25% will be integrated across organizations’ silos."
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 	There is a "huge opportunity" to address these issues now, said David Burrows, Public Sector Industries Leader at UiPath.
@@ -89,20 +89,7 @@ Having a low-code/no-code automation tool has helped VITAL scale automation fast
 </div><br>
 <div style="font-size: 16px;color:#585858;text-align:right;">
 	Tan Wearn Haw, Director of Service, Innovation, and Compliance, VITAL
-</div><br>
-
-
-<table style="border: 0px;padding:0px;" width="100%" height="100%">
-	<tr style="border: 0px;padding:0px;">
-		<td width ="25%" style="border: 0px;padding:0px;vertical-align: middle;">
-<img src="/images/Media/FutureCIO_Image2.png"  /> 
-		</td>
-		<td style="border: 0px;">
-<p style="font-size: 18px;color:#585858;text-align:justify;">
-<a href="https://www.uipath.com/newsroom/new-uipath-study-reveals-half-of-office-workers-seeking-resignation">Dennis Lui</a>, chief executive of VITAL, the Central Agency for Corporate Shared Services in the Singapore Public Service, concurs adding: "Not only does automation allow employees to save time, but it also ensures that workers are not bogged down by mundane tasks which leads to burnout. Ultimately, automation can maximise workers’ productivity and empower them to focus on higher-value work such as innovation."</p>
-		</td>
-	</tr>
-	</table>
+</div>
 <p style="font-size: 16px;color:#585858;text-align:justify;">
 Click <a href="https://futurecio.tech/stopping-singapores-looming-labour-shortage/"> HERE</a> to read the original article from FutureCIO website.
 </p>
