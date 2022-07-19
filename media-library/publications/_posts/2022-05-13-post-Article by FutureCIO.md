@@ -57,7 +57,7 @@ What will stave off further resignations
 		</td>
 		<td>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-<a href="https://www.uipath.com/newsroom/new-uipath-study-reveals-half-of-office-workers-seeking-resignation">Dennis Lui</a>, chief executive of VITAL, the Central Agency for Corporate Shared Services in the Singapore Public Service, concurs adding: "Not only does automation allow employees to save time, but it also ensures that workers are not bogged down by mundane tasks which leads to burnout. Ultimately, automation can maximise workers’ productivity and empower them to focus on higher-value work such as innovation."
+<a href="https://www.uipath.com/newsroom/new-uipath-study-reveals-half-of-office-workers-seeking-resignation">Dennis Lui</a>, chief executive of VITAL, the Central Agency for Corporate Shared Services in the Singapore Public Service, concurs adding: "Not only does automation allow employees to save time, but it also ensures that workers are not bogged down by mundane tasks which leads to burnout. Ultimately, automation can maximise workers’ productivity and empower them to focus on higher-value work such as innovation."</p>
 		</td>
 	</tr>
 	</table>
