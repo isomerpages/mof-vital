@@ -34,7 +34,7 @@ description: DCE's presentation at the Singapore OpenGov Leadership Forum
 			<table style="border: 0;padding:0px;">	
 				<tr style="border: 0px; padding:0px;">
 				<td style="border: 0px; padding:0px;" width = "35%" height="100%" >
-					<img style="height: 100%; width: 100%; object-fit: contain" src="/images/Media/OpenGovImage2.png"/> 
+					<img src="/images/Media/OpenGovImage2.png"/> 
 			</td>
 		<td style="border: 0px;vertical-align: middle;background-color:#fbbb56" >
 			<div style="font-size:20px;text-align:justify;color:#a91932;">	
@@ -63,7 +63,7 @@ description: DCE's presentation at the Singapore OpenGov Leadership Forum
 				</div>
 		</td>
 		<td style="border: 0px; padding:0px;" width="30%" >
-					<img style="height: 100%;width: 100%;object-fit: contain" src="/images/Media/OpenGovImage3.png"/> 
+					<img src="/images/Media/OpenGovImage3.png"/> 
 			</td>
 	</tr>
 </table>
@@ -74,7 +74,7 @@ description: DCE's presentation at the Singapore OpenGov Leadership Forum
 			<table style="border: 0;padding:0px;">	
 				<tr style="border: 0px; padding:0px;">
 				<td style="border: 0px; padding:0px;" width = "30%" height="100%">
-					<img src="/images/Media/OpenGovImage4.png" style="height: 100%; width: 100%; object-fit: contain" /> 
+					<img src="/images/Media/OpenGovImage4.png" /> 
 			</td>
 		<td style="border: 0px;vertical-align: middle;background-color:#eeedfd" >
 			<div style="font-size:20px;text-align:justify;color:#a91932;">	
