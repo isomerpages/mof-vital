@@ -90,6 +90,7 @@ Having a low-code/no-code automation tool has helped VITAL scale automation fast
 <div style="font-size: 16px;color:#585858;text-align:right;">
 	Tan Wearn Haw, Director of Service, Innovation, and Compliance, VITAL
 </div>
+<br>
 <p style="font-size: 16px;color:#585858;text-align:justify;">
 Click <a href="https://www.uipath.com/blog/industry-solutions/public-sector-smart-robots"> HERE</a> to read the original blog post from UiPath website.
 </p>
