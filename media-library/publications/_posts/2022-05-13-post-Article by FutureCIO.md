@@ -52,7 +52,7 @@ What will stave off further resignations
 </p>
 <table>
 	<tr>
-		<td width ="30%">
+		<td width ="25%">
 <img src="/images/Media/FutureCIO_Image2.png"  /> 
 		</td>
 		<td>
