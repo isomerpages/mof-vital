@@ -316,4 +316,17 @@ initiatives and process improvements undertaken by the CMS team. <b>Improving an
 			</div><br>
 		</td>		
 	</tr>
+			<tr style="border: 0px;padding:0px;">
+		<td style="border: 0px;padding:0px;" width="5%">
+			<div style="font-size: 20px;color:#585858;text-align:justify;">
+			20.
+			</div>
+		</td>
+		<td style="border: 0px;padding:0px;">
+			<div style="font-size: 20px;color:#585858;text-align:justify;">
+				Ng Yun Jia from PACE, applied her payroll knowledge and provided value-added inputs to the discussions with stakeholders in the development of REMS
+2.0. Technologically savvy, she <b>keeps abreast of new tools, guides and encourages</b> her team members to experiment digital tools to review and verify voluminous data records.
+			</div><br>
+		</td>		
+	</tr>
 	</table>
