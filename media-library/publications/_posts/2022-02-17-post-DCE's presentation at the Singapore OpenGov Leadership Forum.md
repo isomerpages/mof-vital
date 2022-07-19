@@ -25,7 +25,7 @@ description: DCE's presentation at the Singapore OpenGov Leadership Forum
 				Here are three key take-aways!
 				</div>
 		</td>	
-		<td>
+		<td style="border: 0px; padding:0px;" >
 			<img src="/images/Media/OpenGovImage1.png"  /> 
 		</td>
 	</tr>
@@ -73,7 +73,7 @@ description: DCE's presentation at the Singapore OpenGov Leadership Forum
 		<td colspan="2" style="border: 0px; padding:0px;">
 			<table style="border: 0;padding:0px;">	
 				<tr style="border: 0px; padding:0px;">
-				<td style="border: 0px; padding:0px;" width = "35%">
+				<td style="border: 0px; padding:0px;" width = "30%">
 					<img src="/images/Media/OpenGovImage4.png" height="100%" width="100%"/> 
 			</td>
 		<td style="border: 0px;vertical-align: middle;background-color:#eeedfd" >
