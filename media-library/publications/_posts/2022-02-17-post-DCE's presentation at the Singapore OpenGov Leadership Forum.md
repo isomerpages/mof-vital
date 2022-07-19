@@ -30,9 +30,9 @@ description: DCE's presentation at the Singapore OpenGov Leadership Forum
 		</td>
 	</tr>
 	<tr style="border: 0px; padding:0px;">
-		<td colspan="2">
-			<table style="border: 0;padding:0px;" width="100%" height="100%">	
-				<tr background="/images/Media/OpenGovImage2.png" width="100%" height="100%">
+		<td colspan="2" style="background: url('/images/Media/OpenGovImage2.png')">
+			<table>	
+				<tr style="background: url('/images/Media/OpenGovImage2.png')">
 				<td>
 		</td>
 		<td style="border: 0px;vertical-align: middle;" >
@@ -45,9 +45,17 @@ description: DCE's presentation at the Singapore OpenGov Leadership Forum
 	</tr>
 	<tr style="border: 0px;padding:0px;">
 		<td colspan = "2" style="border: 0px;padding:0px;vertical-align: middle;text-align: center;">
-			<img src="/images/Media/OpenGovImage5.png" width="20px" height="20px"  />    
-			<div style="font-size:16px;text-align:justify;">  
-			You may listen to the audio recording of the presentation by clicking this <a href="/media-library/videos/dce-presentation-singapore-opengov-leadership-forum">LINK.</a>
+			<table style="border: 0;padding:0px;" width="100%" height="100%">	
+				<tr>
+				<td width="10%">
+					<img src="/images/Media/OpenGovImage5.png" /> 
+		</td>
+		<td style="border: 0px;vertical-align: middle;" >
+			<div style="font-size:16px;text-align:Justify;">  
+			You may listen to the audio recording of the presentation by clicking this <a href="/media-library/videos/dce-presentation-singapore-opengov-leadership-forum">link.</a></div>
+		</td>
+	</tr>
+</table>  			
 		</td>
 	</tr>
 	</table>
