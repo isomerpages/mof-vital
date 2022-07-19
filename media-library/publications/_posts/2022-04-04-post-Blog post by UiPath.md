@@ -45,7 +45,7 @@ The need for faster uptake
 	David Burrows, Public Sector Industries Leader, UiPath
 </div><br>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-Automation is a key enabler towards digital transformation. By leveraging automation, public sector employees can increase their bandwidth for more meaningful efforts, Burrows added. For example, employee efforts that strengthen trust between the people and the government.
+Automation is a key enabler towards <a href="https://www.uipath.com/blog/digital-transformation">digital transformation</a>. By leveraging automation, public sector employees can increase their bandwidth for more meaningful efforts, Burrows added. For example, employee efforts that strengthen trust between the people and the government.
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 	Harshman suggests that businesses adopt technologies like automation to help to reduce mundane work and increase productivity, to ensure that they can retain and attract workers.
