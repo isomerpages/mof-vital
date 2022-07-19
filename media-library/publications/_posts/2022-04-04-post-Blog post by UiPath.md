@@ -71,6 +71,16 @@ With a combination of <a href="https://www.uipath.com/blog/artificial-intelligen
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 As smart robots take on additional tedious tasks, employees gain extra time to think about how to engage people better and create citizen-centric public services. “The key driver is to look at how we reshape the whole customer engagement,” said Boris Krumrey, Global Vice President of Automation Innovations at UiPath.
 </p>
+<p style="font-size: 30px;color:#a91932;text-align:justify;">
+Citizen developers are VITAL
+</p>
+<p style="font-size: 18px;color:#585858;text-align:justify;">
+For VITAL, its RPA journey has included creating a “bot library” of automation best practices and scripts for more than 100 government agencies in Singapore. Since 2017, automation has been the core of the organization’s digital roadmap. And VITAL has progressed to implementing unattended automationsand adopting a citizen developer strategy.
+</p>
+<p style="font-size: 18px;color:#585858;text-align:justify;">
+VITAL’s vision is that every officer can become a citizen developer, building robots for themselves and their colleagues using low- or no-code tools such as UiPath StudioX.
+</p>
+
 
 
 <table style="border: 0px;padding:0px;" width="100%" height="100%">
