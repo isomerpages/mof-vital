@@ -32,7 +32,7 @@ description: DCE's presentation at the Singapore OpenGov Leadership Forum
 	<tr style="border: 0px; padding:0px;">
 		<td colspan="2">
 			<table style="border: 0;padding:0px;" width="100%" height="100%">	
-				<tr style="background-image: url('/images/Media/OpenGovImage2.png');" width="100%" height="100%">
+				<tr background="/images/Media/OpenGovImage2.png" width="100%" height="100%">
 				<td>
 		</td>
 		<td style="border: 0px;vertical-align: middle;" >
