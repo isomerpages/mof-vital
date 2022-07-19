@@ -19,18 +19,18 @@ At a webinar jointly organized by UiPath and the Singapore government’s shared
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 	As automation permeates the public sector, it frees up time for employees to improve the quality of the citizen experience.
-</p>
-<div style="font-size: 20px;color:#49759a;text-align:justify;"><i>
-	"Moving forward, the human-to-human interaction is still important, and that's intangible. Leveraging automation would enable public agencies to engage citizens in a positive way, which is a huge win."</i>
-</div>
+</p><br>
+<div style="font-size: 20px;color:#49759a;text-align:justify;">
+	"Moving forward, the human-to-human interaction is still important, and that's intangible. Leveraging automation would enable public agencies to engage citizens in a positive way, which is a huge win."
+</div><br>
 <div style="font-size: 16px;color:#585858;text-align:right;">
 	Tan Wearn Haw, Director of Service, Innovation, and Compliance, VITAL
-</div>
-<p style="font-size: 24px;color:#a91932;text-align:justify;">
-What will stave off further resignations
+</div><br>
+<p style="font-size: 30px;color:#a91932;text-align:justify;">
+The need for faster uptake
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-	<b>Office workers believe automation is core to improving their job performance and satisfaction</b>: About 61% of office workers in Singapore feel like much of their workday is eaten up by tasks that can be automated. In addition, 52% believe that automation can improve their job performance, namely by saving time (62%), increasing productivity (57%), and creating opportunities to focus on more important work (50%). 76% agree they can focus on more creative work with the help of automation.
+	Today, despite the acceleration of remote work, public agencies worldwide are still lagging when implementing automation.
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 	<b>Automation can help fight the Great Resignation</b>: 77% of respondents in Singapore contend that incorporating automation—including training on automation—could help their organisation attract new and retain existing talent, which is the second-highest of all countries polled.
