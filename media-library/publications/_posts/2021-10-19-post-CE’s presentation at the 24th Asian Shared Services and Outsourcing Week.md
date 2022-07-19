@@ -11,15 +11,15 @@ description: CE’s presentation at the 24th Asian Shared Services and Outsourci
 			<img src="/images/Media/SSON24_Header.png"  /> 
 		</td>
 	</tr>
-	<tr style="border: 0px; padding:5px;background-color:#ffffcc" >
+	<tr style="border: 0px; padding:0px;background-color:#ffffcc" >
 		<td colspan = "2" style="border: 0px;padding:0px;vertical-align: middle;text-align: center;">
-			<div style="padding:10px;font-size:18px;text-align:justify;">
+			<div style="padding:15px;font-size:18px;text-align:justify;">
 			CE spoke at the Asian Shared Services & Outsourcing Week on 19 October 2021. The event was organised by the Shared Services and Outsourcing Network (SSON) which is <b>the largest and most established community of shared services and outsourcing professionals in the world</b> with over 160,000 members. CE was one of the speakers at the event, together with leaders from renowned companies such as the Goodyear Tire & Rubber Company, Kimberly Clark, Manulife, Schneider Electric and Thomson Reuters.
 			</div>
-			<div style="padding:10px;font-size:18px;text-align:justify;">
+			<div style="padding:15px;font-size:18px;text-align:justify;">
 				During his presentation, CE shared about VITAL’s <b>strategic pillars, priorities, digital roadmap and automation journey.</b> 
 			</div>
-			<div style="padding:10px;font-size:18px;text-align:justify;">
+			<div style="padding:15px;font-size:18px;text-align:justify;">
 				Here are 3 key take-aways!
 			</div>
 		</td>
