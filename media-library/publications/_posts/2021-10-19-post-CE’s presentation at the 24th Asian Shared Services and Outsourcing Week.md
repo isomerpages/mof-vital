@@ -7,7 +7,7 @@ description: CE’s presentation at the 24th Asian Shared Services and Outsourci
 ---
 <table style="border: 0px;padding:0px;" width="100%" height="100%">	
 	<tr style="border: 0px;padding:0px;">
-		<td colspan = "2" style="border: 0px;padding:0px;vertical-align: middle;text-align: center;">
+		<td colspan = "2" style="border: 0px;padding:0px;">
 			<img src="/images/Media/SSON24_Header.png"  /> 
 		</td>
 	</tr>
