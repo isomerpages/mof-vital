@@ -68,6 +68,10 @@ Meanwhile, contact center agents are on hand to offer a human touch should a pro
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 With a combination of <a href="https://www.uipath.com/blog/artificial-intelligence">artificial intelligence</a> (AI), machine learning (ML), and RPA, <a href="https://www.uipath.com/product/robots">UiPath robots</a> are able to enhance public service delivery. Robots empower public agencies to be more agile and resilient because the bots are trained to understand what people see on screens and react accordingly.
 </p>
+<p style="font-size: 18px;color:#585858;text-align:justify;">
+As smart robots take on additional tedious tasks, employees gain extra time to think about how to engage people better and create citizen-centric public services. “The key driver is to look at how we reshape the whole customer engagement,” said Boris Krumrey, Global Vice President of Automation Innovations at UiPath.
+</p>
+
 
 <table style="border: 0px;padding:0px;" width="100%" height="100%">
 	<tr style="border: 0px;padding:0px;">
