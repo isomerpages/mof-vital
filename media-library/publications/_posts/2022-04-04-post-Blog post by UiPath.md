@@ -37,7 +37,14 @@ The need for faster uptake
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 	There is a "huge opportunity" to address these issues now, said David Burrows, Public Sector Industries Leader at UiPath.
-</p>
+</p><br>
+<div style="font-size: 20px;color:#49759a;text-align:justify;">
+	"Most [agencies] have been focused on low-hanging fruit until now. Many large legacy systems in government are falling apart at the seams in terms of maintenance. Legacy systems are also expensive to replace, but RPA can help extend the life of legacy systems and get more value out of them."
+</div><br>
+<div style="font-size: 16px;color:#585858;text-align:right;">
+	David Burrows, Public Sector Industries Leader, UiPath
+</div><br>
+
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 	<a href="https://stats.mom.gov.sg/Pages/Unemployment-Summary-Table.aspx">Data</a> from the <a href="https://www.mom.gov.sg/">Ministry of Manpower</a> suggests that unemployment is heading back to pre-pandemic levels, from the steep 3.0% in 2020, down to 2.7% in 2021 and expectations to drop further in 2022.
 </p>
