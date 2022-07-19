@@ -23,30 +23,28 @@ Introduction
 	</tr>
 	<tr style="border: 0px;padding:0px;">
 		<td style="border: 0px;padding:0px;" width="5%">
-			<p style="font-size: 20px;color:#585858;text-align:justify;">
+			<div style="font-size: 20px;color:#585858;text-align:justify;">
 			2.
-			</p>
+			</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<p style="font-size: 20px;color:#585858;text-align:justify;">
+			<div style="font-size: 20px;color:#585858;text-align:justify;">
 				While I would have liked to hold this ceremony in person, the safe management measures had yet to be relaxed at the point of planning. Hence, out of prudence, we are doing a virtual ceremony again this year so that all our
 Promotees, Award recipients, your families and more VITALites can join us in
 			this joyous occasion.
-			</p>
+			</div><br>
 		</td>		
 	</tr>
 	<tr style="border: 0px;padding:0px;">
 		<td style="border: 0px;padding:0px;" width="5%">
-			<p style="font-size: 20px;color:#585858;text-align:justify;">
+			<div style="font-size: 20px;color:#585858;text-align:justify;">
 			3.
-			</p>
+			</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<p style="font-size: 20px;color:#585858;text-align:justify;">
-				You have done VITAL proud, and together with the rest of Senior Management,
-I would like to thank each and every one of you for your unwavering support
-and contributions.
-			</p>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">
+				You have done VITAL proud, and together with the rest of Senior Management, I would like to thank each and every one of you for your unwavering support and contributions.
+			</div>
 		</td>		
 	</tr>
 	</table>
