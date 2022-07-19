@@ -20,7 +20,7 @@ At a webinar jointly organized by UiPath and the Singapore government’s shared
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 	As automation permeates the public sector, it frees up time for employees to improve the quality of the citizen experience.
 </p><br>
-<div style="font-size: 20px;color:#49759a;text-align:justify;">
+<div style="font-size: 22px;color:#49759a;text-align:justify;">
 	"Moving forward, the human-to-human interaction is still important, and that's intangible. Leveraging automation would enable public agencies to engage citizens in a positive way, which is a huge win."
 </div><br>
 <div style="font-size: 16px;color:#585858;text-align:right;">
@@ -38,7 +38,7 @@ The need for faster uptake
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 	There is a "huge opportunity" to address these issues now, said David Burrows, Public Sector Industries Leader at UiPath.
 </p><br>
-<div style="font-size: 20px;color:#49759a;text-align:justify;">
+<div style="font-size: 22px;color:#49759a;text-align:justify;">
 	"Most [agencies] have been focused on low-hanging fruit until now. Many large legacy systems in government are falling apart at the seams in terms of maintenance. Legacy systems are also expensive to replace, but RPA can help extend the life of legacy systems and get more value out of them."
 </div><br>
 <div style="font-size: 16px;color:#585858;text-align:right;">
