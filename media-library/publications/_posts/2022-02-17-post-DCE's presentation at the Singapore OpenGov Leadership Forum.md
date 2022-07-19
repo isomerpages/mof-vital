@@ -30,7 +30,7 @@ description: DCE's presentation at the Singapore OpenGov Leadership Forum
 		</td>
 	</tr>
 	<tr style="border: 0px; padding:0px;">
-		<td colspan="2">
+		<td colspan="2" style="border: 0px; padding:0px;">
 			<table style="border: 0;padding:0px;">	
 				<tr style="border: 0px; padding:0px;">
 				<td style="border: 0px; padding:0px;" width = "35%">
