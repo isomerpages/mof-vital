@@ -48,7 +48,47 @@ description: DCE's presentation at the Singapore OpenGov Leadership Forum
 	</tr>
 </table>
 	</td>
+	</tr>	
+		<tr style="border: 0px; padding:0px;">
+		<td colspan="2" style="border: 0px; padding:0px;">
+			<table style="border: 0;padding:0px;">	
+				<tr style="border: 0px; padding:0px;">				
+		<td style="border: 0px;vertical-align: middle;background-color:#f9f4de" >
+			<div style="font-size:20px;text-align:justify;color:#a91932;">	
+				<b>2. Tiered Training Approach</b>
+			</div>
+			<br>
+			<div style="font-size:16px;text-align:justify;">
+				   VITAL has adopted a tiered training approach for RPA. The majority of VITAL officers are <b>users of RPA</b> who are required to know how to execute an automation script. A smaller group are <b>citizen developers</b> who have basic automation skills and are able to build scripts. On top of these, a small core of <b>skilled RPA developers</b> will perform heavy lifting or the more complex coding.</b>
+				</div>
+		</td>
+		<td style="border: 0px; padding:0px;" width = "35%">
+					<img src="/images/Media/OpenGovImage3.png" height="100%" width="100%"/> 
+			</td>
 	</tr>
+</table>
+	</td>
+	</tr>	
+		<tr style="border: 0px; padding:0px;">
+		<td colspan="2" style="border: 0px; padding:0px;">
+			<table style="border: 0;padding:0px;">	
+				<tr style="border: 0px; padding:0px;">
+				<td style="border: 0px; padding:0px;" width = "35%">
+					<img src="/images/Media/OpenGovImage4.png" height="100%" width="100%"/> 
+			</td>
+		<td style="border: 0px;vertical-align: middle;background-color:#eeedfd" >
+			<div style="font-size:20px;text-align:justify;color:#a91932;">	
+				<b>3. VITAL’s Future RPA Endeavors</b>
+			</div>
+			<br>
+			<div style="font-size:16px;text-align:justify;">
+				RPA implementation should not solely be an IT function. A lot of involvement is required from business users who execute the scripts every day. VITAL has created a community of RPA users through <b>raising awareness of success stories, user training and facilitating access to knowledge and best practices.</b>
+				</div>
+		</td>
+	</tr>
+</table>
+	</td>
+	</tr>	
 	<tr style="border: 0px;padding:0px;">
 		<td colspan = "2" style="border: 0px;padding:0px;vertical-align: middle;text-align: center;">
 			<table style="border: 0;padding:0px;" width="100%" height="100%">	
