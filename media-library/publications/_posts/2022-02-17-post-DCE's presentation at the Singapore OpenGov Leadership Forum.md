@@ -63,7 +63,7 @@ description: DCE's presentation at the Singapore OpenGov Leadership Forum
 				</div>
 		</td>
 		<td style="border: 0px; padding:0px;" width = "35%">
-					<img src="/images/Media/OpenGovImage3.png" height="100%" width="100%"/> 
+					<img src="/images/Media/OpenGovImage3.png" width="100%" height="100%"/> 
 			</td>
 	</tr>
 </table>
