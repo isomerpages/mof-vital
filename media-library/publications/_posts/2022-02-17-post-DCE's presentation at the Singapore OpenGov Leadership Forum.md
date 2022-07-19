@@ -33,7 +33,7 @@ description: DCE's presentation at the Singapore OpenGov Leadership Forum
 		<td colspan="2" style="border: 0px; padding:0px;">
 			<table style="border: 0;padding:0px;">	
 				<tr style="border: 0px; padding:0px;">
-				<td style="border: 0px; padding:0px;" width = "35%" height="100%" >
+				<td style="border: 0px; padding:0px;vertical-align: middle;background-color::#fbbb56" width="35%" >
 					<img src="/images/Media/OpenGovImage2.png"/> 
 			</td>
 		<td style="border: 0px;vertical-align: middle;background-color:#fbbb56" >
@@ -48,8 +48,8 @@ description: DCE's presentation at the Singapore OpenGov Leadership Forum
 </table>
 	</td>
 	</tr>	
-		<tr style="border: 0px; padding:0px;">
-		<td colspan="2" style="border: 0px; padding:0px;">
+		<tr style="border: 0; padding:0px;">
+		<td colspan="2" style="border: 0; padding:0px;">
 			<table style="border: 0;padding:0px;">	
 				<tr style="border: 0px; padding:0px;">				
 		<td style="border: 0px;vertical-align: middle;background-color:#f9f4de" >
@@ -60,7 +60,7 @@ description: DCE's presentation at the Singapore OpenGov Leadership Forum
 				   VITAL has adopted a tiered training approach for RPA. The majority of VITAL officers are <b>users of RPA</b> who are required to know how to execute an automation script. A smaller group are <b>citizen developers</b> who have basic automation skills and are able to build scripts. On top of these, a small core of <b>skilled RPA developers</b> will perform heavy lifting or the more complex coding.
 				</div>
 		</td>
-		<td style="border: 0px; padding:0px;" width="30%" >
+		<td style="border: 0px; padding:0px;vertical-align: middle;background-color:#f9f4de" width="35%" >
 					<img src="/images/Media/OpenGovImage3.png"/> 
 			</td>
 	</tr>
@@ -71,7 +71,7 @@ description: DCE's presentation at the Singapore OpenGov Leadership Forum
 		<td colspan="2" style="border: 0px; padding:0px;">
 			<table style="border: 0;padding:0px;">	
 				<tr style="border: 0px; padding:0px;">
-				<td style="border: 0px; padding:0px;" width = "30%" height="100%">
+				<td style="border: 0px; padding:0px;background-color:#eeedfd;vertical-align: middle;" width= "35%" height="100%">
 					<img src="/images/Media/OpenGovImage4.png" /> 
 			</td>
 		<td style="border: 0px;vertical-align: middle;background-color:#eeedfd" >
