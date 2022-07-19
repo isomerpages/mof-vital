@@ -8,42 +8,37 @@ description: CE’s fireside chat at GovInsider’s Festival of Innovation 2021 
 <table style="border: 0px;padding:0px;" width="100%" height="100%">	
 	<tr style="border: 0px;padding:0px;">
 		<td colspan = "2" style="border: 0px;padding:0px;vertical-align: middle;text-align: center;">
-			<img src="/images/Media/OpenGovHeader.png"  /> 
+			<img src="/images/Media/Fireside_Header.png"  /> 
 		</td>
 	</tr>
-	<tr style="border: 0px; padding:0px;" >
-		<td width="60%">
-			<div style="font-size:16px;text-align:justify;color:#585858">   
-				Mr Yuen Sai Kuan, Deputy Chief Executive of VITAL, spoke at the Singapore OpenGov Leadership Forum on 17 February 2022. At the event, technology leaders from both public and private sectors such as GovTech, NUS, SingTel and UBS gathered to discuss, deliberate, share and plan for the next phase of digital transformation. 
-			</div>
-			<br>			
-			<div style="font-size:16px;text-align:justify;color:#585858">   
-				During his presentation, Mr Yuen shared about VITAL’s <b>digital roadmap and automation journey.</b>
-				</div>
-			<br>			
-			<div style="font-size:16px;text-align:justify;color:#585858">   
-				Here are three key take-aways!
-				</div>
-		</td>	
-		<td style="border: 0px; padding:0px;" >
-			<img src="/images/Media/OpenGovImage1.png"  /> 
+	<tr style="border: 0px;padding:0px;">
+		<td colspan = "2" style="border: 0px;padding:0px;vertical-align: middle;text-align: center;">
+			<img src="/images/Media/Fireside_Image1.png"  /> 
 		</td>
 	</tr>
 	<tr style="border: 0px; padding:0px;">
 		<td colspan="2" style="border: 0px; padding:0px;">
 			<table style="border: 0;padding:0px;">	
+				<tr>
+					<td colspan="2" style="border: 0px;vertical-align: middle;background-color:#0076bd" >
+						<p style="padding:5px;font-size:22px;text-align:center;color:#f9b17e;">	
+							<b>THE BIGGEST LESSONS LEARNT AS VITAL’S CE</b>
+						</p>
+						</td>					
+				</tr>
 				<tr style="border: 0px; padding:0px;">
-				<td style="border: 0px;vertical-align: middle;background-color:#fbb450" width="35%" >
-					<img src="/images/Media/OpenGovImage2.png"/> 
-			</td>
-		<td style="border: 0px;vertical-align: middle;background-color:#fbbb56" >
-			<p style="font-size:20px;text-align:justify;color:#a91932;">	
-				<b>1. Creating an RPA Community and Raising Awareness</b>
-			</p>
-			<div style="font-size:16px;text-align:justify;">
-				RPA implementation should not solely be an IT function. A lot of involvement is required from business users who execute the scripts every day. VITAL has created a community of RPA users through <b>raising awareness of success stories, user training and facilitating access to knowledge and best practices.</b>
+					<td style="border: 0px;vertical-align: middle;" >			
+						<div style="font-size:16px;text-align:justify;">
+							"One big lesson I learned and very heartened to is the <b>great strength and resilience in VITAL staff.</b> I told them we may have to go into a full lockdown, they knew exactly what to do. They had all their plans in place. All I had to do was encourage them, motivate them and if there were small roadblocks, push away for them.
+						</div>
+						<br>
+						<div style="font-size:16px;text-align:justify;">
+							Looking ahead, the second lesson will be how to <b>emerge stronger.</b> One of the key things that we needed to do was to <b>institutionalise this resilience and strength in my staff, and harness the energy going forward,</b> because it is no longer business as usual today. We are gonna live in a world of endemic."
 				</div>
 		</td>
+				<td style="border: 0px;vertical-align: middle;" width="35%" >
+					<img src="/images/Media/Fireside_Image2.png"/> 
+			</td>		
 	</tr>
 </table>
 	</td>
