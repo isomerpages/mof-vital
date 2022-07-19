@@ -36,7 +36,7 @@ The need for faster uptake
 	According to <a href="https://spectrumsmartcities.com/smarter-central/smart-government-digital-transformation.html">research firm Gartner</a>*, "more than 60% of governments will have tripled their digital services by 2023, but fewer than 25% will be integrated across organizations’ silos."
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-	"Office workers in Singapore are feeling burnt out and are seeking meaningful work, work/life balance and recognition. Businesses must innovate and transform with a long-term view as the war of talent continues to intensify in the country’s tightening labour market," said <a href="https://www.linkedin.com/in/richardharshman/?original_referer=https%3A%2F%2Ffuturecio.tech%2F">Rick Harshman</a>, senior vice-president and managing director of Asia Pacific at UiPath.
+	There is a "huge opportunity" to address these issues now, said David Burrows, Public Sector Industries Leader at UiPath.
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 	<a href="https://stats.mom.gov.sg/Pages/Unemployment-Summary-Table.aspx">Data</a> from the <a href="https://www.mom.gov.sg/">Ministry of Manpower</a> suggests that unemployment is heading back to pre-pandemic levels, from the steep 3.0% in 2020, down to 2.7% in 2021 and expectations to drop further in 2022.
