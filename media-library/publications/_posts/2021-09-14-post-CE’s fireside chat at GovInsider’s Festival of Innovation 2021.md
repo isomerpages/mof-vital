@@ -83,7 +83,7 @@ At this central position as a platform, with all the transactions coming in, we 
 				<tr style="border: 0px; padding:0px;">
 					<td style="border: 0px;vertical-align: middle;" >			
 						<div style="font-size:16px;text-align:justify;">
-							"As the robotics and automation lead, we need to ask ourselves how do we harness the collective good work done by more than 100 public agencies, <b>bring them together in a platform so that we can cross learn, collaborate and co-create new ideas.</b> In fact, we have an app called RPA Bot Library for the entire public service, and we are trying to expand that into a robotics automation hub, where we want to extend beyond RPA. 
+							"As the robotics and automation lead, we need to ask ourselves how do we harness the collective good work done by more than 100 public agencies, <b>bring them together in a platform so that we can cross learn, collaborate and co-create new ideas.</b> In fact, we have an app called RPA Bot Library for the entire public service, and we are trying to expand that into a <b>robotics automation hub</b>, where we want to extend beyond RPA. 
 						</div>
 						<br>
 						<div style="font-size:16px;text-align:justify;">
