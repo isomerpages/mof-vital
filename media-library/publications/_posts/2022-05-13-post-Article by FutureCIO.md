@@ -50,12 +50,12 @@ What will stave off further resignations
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 	"By freeing workers' time and maximising their job satisfaction, businesses can gain a competitive edge with the aid of emerging technology, which is now a business imperative," he continued.
 </p>
-<table>
-	<tr>
-		<td width ="25%">
+<table style="border: 0px;padding:0px;" width="100%" height="100%">
+	<tr style="border: 0px;padding:0px;">
+		<td width ="25%" style="border: 0px;padding:0px;">
 <img src="/images/Media/FutureCIO_Image2.png"  /> 
 		</td>
-		<td>
+		<td style="border: 0px;">
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 <a href="https://www.uipath.com/newsroom/new-uipath-study-reveals-half-of-office-workers-seeking-resignation">Dennis Lui</a>, chief executive of VITAL, the Central Agency for Corporate Shared Services in the Singapore Public Service, concurs adding: "Not only does automation allow employees to save time, but it also ensures that workers are not bogged down by mundane tasks which leads to burnout. Ultimately, automation can maximise workers’ productivity and empower them to focus on higher-value work such as innovation."</p>
 		</td>
