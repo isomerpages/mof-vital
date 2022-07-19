@@ -83,15 +83,15 @@ At this central position as a platform, with all the transactions coming in, we 
 				<tr style="border: 0px; padding:0px;">
 					<td style="border: 0px;vertical-align: middle;" >			
 						<div style="font-size:16px;text-align:justify;">
-							"One big lesson I learned and very heartened to is the <b>great strength and resilience in VITAL staff.</b> I told them we may have to go into a full lockdown, they knew exactly what to do. They had all their plans in place. All I had to do was encourage them, motivate them and if there were small roadblocks, push away for them.
+							"As the robotics and automation lead, we need to ask ourselves how do we harness the collective good work done by more than 100 public agencies, <b>bring them together in a platform so that we can cross learn, collaborate and co-create new ideas.</b> In fact, we have an app called RPA Bot Library for the entire public service, and we are trying to expand that into a robotics automation hub, where we want to extend beyond RPA. 
 						</div>
 						<br>
 						<div style="font-size:16px;text-align:justify;">
-							Looking ahead, the second lesson will be how to <b>emerge stronger.</b> One of the key things that we needed to do was to <b>institutionalise this resilience and strength in my staff, and harness the energy going forward,</b> because it is no longer business as usual today. We are gonna live in a world of endemic."
+							Second part will be we need VITAL at the centre to <b>champion some of these changes that we want to bring in through the use of technology.</b> As a platform, once we create something at the centre, it can be scaled up for use by the rest of government agencies."
 				</div>
 		</td>
 				<td style="border: 0px;vertical-align: middle;" width="35%" >
-					<img src="/images/Media/Fireside_Image2.png"/> 
+					<img src="/images/Media/Fireside_Image4.png"/> 
 			</td>		
 	</tr>
 </table>
