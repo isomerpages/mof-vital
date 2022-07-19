@@ -330,3 +330,61 @@ initiatives and process improvements undertaken by the CMS team. <b>Improving an
 		</td>		
 	</tr>
 	</table>
+	<p style="font-size: 32px;color:#a91932;text-align:justify;">
+Conclusion
+</p>
+<table style="border: 0px;padding:0px;" width="100%" height="100%">
+	<tr style="border: 0px;padding:0px;">
+		<td style="border: 0px;padding:0px;" width="5%">
+			<div style="font-size: 20px;color:#585858;text-align:justify;">
+			21.
+			</div>
+		</td>
+		<td style="border: 0px;padding:0px;">
+			<div style="font-size: 20px;color:#585858;text-align:justify;">
+				The list of our officers’ outstanding achievements goes on, I am so proud of you VITALites and how far you have come along.
+			</div><br>
+		</td>		
+	</tr>
+		<tr style="border: 0px;padding:0px;">
+		<td style="border: 0px;padding:0px;" width="5%">
+			<div style="font-size: 20px;color:#585858;text-align:justify;">
+			22.
+			</div>
+		</td>
+		<td style="border: 0px;padding:0px;">
+			<div style="font-size: 20px;color:#585858;text-align:justify;">
+				A recent interview by GovInsider used the analogy of a magic show - everyone applauds the magician and their assistants for illusions well performed, yet no show would be successful without the work of the crew behind the scenes.
+			</div><br>
+		</td>		
+	</tr>
+			<tr style="border: 0px;padding:0px;">
+		<td style="border: 0px;padding:0px;" width="5%">
+			<div style="font-size: 20px;color:#585858;text-align:justify;">
+			23.
+			</div>
+		</td>
+		<td style="border: 0px;padding:0px;">
+			<div style="font-size: 20px;color:#585858;text-align:justify;">
+				In VITAL, we are that crew behind these scenes keeping the lights on,  preparing the props. Enabled by our role at the Centre looking across HR, Payroll,
+Finance and Procurement processes, and with the help of technology, I believe
+we can make magic happen for Corporate Services across the Singapore
+Public Service.
+			</div><br>
+		</td>		
+	</tr>
+			<tr style="border: 0px;padding:0px;">
+		<td style="border: 0px;padding:0px;" width="5%">
+			<div style="font-size: 20px;color:#585858;text-align:justify;">
+			24.
+			</div>
+		</td>
+		<td style="border: 0px;padding:0px;">
+			<div style="font-size: 20px;color:#585858;text-align:justify;">
+				Once again, congratulations, and thank you again to all Long Service Award,
+Special Appreciation Award and Promotion recipients for your contribution to
+VITAL and the public service.
+			</div><br>
+		</td>		
+	</tr>
+	</table>
