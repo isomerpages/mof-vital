@@ -66,7 +66,7 @@ Meanwhile, contact center agents are on hand to offer a human touch should a pro
 	<a href="https://www.uipath.com/product/chatbots-automation">Call center chatbots</a> lay a foundation for public agencies to implement smarter robots.
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-With a combination of <a href="https://www.uipath.com/blog/artificial-intelligence">artificial intelligence</a> (AI), machine learning (ML), and RPA, UiPath robots are able to enhance public service delivery. Robots empower public agencies to be more agile and resilient because the bots are trained to understand what people see on screens and react accordingly.
+With a combination of <a href="https://www.uipath.com/blog/artificial-intelligence">artificial intelligence</a> (AI), machine learning (ML), and RPA, <a href="https://www.uipath.com/product/robots">UiPath robots</a> are able to enhance public service delivery. Robots empower public agencies to be more agile and resilient because the bots are trained to understand what people see on screens and react accordingly.
 </p>
 
 <table style="border: 0px;padding:0px;" width="100%" height="100%">
