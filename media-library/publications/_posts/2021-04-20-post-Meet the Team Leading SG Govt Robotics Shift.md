@@ -97,6 +97,3 @@ Analytics can also bring anomalous activities to agencies’ attention. An offic
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 As custodian of the public sector’s most fundamental processes, VITAL’s job is to simplify and speed up the mundane parts of civil servants’ work. RPA and analytics will help to reduce admin loads so public officers can focus on serving citizens.
 </p>
-<div style="font-size: 16px;color:#585858;text-align:justify;">
-	<a href="#MainImage">Main image from VITAL.</a> From left to right: Janel Lee, Gerald Tay, Toe Saibun, VITAL Chief Executive Dennis Lui, Ang Chin Pei, Jessica Ong, Kho Hock Guan.
-</div>
