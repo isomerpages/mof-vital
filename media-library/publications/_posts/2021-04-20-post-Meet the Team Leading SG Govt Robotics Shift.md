@@ -14,12 +14,11 @@ description: Meet the Team Leading SG Govt Robotics Shift
 <div style="font-size: 18px;color:#585858;text-align:justify;">
 	Yun Xuan Poon | 20 Apr 2021
 </div>
-<img id="MainImage" src="/images/Media/roboticshift_1.png" alt="Main image from VITAL">
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 	Think of Robotic Process Automation (RPA) as a quiet, industrious colleague. She may not say much, but she keeps her head down and gets the job done quickly, no matter how tedious or repetitive it is.
 </p>
 <p style="font-size: 20px;color:#585858;text-align:justify;">
-Such ‘colleagues’ can be found in many corners of Singapore’s government, whether onboarding new recruits or auditing payrolls. The country plans to bring them into more agencies, and has appointed VITAL as the government’s robotic and automation lead for corporate services.
+Such 'colleagues' can be found in many corners of Singapore’s government, whether onboarding new recruits or auditing payrolls. The country plans to bring them into more agencies, and has appointed VITAL as the government’s robotic and automation lead for corporate services.
 </p>
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 VITAL has a unique role at the centre of government. It oversees HR, finance and procurement processes in more than 100 ministries and statutory boards. Chief executive Dennis Lui shares how the agency will prepare the Singapore government for bots.
