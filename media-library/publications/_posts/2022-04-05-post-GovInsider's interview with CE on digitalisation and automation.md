@@ -91,3 +91,6 @@ We still have seven days a week. But with the help of bots and automation, the k
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 Front-facing government agencies do great work in improving the lives of citizens, but they can only do so with the help of behind-the-scenes organisations like VITAL. With tech like AI, automation and the cloud entering the picture, VITAL is ready to help make magic happen.
 </p>
+<p style="font-size: 16px;color:#585858;text-align:justify;">
+	Click <a href="https://govinsider.asia/data/making-magic-happen-with-ai-and-automation-for-singapores-government-vital-dennis-lui/">HERE</a> to read the original article from GovInsider website.
+</p>
