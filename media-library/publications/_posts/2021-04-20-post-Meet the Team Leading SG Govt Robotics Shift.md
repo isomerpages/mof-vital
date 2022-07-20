@@ -8,12 +8,13 @@ description: Meet the Team Leading SG Govt Robotics Shift
 <p style="font-size: 30px;color:#585858;text-align:justify;">
 	<b>Meet the team leading Singapore government’s robotics shift</b>
 </p>
-<div style="font-size: 24px;color:#585858;text-align:justify;">
+<p style="font-size: 22px;color:#585858;text-align:justify;">
 	Interview with Dennis Lui, Chief Executive, VITAL, Ministry of Finance.
-</div>
-<div style="font-size: 18px;color:#585858;text-align:justify;">
+</p>
+<div style="font-size: 16px;color:#585858;text-align:justify;">
 	Yun Xuan Poon | 20 Apr 2021
 </div>
+<hr style="height: 1px; width: 100%; margin:0 auto;line-height:1px;background-color: #585858; border:0 none;"/>
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 	Think of Robotic Process Automation (RPA) as a quiet, industrious colleague. She may not say much, but she keeps her head down and gets the job done quickly, no matter how tedious or repetitive it is.
 </p>
