@@ -5,13 +5,12 @@ date: 2021-09-01
 layout: post
 description: VITAL partners X0PA to make hiring processes more effective and efficient
 ---
-
 <img src="/images/Media/XOPA.png" />	
 <p style="font-size: 24px;color:#585858;text-align:justify;">
 	<b>VITAL Chooses X0PA AI as its Platform of Choice for Objectivity and Efficiency</b>
 </p>
 <div style="font-size: 16px;color:#585858;text-align:justify;">
-News Article by XOPA AI
+News Article by X0PA AI
 </div>
 <hr style="height: 1px; width: 100%; margin:0 auto;line-height:1px;background-color: #585858; border:0 none;"/>
 <p style="font-size: 20px;color:#585858;text-align:justify;">
