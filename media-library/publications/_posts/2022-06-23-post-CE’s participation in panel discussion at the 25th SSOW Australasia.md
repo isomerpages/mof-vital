@@ -14,7 +14,7 @@ description: CE’s participation in panel discussion at the 25th SSOW Australas
 				Here are the key highlights from Mr Lui’s speech:
 			</p>
 		</td>
-		<td width ="45%" style="border: 0px;padding:0px;vertical-align: middle;">
+		<td width ="35%" style="border: 0px;padding:0px;vertical-align: middle;">
 					<img src="/images/Media/ssow_image1.png"  /> 
 		</td>
 	</tr>
