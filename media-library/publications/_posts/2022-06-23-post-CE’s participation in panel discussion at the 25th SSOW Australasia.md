@@ -8,13 +8,13 @@ description: CE’s participation in panel discussion at the 25th SSOW Australas
 <table style="border: 0px;padding:0px;" width="100%" height="100%">
 	<tr style="border: 0px;padding:0px;">		
 		<td style="border: 0px;">
-<p style="font-size: 18px;color:#585858;text-align:justify;">
+<p style="font-size: 18px;color:#585858;text-align:justify;vertical-align: bottom;">
        Mr Dennis Lui, Chief Executive of VITAL, was invited as a keynote panel speaker at the 25th Shared Services & Outsourcing Week (SSOW) Australasia conference in Melbourne on 23 June 2022. Mr Lui addressed topics centred around advancing the maturity curve of shared services through capability development. This marked the first time that VITAL presented at an overseas SSOW conference.</p>
 			<p style="font-size: 18px;color:#585858;text-align:justify;">
 				Here are the key highlights from Mr Lui’s speech:
 			</p>
 		</td>
-		<td width ="35%" style="border: 0px;padding:0px;vertical-align: middle;">
+		<td width ="30%" style="border: 0px;padding:0px;vertical-align: middle;">
 					<img src="/images/Media/ssow_image1.png"  /> 
 		</td>
 	</tr>
