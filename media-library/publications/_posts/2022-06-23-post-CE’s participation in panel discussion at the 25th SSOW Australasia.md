@@ -18,7 +18,8 @@ description: CE’s participation in panel discussion at the 25th SSOW Australas
 					<img src="/images/Media/ssow_image1.png"  /> 
 		</td>
 	</tr>
-	</table>
+</tr>
+<td colspan="2">
 <p style="font-size: 24px;color:#a91932;text-align:justify;">	        
 VITAL’s role as an ops-tech integration platform
 </p>
@@ -42,3 +43,6 @@ Standardisation and centralisation of shared services
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 In order to standardise and centralise HR and finance services, the key is to ensure standardised lines of services. The next is to build a process excellence and process management team to make sure that people do not deviate. Finally, the Singapore Government has recently invested in two large ERP systems. The system consolidation has made it easier for VITAL to follow best practices in the industry.
 </p>
+	</td>
+	</tr>
+	</table>
