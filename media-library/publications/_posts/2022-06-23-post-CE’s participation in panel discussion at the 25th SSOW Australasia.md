@@ -19,24 +19,11 @@ description: CE’s participation in panel discussion at the 25th SSOW Australas
 		</td>
 	</tr>
 	</table>
-
-<p style="font-size: 26px;color:#585858;text-align:justify;">
-	<b>Stopping Singapore's looming labour shortage</b>
-</p>
-<div style="font-size: 16px;color:#585858;text-align:justify;">
-by FutureCIO Editors | 13 MAY 2022</div>
-<img src="/images/Media/FutureCIO_Image1.png">
-<p style="font-size: 18px;color:#585858;text-align:justify;">
-	UiPath’s 2022 Office Worker Survey of more than 500 office workers in Singapore revealed that 66% of office workers are feeling increased pressure at work because their colleagues have quit within the last year, the third-highest of seven countries polled.
+<p style="font-size: 24px;color:#a91932;text-align:justify;">	        
+	VITAL’s role as an ops-tech integration platform
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-Alarmingly, 86% of respondents have had to take on up to six new tasks outside of their job descriptions following co-workers' departure with 69% saying they no longer know their responsibilities.
-</p>
-<p style="font-size: 24px;color:#a91932;text-align:justify;">
-	Money is no longer the primary driver
-</p>
-<p style="font-size: 18px;color:#585858;text-align:justify;">
-	<b>Labour shortages and mundane work are causing people to quit</b>: 73% of respondents in Singapore say they are interested or could be swayed into looking for a new job in the next six months. About 32% say they are currently applying for another job, and 28% have had interviews with another company in the past six months.
+	To reframe VITAL’s role as an ops-tech integration platform, we will try to promulgate and scale up investments in technologies such as RPA, as a service to the Whole of Government. Since VITAL is a provider of shared services to all government departments, such an approach will enable us to add value and become an engine of growth.
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 	Office workers are motivated to seek a new position due to increased pressure on work/life balance (40%), lack of employee recognition (28%), and spending too much time on administrative tasks (27%).
