@@ -5,7 +5,6 @@ date: 2022-05-13
 layout: post
 description: "Article by FutureCIO: Stopping Singapore's looming labour shortage"
 ---
-
 <p style="font-size: 26px;color:#585858;text-align:justify;">
 	<b>Stopping Singapore's looming labour shortage</b>
 </p>
@@ -13,7 +12,7 @@ description: "Article by FutureCIO: Stopping Singapore's looming labour shortage
 by FutureCIO Editors | 13 MAY 2022</div>
 <img src="/images/Media/FutureCIO_Image1.png">
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-	UiPath’s <a href="https://www.uipath.com/newsroom/new-uipath-study-reveals-half-of-office-workers-seeking-resignation">2022 Office Worker Survey</a> of more than 500 office workers in Singapore revealed that 66% of office workers are feeling increased pressure at work because their colleagues have quit within the last year, the third-highest of seven countries polled.
+	UiPath’s 2022 Office Worker Survey of more than 500 office workers in Singapore revealed that 66% of office workers are feeling increased pressure at work because their colleagues have quit within the last year, the third-highest of seven countries polled.
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 Alarmingly, 86% of respondents have had to take on up to six new tasks outside of their job descriptions following co-workers' departure with 69% saying they no longer know their responsibilities.
@@ -40,10 +39,10 @@ What will stave off further resignations
 	<b>Automation can help fight the Great Resignation</b>: 77% of respondents in Singapore contend that incorporating automation—including training on automation—could help their organisation attract new and retain existing talent, which is the second-highest of all countries polled.
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-	"Office workers in Singapore are feeling burnt out and are seeking meaningful work, work/life balance and recognition. Businesses must innovate and transform with a long-term view as the war of talent continues to intensify in the country’s tightening labour market," said <a href="https://www.linkedin.com/in/richardharshman/?original_referer=https%3A%2F%2Ffuturecio.tech%2F">Rick Harshman</a>, senior vice-president and managing director of Asia Pacific at UiPath.
+	"Office workers in Singapore are feeling burnt out and are seeking meaningful work, work/life balance and recognition. Businesses must innovate and transform with a long-term view as the war of talent continues to intensify in the country’s tightening labour market," said Rick Harshman, senior vice-president and managing director of Asia Pacific at UiPath.
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-	<a href="https://stats.mom.gov.sg/Pages/Unemployment-Summary-Table.aspx">Data</a> from the <a href="https://www.mom.gov.sg/">Ministry of Manpower</a> suggests that unemployment is heading back to pre-pandemic levels, from the steep 3.0% in 2020, down to 2.7% in 2021 and expectations to drop further in 2022.
+	Data from the Ministry of Manpower suggests that unemployment is heading back to pre-pandemic levels, from the steep 3.0% in 2020, down to 2.7% in 2021 and expectations to drop further in 2022.
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 	Harshman suggests that businesses adopt technologies like automation to help to reduce mundane work and increase productivity, to ensure that they can retain and attract workers.
@@ -58,7 +57,7 @@ What will stave off further resignations
 		</td>
 		<td style="border: 0px;">
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-<a href="https://www.uipath.com/newsroom/new-uipath-study-reveals-half-of-office-workers-seeking-resignation">Dennis Lui</a>, chief executive of VITAL, the Central Agency for Corporate Shared Services in the Singapore Public Service, concurs adding: "Not only does automation allow employees to save time, but it also ensures that workers are not bogged down by mundane tasks which leads to burnout. Ultimately, automation can maximise workers’ productivity and empower them to focus on higher-value work such as innovation."</p>
+Dennis Lui, chief executive of VITAL, the Central Agency for Corporate Shared Services in the Singapore Public Service, concurs adding: "Not only does automation allow employees to save time, but it also ensures that workers are not bogged down by mundane tasks which leads to burnout. Ultimately, automation can maximise workers’ productivity and empower them to focus on higher-value work such as innovation."</p>
 		</td>
 	</tr>
 	</table>
