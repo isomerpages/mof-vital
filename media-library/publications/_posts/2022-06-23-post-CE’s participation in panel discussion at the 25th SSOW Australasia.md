@@ -20,39 +20,25 @@ description: CE’s participation in panel discussion at the 25th SSOW Australas
 	</tr>
 	</table>
 <p style="font-size: 24px;color:#a91932;text-align:justify;">	        
-	VITAL’s role as an ops-tech integration platform
+VITAL’s role as an ops-tech integration platform
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 	To reframe VITAL’s role as an ops-tech integration platform, we will try to promulgate and scale up investments in technologies such as RPA, as a service to the Whole of Government. Since VITAL is a provider of shared services to all government departments, such an approach will enable us to add value and become an engine of growth.
 </p>
-<p style="font-size: 18px;color:#585858;text-align:justify;">
-	Office workers are motivated to seek a new position due to increased pressure on work/life balance (40%), lack of employee recognition (28%), and spending too much time on administrative tasks (27%).
+<p style="font-size: 24px;color:#a91932;text-align:justify;">	        
+	VITAL’s citizen developer strategy
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-	<b>Expanding roles are compounded by monotonous tasks</b>: 97% of respondents in Singapore say they feel exhausted at the end of a workday at least one day per week. They are frustrated by mundane tasks at work, like responding to emails (41%), scheduling calls and meetings (33%), and inputting data/creating datasets (33%).
+	VITAL is making concerted efforts to send our staff back to school. We have partnered a polytechnic to offer specialist diplomas or certificates in data analytics, to empower and uplift our workforce.
 </p>
-<p style="font-size: 24px;color:#a91932;text-align:justify;">
-What will stave off further resignations
-</p>
-<p style="font-size: 18px;color:#585858;text-align:justify;">
-	<b>Office workers believe automation is core to improving their job performance and satisfaction</b>: About 61% of office workers in Singapore feel like much of their workday is eaten up by tasks that can be automated. In addition, 52% believe that automation can improve their job performance, namely by saving time (62%), increasing productivity (57%), and creating opportunities to focus on more important work (50%). 76% agree they can focus on more creative work with the help of automation.
+<p style="font-size: 24px;color:#a91932;text-align:justify;">	     
+Critical shift in mental model
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-	<b>Automation can help fight the Great Resignation</b>: 77% of respondents in Singapore contend that incorporating automation—including training on automation—could help their organisation attract new and retain existing talent, which is the second-highest of all countries polled.
+With the paradigm shift in VITAL’s expanded role as central agency for corporate shared services, it is critical to change mindsets and internalise the shift in mental model at all levels – internally with our staff, and externally with our partner agencies and key stakeholders.
+<p style="font-size: 24px;color:#a91932;text-align:justify;">	     
+Standardisation and centralisation of shared services
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-	"Office workers in Singapore are feeling burnt out and are seeking meaningful work, work/life balance and recognition. Businesses must innovate and transform with a long-term view as the war of talent continues to intensify in the country’s tightening labour market," said Rick Harshman, senior vice-president and managing director of Asia Pacific at UiPath.
-</p>
-<p style="font-size: 18px;color:#585858;text-align:justify;">
-	Data from the Ministry of Manpower suggests that unemployment is heading back to pre-pandemic levels, from the steep 3.0% in 2020, down to 2.7% in 2021 and expectations to drop further in 2022.
-</p>
-<p style="font-size: 18px;color:#585858;text-align:justify;">
-	Harshman suggests that businesses adopt technologies like automation to help to reduce mundane work and increase productivity, to ensure that they can retain and attract workers.
-</p>
-<p style="font-size: 18px;color:#585858;text-align:justify;">
-	"By freeing workers' time and maximising their job satisfaction, businesses can gain a competitive edge with the aid of emerging technology, which is now a business imperative," he continued.
-</p>
-
-<p style="font-size: 16px;color:#585858;text-align:justify;">
-Click <a href="https://futurecio.tech/stopping-singapores-looming-labour-shortage/"> HERE</a> to read the original article from FutureCIO website.
+In order to standardise and centralise HR and finance services, the key is to ensure standardised lines of services. The next is to build a process excellence and process management team to make sure that people do not deviate. Finally, the Singapore Government has recently invested in two large ERP systems. The system consolidation has made it easier for VITAL to follow best practices in the industry.
 </p>
