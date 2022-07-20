@@ -5,15 +5,14 @@ date: 2022-04-04
 layout: post
 description: "Blog post by UiPath: Serving the public better with smart robots"
 ---
-
 <p style="font-size: 26px;color:#585858;text-align:justify;">
 	<b>Serving the Public Better with Smart Robots</b>
 </p>
 <div style="font-size: 16px;color:#585858;text-align:justify;">
-	by <A HREF="https://www.uipath.com/blog/wen-ming-wong">Wen-Ming Wong</A> | 04 APRIL 2022</div>
+	by Wen-Ming Wong | 04 APRIL 2022</div>
 <img src="/images/Media/UiPathBlogPost_Image1.png">
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-	The mission of <a href="https://www.uipath.com/solutions/industry/public-sector-automation">public sector services</a> is often defined as serving the people, by the people. With the help of software robots, humans are empowered to achieve greater productivity and satisfaction at work, which benefits the employee, the organization, and the citizen. This is where <a href="https://www.uipath.com/rpa/robotic-process-automation">robotic process automation</a> (RPA) can shine.
+	The mission of public sector services is often defined as serving the people, by the people. With the help of software robots, humans are empowered to achieve greater productivity and satisfaction at work, which benefits the employee, the organization, and the citizen. This is where robotic process automation (RPA) can shine.
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 At a webinar jointly organized by UiPath and the Singapore government’s shared services department VITAL on Dec 9, 2021, experts shared insights that highlighted the need for public agencies to automate processes. Not only does automation improve public service delivery, but also enhances experiences for both employees and the public.
@@ -34,7 +33,7 @@ The need for faster uptake
 	Today, despite the acceleration of remote work, public agencies worldwide are still lagging when implementing automation.
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-	According to <a href="https://spectrumsmartcities.com/smarter-central/smart-government-digital-transformation.html">research firm Gartner</a>, "more than 60% of governments will have tripled their digital services by 2023, but fewer than 25% will be integrated across organizations’ silos."
+	According to research firm Gartner, "more than 60% of governments will have tripled their digital services by 2023, but fewer than 25% will be integrated across organizations’ silos."
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 	There is a "huge opportunity" to address these issues now, said David Burrows, Public Sector Industries Leader at UiPath.
@@ -46,13 +45,13 @@ The need for faster uptake
 	David Burrows, Public Sector Industries Leader, UiPath
 </div>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-Automation is a key enabler towards <a href="https://www.uipath.com/blog/digital-transformation">digital transformation</a>. By leveraging automation, public sector employees can increase their bandwidth for more meaningful efforts, Burrows added. For example, employee efforts that strengthen trust between the people and the government.
+Automation is a key enabler towards digital transformation. By leveraging automation, public sector employees can increase their bandwidth for more meaningful efforts, Burrows added. For example, employee efforts that strengthen trust between the people and the government.
 </p>
 <p style="font-size: 30px;color:#a91932;text-align:justify;">
 Automation strengthens organizational resilience
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-	<a href="https://www.uipath.com/resources/covid-automations">During the pandemic</a>, public agencies around the world have scrambled to cope with citizen requests like the influx of calls at contact centers. This has led to frustrated citizens and low morale among employees.
+	During the pandemic, public agencies around the world have scrambled to cope with citizen requests like the influx of calls at contact centers. This has led to frustrated citizens and low morale among employees.
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 UiPath assisted public sector agencies in setting up virtual contact centers. With software robots, agencies are capable of providing round-the-clock assistance. And robots can deliver personalized replies to many inquiries.
@@ -64,10 +63,10 @@ Meanwhile, contact center agents are on hand to offer a human touch should a pro
 "Trust is something that is under a lot of pressure with the government,” said Burrows. “If people feel comfortable with how you are handling their issues, then you can successfully complete the mission. The return on investment is more than time and money in the public service, it has to be quality of service."
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-	<a href="https://www.uipath.com/product/chatbots-automation">Call center chatbots</a> lay a foundation for public agencies to implement smarter robots.
+	Call center chatbots lay a foundation for public agencies to implement smarter robots.
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-With a combination of <a href="https://www.uipath.com/blog/artificial-intelligence">artificial intelligence</a> (AI), machine learning (ML), and RPA, <a href="https://www.uipath.com/product/robots">UiPath robots</a> are able to enhance public service delivery. Robots empower public agencies to be more agile and resilient because the bots are trained to understand what people see on screens and react accordingly.
+With a combination of artificial intelligence (AI), machine learning (ML), and RPA, UiPath robots are able to enhance public service delivery. Robots empower public agencies to be more agile and resilient because the bots are trained to understand what people see on screens and react accordingly.
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 As smart robots take on additional tedious tasks, employees gain extra time to think about how to engage people better and create citizen-centric public services. “The key driver is to look at how we reshape the whole customer engagement,” said Boris Krumrey, Global Vice President of Automation Innovations at UiPath.
@@ -79,7 +78,7 @@ Citizen developers are VITAL
 For VITAL, its RPA journey has included creating a “bot library” of automation best practices and scripts for more than 100 government agencies in Singapore. Since 2017, automation has been the core of the organization’s digital roadmap. And VITAL has progressed to implementing unattended automationsand adopting a citizen developer strategy.
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-VITAL’s vision is that every officer can become a citizen developer, building robots for themselves and their colleagues using low- or no-code tools such as <a href="https://www.uipath.com/product/studiox">UiPath StudioX.</a>
+VITAL’s vision is that every officer can become a citizen developer, building robots for themselves and their colleagues using low- or no-code tools such as UiPath StudioX.
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 Having a low-code/no-code automation tool has helped VITAL scale automation faster. “The UiPath Platform serves as an alternative with a lower learning barrier for non-IT-trained officers who find it challenging to learn the standard RPA developer software on top of their daily work,” said Jessica Ong, Assistant Director (Innovation Hub) at VITAL.
