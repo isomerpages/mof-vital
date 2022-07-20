@@ -21,7 +21,7 @@ description: CE’s participation in panel discussion at the 25th SSOW Australas
 	</tr>
 <tr>
 <td colspan="2">
-<p style="font-size: 24px;color:#a91932;text-align:justify;">	        
+	<p style="font-size: 24px;color:#a91932;text-align:justify;">	        
 VITAL’s role as an ops-tech integration platform
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
@@ -38,6 +38,7 @@ Critical shift in mental model
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 With the paradigm shift in VITAL’s expanded role as central agency for corporate shared services, it is critical to change mindsets and internalise the shift in mental model at all levels – internally with our staff, and externally with our partner agencies and key stakeholders.
+	</p>
 <p style="font-size: 24px;color:#a91932;text-align:justify;">	     
 Standardisation and centralisation of shared services
 </p>
@@ -46,4 +47,4 @@ In order to standardise and centralise HR and finance services, the key is to en
 </p>
 	</td>
 	</tr>
-	</table>
+</table>
