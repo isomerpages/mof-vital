@@ -9,7 +9,7 @@ description: VITAL Data Hackathon 2022
 	<tr style="border: 0px;padding:0px;background-color:#ab874f">
 		<td colspan = "2" style="border: 0px;padding:10px;vertical-align: middle;text-align: center">			
 			<p style="font-size:32px;color:#ffffff">   
-				VITAL Data Hackathon 2022
+				VITAL Data Hackathon Jan 2022
 			</p>
 		</td>
 	</tr>
