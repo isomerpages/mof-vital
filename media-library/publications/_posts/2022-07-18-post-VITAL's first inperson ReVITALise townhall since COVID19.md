@@ -1,5 +1,5 @@
 ---
-title: VITAL's first inperson ReVITALise townhall since COVID19
+title: VITAL's first in-person ReVITALise townhall since COVID-19
 permalink: /media-library/publications/first-in-person-townhall-since-covid
 date: 2022-07-18
 layout: post
