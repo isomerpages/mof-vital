@@ -14,9 +14,9 @@ colors:
     - title: media-color-two
       color: "#744d9f"
     - title: media-color-three
-      color: "#1B4393"
+      color: "#444444"
     - title: media-color-four
-      color: "#00838f"
+      color: "#1B4393"
     - title: media-color-five
       color: "#00838f"
 description: VITAL is the shared services arm of the Singapore Government. We
