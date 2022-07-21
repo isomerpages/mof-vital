@@ -12,7 +12,7 @@ You will receive the necessary training to do your work well and development opp
 
 Join the VITAL family today and be part of a quality team!
 
-<a class="" href="go.gov.sg/vital-career" target="_blank">View Opportunities</a>
+<a class="" href="https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=VITAL" target="_blank">View Opportunities</a>
 
 
 <img src="/images/career/VITALites.jpg" alt="VITALites" /> 
