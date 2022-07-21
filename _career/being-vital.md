@@ -12,7 +12,7 @@ You will receive the necessary training to do your work well and development opp
 
 Join the VITAL family today and be part of a quality team!
 
-<a class="" href="http://careers.pageuppeople.com/688/cwlive/en/filter/?search-keyword=&category=&work-type=&brand=vital&job-sector=" target="_blank">View Opportunities</a>
+<a class="" href="go.gov.sg/vital-career" target="_blank">View Opportunities</a>
 
 
 <img src="/images/career/VITALites.jpg" alt="VITALites" /> 
