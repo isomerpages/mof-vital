@@ -1,30 +1,29 @@
 title: VITAL SHARED SERVICES
-url: ''
+url: ""
 favicon: /images/general/favicon.ico
 agency-logo: /images/general/logo.png
 colors:
-  primary-color: '#a91932'
-  secondary-color: '#a91932'
-  tr-hover-color: '#dfe6ef'
-  th-color: '#13388f'
-  h4: '#2F4692'
+  primary-color: "#a91932"
+  secondary-color: "#a91932"
+  tr-hover-color: "#dfe6ef"
+  th-color: "#13388f"
+  h4: "#2F4692"
   media-colors:
     - title: media-color-one
-      color: '#49759a'
+      color: "#49759a"
     - title: media-color-two
-      color: '#744d9f'
+      color: "#1B4393"
     - title: media-color-three
-      color: '#00838f'
+      color: "#444444"
     - title: media-color-four
-      color: '#00838f'
+      color: "#00838f"
     - title: media-color-five
-      color: '#00838f'
-description: >-
-  VITAL is the shared services arm of the Singapore Government. We aggregate
-  common corporate services to derive economies of scale to achieve efficiency
-  and effectiveness.
+      color: "#00838f"
+description: VITAL is the shared services arm of the Singapore Government. We
+  aggregate common corporate services to derive economies of scale to achieve
+  efficiency and effectiveness.
 permalink: none
-baseurl: ''
+baseurl: ""
 exclude:
   - travis-script.js
   - .travis.yml
@@ -42,7 +41,7 @@ include:
   - _redirects
 defaults:
   - scope:
-      path: ''
+      path: ""
     values:
       layout: page
 custom_css_path: /misc/custom.css
@@ -58,3 +57,4 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
+resources_name: media-library
