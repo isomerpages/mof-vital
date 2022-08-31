@@ -11,18 +11,18 @@ description: DPM Lawrence Wong’s speech at the Inclusive Business Forum 2022
 <hr style="height: 1px; width: 100%; margin:0 auto;line-height:1px;background-color: #585858; border:0 none;" />
 <br>
 <div style="font-size: 18px;color:#585858;text-align:justify;">
-Chairman and CEO of SG Enable, 
+	Chairman and CEO of SG Enable, 
 </div>
 <div style="font-size: 18px;color:#585858;text-align:justify;">
-Parliamentary Colleagues Mr Eric Chua and Ms Denise Phua, 
-	</div>
-	<div style="font-size: 18px;color:#585858;text-align:justify;">
-Distinguished Guests, 
-	</div>
-	<div style="font-size: 18px;color:#585858;text-align:justify;">
-Ladies and Gentlemen, 
-	</div>
-	<br>
+	Parliamentary Colleagues Mr Eric Chua and Ms Denise Phua, 
+</div>
+<div style="font-size: 18px;color:#585858;text-align:justify;">
+	Distinguished Guests, 
+</div>
+<div style="font-size: 18px;color:#585858;text-align:justify;">
+	Ladies and Gentlemen, 
+</div>
+<br>
 <div style="font-size: 18px;color:#585858;text-align:justify;">
 I am very happy to join you today at this year's Inclusive Business Forum. I am heartened to see so many businesses leaders gathered together today to discuss best practices for disability-inclusive hiring.
 	</div>
