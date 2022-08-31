@@ -107,12 +107,12 @@ A fully automated enterprise considers automation first and applies it where it 
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 The following are the four Pillars of a fully automated enterprise:
 </p>
-<ul style="font-size: 18px;color:#585858;text-align:justify;list-style-type:disc;">
-  <li>Assigns all automatable work to software robots to make back-office work invisible;</li>
-  <li>Provides a robot for every employee;</li>
-  <li>democratises development, allowing power users to rapidly create new automation and applications; and</li>
-	<li>Integrates AI into all aspects of work, expanding the footprint of automation into cognitive processes to automate even more.</li>
-</ul>
+<ul style="font-size: 18px;color:#585858;text-align:justify;">
+<li>Assigns all automatable work to software robots to make back-office work invisible;</li>
+<li>Provides a robot for every employee;</li>
+<li>democratises development, allowing power users to rapidly create new automation and applications; and</li>
+<li>Integrates AI into all aspects of work, expanding the footprint of automation into cognitive processes to automate even more.</li>
+</ul> 
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 “These pillars are a response to real, material outcomes that we’re observing in the industry,” says Wen-Ming.
 </p>
