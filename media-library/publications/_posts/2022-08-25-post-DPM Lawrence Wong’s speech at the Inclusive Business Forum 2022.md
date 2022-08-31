@@ -11,16 +11,16 @@ description: DPM Lawrence Wong’s speech at the Inclusive Business Forum 2022
 <hr style="height: 1px; width: 100%; margin:0 auto;line-height:1px;background-color: #585858; border:0 none;" />
 <br>
 <div style="font-size: 18px;color:#585858;text-align:justify;">
-Chairman and CEO of SG Enable
+Chairman and CEO of SG Enable, 
 </div>
 <div style="font-size: 18px;color:#585858;text-align:justify;">
-Parliamentary Colleagues Mr Eric Chua and Ms Denise Phua
+Parliamentary Colleagues Mr Eric Chua and Ms Denise Phua, 
 	</div>
 	<div style="font-size: 18px;color:#585858;text-align:justify;">
-Distinguished Guests,  
+Distinguished Guests, 
 	</div>
 	<div style="font-size: 18px;color:#585858;text-align:justify;">
-Ladies and Gentlemen,
+Ladies and Gentlemen, 
 	</div>
 	<br>
 <div style="font-size: 18px;color:#585858;text-align:justify;">
