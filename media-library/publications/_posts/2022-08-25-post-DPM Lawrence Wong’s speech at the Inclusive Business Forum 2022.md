@@ -33,7 +33,6 @@ I am very happy to join you today at this year's Inclusive Business Forum. I am 
 <div style="font-size: 18px;color:#585858;text-align:justify;">
 	Partly because of these reasons, I am glad that more persons with disabilities have become employed in recent years. Despite challenges of the pandemic, the resident employment rate for this group has increased from 28% in 2019 to 30% last year.
 </div>
-<br>
 <div style="font-size: 18px;color:#585858;text-align:justify;">
 	This is good but we can and must do better. Because as we look to the future, what is clear is that the continued success of Singapore will rely not just on how much economic growth we can generate, but how inclusive we can become as a society. We have to do more to ensure everyone can participate fully in the progress of our nation. And for persons with disabilities, we will have to build on what we have achieved so far.
 </div>
