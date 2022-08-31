@@ -8,15 +8,14 @@ description: DPM Lawrence Wong’s speech at the Inclusive Business Forum 2022
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 	In Deputy Prime Minister Lawrence Wong's speech at the Inclusive Business Forum on 25 August 2022, VITAL was cited as a good example of public service doing our part to become disability-inclusive.
 </p>
-<br>
-<hr style="height: 1px; width: 100%; margin:0 auto;line-height:1px;background-color: #585858; border:0 none;"/>
+<hr style="height: 1px; width: 100%; margin:0 auto;line-height:1px;background-color: #585858; border:0 none;" />
 <p style="font-size: 18px;color:#a91932;text-align:justify;">
 Speech by Mr Lawrence Wong, Deputy Prime Minister and Minister for Finance, at the Inclusive Business Forum 2022 on Thursday, 25 August 2022 at Mediacorp Campus.</p>
 <div style="font-size: 18px;color:#585858;text-align:justify;">
-Chairman and CEO of SG Enable,  
-	</div>
-	<div style="font-size: 18px;color:#585858;text-align:justify;">
-Parliamentary Colleagues Mr Eric Chua and Ms Denise Phua,  
+Chairman and CEO of SG Enable,
+</div>
+<div style="font-size: 18px;color:#585858;text-align:justify;">
+Parliamentary Colleagues Mr Eric Chua and Ms Denise Phua,
 	</div>
 	<div style="font-size: 18px;color:#585858;text-align:justify;">
 Distinguished Guests,  
