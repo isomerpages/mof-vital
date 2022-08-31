@@ -25,7 +25,7 @@ Ladies and Gentlemen,
 	</div>
 	<br>
 <div style="font-size: 18px;color:#585858;text-align:justify;">
-I am very happy to join you today at this year’s Inclusive Business Forum. I am heartened to see so many businesses leaders gathered together today to discuss best practices for disability-inclusive hiring.
+I am very happy to join you today at this year's Inclusive Business Forum. I am heartened to see so many businesses leaders gathered together today to discuss best practices for disability-inclusive hiring.
 	</div>
 	<br>
 	<div style="font-size: 18px;color:#585858;text-align:justify;">
