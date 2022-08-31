@@ -107,7 +107,7 @@ A fully automated enterprise considers automation first and applies it where it 
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 The following are the four Pillars of a fully automated enterprise:
 </p>
-<ul style="font-size: 18px;color:#585858;text-align:justify;">
+<ul style="font-size: 16px;color:#585858;text-align:justify;">
 <li>Assigns all automatable work to software robots to make back-office work invisible;</li>
 <li>Provides a robot for every employee;</li>
 <li>democratises development, allowing power users to rapidly create new automation and applications; and</li>
