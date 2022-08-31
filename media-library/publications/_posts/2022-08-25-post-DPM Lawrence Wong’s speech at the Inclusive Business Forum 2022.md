@@ -24,7 +24,7 @@ description: DPM Lawrence Wong’s speech at the Inclusive Business Forum 2022
 <br>
 <div style="font-size: 18px;color:#585858;text-align:justify;">
 I am very happy to join you today at this year's Inclusive Business Forum. I am heartened to see so many businesses leaders gathered together today to discuss best practices for disability-inclusive hiring.
-	</div>
+</div>
 	<br>
 	<div style="font-size: 18px;color:#585858;text-align:justify;">
 	The last time this forum was organised as an in-person event, was, I believe, two years ago, just after the circuit breaker and we had a bit of a respite. Since then, we have been through ups and downs and some difficult times through the pandemic. And businesses have been impacted, especially F&B and hospitality. These are also the sectors that traditionally hire persons with disabilities, so that roller coaster ride has also impacted people with disabilities.
