@@ -12,10 +12,10 @@ description: DPM Lawrence Wong’s speech at the Inclusive Business Forum 2022
 <p style="font-size: 18px;color:#a91932;text-align:justify;">
 Speech by Mr Lawrence Wong, Deputy Prime Minister and Minister for Finance, at the Inclusive Business Forum 2022 on Thursday, 25 August 2022 at Mediacorp Campus.</p>
 <div style="font-size: 18px;color:#585858;text-align:justify;">
-Chairman and CEO of SG Enable,
+Chairman and CEO of SG Enable
 </div>
 <div style="font-size: 18px;color:#585858;text-align:justify;">
-Parliamentary Colleagues Mr Eric Chua and Ms Denise Phua,
+Parliamentary Colleagues Mr Eric Chua and Ms Denise Phua
 	</div>
 	<div style="font-size: 18px;color:#585858;text-align:justify;">
 Distinguished Guests,  
