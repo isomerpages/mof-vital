@@ -35,22 +35,21 @@ VITAL is one of the lead agencies for public sector DA and manages the following
 We are constantly on the lookout for new opportunities to aggregate demand across the public sector, and welcome suppliers as well as service providers who wish to offer their goods and services.
 
 
-### Learning Hub
+### HRP Training Module
 
-The Learning Hub module in the government Human Resource Management System (HRMS) provides a convenient avenue for public officers to search and register for training courses to enhance their professional growth.
+The Training module in the Human Resource and Payroll (HRP) system provides a convenient avenue for public officers to search and register for training courses to enhance their professional growth.
 
-By coming on board the Learning Hub as a training provider, you can extend your offerings to public officers.
+By coming onboard as a training provider, you can extend your offerings to more than 40,000 public officers.
 
 Interested training providers who meet the following criteria may apply: 
 <ul>
-   <li>At least 5 years of establishment&nbsp;</li>
-   <li>Track record of courses delivered to large organisations with more than 200 staff&nbsp;</li>
+   <li>Track record of delivering courses attended by participants from government agencies&nbsp;</li>
    <li>Track record of qualified trainers with qualification in training delivery or teaching&nbsp;</li>
    <li>Registered business entity with ACRA&nbsp;</li>
-   <li>Registered on Vendors@Gov&nbsp;</li>
+   <li>Sound financial health&nbsp;</li>
 </ul>
 
-We welcome training providers who are interested to list their training courses on the Learning Hub to touch base with us. For more details, download <a href="/media/Application for Training Providers to HRMS 20082019.pdf" target="_blank" >application form</a> (PDF, 523kb) for more details on the application and the supporting documents required.
+We welcome training providers who are interested to list their training courses on the HRP Training module to contact us. For more details on the application, please download <a href="/files/Application Details.pdf" target="_blank">application details</a> (PDF, 114kb) .
 
 To view/ open the resources in this page, you will need to download the Adobe Acrobat Reader software. 
 Please follow this link to download Adobe’s free <a href="https://get.adobe.com/reader/" target="_blank" >Acrobat Reader</a> software. (Windows and Mac)
