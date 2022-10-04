@@ -21,3 +21,21 @@ VITAL has taken their role to the next level with a plan to implement a new clou
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 “With VITAL’s robotics and automation efforts, public agencies will be able to increase work efficiency and free up officers from otherwise tedious and repetitive work. This will also enable them to continue delivering quality services while developing other value-added services,” says Leong Siew Keong, Chief Information Officer of VITAL.</p>
+
+<img src="/images/Media/Automation%20platform.png" />
+ <font size="-1">With robotics and automation, public officers will be freed up from tedious or repetitive tasks, and spend more time developing value-added services for citizens. Image: VITAL</font>
+
+ <p style="font-size: 20px;color:#585858;text-align:justify;">
+The platform is set to launch in the first quarter of 2023, with VITAL aiming to bring government agencies in Singapore on board the platform in the second quarter of 2023.</p>
+
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+“With the new platform, corporate processes will become simpler through automation. Agencies will be able to access a suite of standardised bots and automation services for corporate service use cases, such as the creation of reports from extracted data, updating of records, the generation of notifications to recipients, and performing reconciliation or replication of information across datasets,” Leong explains.</p>
+
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+Those requiring a more customised approach will also have the option of working with VITAL to explore and create intelligent automation projects. In line with the adage of “build once, use many”, all new projects and bots can be uploaded and shared on the central platform for other government agencies to access. This reduces duplicative efforts and improves efficiency across the whole of government.</p>
+
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+Beyond bots, government agencies can also enjoy a range of features including AI-related products like document analysis, process and task mining, as well as the generation of insights from unstructured information, processes and tasks.</p>
+
+
+ 
