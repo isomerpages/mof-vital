@@ -41,10 +41,15 @@ Beyond bots, government agencies can also enjoy a range of features including AI
 Created by government, for government
 </p>
 
-As the Singapore government’s central agency for corporate shared services, VITAL is well-acquainted with the complexities of delivering technology for government. As such, the entire platform is secured as a private cloud. This ensures that agencies can easily access the platform without needing to worry about access and security compliance.
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+As the Singapore government’s central agency for corporate shared services, VITAL is well-acquainted with the complexities of delivering technology for government. As such, the entire platform is secured as a private cloud. This ensures that agencies can easily access the platform without needing to worry about access and security compliance.</p>
 
-“Not all government agencies may be familiar with RPA. This central platform will lower the barriers to entry for robotics automation, allowing those who are new or unfamiliar to RPA to explore AI and automation solutions before understanding the intricacies of relevant technology and set-up, such as operating compute nodes and graphical processors for computer vision. This would also lower the costs of automation, as government agencies would not need to set up their own RPA infrastructure for corporate services, of which some systems are classified”, Leong says.
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+“Not all government agencies may be familiar with RPA. This central platform will lower the barriers to entry for robotics automation, allowing those who are new or unfamiliar to RPA to explore AI and automation solutions before understanding the intricacies of relevant technology and set-up, such as operating compute nodes and graphical processors for computer vision. This would also lower the costs of automation, as government agencies would not need to set up their own RPA infrastructure for corporate services, of which some systems are classified”, Leong says.</p>
 
-Furthermore, the centralised platform ensures that the automation solutions developed would be interoperable across different government agencies. This means that VITAL can guide the deployment of automation solutions, mitigating the need for adjustments or customisations of bots and services for common use, unless necessary.
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+Furthermore, the centralised platform ensures that the automation solutions developed would be interoperable across different government agencies. This means that VITAL can guide the deployment of automation solutions, mitigating the need for adjustments or customisations of bots and services for common use, unless necessary.</p>
 
-With a hand across all of Singapore’s government agencies, VITAL has always been an advocate for the integration of RPA in the public sector workforce. “We see technology as an enabler to augment our workforce,” Chief Executive of VITAL, Dennis Lui, had previously told GovInsider. This new platform is just another avenue through which VITAL is using technology to level up the corporate and administrative services for the Singapore Public Service.
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+With a hand across all of Singapore’s government agencies, VITAL has always been an advocate for the integration of RPA in the public sector workforce. “We see technology as an enabler to augment our workforce,” Chief Executive of VITAL, Dennis Lui, had previously told GovInsider. This new platform is just another avenue through which VITAL is using technology to level up the corporate and administrative services for the Singapore Public Service.</p>
+
