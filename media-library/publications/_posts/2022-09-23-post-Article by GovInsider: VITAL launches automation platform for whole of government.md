@@ -53,3 +53,6 @@ Furthermore, the centralised platform ensures that the automation solutions deve
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 With a hand across all of Singapore’s government agencies, VITAL has always been an advocate for the integration of RPA in the public sector workforce. “We see technology as an enabler to augment our workforce,” Chief Executive of VITAL, Dennis Lui, had previously told GovInsider. This new platform is just another avenue through which VITAL is using technology to level up the corporate and administrative services for the Singapore Public Service.</p>
 
+<p style="font-size: 16px;color:#585858;text-align:justify;">
+Click <a href="https://govinsider.asia/digital-gov/singapore-government-agency-launches-automation-platform-for-whole-of-government/"> HERE</a> to read the original article from GovInsider website.
+</p>
