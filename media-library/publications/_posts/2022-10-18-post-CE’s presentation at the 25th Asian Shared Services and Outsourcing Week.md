@@ -117,7 +117,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">11.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;">Throughout her long career, Salamah has worked in various portfolios such as HR, Finance, Payroll and Claims. Today, Salamah is a Pensions specialist. She takes pride in sharing her knowledge, guiding new hires and motivating the team. Over the years, Salamah attended programmes such as SkillsFuture for Digital Workplace and Microsoft Excel courses to keep up with new ways of working. Salamah is a recipient of numerous VITAL Star awards. In 2012, she received the PS21 Star Service Award and together with her spouse, was invited to a gala dinner graced by the President!</div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">(Slide 9) Being a central agency, VITAL was no longer just a transactional backroom. VITAL had to do some heavy lifting.</div><br>
 		</td>		
 	</tr>
 	<tr style="border: 0px;padding:0px;">
@@ -125,20 +125,16 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">12.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;">Mdm Muntaj, Ms Fariadah, Mdm Salamah and many other colleagues receiving their Special Appreciation Awards and Long-Service Awards today are models of what life-long learning looks like. They all kept their skills updated and relevant, even technology and demands of the workplace keep changing. And I am glad that VITAL has supported their journey all the way. Thank you for being such great role models for the rest of us!</div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">(Slide 9) This began with VITAL playing an integral role in the development and implementation of two Whole-of-Government corporate systems, one for the ministries and the other for statutory boards.</div><br>
 		</td>		
 	</tr>
-	<tr>
-	<td style="border: 0px;padding:0px;" colspan="2">
-			<div style="font-size: 32px;color:#a91932;text-align:justify;">Exemplifying Our Core Competencies in Daily Work</div><br>
-		</td>
-	</tr>	
+	
 	<tr style="border: 0px;padding:0px;">
 		<td style="border: 0px;padding:0px;" width="5%">
 			<div style="font-size: 20px;color:#585858;text-align:justify;">13.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;">Learning is a never-ending journey. VITAL introduced the Shared Services Competency Framework. At the public service level, PSD introduced Our Core Competencies (or OCC) which articulate the critical behaviours expected of all public officers. We incorporated the OCCs in the Appraisal & Development Plan (ADP) to facilitate developmental conversations between you and your supervisors last year. Going forward, OCCs will also be used for performance, promotion readiness and leadership potential assessment. We will share more details later this year.</div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">(Slide 9) With our familiarity with ops processes, VITAL worked closely with policy & system owners (policy) as well as IT vendors (tech) as part</div><br>
 		</td>		
 	</tr>
 	<tr style="border: 0px;padding:0px;">
