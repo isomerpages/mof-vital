@@ -25,6 +25,9 @@ Introduction
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 5. (Slide 4) VITAL was established in 2006 as a shared services centre for 18 agencies. We had a very difficult task of amalgamating many unique processes across agencies. We were seen like a vendor. But we are not a vendor, we are a Department under the Ministry of Finance.</p>
 
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+6. (Slide 5) So, we pushed ahead. We increased the standardisation of corporate processes, to improve efficiency. We digitalised corporate processes and harnessed the power of automation for productivity gains.	</p>
+
 
 <p style="font-size: 16px;color:#585858;text-align:justify;">
 Click <a href="https://govinsider.asia/digital-gov/singapore-government-agency-launches-automation-platform-for-whole-of-government/"> HERE</a> to read the original article from GovInsider website.
