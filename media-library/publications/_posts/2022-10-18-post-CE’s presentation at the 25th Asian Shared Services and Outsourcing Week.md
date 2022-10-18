@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+<img src="/images/Media/SSOW 2022.jpg">
+
 <p style="font-size: 24px;color:#a91932;text-align:justify;">
 Introduction
 </p>
