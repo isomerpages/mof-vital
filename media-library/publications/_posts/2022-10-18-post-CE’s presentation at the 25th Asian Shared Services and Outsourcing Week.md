@@ -121,6 +121,15 @@ In addition, we will build central systems to facilitate innovation for whole-of
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 32. (Slide 19) In turn, industry partners can leverage and gain access to VITAL’s pool of agencies that we serve, for opportunities to conduct pilots and scale up new products/ services to WOG. This is a win-win partnership for both sides!</p>
 
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+33. (Slide 19) Let me move on to our People, the most critical strategic pillar.</p>
+
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+34. (Slide 20) VITAL’s transformation will require us to uplift and upskill our people to enable them to engage partners more effectively.</p>
+
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+35. (Slide 20) We want our officers to become Corporate Services professionals. A huge ambition! They must recommend innovative solutions to help agencies respond to exigencies, contribute suggestions to improve processes. They do not take instructions as-is. To do this, our people must be equipped with skills to leverage digital technology. They must aspire to become Policy-Ops-Tech experts. </p>
+
 
 	
 	
