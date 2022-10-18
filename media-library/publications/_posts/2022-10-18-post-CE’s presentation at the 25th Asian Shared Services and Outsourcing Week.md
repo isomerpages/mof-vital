@@ -73,6 +73,12 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">(Slide 6) In 2020, VITAL was appointed Central Agency, with the mandate to transform corporate services delivery, as well as R&A lead to explore and scale up the adoption of suitable R&A corporate services solutions for Whole-of-Government (WoG).</div><br>
 		</td>		
 	</tr>
+	<tr>
+	<td style="border: 0px;padding:0px;" colspan="2">
+			<div style="font-size: 32px;color:#a91932;text-align:justify;">Our Transformation Journey amidst COVID-19</div><br>
+		</td>
+	</tr>
+	Our Transformation Journey amidst COVID-19
 	<tr style="border: 0px;padding:0px;">
 		<td style="border: 0px;padding:0px;" width="5%">
 			<div style="font-size: 20px;color:#585858;text-align:justify;">8.</div>
