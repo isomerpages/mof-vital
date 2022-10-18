@@ -17,7 +17,7 @@ Introduction
 2. (Slide 1) The topic of my presentation is “Modernising your Shared Services Digital Infrastructure to Support Hybrid Models and Agile Operations”. This is not going to be a technical talk for CIOs, but more on how VITAL is pushing ourselves to develop digital capabilities, to remain relevant, in the world of endemic COVID.</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
-VITAL has taken their role to the next level with a plan to implement a new cloud-native automation platform. Based on software provider UiPath’s Automation Suite, this centralised platform will allow government agencies to easily access, collaborate and implement robotic process automation (RPA) solutions.</p>
+ robotic process automation (RPA) solutions.</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 “With VITAL’s robotics and automation efforts, public agencies will be able to increase work efficiency and free up officers from otherwise tedious and repetitive work. This will also enable them to continue delivering quality services while developing other value-added services,” says Leong Siew Keong, Chief Information Officer of VITAL.</p>
