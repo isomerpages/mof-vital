@@ -33,7 +33,9 @@ Introduction
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 
-8. (Slide 7) Then the pandemic hit our shores. Thankfully, VITAL pivoted with great agility to Work-from-Home.
+8. (Slide 7) Then the pandemic hit our shores. Thankfully, VITAL pivoted with great agility to Work-from-Home.</p>
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+9. (Slide 8) VITAL kept the lights on and ensured that our public sector colleagues continued receiving their salaries, allowances and claim reimbursements.
 	
 <p style="font-size: 16px;color:#585858;text-align:justify;">
 <a href="https://govinsider.asia/digital-gov/singapore-government-agency-launches-automation-platform-for-whole-of-government/"> HERE</a> to read the original article from GovInsider website.
