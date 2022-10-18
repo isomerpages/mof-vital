@@ -73,12 +73,25 @@ Introduction
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 i. We serve more than 100 agencies on 2 core ERP systems – just having that breadth of operations allows VITAL to provide important feedback and constructive suggestions to the policy owners and system owners to improve corporate services. We do not take instructions “as-is”, but ask fundamental questions on how to do better.</p>
 
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+ii. We must also go up the value-chain, collaborate with functional leaders to implement new policies as well as proactively influence our partner agencies in terms of how to improve their upstream processes for a better outcome.</p>
 
-	
-	
-	
-	
-	
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+i. We see more opportunities to innovate because we sit at the center of all the operations. Already we are doing so, as I had mentioned the two tech-exploration pilots on recruitment SaaS technology and low code/no code RPA. More importantly, this innovation goes beyond just making VITAL’s processes better, it also potentially helps our other 100 agencies do their work better.</p>
+
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+i. VITAL is building a new core system (VISION) to manage Shared Services for more than 100 Service Partners through omni digital channels covering HR, Finance, Procurement and Admin processes. We plan to use an industry leading SaaS solution.</p>
+
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+In addition, we will build central systems to facilitate innovation for whole-of-Government. We recently announced a central RPA platform that would be open to all agencies across the public service. Let me elaborate.</p>
+
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+21. (Slide 16) Currently, deployment of RPA bots in VITAL is only established at an enterprise level, with individual products installed for internal use within VITAL. This is not ideal. Setting up new products for new users is cumbersome.</p>
+
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+22. (Slide 16) Now, if VITAL faced this problem, then all our other Government agencies would also face the same problem. We know that there is wide interest in automation solutions across our Government agencies. However, the installation of RPA solutions today is piecemeal. Some agencies want to start using RPA, but they do not know how to.</p>
+
+
 <p style="font-size: 16px;color:#585858;text-align:justify;">
-<a href="https://govinsider.asia/digital-gov/singapore-government-agency-launches-automation-platform-for-whole-of-government/"> HERE</a> to read the original article from GovInsider website.
+<a href="https://govinsider.asia/digital-gov/singaporeovernment-agency-launches-automation-platform-for-whole-of-government/"> HERE</a> to read the original article from GovInsider website.
 </p>
