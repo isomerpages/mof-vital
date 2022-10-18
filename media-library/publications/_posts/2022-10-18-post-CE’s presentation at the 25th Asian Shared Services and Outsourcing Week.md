@@ -88,7 +88,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">8.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;">Second, Ms Fariadah Omar from HPE. Fariadah started her career as a Clerical Officer handling payroll with MOE in 1991 and subsequently took on a supervisor role due to her good work performance. She joined VITAL in 2006 as a Payroll and Claims Officer. In 2013, Fariadah upgraded herself and obtained the Career Readiness Certificate at the supervisory level. In 2016, Fariadah was rotated to a Human Resource portfolio. She mastered the HR processes within a short period of time. Looking for better ways to do her work, Fariadah explored the use of Macros to process contract renewal cases during the COVID-19 Circuit Breaker period.</div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">(Slide 7) Then the pandemic hit our shores. Thankfully, VITAL pivoted with great agility to Work-from-Home.</div><br>
 		</td>		
 	</tr>
 	<tr style="border: 0px;padding:0px;">
@@ -96,7 +96,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">9.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;">In Feb 2019, Fariadah took on the role of Senior Executive (Leadership). With her wealth of experience, it is not surprising that she is an adviser to many; often advising her colleagues and MOE partners on HR and Payroll processes. She receives her 30-years Long Service Award this year.</div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">(Slide 8) VITAL kept the lights on and ensured that our public sector colleagues continued receiving their salaries, allowances and claim reimbursements.</div><br>
 		</td>		
 	</tr>
 	<tr style="border: 0px;padding:0px;">
@@ -104,7 +104,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">10.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;">Last but certainly not least, Mdm Salamah Yusop from Pension Team, Central Services Division. Salamah joined the civil service in 1977. Did you know, 70% of VITAL staff today had not yet been born in 1977? Till date, Salamah has served a total of 44 years. She retired from service in 2016 and was reemployed since. This year, Salamah receives her 5-year Special Appreciation Award. Awesome!</div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">(Slide 8) There were minimal disruptions to VITAL’s operations. We hit 99.90% accuracy and timeliness in our processing; and 95% satisfaction in our Service Partner Satisfaction Survey 2020, our highest ever. A very strong affirmation for VITAL from our service partners. Since then, VITAL never looked back.</div><br>
 		</td>		
 	</tr>
 	<tr style="border: 0px;padding:0px;">
