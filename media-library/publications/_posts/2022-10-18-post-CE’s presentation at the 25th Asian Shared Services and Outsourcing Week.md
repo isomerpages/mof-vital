@@ -39,9 +39,17 @@ Introduction
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 10. (Slide 8) There were minimal disruptions to VITAL’s operations. We hit 99.90% accuracy and timeliness in our processing; and 95% satisfaction in our Service Partner Satisfaction Survey 2020, our highest ever. A very strong affirmation for VITAL from our service partners. Since then, VITAL never looked back.	</p>
+
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 11. (Slide 9) Being a central agency, VITAL was no longer just a transactional backroom. VITAL had to do some heavy lifting.</p>
 
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+12. (Slide 9) This began with VITAL playing an integral role in the development and implementation of two Whole-of-Government corporate systems, one for the Ministries and the other for Statutory Boards.	</p>
+
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+	13. (Slide 9) With our familiarity with ops processes, VITAL worked closely with policy & system owners (policy) as well as IT vendors (tech) as part of a policy-ops-tech nexus, to develop and implement these 2 major systems.</p>
+	
+	
 <p style="font-size: 16px;color:#585858;text-align:justify;">
 <a href="https://govinsider.asia/digital-gov/singapore-government-agency-launches-automation-platform-for-whole-of-government/"> HERE</a> to read the original article from GovInsider website.
 </p>
