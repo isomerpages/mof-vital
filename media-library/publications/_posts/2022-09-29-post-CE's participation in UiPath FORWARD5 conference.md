@@ -18,10 +18,11 @@ We will continue to forge ahead with our citizen developer strategy such that ev
 <img src="/images/Media/Forward5 0.jpg">
 <font size="-1">Social media post by Mr Robert Enslin, Co-CEO of UiPath</font>
 <br>
-<br>
 <img src="/images/Media/Forward5 1.jpeg">
+<font size="-1">Riding our roadmap into the future: VITAL's citizen developer strategy</font>
 <br>
 <img src="/images/Media/Forward5 2.jpeg">
+<font size="-1">Riding our roadmap into the future: VITAL's citizen developer strategy</font>
 <br>
 <img src="/images/Media/Forward5 3.jpeg">
 <br>
