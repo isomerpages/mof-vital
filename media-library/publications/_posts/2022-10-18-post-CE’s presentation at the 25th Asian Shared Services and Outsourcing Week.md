@@ -229,3 +229,7 @@ Conclusion
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 46. (Slide 24) Thank you for your kind attention.</p>
+
+<p style="font-size: 16px;color:#585858;text-align:justify;">
+Click <a href = "/files/SSOW 2022.pdf">HERE</a> to view CE's presentation slides in PDF format.
+</p>
