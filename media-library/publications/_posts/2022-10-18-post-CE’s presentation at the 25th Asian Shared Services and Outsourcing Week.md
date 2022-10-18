@@ -134,8 +134,13 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">13.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;">(Slide 9) With our familiarity with ops processes, VITAL worked closely with policy & system owners (policy) as well as IT vendors (tech) as part</div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">(Slide 9) With our familiarity with ops processes, VITAL worked closely with policy & system owners (policy) as well as IT vendors (tech) as part of a policy-ops-tech nexus, to develop and implement these 2 major systems.</div><br>
 		</td>		
+	</tr>
+	<tr>
+	<td style="border: 0px;padding:0px;" colspan="2">
+			<div style="font-size: 32px;color:#a91932;text-align:justify;">Innovating Amidst COVID-19</div><br>
+		</td>
 	</tr>
 	<tr style="border: 0px;padding:0px;">
 		<td style="border: 0px;padding:0px;" width="5%">
