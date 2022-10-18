@@ -130,7 +130,14 @@ In addition, we will build central systems to facilitate innovation for whole-of
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 35. (Slide 20) We want our officers to become Corporate Services professionals. A huge ambition! They must recommend innovative solutions to help agencies respond to exigencies, contribute suggestions to improve processes. They do not take instructions as-is. To do this, our people must be equipped with skills to leverage digital technology. They must aspire to become Policy-Ops-Tech experts. </p>
 
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+36. (Slide 21) To implement our Shared Service Competency Framework, we have partnered Ngee Ann Polytechnic, a local institution of higher learning. Ngee Ann Polytechnic had specially curated two programmes, a Certificate of Data Analytics for our Executives and Senior Executives, and a Specialist Diploma in Data Analytics for our Managers and Assistant Directors. We are sending all our staff back to school! You can see the happy faces of this cohort of staff who have received their Specialist Diploma in Data Analytics.</p>
 
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+37. (Slide 21) We want to take advantage of all the new low-code and no-code tools, like Robotic Process Automation (RPA). We want to build an army of Citizen Developers. Hence, we are giving all officers access to such software and supporting infrastructure, to enable them to develop software robots and other low-code solutions. Who says Shared Services work is mundane and boring? Our officers will be able to use all these new tools to weave a tapestry of automation, and to create huge value for VITAL as they will become very much more productive.</p>
+
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+	
 	
 	
 	
