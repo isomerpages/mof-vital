@@ -103,6 +103,24 @@ In addition, we will build central systems to facilitate innovation for whole-of
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 26. (Slide 18) Let me quote Robert Enslin, co-CEO of UiPath, who wrote “automation-fueled transformation is a game changer for this era”. I agree with him fully. In this era of low code/no code tools, the automation possibilities can now be democratized to the Citizen Developer.</p>
 
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+27. (Slide 18) I was privileged to have been invited by UiPath to appear on main stage to talk about VITAL’s Citizen Developer journey and our central RPA infrastructure.</p>
+
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+28. (Slide 18) VITAL is now an important node in the innovation ecosystem. We have a ready platform to scale up and promulgate such capabilities to the entire public sector to make innovation pervasive across Government.</p>
+
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+29. (Slide 18) However, I want to stress that VITAL is open to work with all appropriate technology providers that have good solutions for our business problems. UiPath is just one example, and there will be more. At VITAL, we certainly cannot do it alone. We need an ecosystem of partners, which leads me to the 2nd strategic pillar.</p>
+
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+30. (Slide 19) VITAL recognises the importance in widening our networks, seeking opportunities, innovating and thriving in this dynamic environment.</p>
+
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+31. (Slide 19) We will leverage our ecosystem of partners to gain access to cutting edge technology, conduct sandbox trials/ experimentation and tap on the private sector’s expertise.</p>
+
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+32. (Slide 19) In turn, industry partners can leverage and gain access to VITAL’s pool of agencies that we serve, for opportunities to conduct pilots and scale up new products/ services to WOG. This is a win-win partnership for both sides!</p>
+
 
 	
 	
