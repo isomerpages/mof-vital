@@ -22,6 +22,11 @@ Introduction
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 4. (Slide 3) First, just who or what is VITAL? I dare say that VITAL is one of most important government agencies in Singapore that most people have not heard of. We serve over 100,000 public servants across more than 100 Singapore Government agencies, in Human Resources & Payroll, Finance and Procurement. VITAL is about 500 strong and growing. But now, we are excited to leverage our centre of Government position, assume the role of a Central Agency for Corporate Shared Services as well as the Robotics & Automation (R&A) lead for our domain.</p>
 
+<p style="font-size: 24px;color:#a91932;text-align:justify;">
+Standardisation, Streamlining and the Move Towards Digitalisation
+</p>
+
+
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 5. (Slide 4) VITAL was established in 2006 as a shared services centre for 18 agencies. We had a very difficult task of amalgamating many unique processes across agencies. We were seen like a vendor. But we are not a vendor, we are a Department under the Ministry of Finance.</p>
 
