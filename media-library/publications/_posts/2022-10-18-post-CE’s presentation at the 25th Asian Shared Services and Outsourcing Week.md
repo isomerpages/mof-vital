@@ -36,6 +36,11 @@ Standardisation, Streamlining and the Move Towards Digitalisation
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 7. (Slide 6) In 2020, VITAL was appointed Central Agency, with the mandate to transform corporate services delivery, as well as R&A lead to explore and scale up the adoption of suitable R&A corporate services solutions for Whole-of-Government (WoG).</p>
 
+<p style="font-size: 24px;color:#a91932;text-align:justify;">
+Our Transformation Journey amidst COVID-19
+</p>
+
+
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 8. (Slide 7) Then the pandemic hit our shores. Thankfully, VITAL pivoted with great agility to Work-from-Home.</p>
 
