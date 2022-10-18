@@ -137,9 +137,21 @@ In addition, we will build central systems to facilitate innovation for whole-of
 37. (Slide 21) We want to take advantage of all the new low-code and no-code tools, like Robotic Process Automation (RPA). We want to build an army of Citizen Developers. Hence, we are giving all officers access to such software and supporting infrastructure, to enable them to develop software robots and other low-code solutions. Who says Shared Services work is mundane and boring? Our officers will be able to use all these new tools to weave a tapestry of automation, and to create huge value for VITAL as they will become very much more productive.</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
+38. (Slide 22) At the heart of our efforts, is a deep focus on our People. It is a fundamental belief that our people can and want to do more. Hence, it is our leadership burden and responsibility to uplift them, to give them the opportunities and the access to all the new digital tools and exciting tech that industry has to offer. This slide shows you the Data Hackathon that Ngee Ann Polytechnic helps us to conduct for our staff at the end of the Certificate in Data Analytics programme. It is always a happy event because staff come to realise that they are empowered to learn and apply all their new skills to VITAL’s business problems.	</p>
+
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+39. (Slide 22) In VITAL, our officers come from a myriad of backgrounds. Most of them have little or no training in technology during their formal education but I am so inspired by what they can achieve, if given the chance.</p>
 	
-	
-	
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+40. (Slide 22) Let me cite one example, an office who is a Person with Disabilities (PWD). Despite physical challenges, this officer has consistently displayed deep passion and proficiency in applying automation to improve operations. His background is in Accountancy. He attended the Specialist Diploma course and excelled. Today, this officer can code from scratch, and is proficient in working with complex automation projects. In fact, he is one our best Ops-Tech Specialists. I submit to you, neither background nor disability is a limiting factor.</p>
+
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+41. (Slide 23) I am proud to share that VITAL is a firm believer in inclusive hiring. We were conferred the Enabling Mark (Gold) last year – this is a Singapore national-level accreditation framework that recognizes organisations for their best practices and outcomes in disability-inclusive employment. 6.5% of our total workforce (including vendors) are Persons with Disabilities.</p>
+
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+42. (Slide 23) Singapore’s Deputy Prime Minister Lawrence Wong cited VITAL as an example of how the public service is doing its part to become disability-inclusive, in his speech at the Inclusive Business Forum 2022. Earlier, I shared that the new opportunities provided by low-code and no-code tech solutions can uplift and empower all staff, including our PWD colleagues! Let us be inclusive not just in hiring, but also training and opportunities for all!</p>
+
+
 	
 <p style="font-size: 16px;color:#585858;text-align:justify;">
 <a href="https://govinsider.asia/digital-gov/singaporeovernment-agency-launches-automation-platform-for-whole-of-government/"> HERE</a> to read the original article from GovInsider website.
