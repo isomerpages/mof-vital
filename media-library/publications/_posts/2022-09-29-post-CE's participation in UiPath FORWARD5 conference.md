@@ -26,4 +26,4 @@ We will continue to forge ahead with our citizen developer strategy such that ev
 <img src="/images/Media/Forward5 4.jpeg">
 <font size="-1">Meeting with Co-CEOs of UiPath</font>
 <img src="/images/Media/Forward5 5.jpeg">
-<font size="-1">VITAL's delegation</font>
+<font size="0">VITAL's delegation</font>
