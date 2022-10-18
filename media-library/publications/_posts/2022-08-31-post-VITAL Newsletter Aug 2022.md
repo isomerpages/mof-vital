@@ -7,5 +7,5 @@ description: ""
 image: ""
 ---
 <p style="font-size: 16px;color:#585858;text-align:justify;">
-Click <a href = "/files/Newslette Aug 2022.pdf">HERE</a> to download VITAL Newsletter in PDF format.
+Click <a href = "/files/Newsletter Aug 2022.pdf">HERE</a> to download VITAL Newsletter in PDF format.
 </p>
