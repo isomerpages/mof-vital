@@ -21,10 +21,8 @@ We will continue to forge ahead with our citizen developer strategy such that ev
 <font size="-1">Riding our roadmap into the future: VITAL's citizen developer strategy</font>
 <img src="/images/Media/Forward5 2.jpeg">
 <font size="-1">Riding our roadmap into the future: VITAL's citizen developer strategy</font>
-<br>
 <img src="/images/Media/Forward5 3.jpeg">
 <font size="-1">Public Sector Summit: Empowering People through Technology</font>
-<br>
 <img src="/images/Media/Forward5 4.jpeg">
-<br>
+<font size="-1">Meeting with Co-CEOs of UiPath</font>
 <img src="/images/Media/Forward5 5.jpeg">
