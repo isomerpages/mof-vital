@@ -91,7 +91,22 @@ In addition, we will build central systems to facilitate innovation for whole-of
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 22. (Slide 16) Now, if VITAL faced this problem, then all our other Government agencies would also face the same problem. We know that there is wide interest in automation solutions across our Government agencies. However, the installation of RPA solutions today is piecemeal. Some agencies want to start using RPA, but they do not know how to.</p>
 
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+23. (Slide 16) The solution? VITAL, as the Robotics & Automation Lead, will build it once and let it be used by all. Yes, all 100 agencies and more than 100,000 public officers can potentially benefit. VITAL will invest in a new cloud-native automation platform. This will ensure that we get the most updated versions of the exciting software that the best vendors can provide. So our value-add here is to put automation capabilities at the fingertips of the entire public sector, and let automation bloom!	</p>
 
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+24. (Slide 17) This slide lays out the benefits of such a Whole-of-Government approach. All these are important points and some issues like barriers to entry and lack of scale are clearly show-stoppers, especially for smaller agencies. One more point to highlight – we are concurrently building a sandbox environment that would facilitate robotics and automation technology exploration.</p>
+
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+25. (Slide 17) Through all these efforts, VITAL will help bring in cutting edge digital tools far more quickly into the entire public sector than what we see today. The possibilities are endless!</p>
+
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+26. (Slide 18) Let me quote Robert Enslin, co-CEO of UiPath, who wrote “automation-fueled transformation is a game changer for this era”. I agree with him fully. In this era of low code/no code tools, the automation possibilities can now be democratized to the Citizen Developer.</p>
+
+
+	
+	
+	
 <p style="font-size: 16px;color:#585858;text-align:justify;">
 <a href="https://govinsider.asia/digital-gov/singaporeovernment-agency-launches-automation-platform-for-whole-of-government/"> HERE</a> to read the original article from GovInsider website.
 </p>
