@@ -94,17 +94,34 @@ Innovating through New Ways of Collaboration
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 18. (Slide 12) So, the story here is that we must step up beyond our traditional role of corporate services delivery and use new IT tools as the lever for corporate services transformation. To do this successfully requires us as business leaders to fully understand the power of these new technologies, and to weave them into our corporate strategies. Let me elaborate how tech and digital features deeply in all three of VITAL’s strategic pillars – Platform, Partners and People.</p>
 
+<p style="font-size: 24px;color:#a91932;text-align:justify;">
+Tech in our 3 Strategic Pillars (Slide 13)
+</p>
+
+<p style="font-size: 24px;color:#a91932;text-align:justify;">
+VITAL as a Platform for Corporate Services Transformation
+</p>
+
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 19. (Slide 14) Today, we see VITAL as a Platform. What does this mean? Simply put, it is about bringing together various stakeholders to embark on corporate services transformation and innovation, for which technology would be a key enabler.</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 20. (Slide 15) Being at the centre of corporate services operations in the Singapore Public Service places VITAL in a unique position to work together with functional leaders, agencies, and non-public sector partners like technology vendors, as part of a policy-ops-tech nexus to transform corporate services in 3 ways.</p>
 
+<p style="font-size: 24px;color:#a91932;text-align:justify;">
+a) Improvements
+</p>
+
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 i. We serve more than 100 agencies on 2 core ERP systems – just having that breadth of operations allows VITAL to provide important feedback and constructive suggestions to the policy owners and system owners to improve corporate services. We do not take instructions “as-is”, but ask fundamental questions on how to do better.</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 ii. We must also go up the value-chain, collaborate with functional leaders to implement new policies as well as proactively influence our partner agencies in terms of how to improve their upstream processes for a better outcome.</p>
+
+<p style="font-size: 24px;color:#a91932;text-align:justify;">
+b) Innovations
+</p>
+
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 i. We see more opportunities to innovate because we sit at the center of all the operations. Already we are doing so, as I had mentioned the two tech-exploration pilots on recruitment SaaS technology and low code/no code RPA. More importantly, this innovation goes beyond just making VITAL’s processes better, it also potentially helps our other 100 agencies do their work better.</p>
