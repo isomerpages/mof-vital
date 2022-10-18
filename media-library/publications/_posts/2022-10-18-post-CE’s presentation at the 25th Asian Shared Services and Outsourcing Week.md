@@ -78,7 +78,11 @@ image: ""
 			<div style="font-size: 32px;color:#a91932;text-align:justify;">Our Transformation Journey amidst COVID-19</div><br>
 		</td>
 	</tr>
-	Our Transformation Journey amidst COVID-19
+	<tr>
+	<td style="border: 0px;padding:0px;" colspan="2">
+			<div style="font-size: 32px;color:#a91932;text-align:justify;">Keeping the lights on</div><br>
+		</td>
+	</tr>
 	<tr style="border: 0px;padding:0px;">
 		<td style="border: 0px;padding:0px;" width="5%">
 			<div style="font-size: 20px;color:#585858;text-align:justify;">8.</div>
