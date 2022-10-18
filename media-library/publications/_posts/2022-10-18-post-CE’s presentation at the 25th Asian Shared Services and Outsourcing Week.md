@@ -107,6 +107,11 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">(Slide 8) There were minimal disruptions to VITAL’s operations. We hit 99.90% accuracy and timeliness in our processing; and 95% satisfaction in our Service Partner Satisfaction Survey 2020, our highest ever. A very strong affirmation for VITAL from our service partners. Since then, VITAL never looked back.</div><br>
 		</td>		
 	</tr>
+	<tr>
+	<td style="border: 0px;padding:0px;" colspan="2">
+			<div style="font-size: 32px;color:#a91932;text-align:justify;">Modernising Our Corporate Systems Amidst Constraints</div><br>
+		</td>
+	</tr>
 	<tr style="border: 0px;padding:0px;">
 		<td style="border: 0px;padding:0px;" width="5%">
 			<div style="font-size: 20px;color:#585858;text-align:justify;">11.</div>
