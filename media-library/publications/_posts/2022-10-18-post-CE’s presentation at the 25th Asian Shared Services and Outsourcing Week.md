@@ -6,8 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-<div style="font-size: 16px;color:#585858;text-align:justify;">
-By Liew Ming En | 23 SEP 2022</div>
+<p style="font-size: 24px;color:#a91932;text-align:justify;">
+Introduction
+</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 The impact of front-facing government services is tangible and easily appreciated. Social grants uplift the vulnerable and the digitalisation and automation of critical services like transportation, taxation and construction make citizens’ lives better.</p>
@@ -20,9 +21,6 @@ VITAL has taken their role to the next level with a plan to implement a new clou
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 “With VITAL’s robotics and automation efforts, public agencies will be able to increase work efficiency and free up officers from otherwise tedious and repetitive work. This will also enable them to continue delivering quality services while developing other value-added services,” says Leong Siew Keong, Chief Information Officer of VITAL.</p>
-
-<img src="/images/Media/Automation%20platform.png" />
- <font size="-1">With robotics and automation, public officers will be freed up from tedious or repetitive tasks, and spend more time developing value-added services for citizens. Image: VITAL</font>
 
  <p style="font-size: 20px;color:#585858;text-align:justify;">
 The platform is set to launch in the first quarter of 2023, with VITAL aiming to bring government agencies in Singapore on board the platform in the second quarter of 2023.</p>
