@@ -55,7 +55,18 @@ Introduction
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 15. (Slide 10) VITAL stepped forward to help fellow public sector agencies design and implement innovative corporate solutions, amidst the challenging backdrop of COVID-19.</p>
 
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+16. (Slide 10) For example, on recruitment, we transformed our Appointment Formalities service from a face-to-face to a fully digital end-to-end process for about 50 agencies, fulfilling over 6,000 appointments between 2020-2021. On retirement, physical briefings were replaced with teleconferencing for pensioners, and wet-inked signatures with e-signatures for pension papers. Digitalisation has reduced processing time by 3 times, benefiting staff and retiring officers.</p>2
+	
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+17. (Slide 11) We looked beyond the immediate challenges of the COVID-19 crisis to pilot new technologies with agencies. For example, we organised and led the pilot of a low code/no code Robotics and Process Automation (RPA) software with twelve (12) agencies. This successful pilot helped make the case that these new low code technologies could be easily used across different parts of the Singapore Government, and not just VITAL. We piloted cloud-based recruitment technology with seven (7), and this demonstrated the potential of using Artificial Intelligence (AI) and Machine Learning (ML) in the traditional recruitment space.</p>
 
+
+	
+	
+	
+	
+	
 <p style="font-size: 16px;color:#585858;text-align:justify;">
 <a href="https://govinsider.asia/digital-gov/singapore-government-agency-launches-automation-platform-for-whole-of-government/"> HERE</a> to read the original article from GovInsider website.
 </p>
