@@ -68,7 +68,12 @@ Modernising our Corporate Systems Amidst Constraints
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 13. (Slide 9) With our familiarity with ops processes, VITAL worked closely with policy & system owners (policy) as well as IT vendors (tech) as part of a policy-ops-tech nexus, to develop and implement these 2 major systems.</p>
-	
+
+<p style="font-size: 24px;color:#a91932;text-align:justify;">
+Innovating Amidst COVID-19
+</p>
+
+
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 14. (Slide 10) Amidst the crisis, there are always opportunities. There was an unprecedented level of cooperation from our stakeholders to embrace digitalisation and explore innovation.</p>
 
@@ -77,7 +82,12 @@ Modernising our Corporate Systems Amidst Constraints
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 16. (Slide 10) For example, on recruitment, we transformed our Appointment Formalities service from a face-to-face to a fully digital end-to-end process for about 50 agencies, fulfilling over 6,000 appointments between 2020-2021. On retirement, physical briefings were replaced with teleconferencing for pensioners, and wet-inked signatures with e-signatures for pension papers. Digitalisation has reduced processing time by 3 times, benefiting staff and retiring officers.</p>
-	
+
+<p style="font-size: 24px;color:#a91932;text-align:justify;">
+Innovating through New Ways of Collaboration
+</p>
+
+
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 17. (Slide 11) We looked beyond the immediate challenges of the COVID-19 crisis to pilot new technologies with agencies. For example, we organised and led the pilot of a low code/no code Robotics and Process Automation (RPA) software with twelve (12) agencies. This successful pilot helped make the case that these new low code technologies could be easily used across different parts of the Singapore Government, and not just VITAL. We piloted cloud-based recruitment technology with seven (7), and this demonstrated the potential of using Artificial Intelligence (AI) and Machine Learning (ML) in the traditional recruitment space.</p>
 
