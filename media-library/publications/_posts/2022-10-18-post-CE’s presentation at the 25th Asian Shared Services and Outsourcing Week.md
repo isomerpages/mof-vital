@@ -151,8 +151,14 @@ In addition, we will build central systems to facilitate innovation for whole-of
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 42. (Slide 23) Singapore’s Deputy Prime Minister Lawrence Wong cited VITAL as an example of how the public service is doing its part to become disability-inclusive, in his speech at the Inclusive Business Forum 2022. Earlier, I shared that the new opportunities provided by low-code and no-code tech solutions can uplift and empower all staff, including our PWD colleagues! Let us be inclusive not just in hiring, but also training and opportunities for all!</p>
 
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+43. (Slide 24) Let me conclude. The opportunities provided by the digital and tech space today are extremely exciting. Looking back on the past 2.5 years, digital technology has been a key enabler in allowing VITAL to transform ourselves amidst COVID-19. An industry leader once told me, “business strategy is tech strategy and tech strategy is business strategy”. While this may be oversimplifying things, it is certainly food for thought.</p>
 
-	
-<p style="font-size: 16px;color:#585858;text-align:justify;">
-<a href="https://govinsider.asia/digital-gov/singaporeovernment-agency-launches-automation-platform-for-whole-of-government/"> HERE</a> to read the original article from GovInsider website.
-</p>
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+44. (Slide 24) For VITAL, it is very clear that the new technology opportunities have allowed us to define new ways of working, not just within our organisation, but also to help transform the entire corporate services ecosystem, and beyond. The new technology opportunities have allowed VITAL to truly become the Central Agency for Corporate Shared Services, and the Robotics and Automation Lead for our domain.</p>
+
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+45. (Slide 24) The journey has just started. VITAL will focus on our 3 Ps – Platform, Partners, People, and seek to bring even more value to the Singapore Public Service.</p>
+
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+46. (Slide 24) Thank you for your kind attention.</p>
