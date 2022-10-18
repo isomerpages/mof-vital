@@ -28,6 +28,9 @@ Introduction
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 6. (Slide 5) So, we pushed ahead. We increased the standardisation of corporate processes, to improve efficiency. We digitalised corporate processes and harnessed the power of automation for productivity gains.	</p>
 
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+7. (Slide 6) In 2020, VITAL was appointed Central Agency, with the mandate to transform corporate services delivery, as well as R&A lead to explore and scale up the adoption of suitable R&A corporate services solutions for Whole-of-Government (WoG).</p>
+
 
 <p style="font-size: 16px;color:#585858;text-align:justify;">
 Click <a href="https://govinsider.asia/digital-gov/singapore-government-agency-launches-automation-platform-for-whole-of-government/"> HERE</a> to read the original article from GovInsider website.
