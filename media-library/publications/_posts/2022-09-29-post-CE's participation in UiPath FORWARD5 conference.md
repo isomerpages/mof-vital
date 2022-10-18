@@ -27,3 +27,7 @@ We will continue to forge ahead with our citizen developer strategy such that ev
 <font size="-1">Meeting with Co-CEOs of UiPath</font>
 <img src="/images/Media/Forward5 5.jpeg">
 <font size="0">VITAL's delegation</font>
+
+<p style="font-size: 16px;color:#585858;text-align:justify;">
+Click <a href="https://www.linkedin.com/feed/update/urn:li:activity:6986533192014970880"> HERE</a> to read the original social media post by Mr Robert Enslin, Co-CEO of UiPath on LinkedIn<.
+</p>
