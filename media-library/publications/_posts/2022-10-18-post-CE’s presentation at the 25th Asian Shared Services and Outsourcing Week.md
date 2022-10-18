@@ -181,6 +181,11 @@ Building and Leveraging Strategic Partnerships
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 33. (Slide 19) Let me move on to our People, the most critical strategic pillar.</p>
 
+<p style="font-size: 24px;color:#a91932;text-align:justify;">
+Building Capabilities and Upskilling our People to be Drivers of Corporate Services Transformation
+</p>
+
+
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 34. (Slide 20) VITAL’s transformation will require us to uplift and upskill our people to enable them to engage partners more effectively.</p>
 
@@ -207,6 +212,11 @@ Building and Leveraging Strategic Partnerships
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 42. (Slide 23) Singapore’s Deputy Prime Minister Lawrence Wong cited VITAL as an example of how the public service is doing its part to become disability-inclusive, in his speech at the Inclusive Business Forum 2022. Earlier, I shared that the new opportunities provided by low-code and no-code tech solutions can uplift and empower all staff, including our PWD colleagues! Let us be inclusive not just in hiring, but also training and opportunities for all!</p>
+
+<p style="font-size: 24px;color:#a91932;text-align:justify;">
+Conclusion
+</p>
+
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 43. (Slide 24) Let me conclude. The opportunities provided by the digital and tech space today are extremely exciting. Looking back on the past 2.5 years, digital technology has been a key enabler in allowing VITAL to transform ourselves amidst COVID-19. An industry leader once told me, “business strategy is tech strategy and tech strategy is business strategy”. While this may be oversimplifying things, it is certainly food for thought.</p>
