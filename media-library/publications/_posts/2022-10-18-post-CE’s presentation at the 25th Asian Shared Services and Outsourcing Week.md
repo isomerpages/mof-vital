@@ -47,9 +47,15 @@ Introduction
 12. (Slide 9) This began with VITAL playing an integral role in the development and implementation of two Whole-of-Government corporate systems, one for the Ministries and the other for Statutory Boards.	</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
-	13. (Slide 9) With our familiarity with ops processes, VITAL worked closely with policy & system owners (policy) as well as IT vendors (tech) as part of a policy-ops-tech nexus, to develop and implement these 2 major systems.</p>
+13. (Slide 9) With our familiarity with ops processes, VITAL worked closely with policy & system owners (policy) as well as IT vendors (tech) as part of a policy-ops-tech nexus, to develop and implement these 2 major systems.</p>
 	
-	
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+14. (Slide 10) Amidst the crisis, there are always opportunities. There was an unprecedented level of cooperation from our stakeholders to embrace digitalisation and explore innovation.</p>
+
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+15. (Slide 10) VITAL stepped forward to help fellow public sector agencies design and implement innovative corporate solutions, amidst the challenging backdrop of COVID-19.</p>
+
+
 <p style="font-size: 16px;color:#585858;text-align:justify;">
 <a href="https://govinsider.asia/digital-gov/singapore-government-agency-launches-automation-platform-for-whole-of-government/"> HERE</a> to read the original article from GovInsider website.
 </p>
