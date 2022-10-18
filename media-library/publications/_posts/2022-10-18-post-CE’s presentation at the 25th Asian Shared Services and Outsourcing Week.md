@@ -153,7 +153,7 @@ ii.In addition, we will build central systems to facilitate innovation for whole
 25. (Slide 17) Through all these efforts, VITAL will help bring in cutting edge digital tools far more quickly into the entire public sector than what we see today. The possibilities are endless!</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
-26. (Slide 18) Let me quote Robert Enslin, co-CEO of UiPath, who wrote “automation-fueled transformation is a game changer for this era”. I agree with him fully. In this era of low code/no code tools, the automation possibilities can now be democratized to the Citizen Developer.</p>
+26. (Slide 18) Let me quote Robert Enslin, co-CEO of UiPath, who wrote “<i>automation-fueled transformation is a game changer for this era</i>”. I agree with him fully. In this era of low code/no code tools, the automation possibilities can now be democratized to the Citizen Developer.</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 27. (Slide 18) I was privileged to have been invited by UiPath to appear on main stage to talk about VITAL’s Citizen Developer journey and our central RPA infrastructure.</p>
