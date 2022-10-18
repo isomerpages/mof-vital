@@ -8,7 +8,7 @@ description: ""
 image: ""
 ---
 <div style="font-size: 16px;color:#585858;text-align:justify;">
-By Liew Ming En | 23 SEP 2021</div>
+By Liew Ming En | 23 SEP 2022</div>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 The impact of front-facing government services is tangible and easily appreciated. Social grants uplift the vulnerable and the digitalisation and automation of critical services like transportation, taxation and construction make citizens’ lives better.</p>
