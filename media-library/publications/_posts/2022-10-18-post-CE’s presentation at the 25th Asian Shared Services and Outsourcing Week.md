@@ -41,6 +41,11 @@ Our Transformation Journey amidst COVID-19
 </p>
 
 
+<p style="font-size: 24px;color:#a91932;text-align:justify;">
+Keeping the lights on
+</p>
+
+
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 8. (Slide 7) Then the pandemic hit our shores. Thankfully, VITAL pivoted with great agility to Work-from-Home.</p>
 
@@ -49,6 +54,11 @@ Our Transformation Journey amidst COVID-19
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 10. (Slide 8) There were minimal disruptions to VITAL’s operations. We hit 99.90% accuracy and timeliness in our processing; and 95% satisfaction in our Service Partner Satisfaction Survey 2020, our highest ever. A very strong affirmation for VITAL from our service partners. Since then, VITAL never looked back.	</p>
+
+<p style="font-size: 24px;color:#a91932;text-align:justify;">
+Modernising our Corporate Systems Amidst Constraints
+</p>
+
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 11. (Slide 9) Being a central agency, VITAL was no longer just a transactional backroom. VITAL had to do some heavy lifting.</p>
