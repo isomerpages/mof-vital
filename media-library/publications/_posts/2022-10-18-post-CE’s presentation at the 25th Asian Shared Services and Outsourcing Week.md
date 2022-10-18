@@ -36,7 +36,10 @@ Introduction
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 9. (Slide 8) VITAL kept the lights on and ensured that our public sector colleagues continued receiving their salaries, allowances and claim reimbursements.</p>
-	
+
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+10. (Slide 8) There were minimal disruptions to VITAL’s operations. We hit 99.90% accuracy and timeliness in our processing; and 95% satisfaction in our Service Partner Satisfaction Survey 2020, our highest ever. A very strong affirmation for VITAL from our service partners. Since then, VITAL never looked back.	</p>
+
 <p style="font-size: 16px;color:#585858;text-align:justify;">
 <a href="https://govinsider.asia/digital-gov/singapore-government-agency-launches-automation-platform-for-whole-of-government/"> HERE</a> to read the original article from GovInsider website.
 </p>
