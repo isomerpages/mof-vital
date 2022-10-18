@@ -57,17 +57,12 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">(Slide 4) VITAL was established in 2006 as a shared services centre for 18 agencies. We had a very difficult task of amalgamating many unique processes across agencies. We were seen like a vendor. But we are not a vendor, we are a Department under the Ministry of Finance.</div><br>
 		</td>		
 	</tr>
-	<tr>
-	<td style="border: 0px;padding:0px;" colspan="2">
-			<div style="font-size: 32px;color:#a91932;text-align:justify;">Long Service Award Recipients</div><br>
-		</td>
-	</tr>
 	<tr style="border: 0px;padding:0px;">
 		<td style="border: 0px;padding:0px;" width="5%">
 			<div style="font-size: 20px;color:#585858;text-align:justify;">6.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;">First, Mdm Muntaj Begum. Muntaj started her career as an Office Attendant in 1981. She moved to the Salaries Section in MOE and joined VITAL in 2006 as a Payroll and Claims Senior Officer. Throughout her career, Muntaj invested time and effort to build up payroll expertise through on-the-job training, studying IM guidelines and payroll concepts, seeking advice from more experienced colleagues as well as learning how to operate with new payroll systems. It was very challenging, but she persevered!</div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">(Slide 5) So, we pushed ahead. We increased the standardisation of corporate processes, to improve efficiency. We digitalised corporate processes and harnessed the power of automation for productivity gains.</div><br>
 		</td>		
 	</tr>
 	<tr style="border: 0px;padding:0px;">
@@ -75,7 +70,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">7.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;">Today, Muntaj is one of the pillars in the HPA payroll team. She shares her deep knowledge selflessly as a mentor to new staff. She conducts payroll training sessions and developed the payroll OJT programme. In 2009, she was appointed as part of the Quality Assurance team to review MFA payroll. She attained a Foundation certification in Accounting from ISCA in 2019. In recognition of her contributions, Muntaj was awarded the Efficiency Medal in the 2016 National Day awards. What an inspirational story! Muntaj receives her 40-years long service award this year!</div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">(Slide 6) In 2020, VITAL was appointed Central Agency, with the mandate to transform corporate services delivery, as well as R&A lead to explore and scale up the adoption of suitable R&A corporate services solutions for Whole-of-Government (WoG).</div><br>
 		</td>		
 	</tr>
 	<tr style="border: 0px;padding:0px;">
