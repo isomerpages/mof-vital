@@ -164,13 +164,13 @@ ii. In addition, we will build central systems to facilitate innovation for Whol
 26. (Slide 18) Let me quote Robert Enslin, co-CEO of UiPath, who wrote “<i>automation-fueled transformation is a game changer for this era</i>”. I agree with him fully. In this era of low-code/no-code tools, the automation possibilities can now be democratized to the citizen developer.</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
-27. (Slide 18) I was privileged to have been invited by UiPath to appear on main stage to talk about VITAL’s Citizen Developer journey and our central RPA infrastructure.</p>
+27. (Slide 18) I was privileged to have been invited by UiPath to appear on main stage to talk about VITAL’s citizen developer journey and our central RPA infrastructure.</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 28. (Slide 18) VITAL is now an important node in the innovation ecosystem. We have a ready platform to scale up and promulgate such capabilities to the entire public sector to make innovation pervasive across Government.</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
-29. (Slide 18) However, I want to stress that VITAL is open to work with all appropriate technology providers that have good solutions for our business problems. UiPath is just one example, and there will be more. At VITAL, we certainly cannot do it alone. We need an ecosystem of partners, which leads me to the 2nd strategic pillar.</p>
+29. (Slide 18) However, I want to stress that VITAL is open to work with all appropriate technology providers that have good solutions for our business problems. UiPath is just one example, and there will be more. At VITAL, we certainly cannot do it alone. We need an ecosystem of partners, which leads me to the second strategic pillar.</p>
 
 <p style="font-size: 24px;color:#a91932;text-align:justify;">
 Building and Leveraging Strategic Partnerships
