@@ -34,13 +34,13 @@ Standardisation, Streamlining and the Move Towards Digitalisation
 
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
-5. (Slide 4) VITAL was established in 2006 as a shared services centre for 18 agencies. We had a very difficult task of amalgamating many unique processes across agencies. We were seen like a vendor. But we are not a vendor, we are a Department under the Ministry of Finance.</p>
+5. (Slide 4) VITAL was established in 2006 as a shared services centre for 18 agencies. We had a very difficult task of amalgamating many unique processes across agencies. We were seen like a vendor. But we are not a vendor, we are a department under the Ministry of Finance.</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 6. (Slide 5) So, we pushed ahead. We increased the standardisation of corporate processes, to improve efficiency. We digitalised corporate processes and harnessed the power of automation for productivity gains.	</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
-7. (Slide 6) In 2020, VITAL was appointed Central Agency, with the mandate to transform corporate services delivery, as well as R&A lead to explore and scale up the adoption of suitable R&A corporate services solutions for Whole-of-Government (WoG).</p>
+7. (Slide 6) In 2020, VITAL was appointed central agency, with the mandate to transform corporate services delivery, as well as R&A lead to explore and scale up the adoption of suitable R&A corporate services solutions for Whole-of-Government (WoG).</p>
 
 <p style="font-size: 24px;color:#a91932;text-align:justify;">
 Our Transformation Journey amidst COVID-19
