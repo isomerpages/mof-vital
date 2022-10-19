@@ -112,14 +112,14 @@ VITAL as a Platform for Corporate Services Transformation
 19. (Slide 14) Today, we see VITAL as a Platform. What does this mean? Simply put, it is about bringing together various stakeholders to embark on corporate services transformation and innovation, for which technology would be a key enabler.</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
-20. (Slide 15) Being at the centre of corporate services operations in the Singapore Public Service places VITAL in a unique position to work together with functional leaders, agencies, and non-public sector partners like technology vendors, as part of a policy-ops-tech nexus to transform corporate services in 3 ways.</p>
+20. (Slide 15) Being at the centre of corporate services operations in the Singapore Public Service places VITAL in a unique position to work together with functional leaders, agencies, and non-public sector partners like technology vendors, as part of a policy-ops-tech nexus to transform corporate services in three ways.</p>
 
 <p style="font-size: 24px;color:#a91932;text-align:justify;">
 a) Improvements
 </p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify; margin-left:10%;">
-i. We serve more than 100 agencies on 2 core ERP systems – just having that breadth of operations allows VITAL to provide important feedback and constructive suggestions to the policy owners and system owners to improve corporate services. We do not take instructions “as-is”, but ask fundamental questions on how to do better.</p>
+i. We serve more than 100 agencies on two core ERP systems – just having that breadth of operations allows VITAL to provide important feedback and constructive suggestions to the policy owners and system owners to improve corporate services. We do not take instructions “as-is”, but ask fundamental questions on how to do better.</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify; margin-left:10%;">
 ii. We must also go up the value-chain, collaborate with functional leaders to implement new policies as well as proactively influence our partner agencies in terms of how to improve their upstream processes for a better outcome.</p>
