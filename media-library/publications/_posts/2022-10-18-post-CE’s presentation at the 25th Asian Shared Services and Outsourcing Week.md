@@ -190,7 +190,7 @@ Building and Leveraging Strategic Partnerships
 33. (Slide 19) Let me move on to our People, the most critical strategic pillar.</p>
 
 <p style="font-size: 24px;color:#a91932;text-align:justify;">
-Building Capabilities and Upskilling our People to be Drivers of Corporate Services Transformation
+Building Capabilities and Upskilling Our People to be Drivers of Corporate Services Transformation
 </p>
 
 
