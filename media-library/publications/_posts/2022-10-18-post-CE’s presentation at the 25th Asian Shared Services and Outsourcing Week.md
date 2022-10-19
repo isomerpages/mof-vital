@@ -221,7 +221,7 @@ Building Capabilities and Upskilling Our People to be Drivers of Corporate Servi
 41. (Slide 23) I am proud to share that VITAL is a firm believer in inclusive hiring. We were conferred the Enabling Mark (Gold) last year – this is a Singapore national-level accreditation framework that recognises organisations for their best practices and outcomes in disability-inclusive employment. 6.5% of our total workforce (including vendors) are persons with disabilities.</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
-42. (Slide 23) Singapore’s Deputy Prime Minister Lawrence Wong cited VITAL as an example of how the public service is doing its part to become disability-inclusive, in his speech at the Inclusive Business Forum 2022. Earlier, I shared that the new opportunities provided by low-code and no-code tech solutions can uplift and empower all staff, including our PWD colleagues! Let us be inclusive not just in hiring, but also training and opportunities for all!</p>
+42. (Slide 23) Singapore’s Deputy Prime Minister Lawrence Wong cited VITAL as an example of how the public service is doing its part to become disability-inclusive, in his speech at the Inclusive Business Forum 2022. Earlier, I shared that the new opportunities provided by low-code and no-code tech solutions can uplift and empower all staff, including our PwD colleagues! Let us be inclusive not just in hiring, but also training and opportunities for all!</p>
 
 <p style="font-size: 24px;color:#a91932;text-align:justify;">
 Conclusion
