@@ -73,7 +73,7 @@ Modernising Our Corporate Systems Amidst Constraints
 12. (Slide 9) This began with VITAL playing an integral role in the development and implementation of two Whole-of-Government corporate systems, one for the ministries and the other for statutory boards.	</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
-13. (Slide 9) With our familiarity with ops processes, VITAL worked closely with policy and system owners (policy) as well as IT vendors (tech) as part of a policy-ops-tech nexus, to develop and implement these 2 major systems.</p>
+13. (Slide 9) With our familiarity with ops processes, VITAL worked closely with policy and system owners (policy) as well as IT vendors (tech) as part of a policy-ops-tech nexus, to develop and implement these two major systems.</p>
 
 <p style="font-size: 24px;color:#a91932;text-align:justify;">
 Innovating Amidst COVID-19
@@ -87,7 +87,7 @@ Innovating Amidst COVID-19
 15. (Slide 10) VITAL stepped forward to help fellow public sector agencies design and implement innovative corporate solutions, amidst the challenging backdrop of COVID-19.</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
-16. (Slide 10) For example, on recruitment, we transformed our Appointment Formalities service from a face-to-face to a fully digital end-to-end process for about 50 agencies, fulfilling over 6,000 appointments between 2020-2021. On retirement, physical briefings were replaced with teleconferencing for pensioners, and wet-inked signatures with e-signatures for pension papers. Digitalisation has reduced processing time by 3 times, benefiting staff and retiring officers.</p>
+16. (Slide 10) For example, on recruitment, we transformed our appointment formalities service from a face-to-face to a fully digital end-to-end process for about 50 agencies, fulfilling over 6,000 appointments between 2020-2021. On retirement, physical briefings were replaced with teleconferencing for pensioners, and wet-inked signatures with e-signatures for pension papers. Digitalisation has reduced processing time by three times, benefiting staff and retiring officers.</p>
 
 <p style="font-size: 24px;color:#a91932;text-align:justify;">
 Innovating through New Ways of Collaboration
