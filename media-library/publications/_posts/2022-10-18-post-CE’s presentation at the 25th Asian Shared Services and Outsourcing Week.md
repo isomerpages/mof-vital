@@ -198,7 +198,7 @@ Building Capabilities and Upskilling Our People to be Drivers of Corporate Servi
 34. (Slide 20) VITAL’s transformation will require us to uplift and upskill our people to enable them to engage partners more effectively.</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
-35. (Slide 20) We want our officers to become Corporate Services professionals. A huge ambition! They must recommend innovative solutions to help agencies respond to exigencies, contribute suggestions to improve processes. They do not take instructions as-is. To do this, our people must be equipped with skills to leverage digital technology. They must aspire to become Policy-Ops-Tech experts. </p>
+35. (Slide 20) We want our officers to become corporate services professionals. A huge ambition! They must recommend innovative solutions to help agencies respond to exigencies, contribute suggestions to improve processes. They do not take instructions as-is. To do this, our people must be equipped with skills to leverage digital technology. They must aspire to become policy-ops-tech experts. </p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 36. (Slide 21) To implement our Shared Service Competency Framework, we have partnered Ngee Ann Polytechnic, a local institution of higher learning. Ngee Ann Polytechnic had specially curated two programmes, a Certificate of Data Analytics for our Executives and Senior Executives, and a Specialist Diploma in Data Analytics for our Managers and Assistant Directors. We are sending all our staff back to school! You can see the happy faces of this cohort of staff who have received their Specialist Diploma in Data Analytics.</p>
