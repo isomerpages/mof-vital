@@ -137,7 +137,7 @@ c) Infrastructure
 i. VITAL is building a new core system (VISION) to manage Shared Services for more than 100 Service Partners through omni digital channels covering HR, Finance, Procurement and Admin processes. We plan to use an industry leading SaaS solution.</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;margin-left:10%;">
-ii.In addition, we will build central systems to facilitate innovation for whole-of-Government. We recently announced a central RPA platform that would be open to all agencies across the public service. Let me elaborate.</p>
+ii. In addition, we will build central systems to facilitate innovation for whole-of-Government. We recently announced a central RPA platform that would be open to all agencies across the public service. Let me elaborate.</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 21. (Slide 16) Currently, deployment of RPA bots in VITAL is only established at an enterprise level, with individual products installed for internal use within VITAL. This is not ideal. Setting up new products for new users is cumbersome.</p>
