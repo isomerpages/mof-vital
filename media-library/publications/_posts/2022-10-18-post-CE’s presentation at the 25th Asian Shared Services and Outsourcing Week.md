@@ -70,10 +70,10 @@ Modernising Our Corporate Systems Amidst Constraints
 11. (Slide 9) Being a central agency, VITAL was no longer just a transactional backroom. VITAL had to do some heavy lifting.</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
-12. (Slide 9) This began with VITAL playing an integral role in the development and implementation of two Whole-of-Government corporate systems, one for the Ministries and the other for Statutory Boards.	</p>
+12. (Slide 9) This began with VITAL playing an integral role in the development and implementation of two Whole-of-Government corporate systems, one for the ministries and the other for statutory boards.	</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
-13. (Slide 9) With our familiarity with ops processes, VITAL worked closely with policy & system owners (policy) as well as IT vendors (tech) as part of a policy-ops-tech nexus, to develop and implement these 2 major systems.</p>
+13. (Slide 9) With our familiarity with ops processes, VITAL worked closely with policy and system owners (policy) as well as IT vendors (tech) as part of a policy-ops-tech nexus, to develop and implement these 2 major systems.</p>
 
 <p style="font-size: 24px;color:#a91932;text-align:justify;">
 Innovating Amidst COVID-19
