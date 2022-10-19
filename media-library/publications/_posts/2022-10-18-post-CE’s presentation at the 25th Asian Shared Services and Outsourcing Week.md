@@ -130,7 +130,7 @@ b) Innovations
 
 
 <p style="font-size: 20px;color:#585858;text-align:justify;margin-left:10%;">
-i. We see more opportunities to innovate because we sit at the center of all the operations. Already we are doing so, as I had mentioned the two tech-exploration pilots on recruitment SaaS technology and low code/no code RPA. More importantly, this innovation goes beyond just making VITAL’s processes better, it also potentially helps our other 100 agencies do their work better.</p>
+i. We see more opportunities to innovate because we sit at the center of all the operations. Already we are doing so, as I had mentioned the two tech-exploration pilots on recruitment SaaS technology and low-code/no-code RPA. More importantly, this innovation goes beyond just making VITAL’s processes better, it also potentially helps our other 100 agencies do their work better.</p>
 
 <p style="font-size: 24px;color:#a91932;text-align:justify;">
 c) Infrastructure
@@ -138,7 +138,7 @@ c) Infrastructure
 
 
 <p style="font-size: 20px;color:#585858;text-align:justify;margin-left:10%;">
-i. VITAL is building a new core system (VISION) to manage Shared Services for more than 100 Service Partners through omni digital channels covering HR, Finance, Procurement and Admin processes. We plan to use an industry leading SaaS solution.</p>
+i. VITAL is building a new core system - VISION, to manage Shared Services for more than 100 Service Partners through omni digital channels covering HR, Finance, Procurement and Admin processes. We plan to use an industry leading SaaS solution.</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;margin-left:10%;">
 ii. In addition, we will build central systems to facilitate innovation for whole-of-Government. We recently announced a central RPA platform that would be open to all agencies across the public service. Let me elaborate.</p>
