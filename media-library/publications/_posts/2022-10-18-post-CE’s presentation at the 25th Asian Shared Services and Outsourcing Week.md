@@ -95,13 +95,13 @@ Innovating through New Ways of Collaboration
 
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
-17. (Slide 11) We looked beyond the immediate challenges of the COVID-19 crisis to pilot new technologies with agencies. For example, we organised and led the pilot of a low-code/no-code robotic process automation (RPA) software with 12 agencies. This successful pilot helped make the case that these new low-code technologies could be easily used across different parts of the Singapore Government, and not just VITAL. We piloted cloud-based recruitment technology with seven agencies, and this demonstrated the potential of using artificial intelligence (AI) and Machine Learning (ML) in the traditional recruitment space.</p>
+17. (Slide 11) We looked beyond the immediate challenges of the COVID-19 crisis to pilot new technologies with agencies. For example, we organised and led the pilot of a low-code/no-code robotic process automation (RPA) software with 12 agencies. This successful pilot helped make the case that these new low-code technologies could be easily used across different parts of the Singapore Government, and not just VITAL. We piloted cloud-based recruitment technology with seven agencies, and this demonstrated the potential of using artificial intelligence (AI) and machine learning (ML) in the traditional recruitment space.</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 18. (Slide 12) So, the story here is that we must step up beyond our traditional role of corporate services delivery and use new IT tools as the lever for corporate services transformation. To do this successfully requires us as business leaders to fully understand the power of these new technologies, and to weave them into our corporate strategies. Let me elaborate how tech and digital features deeply in all three of VITAL’s strategic pillars – Platform, Partners and People.</p>
 
 <p style="font-size: 24px;color:#a91932;text-align:justify;">
-Tech in our 3 Strategic Pillars (Slide 13)
+Tech in Our Three Strategic Pillars (Slide 13)
 </p>
 
 <p style="font-size: 24px;color:#a91932;text-align:justify;">
