@@ -141,13 +141,13 @@ c) Infrastructure
 i. VITAL is building a new core system - VISION, to manage shared services for more than 100 service partners through omni digital channels covering HR, finance, procurement and admin processes. We plan to use an industry leading SaaS solution.</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;margin-left:10%;">
-ii. In addition, we will build central systems to facilitate innovation for whole-of-Government. We recently announced a central RPA platform that would be open to all agencies across the public service. Let me elaborate.</p>
+ii. In addition, we will build central systems to facilitate innovation for Whole-of-Government. We recently announced a central RPA platform that would be open to all agencies across the public service. Let me elaborate.</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 21. (Slide 16) Currently, deployment of RPA bots in VITAL is only established at an enterprise level, with individual products installed for internal use within VITAL. This is not ideal. Setting up new products for new users is cumbersome.</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
-22. (Slide 16) Now, if VITAL faced this problem, then all our other Government agencies would also face the same problem. We know that there is wide interest in automation solutions across our Government agencies. However, the installation of RPA solutions today is piecemeal. Some agencies want to start using RPA, but they do not know how to.</p>
+22. (Slide 16) Now, if VITAL faced this problem, then all our other government agencies would also face the same problem. We know that there is wide interest in automation solutions across our government agencies. However, the installation of RPA solutions today is piecemeal. Some agencies want to start using RPA, but they do not know how to.</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 23. (Slide 16) The solution? VITAL, as the Robotics & Automation Lead, will <i>build it once and let it be used by all</i>. Yes, all 100 agencies and more than 100,000 public officers can potentially benefit. VITAL will invest in a new cloud-native automation platform. This will ensure that we get the most updated versions of the exciting software that the best vendors can provide. So our value-add here is to put automation capabilities at the fingertips of the entire public sector, and let automation bloom!	</p>
