@@ -232,7 +232,7 @@ Conclusion
 43. (Slide 24) Let me conclude. The opportunities provided by the digital and tech space today are extremely exciting. Looking back on the past 2.5 years, digital technology has been a key enabler in allowing VITAL to transform ourselves amidst COVID-19. An industry leader once told me, “business strategy is tech strategy and tech strategy is business strategy”. While this may be oversimplifying things, it is certainly food for thought.</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
-44. (Slide 24) For VITAL, it is very clear that the new technology opportunities have allowed us to define new ways of working, not just within our organisation, but also to help transform the entire corporate services ecosystem, and beyond. The new technology opportunities have allowed VITAL to truly become the Central Agency for Corporate Shared Services, and the Robotics and Automation Lead for our domain.</p>
+44. (Slide 24) For VITAL, it is very clear that the new technology opportunities have allowed us to define new ways of working, not just within our organisation, but also to help transform the entire corporate services ecosystem, and beyond. The new technology opportunities have allowed VITAL to truly become the central agency for corporate shared services, and the robotics and automation lead in our domain.</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 45. (Slide 24) The journey has just started. VITAL will focus on our 3 Ps – Platform, Partners, People, and seek to bring even more value to the Singapore Public Service.</p>
