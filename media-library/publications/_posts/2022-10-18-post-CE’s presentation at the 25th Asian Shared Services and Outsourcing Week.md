@@ -62,7 +62,7 @@ Keeping the lights on
 10. (Slide 8) There were minimal disruptions to VITAL’s operations. We hit 99.90% accuracy and timeliness in our processing; and 95% satisfaction in our Service Partner Satisfaction Survey 2020, our highest ever. A very strong affirmation for VITAL from our service partners. Since then, VITAL never looked back.	</p>
 
 <p style="font-size: 24px;color:#a91932;text-align:justify;">
-Modernising our Corporate Systems Amidst Constraints
+Modernising Our Corporate Systems Amidst Constraints
 </p>
 
 
