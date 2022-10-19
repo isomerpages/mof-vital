@@ -138,7 +138,7 @@ c) Infrastructure
 
 
 <p style="font-size: 20px;color:#585858;text-align:justify;margin-left:10%;">
-i. VITAL is building a new core system - VISION, to manage Shared Services for more than 100 Service Partners through omni digital channels covering HR, Finance, Procurement and Admin processes. We plan to use an industry leading SaaS solution.</p>
+i. VITAL is building a new core system - VISION, to manage shared services for more than 100 service partners through omni digital channels covering HR, finance, procurement and admin processes. We plan to use an industry leading SaaS solution.</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;margin-left:10%;">
 ii. In addition, we will build central systems to facilitate innovation for whole-of-Government. We recently announced a central RPA platform that would be open to all agencies across the public service. Let me elaborate.</p>
