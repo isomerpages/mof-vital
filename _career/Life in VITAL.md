@@ -7,9 +7,16 @@ description: Life in VITAL
 <html>
     <head>
 			<title>Life in VITAL</title>
+			<style>
+				img
+				{
+				width: 100px;
+				height: 90px;
+				}
+			</style>
     </head>
     <body> 
-    	<table width="100%">
+    	<table>
 				<tr>
 					<td>
 						<a href="/images/Media/InPersonTownhall2022_Image3.jpg">
