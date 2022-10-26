@@ -9,12 +9,34 @@ description: Life in VITAL
 			<title>Life in VITAL</title>
     </head>
     <body> 
-    	<table>
+    	<table width="100%">
 				<tr>
 					<td>
 						<a href="/images/Media/InPersonTownhall2022_Image3.jpg">
 							<img src="/images/Media/InPersonTownhall2022_Image3.jpg">
 						</a>
+					</td>					
+					<td>
+						<a href="/images/Media/InPersonTownhall2022_Image3.jpg">
+							<img src="/images/Media/InPersonTownhall2022_Image3.jpg">
+						</a>    
+					</td>
+					<td>
+						<a href="/images/Media/InPersonTownhall2022_Image3.jpg">
+							<img src="/images/Media/InPersonTownhall2022_Image3.jpg">
+						</a>    
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="/images/Media/InPersonTownhall2022_Image3.jpg">
+							<img src="/images/Media/InPersonTownhall2022_Image3.jpg">
+						</a>
+					</td>
+					<td>
+						<a href="/images/Media/InPersonTownhall2022_Image3.jpg">
+							<img src="/images/Media/InPersonTownhall2022_Image3.jpg">
+						</a>    
 					</td>
 					<td>
 						<a href="/images/Media/InPersonTownhall2022_Image3.jpg">
