@@ -7,10 +7,10 @@ description: ""
 image: ""
 ---
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-Mr Dennis Lui, Chief Executive of VITAL, participated as a guest speaker in UiPath's FORWARD 5 conference for automation and digital transformation in Las Vegas, the U.S., from 27 to 29 September 2022.
+VITAL has received the “Business Transformation Impact Award (Silver)” and "Automation Impact Award (Honourary Mention)" at Shared Services & Outsourcing Network (SSON) Impact Awards 2022.
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-At the event, Mr Lui shared his views and insights into empowering public officers through technology, VITAL's automation story and citizen developer initiatives, with over 3,500 audience at the world's largest gathering of enterprise automation leaders.
+The SSON Impact Awards are globally recognised industry awards conferred by SSON, the world's largest and most established community of shared services and outsourcing professionals. The awards honour and celebrate shared services organisations and service delivery teams who have exceeded industry standards in their initiatives.
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 We will continue to forge ahead with our citizen developer strategy such that every public officer can come along with this automation journey.
