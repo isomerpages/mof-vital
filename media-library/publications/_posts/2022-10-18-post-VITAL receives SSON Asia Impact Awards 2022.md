@@ -14,16 +14,16 @@ The SSON Impact Awards are globally recognised industry awards conferred by SSON
 </p>
 
 <img src="/images/Media/SSON award 5.jpg">
-<font size="-1">VITAL receives SSON Impact </font>
+<font size="-1">VITAL receives SSON Impact Awards 2022 </font>
 <br>
 <img src="/images/Media/SSON award 1.jpg">
-<font size="-1">UiPath Forward 5 Summit - Distinguished Speaker award</font>
+<font size="-1">Business Transformation Impact Award (Silver)</font>
 <br>
 <img src="/images/Media/SSON award 3.jpg">
-<font size="-1">Riding our roadmap into the future: VITAL's citizen developer strategy</font>
+<font size="-1">Business Transformation Impact Award (Silver)</font>
 <br>
 <img src="/images/Media/SSON award 2.jpg">
-<font size="-1">Riding our roadmap into the future: VITAL's citizen developer strategy</font>
+<font size="-1">Automation Impact Award (Honourary Mention)</font>
 <br>
 <img src="/images/Media/SSON award 4.jpg">
-<font size="-1">Public sector summit: Empowering people through technology</font>
+<font size="-1">Automation Impact Award (Honourary Mention)</font>
