@@ -16,12 +16,7 @@ description: Life in VITAL
     </head>
     <body> 
     	<table style="border: 0px;padding:0px;" width="100%" height="100%">
-				<tr style="border: 0px;padding:0px;">
-					<td style="border: 0px;padding:10px;vertical-align: middle;text-align: center;">
-						<a href="/images/Media/InPersonTownhall2022_Image3.jpg" target="_blank">
-							<img src="/images/Media/InPersonTownhall2022_Image3.jpg">
-						</a>
-					</td>	
+				<tr style="border: 0px;padding:0px;">					
 					<td style="border: 0px;padding:10px;vertical-align: middle;text-align: center;">
 						<a href="/images/Media/InPersonTownhall2022_Image3.jpg" target="_blank">
 							<img src="/images/Media/InPersonTownhall2022_Image3.jpg">
@@ -38,12 +33,7 @@ description: Life in VITAL
 						</a>    
 					</td>
 				</tr>
-				<tr style="border: 0px;padding:0px;">
-					<td style="border: 0px;padding:10px;vertical-align: middle;text-align: center;">
-						<a href="/images/Media/InPersonTownhall2022_Image3.jpg" target="_blank">
-							<img src="/images/Media/InPersonTownhall2022_Image3.jpg">
-						</a>
-					</td>	
+				<tr style="border: 0px;padding:0px;">					
 					<td style="border: 0px;padding:10px;vertical-align: middle;text-align: center;">
 						<a href="/images/Media/InPersonTownhall2022_Image3.jpg" target="_blank">
 							<img src="/images/Media/InPersonTownhall2022_Image3.jpg">
