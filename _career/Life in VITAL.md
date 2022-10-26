@@ -9,52 +9,52 @@ description: Life in VITAL
 			<style>
 				img
 				{
-				width: 200px;
-				height: 150px;
+				width: 300px;
+				height: 250px;
 				}
 			</style>
     </head>
     <body> 
-    	<table align="center">
-				<tr>
-					<td>
+    	<table style="border: 0px;padding:0px;" width="100%" height="100%">
+				<tr style="border: 0px;padding:0px;">
+					<td style="border: 0px;padding:10px;vertical-align: middle;text-align: center;">
 						<a href="/images/Media/InPersonTownhall2022_Image3.jpg" target="_blank">
 							<img src="/images/Media/InPersonTownhall2022_Image3.jpg">
 						</a>
 					</td>	
-					<td>
+					<td style="border: 0px;padding:10px;vertical-align: middle;text-align: center;">
 						<a href="/images/Media/InPersonTownhall2022_Image3.jpg" target="_blank">
 							<img src="/images/Media/InPersonTownhall2022_Image3.jpg">
 						</a>
 					</td>					
-					<td>
+					<td style="border: 0px;padding:10px;vertical-align: middle;text-align: center;">
 						<a href="/images/Media/InPersonTownhall2022_Image3.jpg" target="_blank">
 							<img src="/images/Media/InPersonTownhall2022_Image3.jpg">
 						</a>    
 					</td>
-					<td>
+					<td style="border: 0px;padding:10px;vertical-align: middle;text-align: center;">
 						<a href="/images/Media/InPersonTownhall2022_Image3.jpg" target="_blank">
 							<img src="/images/Media/InPersonTownhall2022_Image3.jpg">
 						</a>    
 					</td>
 				</tr>
-				<tr>
-					<td>
+				<tr style="border: 0px;padding:0px;">
+					<td style="border: 0px;padding:10px;vertical-align: middle;text-align: center;">
 						<a href="/images/Media/InPersonTownhall2022_Image3.jpg" target="_blank">
 							<img src="/images/Media/InPersonTownhall2022_Image3.jpg">
 						</a>
 					</td>	
-					<td>
+					<td style="border: 0px;padding:10px;vertical-align: middle;text-align: center;">
 						<a href="/images/Media/InPersonTownhall2022_Image3.jpg" target="_blank">
 							<img src="/images/Media/InPersonTownhall2022_Image3.jpg">
 						</a>
 					</td>
-					<td>
+					<td style="border: 0px;padding:10px;vertical-align: middle;text-align: center;">
 						<a href="/images/Media/InPersonTownhall2022_Image3.jpg" target="_blank">
 							<img src="/images/Media/InPersonTownhall2022_Image3.jpg">
 						</a>    
 					</td>
-					<td>
+					<td style="border: 0px;padding:10px;vertical-align: middle;text-align: center;">
 						<a href="/images/Media/InPersonTownhall2022_Image3.jpg" target="_blank">
 							<img src="/images/Media/InPersonTownhall2022_Image3.jpg">
 						</a>    
