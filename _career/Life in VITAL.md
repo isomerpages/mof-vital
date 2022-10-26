@@ -10,7 +10,7 @@ description: Life in VITAL
 				img
 				{
 				width: 300px;
-				height: 220px;
+				height: 200px;
 				}
 			</style>
     </head>
