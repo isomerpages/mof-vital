@@ -2,5 +2,6 @@ collections:
   career:
     output: true
     order:
+      - Life in VITAL.md
       - being-vital.md
       - our-vitalites.md
