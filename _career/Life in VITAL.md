@@ -16,37 +16,37 @@ description: Life in VITAL
 			</style>
     </head>
     <body> 
-    	<table>
+    	<table align="center">
 				<tr>
 					<td>
-						<a href="/images/Media/InPersonTownhall2022_Image3.jpg">
+						<a href="/images/Media/InPersonTownhall2022_Image3.jpg" target="_blank">
 							<img src="/images/Media/InPersonTownhall2022_Image3.jpg">
 						</a>
 					</td>					
 					<td>
-						<a href="/images/Media/InPersonTownhall2022_Image3.jpg">
+						<a href="/images/Media/InPersonTownhall2022_Image3.jpg" target="_blank">
 							<img src="/images/Media/InPersonTownhall2022_Image3.jpg">
 						</a>    
 					</td>
 					<td>
-						<a href="/images/Media/InPersonTownhall2022_Image3.jpg">
+						<a href="/images/Media/InPersonTownhall2022_Image3.jpg" target="_blank">
 							<img src="/images/Media/InPersonTownhall2022_Image3.jpg">
 						</a>    
 					</td>
 				</tr>
 				<tr>
 					<td>
-						<a href="/images/Media/InPersonTownhall2022_Image3.jpg">
+						<a href="/images/Media/InPersonTownhall2022_Image3.jpg" target="_blank">
 							<img src="/images/Media/InPersonTownhall2022_Image3.jpg">
 						</a>
 					</td>
 					<td>
-						<a href="/images/Media/InPersonTownhall2022_Image3.jpg">
+						<a href="/images/Media/InPersonTownhall2022_Image3.jpg" target="_blank">
 							<img src="/images/Media/InPersonTownhall2022_Image3.jpg">
 						</a>    
 					</td>
 					<td>
-						<a href="/images/Media/InPersonTownhall2022_Image3.jpg">
+						<a href="/images/Media/InPersonTownhall2022_Image3.jpg" target="_blank">
 							<img src="/images/Media/InPersonTownhall2022_Image3.jpg">
 						</a>    
 					</td>
