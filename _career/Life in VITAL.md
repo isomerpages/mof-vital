@@ -21,6 +21,11 @@ description: Life in VITAL
 						<a href="/images/Media/InPersonTownhall2022_Image3.jpg" target="_blank">
 							<img src="/images/Media/InPersonTownhall2022_Image3.jpg">
 						</a>
+					</td>	
+					<td>
+						<a href="/images/Media/InPersonTownhall2022_Image3.jpg" target="_blank">
+							<img src="/images/Media/InPersonTownhall2022_Image3.jpg">
+						</a>
 					</td>					
 					<td>
 						<a href="/images/Media/InPersonTownhall2022_Image3.jpg" target="_blank">
@@ -34,6 +39,11 @@ description: Life in VITAL
 					</td>
 				</tr>
 				<tr>
+					<td>
+						<a href="/images/Media/InPersonTownhall2022_Image3.jpg" target="_blank">
+							<img src="/images/Media/InPersonTownhall2022_Image3.jpg">
+						</a>
+					</td>	
 					<td>
 						<a href="/images/Media/InPersonTownhall2022_Image3.jpg" target="_blank">
 							<img src="/images/Media/InPersonTownhall2022_Image3.jpg">
