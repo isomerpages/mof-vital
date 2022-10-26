@@ -3,7 +3,6 @@ title: Life in VITAL
 permalink: /career/life-in-vital/
 description: Life in VITAL
 ---
-<!DOCTYPE html>
 <html>
     <head>
 			<title>Life in VITAL</title>
