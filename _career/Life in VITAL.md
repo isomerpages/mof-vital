@@ -8,7 +8,7 @@ description: Life in VITAL
 			<title>Life in VITAL</title>
 			<style>
 				img { width: 300px; height: 180px; }
-				img:hover { width: 500px; height: 380px;box-shadow: 0px 4px 4px #FFD700; }
+				img:hover { width: 400px; height: 300px;box-shadow: 0px 4px 4px #FFD700; }
 			</style>
     </head>
     <body> 
