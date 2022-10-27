@@ -22,7 +22,7 @@ description: Life in VITAL
 					<td style="border: 0px;padding:10px;vertical-align: middle;text-align: center;">
 						<a href="/images/Media/InPersonTownhall2022_Image3.jpg" target="_blank">
 							<img src="/images/Media/InPersonTownhall2022_Image3.jpg">
-						</a>    
+						</a> <a download="InPersonTownhall2022_Image3.jpg" href="/images/Media/InPersonTownhall2022_Image3.jpg">Download</a> 
 					</td>
 					<td style="border: 0px;padding:10px;vertical-align: middle;text-align: center;">
 						<a href="/images/Media/InPersonTownhall2022_Image3.jpg" target="_blank">
