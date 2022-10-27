@@ -3,50 +3,36 @@ title: Life in VITAL
 permalink: /career/life-in-vital/
 description: Life in VITAL
 ---
-<html>
-    <head>
-			<title>Life in VITAL</title>
-			<style>
-				img { width: 300px; height: 180px; }
-				img:hover { box-shadow: 0px 4px 5px #FFD700; }
-			</style>
-    </head>
-    <body> 
-    	<table style="border: 0px;padding:0px;" width="100%" height="100%">
-				<tr style="border: 0px;padding:0px;">					
-					<td style="border: 0px;padding:10px;vertical-align: middle;text-align: center;">
-						<a href="/images/Media/InPersonTownhall2022_Image3.jpg" target="_blank">
-							<img src="/images/Media/InPersonTownhall2022_Image3.jpg">
-						</a>
-					</td>					
-					<td style="border: 0px;padding:10px;vertical-align: middle;text-align: center;">
-						<a href="/images/Media/InPersonTownhall2022_Image3.jpg" target="_blank">
-							<img src="/images/Media/InPersonTownhall2022_Image3.jpg">
-						</a>    
-					</td>
-					<td style="border: 0px;padding:10px;vertical-align: middle;text-align: center;">
-						<a href="/images/Media/InPersonTownhall2022_Image3.jpg" target="_blank">
-							<img src="/images/Media/InPersonTownhall2022_Image3.jpg">
-						</a>    
-					</td>
-				</tr>
-				<tr style="border: 0px;padding:0px;">					
-					<td style="border: 0px;padding:10px;vertical-align: middle;text-align: center;">
-						<a href="/images/Media/InPersonTownhall2022_Image3.jpg" target="_blank">
-							<img src="/images/Media/InPersonTownhall2022_Image3.jpg">
-						</a>
-					</td>
-					<td style="border: 0px;padding:10px;vertical-align: middle;text-align: center;">
-						<a href="/images/Media/InPersonTownhall2022_Image3.jpg" target="_blank">
-							<img src="/images/Media/InPersonTownhall2022_Image3.jpg">
-						</a>    
-					</td>
-					<td style="border: 0px;padding:10px;vertical-align: middle;text-align: center;">
-						<a href="/images/Media/InPersonTownhall2022_Image3.jpg" target="_blank">
-							<img src="/images/Media/InPersonTownhall2022_Image3.jpg">
-						</a>    
-					</td>
-				</tr>
-			</table>
-    </body>
-  </html>
+
+
+<div style="text-align:center">
+  <h2>Tabbed Image Gallery</h2>
+  <p>Click on the images below:</p>
+</div>
+
+<!-- The four columns -->
+<div class="row">
+  <div class="column">
+    <img style="width:100%" alt="Nature" src="img_nature.jpg">
+  </div>
+  <div class="column">
+    <img style="width:100%" alt="Snow" src="img_snow.jpg">
+  </div>
+  <div class="column">
+    <img style="width:100%" alt="Mountains" src="img_mountains.jpg">
+  </div>
+  <div class="column">
+    <img style="width:100%" alt="Lights" src="img_lights.jpg">
+  </div>
+</div>
+
+<div class="container">
+  <span class="closebtn">×</span>
+  <img style="width:100%" id="expandedImg">
+  <div id="imgtext"></div>
+</div>
+
+
+
+
+
