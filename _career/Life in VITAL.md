@@ -16,7 +16,7 @@ description: Life in VITAL
 				<tr style="border: 0px;padding:0px;">					
 					<td style="border: 0px;padding:10px;vertical-align: middle;text-align: center;">
 						<a href="/images/Media/InPersonTownhall2022_Image3.jpg" target="_blank">
-							<img style="width: 300px; height: 180px;" src="/images/Media/InPersonTownhall2022_Image3.jpg">
+							<img src="/images/Media/InPersonTownhall2022_Image3.jpg">
 						</a>
 					</td>					
 					<td style="border: 0px;padding:10px;vertical-align: middle;text-align: center;">
