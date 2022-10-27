@@ -14,37 +14,37 @@ description: Life in VITAL
     <body> 
     	<table style="border: 0px;padding:0px;" width="100%" height="100%">
 				<tr style="border: 0px;padding:0px;">					
-					<td style="border: 0px;padding:10px;vertical-align: middle;text-align: center;">
-						<a download="InPersonTownhall2022_Image3.jpg" href="/images/Media/InPersonTownhall2022_Image3.jpg" title="InPersonTownhall">
-    <img alt="InPersonTownhall" src="/images/Media/InPersonTownhall2022_Image3.jpg">
-</a>
+					<td style="border: 0px;padding:10px;vertical-align: middle;text-align: right;">
+						<a href="/images/Media/InPersonTownhall2022_Image3.jpg" target="_blank">
+							<img src="/images/Media/InPersonTownhall2022_Image3.jpg">
+						</a> <a download="InPersonTownhall2022_Image3.jpg" href="/images/Media/InPersonTownhall2022_Image3.jpg">Download</a> 
 					</td>					
 					<td style="border: 0px;padding:10px;vertical-align: center;text-align: right;">
 						<a href="/images/Media/InPersonTownhall2022_Image3.jpg" target="_blank">
 							<img src="/images/Media/InPersonTownhall2022_Image3.jpg">
 						</a> <a download="InPersonTownhall2022_Image3.jpg" href="/images/Media/InPersonTownhall2022_Image3.jpg">Download</a> 
 					</td>
-					<td style="border: 0px;padding:10px;vertical-align: middle;text-align: center;">
+					<td style="border: 0px;padding:10px;vertical-align: middle;text-align: right;">
 						<a href="/images/Media/InPersonTownhall2022_Image3.jpg" target="_blank">
 							<img src="/images/Media/InPersonTownhall2022_Image3.jpg">
-						</a>    
+						</a> <a download="InPersonTownhall2022_Image3.jpg" href="/images/Media/InPersonTownhall2022_Image3.jpg">Download</a>  
 					</td>
 				</tr>
 				<tr style="border: 0px;padding:0px;">					
-					<td style="border: 0px;padding:10px;vertical-align: middle;text-align: center;">
+					<td style="border: 0px;padding:10px;vertical-align: middle;text-align: right;">
 						<a href="/images/Media/InPersonTownhall2022_Image3.jpg" target="_blank">
 							<img src="/images/Media/InPersonTownhall2022_Image3.jpg">
-						</a>
+						</a> <a download="InPersonTownhall2022_Image3.jpg" href="/images/Media/InPersonTownhall2022_Image3.jpg">Download</a> 
 					</td>
-					<td style="border: 0px;padding:10px;vertical-align: middle;text-align: center;">
+					<td style="border: 0px;padding:10px;vertical-align: middle;text-align: right;">
 						<a href="/images/Media/InPersonTownhall2022_Image3.jpg" target="_blank">
 							<img src="/images/Media/InPersonTownhall2022_Image3.jpg">
-						</a>    
+						</a> <a download="InPersonTownhall2022_Image3.jpg" href="/images/Media/InPersonTownhall2022_Image3.jpg">Download</a> 
 					</td>
-					<td style="border: 0px;padding:10px;vertical-align: middle;text-align: center;">
+					<td style="border: 0px;padding:10px;vertical-align: middle;text-align: right;">
 						<a href="/images/Media/InPersonTownhall2022_Image3.jpg" target="_blank">
 							<img src="/images/Media/InPersonTownhall2022_Image3.jpg">
-						</a>    
+						</a> <a download="InPersonTownhall2022_Image3.jpg" href="/images/Media/InPersonTownhall2022_Image3.jpg">Download</a> 
 					</td>
 				</tr>
 			</table>
