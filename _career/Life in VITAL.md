@@ -14,8 +14,8 @@ description: Life in VITAL
     <body> 
     	<table style="border: 0px;padding:0px;" width="100%" height="100%">
 				<tr style="border: 0px;padding:0px;">					
-					<td style="border: 0px;padding:10px;vertical-align: middle;text-align: right;">
-						<a href="/images/Media/InPersonTownhall2022_Image3.jpg" target="_self"></a> 
+					<td style="border: 0px;padding:10px;vertical-align: middle;text-align: center;">
+						<a href="/career/life-in-vital/town-hall-2022/" target="_self" style="font-size: 15px">Town Hall 2022</a> 
 					</td>					
 					<td style="border: 0px;padding:10px;vertical-align: center;text-align: right;">
 						<a href="/images/Media/InPersonTownhall2022_Image3.jpg" target="_blank">
