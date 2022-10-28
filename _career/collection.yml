@@ -2,8 +2,10 @@ collections:
   career:
     output: true
     order:
-      - Life in VITAL/Town Hall 2022.md
-      - Life in VITAL/.keep
       - being-vital.md
       - our-vitalites.md
       - Life in VITAL.md
+    output: false
+      - Life in VITAL/Town Hall 2022.md
+      - Life in VITAL/.keep
+ 
