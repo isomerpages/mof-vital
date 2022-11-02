@@ -23,9 +23,3 @@ VITAL’s online sharing was attended by government officials from more than 20 
 <br>
 <img src="/images/Media/SSON award 3.jpg">
 <font size="-1">Business Transformation Impact Award (Silver)</font>
-<br>
-<img src="/images/Media/SSON award 2.jpg">
-<font size="-1">Automation Impact Award (Honourary Mention)</font>
-<br>
-<img src="/images/Media/SSON award 4.jpg">
-<font size="-1">Automation Impact Award (Honourary Mention)</font>
