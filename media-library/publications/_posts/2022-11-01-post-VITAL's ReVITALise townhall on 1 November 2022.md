@@ -22,3 +22,5 @@ Congratulations again to all the recipients of the VITAL Go-the-Extra-Mile for S
 <img src="/images/Media/Revitalise 04.jpeg">
 <br>
 <img src="/images/Media/Revitalise 05.jpeg">
+<br>
+<img src="/images/Media/Revitalise 06.jpeg">
