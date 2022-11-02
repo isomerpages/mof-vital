@@ -12,3 +12,4 @@ Mr Dennis Lui, Chief Executive of VITAL, participated as a guest speaker in UiPa
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 At the event, Mr Lui shared his views and insights into empowering public officers through technology, VITAL's automation story and citizen developer initiatives, with over 3,500 audience at the world's largest gathering of enterprise automation leaders.
 </p>
+<div class="home-video"><iframe allowfullscreen="" allow="encrypted-media" src="https://www.youtube.com/embed/ia-bhPXquJ4?rel=0&amp;showinfo=0" height="350" width="640" title="Strengthening corporate branding, partnership and engagement Video" id="video_player"></iframe></div>
