@@ -13,6 +13,4 @@ VITAL has received 2021 Share Gold award at the Community Chest Awards 2022. We 
 We look forward to making further strides on this meaningful journey with like-minded organisations across people, private and public sectors.
 </p>
 
-<img src="/images/Media/MFA SCP 01.jpg">
-
-<img src="/images/Media/MFA SCP 03.jpg">
+<img src="/images/Media/MFA SCP.jpeg">
