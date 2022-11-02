@@ -15,11 +15,8 @@ During the session, VITAL shared about Singapore Government’s RPA story and ro
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 VITAL’s online sharing was attended by government officials from more than 20 countries. It was also a great opportunity for us to learn and exchange ideas with foreign counterparts who are also involved in using RPA as a solution to improve work processes for the public sector.
 </p>
-<img src="/images/Media/SSON award 5.jpg">
-<font size="-1">VITAL receives SSON Impact Awards 2022 </font>
+<img src="/images/Media/MFA SCP 01.jpg">
 <br>
-<img src="/images/Media/SSON award 1.jpg">
-<font size="-1">Business Transformation Impact Award (Silver)</font>
+<img src="/images/Media/MFA SCP 02.jpg">
 <br>
-<img src="/images/Media/SSON award 3.jpg">
-<font size="-1">Business Transformation Impact Award (Silver)</font>
+<img src="/images/Media/MFA SCP 03.jpg">
