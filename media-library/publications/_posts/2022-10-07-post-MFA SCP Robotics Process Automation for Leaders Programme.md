@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-As part of the Ministry of Foreign Affairs Singapore – Singapore Cooperation Programme, VITAL was invited to conduct an online sharing about our journey of digitalising administrative services within the Singapore Public Service.
+As part of the Ministry of Foreign Affairs Singapore – Singapore Cooperation Programme (MFA-SCP), VITAL was invited to conduct an online sharing about our journey of digitalising administrative services within the Singapore Public Service.
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 During the session, VITAL shared about Singapore Government’s RPA story and roadmap, from VITAL’s role in leading the robotics shift, our citizen developer strategy, to creation of the bot library and the central RPA platform for whole-of-government.
