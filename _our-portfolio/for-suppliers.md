@@ -48,4 +48,4 @@ Interested training providers who meet the following criteria may apply:
    <li>Sound financial health&nbsp;</li>
 </ul>
 
-We welcome training providers who are interested to list their training courses on the HRPS Training module to submit your application with the required documents via this link. There will be a one-time evaluation fee of $99 + prevailing GST payable to VITAL. 
+We welcome training providers who are interested to list their training courses on the HRPS Training module to submit your application with the required documents via this link. There will be a one-time evaluation fee of $99 + prevailing GST payable to VITAL.
