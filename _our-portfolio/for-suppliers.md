@@ -3,7 +3,6 @@ title: For Suppliers
 permalink: /our-portfolio/for-suppliers/
 description: How businesses and service providers can partner VITAL
 ---
-
 VITAL works with businesses and service providers to co-create and offer corporate services solutions to government agencies. Here are areas where your company can partner us.
 
 ### Demand Aggregation
@@ -35,13 +34,13 @@ VITAL is one of the lead agencies for public sector DA and manages the following
 We are constantly on the lookout for new opportunities to aggregate demand across the public sector, and welcome suppliers as well as service providers who wish to offer their goods and services.
 
 
-### HRP Training Module
+### HRPS Training Module
 
-The Training module in the Human Resource and Payroll (HRP) system provides a convenient avenue for public officers to search and register for training courses to enhance their professional growth.
+The Training module in the Human Resource and Payroll System (HRPS) provides a convenient avenue for public officers to search and register for training courses to enhance their professional growth.
 
 By coming onboard as a training provider, you can extend your offerings to more than 40,000 public officers.
 
-Interested training providers who meet the following criteria may apply: 
+Interested training providers who meet the following criteria may apply:
 <ul>
    <li>Track record of delivering courses attended by participants from government agencies&nbsp;</li>
    <li>Track record of qualified trainers with qualification in training delivery or teaching&nbsp;</li>
@@ -49,8 +48,4 @@ Interested training providers who meet the following criteria may apply:
    <li>Sound financial health&nbsp;</li>
 </ul>
 
-We welcome training providers who are interested to list their training courses on the HRP Training module to contact us. For more details on the application, please download <a href="/files/Application Details.pdf" target="_blank">application details</a> (PDF, 114kb) .
-
-To view/ open the resources in this page, you will need to download the Adobe Acrobat Reader software. 
-Please follow this link to download Adobe’s free <a href="https://get.adobe.com/reader/" target="_blank" >Acrobat Reader</a> software. (Windows and Mac)
-
+We welcome training providers who are interested to list their training courses on the HRPS Training module to submit your application with the required documents via this <a href="https://go.gov.sg/tpapplication">link</a>. There will be a one-time evaluation fee of $99 + prevailing GST payable to VITAL.
