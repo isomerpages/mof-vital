@@ -16,7 +16,7 @@ VITAL was mentioned in Madam President’s speech as one of the early adopters o
 Mr Dennis Lui, Chief Executive of VITAL, also participated in a panel discussion hosted by Mr Tan Chuan-Jin, Speaker of The Parliament, on the topic of “Pivoting Evidence-Based Outcomes - Integrate. Involve. Innovate.”
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-We are humbled by this recognition award, a testament to our practices in supporting disability-inclusive hiring. We look forward to working with link-minded organisations on this meaningful journey.
+We are humbled by this recognition award, a testament to our practices in supporting disability-inclusive hiring. We look forward to working with like-minded organisations on this meaningful journey.
 </p>
 <img src="/images/Media/Istana 05.jpg">
 <font size="-1">Recognition Award of HR Powerbank Early Adopter</font>
