@@ -7,12 +7,17 @@ description: ""
 image: ""
 ---
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-VITAL has received the “Business Transformation Impact Award (Silver)” and "Automation Impact Award (Honourary Mention)" at Shared Services & Outsourcing Network (SSON) Impact Awards 2022.
+It was VITAL's great honour to receive the Recognition Award of HR Powerbank Early Adopter from Madam Halimah Yacob, President of Singapore, at Human Capital Singapore - SG Enable Masterclass at The Istana on Thursday, 3 November 2022.
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-The SSON Impact Awards are globally recognised industry awards conferred by SSON, the world's largest and most established community of shared services and outsourcing professionals. The awards honour and celebrate shared services organisations and service delivery teams who have exceeded industry standards in their initiatives.
+VITAL was mentioned in Madam President’s speech as one of the early adopters of the Human Capital Singapore HR Powerbank. As an extension of our inclusive hiring efforts, VITAL has partnered HR Powerbank to employ more persons with disabilities for jobs in the HR domain.
 </p>
-
+<p style="font-size: 18px;color:#585858;text-align:justify;">
+Mr Dennis Lui, Chief Executive of VITAL, also participated in a panel discussion hosted by Mr Tan Chuan-Jin, Speaker of The Parliament, on the topic of “Pivoting Evidence-Based Outcomes - Integrate. Involve. Innovate.”
+</p>
+<p style="font-size: 18px;color:#585858;text-align:justify;">
+We are humbled by this recognition award, a testament to our practices in supporting disability-inclusive hiring. We look forward to working with link-minded organisations on this meaningful journey.
+</p>
 <img src="/images/Media/Istana 05.jpg">
 <font size="-1">Recognition Award of HR Powerbank Early Adopter</font>
 <br>
