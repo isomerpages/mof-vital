@@ -39,7 +39,7 @@ image: ""
 <b>Competition and Consumer Commission of Singapore (CCCS)</b>
 <br>Parent Ministry: Ministry of Trade and Industry (MTI)
 <p align="justify">What They Do:
-<br>Just as we run faster in a race against others versus running alone, competition drives businesses to excel, and be better, faster and stronger. As Singapore’s competition and consumer protection authority, the CCCS’s mission is to make markets work well to create opportunities and choices for businesses and consumers in Singapore.</P>
+<br>Just as we run faster in a race against others versus running alone, competition drives businesses to excel, and be better, faster and stronger. As Singapore’s competition and consumer protection authority, the CCCS’s mission is to make markets work well to create opportunities and choices for businesses and consumers in Singapore.</p>
 
 <p align="justify">The CCCS helps businesses in Singapore compete fairly, which encourages healthy competition and greater innovation throughout the economy. The CCCS also promotes fair trade practices that allow customers to make well-informed purchasing decisions.
 </p>
