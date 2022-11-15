@@ -51,10 +51,9 @@ Singapore Accreditation Council (SAC)
 <p align="justify">Conformity assessment is used to demonstrate that a product, service or management system meets specified requirements and global standards.</p>
 
 In facilitating these accreditations, the SAC helps Singapore achieve these:
-<p align="justify">
 <li>strengthen Singapore’s technical infrastructure to support conformity assessments</li>
 <li>grow Singapore’s international networks of mutual recognition arrangements across more than 100 economies to facilitate the recognition of accredited reports and/or certificates.</li>
-<li>build global trust in our accredited products and services, putting Singapore on the map.</li></p>
+<li>build global trust in our accredited products and services, putting Singapore on the map.</li>
 	
 <p align="justify">The SAC’s efforts are part of the national accreditation programme overseen by Enterprise Singapore.</p>
 
