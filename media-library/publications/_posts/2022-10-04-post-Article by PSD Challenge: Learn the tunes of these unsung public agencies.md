@@ -10,10 +10,10 @@ image: ""
 
 <p align="justify">Think about the sheer number of products, services, and professionals we rely on as we go about our lives each day. Chances are, one or more of Singapore’s public agencies are behind these interactions.</p>
 
-<b><br>VITAL</b>
+<br><b>VITAL</b>
 <b><br>Parent Ministry: Ministry of Finance (MOF)</b>
-<b><p align="justify">What They Do:<br>
-From billing transport charges directly to your agency (instead of having to make claim submissions), to providing Whole-of-Government HR and payroll services, VITAL plays a crucial role in the work lives of public officers.</p></b>
+<p align="justify"><b>What They Do:</b><br>
+<b>From billing transport charges directly to your agency (instead of having to make claim submissions), to providing Whole-of-Government HR and payroll services, VITAL plays a crucial role in the work lives of public officers.</b></p>
 
 <b><p align="justify">As the Singapore Public Service’s central agency for corporate shared services, VITAL transforms and delivers corporate shared services in Human Resources, Payroll, Finance, Travel and Procurement to over 100 public agencies.</p></b>
 
