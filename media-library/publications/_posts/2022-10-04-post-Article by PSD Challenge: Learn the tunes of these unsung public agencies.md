@@ -19,7 +19,7 @@ From billing transport charges directly to your agency (instead of having to mak
 
 <p align="justify">Besides ensuring that officers are appointed into service, and salaries and claims are processed, VITAL leads the experimentation and scaling efforts for robotics and automation for corporate and administrative services within the Public Service. VITAL officers are trained in Robotic Process Automation (RPA) to help them better assess and pilot solutions for our public agencies.</p>
 	
-<p align="justify">Did You Know: VITAL champions inclusivity. Currently, 13 persons with disabilities are hired to perform various shared services roles. They account for approximately 2.5% of VITAL’s workforce, comparable to the national average for people under 50 years old.</p>
+<p align="justify">Did You Know: VITAL champions inclusivity. Currently, 13 persons with disabilities are hired to perform various shared services roles. They account for approximately 2.5% of VITAL’s workforce, comparable to the national average for people under 50 years old.</b></p>
 
 <br>Professional Engineers Board Singapore (PEB)
 <br>Parent Ministry: Ministry of National Development (MND)
