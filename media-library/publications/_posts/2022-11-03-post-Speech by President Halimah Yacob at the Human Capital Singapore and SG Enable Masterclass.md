@@ -7,6 +7,8 @@ layout: post
 description: ""
 image: ""
 ---
+<p align="justify">VITAL was mentioned in the speech of Madam Halimah Yacob, President of Singapore, as one of the early adopters of the Human Capital Singapore HR Powerbank, as we partner HR Powerbank to employ more persons with disabilities for jobs in the HR domain.</p>
+
 <img src="/images/Media/Istana 03.jpg">
 
 Mr Tan Chuan-Jin, Speaker of the Parliament of Singapore
