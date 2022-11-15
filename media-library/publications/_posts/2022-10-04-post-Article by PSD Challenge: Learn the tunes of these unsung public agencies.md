@@ -41,14 +41,14 @@ Competition and Consumer Commission of Singapore (CCCS)
 <br>Just as we run faster in a race against others versus running alone, competition drives businesses to excel, and be better, faster and stronger. As Singapore’s competition and consumer protection authority, the CCCS’s mission is to make markets work well to create opportunities and choices for businesses and consumers in Singapore.
 The CCCS helps businesses in Singapore compete fairly, which encourages healthy competition and greater innovation throughout the economy. The CCCS also promotes fair trade practices that allow customers to make well-informed purchasing decisions.
 
-<p align="justify">We know that the CCCS’ work is at play every time we find ourselves spoilt for choice when shopping for our daily needs.
+<p align="justify">We know that the CCCS’ work is at play every time we find ourselves spoilt for choice when shopping for our daily needs.</p>
 
 Singapore Accreditation Council (SAC)
 <br>Parent Ministry: Ministry of Trade & Industry
 <p align="justify"><br>What They Do:
-<br>The SAC is the appointed national authority for accrediting conformity assessment bodies that provide services such as testing, calibration, inspection and certification.
+<br>The SAC is the appointed national authority for accrediting conformity assessment bodies that provide services such as testing, calibration, inspection and certification.</p>
 
-<p align="justify">Conformity assessment is used to demonstrate that a product, service or management system meets specified requirements and global standards.
+<p align="justify">Conformity assessment is used to demonstrate that a product, service or management system meets specified requirements and global standards.</p>
 
 In facilitating these accreditations, the SAC helps Singapore achieve these:
 <p align="justify">
@@ -56,15 +56,15 @@ In facilitating these accreditations, the SAC helps Singapore achieve these:
 <li>grow Singapore’s international networks of mutual recognition arrangements across more than 100 economies to facilitate the recognition of accredited reports and/or certificates.</li>
 <li>build global trust in our accredited products and services, putting Singapore on the map.</li></p>
 	
-<p align="justify">The SAC’s efforts are part of the national accreditation programme overseen by Enterprise Singapore.
+<p align="justify">The SAC’s efforts are part of the national accreditation programme overseen by Enterprise Singapore.</p>
 
 Singapore Medical Council (SMC)
 <br>Parent Ministry: Ministry of Health (MOH)
-<br>What They Do:
+<p align="justify"><br>What They Do:
 <br>Our health is nothing to sneeze at! That’s why the SMC maintains a register of all medical practitioners in Singapore and issues practising certificates to those who make the mark.
+</p>
+<p align="justify">All registered medical doctors are expected to adhere to high professional and ethical standards of practice, and the SMC holds them to account if they fail to do so.</p>
 
-All registered medical doctors are expected to adhere to high professional and ethical standards of practice, and the SMC holds them to account if they fail to do so.
+<p align="justify">The SMC also monitors closely the work performance of doctors who have newly started clinical practice in Singapore until the Council is satisfied that the doctors are ready for independent clinical practice. This protects the safety and wellbeing of our public when they receive clinical care in Singapore.</p>
 
-The SMC also monitors closely the work performance of doctors who have newly started clinical practice in Singapore until the Council is satisfied that the doctors are ready for independent clinical practice. This protects the safety and wellbeing of our public when they receive clinical care in Singapore.
-
-The SMC makes recommendations to the appropriate authorities on the courses of instructions and examinations leading to the Singapore medical degree, and for the training and education of registered medical doctors.
+<p align="justify">The SMC makes recommendations to the appropriate authorities on the courses of instructions and examinations leading to the Singapore medical degree, and for the training and education of registered medical doctors.</p>
