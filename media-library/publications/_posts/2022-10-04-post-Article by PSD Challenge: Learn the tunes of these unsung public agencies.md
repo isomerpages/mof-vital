@@ -71,5 +71,5 @@ Singapore Medical Council (SMC)
 
 
 <p style="font-size: 16px;color:#585858;text-align:justify;">
-Click <a href="https://govinsider.asia/digital-gov/singapore-government-agency-launches-automation-platform-for-whole-of-government/"> HERE</a> to read the original article from GovInsider website.
+Click <a href="https://www.psd.gov.sg/challenge/ideas/feature/learn-the-tunes-of-these-unsung-public-agencies"> HERE</a> to read the original article from PSD Challenge website.
 </p>
