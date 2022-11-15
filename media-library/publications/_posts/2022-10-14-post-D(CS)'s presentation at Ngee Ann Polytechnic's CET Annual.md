@@ -26,4 +26,4 @@ Here are the key highlights from her sharing:
 <br>•	A clear data strategy is in place to govern the use of data and create opportunities for staff to apply what they have learnt.
 <br>•	A community of practice is built where trained officers come together to share use cases and experiences.</p>
 
-You may view the video of presentation by clicking this <a href="https://mof-vital-staging.netlify.app/media-library/videos/cet-annual-presentation/">link</a>.
+Click <a href = "/files/CET Annual.pdf">HERE</a> to view D(CS)'s presentation slides in PDF format.
