@@ -10,7 +10,7 @@ image: ""
 
 <p align="justify">Think about the sheer number of products, services, and professionals we rely on as we go about our lives each day. Chances are, one or more of Singapore’s public agencies are behind these interactions.</p>
 
-<br><b>VITAL</b>
+<b>VITAL</b>
 <br><b>Parent Ministry: Ministry of Finance (MOF)</b>
 <p align="justify"><b>What They Do:</b>
 <br>
