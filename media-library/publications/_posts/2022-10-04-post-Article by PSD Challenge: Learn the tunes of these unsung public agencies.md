@@ -70,6 +70,6 @@ Singapore Medical Council (SMC)
 <p align="justify">The SMC makes recommendations to the appropriate authorities on the courses of instructions and examinations leading to the Singapore medical degree, and for the training and education of registered medical doctors.</p>
 
 
-<p style="font-size: 16px;color:#585858;text-align:justify;">
+<p align="justify">
 Click <a href="https://www.psd.gov.sg/challenge/ideas/feature/learn-the-tunes-of-these-unsung-public-agencies"> HERE</a> to read the original article from PSD Challenge website.
 </p>
