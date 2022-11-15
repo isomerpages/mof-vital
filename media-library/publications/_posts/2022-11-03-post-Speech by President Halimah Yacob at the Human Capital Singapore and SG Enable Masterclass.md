@@ -11,7 +11,7 @@ image: ""
 
 <img src="/images/Media/Istana 03.jpg">
 
-Mr Tan Chuan-Jin, Speaker of the Parliament of Singaporet
+Mr Tan Chuan-Jin, Speaker of the Parliament of Singapore
 
 Ms Ho Geok Choo, CEO, Human Capital Singapore
 
