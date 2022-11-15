@@ -22,21 +22,21 @@ image: ""
 	
 <p align="justify"><b>Did You Know: VITAL champions inclusivity. Currently, 13 persons with disabilities are hired to perform various shared services roles. They account for approximately 2.5% of VITAL’s workforce, comparable to the national average for people under 50 years old.</b></p>
 
-Professional Engineers Board Singapore (PEB)
+<b>Professional Engineers Board Singapore (PEB)</b>
 <br>Parent Ministry: Ministry of National Development (MND)
 <p align="justify">What They Do:
 <br>The PEB keeps our engineers on their toes and at their best. They ensure that our professional engineers are up to international standards and have the right combination of education, assessment performance and practical experience.</p>
 
 <p align="justify">After all, having engineers who conduct themselves professionally and ethically in our midst and helping our community advance makes us all feel more reassured in our lives and our property.</p>
 
-Board of Architects (BOA)
+<b>Board of Architects (BOA)</b>
 <br>Parent Ministry: Ministry of National Development (MND)
 <p align="justify">What They Do:
 <br>Just as good architecture offers us beauty and stability, the BOA supports our architects as they stay true to the transparency and integrity of their profession amidst commercialisation in the architecture industry.</p>
 
 <p align="justify">As the Board that maintains our official register of architects, the BOA manages the standards they should meet and the exams they need to pass to qualify. They also promote education and learning within the practice of architecture.</p>
 
-Competition and Consumer Commission of Singapore (CCCS)
+<b>Competition and Consumer Commission of Singapore (CCCS)</b>
 <br>Parent Ministry: Ministry of Trade and Industry (MTI)
 <p align="justify">What They Do:
 <br>Just as we run faster in a race against others versus running alone, competition drives businesses to excel, and be better, faster and stronger. As Singapore’s competition and consumer protection authority, the CCCS’s mission is to make markets work well to create opportunities and choices for businesses and consumers in Singapore.
@@ -44,7 +44,7 @@ The CCCS helps businesses in Singapore compete fairly, which encourages healthy 
 </p>
 <p align="justify">We know that the CCCS’ work is at play every time we find ourselves spoilt for choice when shopping for our daily needs.</p>
 
-Singapore Accreditation Council (SAC)
+<b>Singapore Accreditation Council (SAC)</b>
 <br>Parent Ministry: Ministry of Trade & Industry
 <p align="justify">What They Do:
 <br>The SAC is the appointed national authority for accrediting conformity assessment bodies that provide services such as testing, calibration, inspection and certification.</p>
@@ -58,7 +58,7 @@ In facilitating these accreditations, the SAC helps Singapore achieve these:
 	
 <p align="justify">The SAC’s efforts are part of the national accreditation programme overseen by Enterprise Singapore.</p>
 
-Singapore Medical Council (SMC)
+<b>Singapore Medical Council (SMC)</b>
 <br>Parent Ministry: Ministry of Health (MOH)
 <p align="justify">What They Do:
 <br>Our health is nothing to sneeze at! That’s why the SMC maintains a register of all medical practitioners in Singapore and issues practising certificates to those who make the mark.
