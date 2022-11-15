@@ -17,7 +17,7 @@ Distinguished Guests
 
 Ladies and Gentlemen
 
-Good evening. I am happy to join you on this joyous occasion as we celebrate the graduation of the first group of Conferred HR Administrators (CHRA). I am glad that many employers, professionals, managers, and executives have come together today to learn about the strategic competitive advantage of inclusive hiring.
+<p align="justify">Good evening. I am happy to join you on this joyous occasion as we celebrate the graduation of the first group of Conferred HR Administrators (CHRA). I am glad that many employers, professionals, managers, and executives have come together today to learn about the strategic competitive advantage of inclusive hiring.</p>
 
 Persons with disabilities are a talent pool with valuable skills and expertise. Last year, I launched the HR Powerbank initiative that supports the employment of persons with disabilities. HR Powerbank plans to train a team of more than 20 CHRAs per year and facilitate their work placements. This initiative complements the President’s Challenge Enabling Employment Pledge, which calls on organisations to adopt an inclusive mindset, create barrier-free workplace environments, and implement supportive employment policies for employees with disabilities. As at end-September 2022, we have had 224 pledgers so far. Initiatives like the HR Powerbank facilitate turning these commitments into action.
 
