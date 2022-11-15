@@ -8,52 +8,55 @@ image: ""
 ---
 <img src="/images/Media/PSD Challenge.png">
 
-Think about the sheer number of products, services, and professionals we rely on as we go about our lives each day. Chances are, one or more of Singapore’s public agencies are behind these interactions.
+<p align="justify">Think about the sheer number of products, services, and professionals we rely on as we go about our lives each day. Chances are, one or more of Singapore’s public agencies are behind these interactions.
 
 <b>VITAL<br>
 Parent Ministry: Ministry of Finance (MOF)<br>
-What They Do:<br>
+<p align="justify">What They Do:<br>
 From billing transport charges directly to your agency (instead of having to make claim submissions), to providing Whole-of-Government HR and payroll services, VITAL plays a crucial role in the work lives of public officers.
 
-As the Singapore Public Service’s central agency for corporate shared services, VITAL transforms and delivers corporate shared services in Human Resources, Payroll, Finance, Travel and Procurement to over 100 public agencies.
+<p align="justify">As the Singapore Public Service’s central agency for corporate shared services, VITAL transforms and delivers corporate shared services in Human Resources, Payroll, Finance, Travel and Procurement to over 100 public agencies.
 
-Besides ensuring that officers are appointed into service, and salaries and claims are processed, VITAL leads the experimentation and scaling efforts for robotics and automation for corporate and administrative services within the Public Service. VITAL officers are trained in Robotic Process Automation (RPA) to help them better assess and pilot solutions for our public agencies.
-Did You Know: VITAL champions inclusivity. Currently, 13 persons with disabilities are hired to perform various shared services roles. They account for approximately 2.5% of VITAL’s workforce, comparable to the national average for people under 50 years old.</b>
+<p align="justify">Besides ensuring that officers are appointed into service, and salaries and claims are processed, VITAL leads the experimentation and scaling efforts for robotics and automation for corporate and administrative services within the Public Service. VITAL officers are trained in Robotic Process Automation (RPA) to help them better assess and pilot solutions for our public agencies.
+	
+<p align="justify">Did You Know: VITAL champions inclusivity. Currently, 13 persons with disabilities are hired to perform various shared services roles. They account for approximately 2.5% of VITAL’s workforce, comparable to the national average for people under 50 years old.</b>
 
 Professional Engineers Board Singapore (PEB)
 <br>Parent Ministry: Ministry of National Development (MND)
-<br>What They Do:
+<p align="justify"><br>What They Do:
 <br>The PEB keeps our engineers on their toes and at their best. They ensure that our professional engineers are up to international standards and have the right combination of education, assessment performance and practical experience.
 
-After all, having engineers who conduct themselves professionally and ethically in our midst and helping our community advance makes us all feel more reassured in our lives and our property.
+<p align="justify">After all, having engineers who conduct themselves professionally and ethically in our midst and helping our community advance makes us all feel more reassured in our lives and our property.
 
 Board of Architects (BOA)
 <br>Parent Ministry: Ministry of National Development (MND)
-<br>What They Do:
+<p align="justify"><br>What They Do:
 <br>Just as good architecture offers us beauty and stability, the BOA supports our architects as they stay true to the transparency and integrity of their profession amidst commercialisation in the architecture industry.
 
-As the Board that maintains our official register of architects, the BOA manages the standards they should meet and the exams they need to pass to qualify. They also promote education and learning within the practice of architecture.
+<p align="justify">As the Board that maintains our official register of architects, the BOA manages the standards they should meet and the exams they need to pass to qualify. They also promote education and learning within the practice of architecture.
 
 Competition and Consumer Commission of Singapore (CCCS)
 <br>Parent Ministry: Ministry of Trade and Industry (MTI)
-<br>What They Do:
+<p align="justify"><br>What They Do:
 <br>Just as we run faster in a race against others versus running alone, competition drives businesses to excel, and be better, faster and stronger. As Singapore’s competition and consumer protection authority, the CCCS’s mission is to make markets work well to create opportunities and choices for businesses and consumers in Singapore.
 The CCCS helps businesses in Singapore compete fairly, which encourages healthy competition and greater innovation throughout the economy. The CCCS also promotes fair trade practices that allow customers to make well-informed purchasing decisions.
 
-We know that the CCCS’ work is at play every time we find ourselves spoilt for choice when shopping for our daily needs.
+<p align="justify">We know that the CCCS’ work is at play every time we find ourselves spoilt for choice when shopping for our daily needs.
 
 Singapore Accreditation Council (SAC)
 <br>Parent Ministry: Ministry of Trade & Industry
-<br>What They Do:
+<p align="justify"><br>What They Do:
 <br>The SAC is the appointed national authority for accrediting conformity assessment bodies that provide services such as testing, calibration, inspection and certification.
 
-Conformity assessment is used to demonstrate that a product, service or management system meets specified requirements and global standards.
+<p align="justify">Conformity assessment is used to demonstrate that a product, service or management system meets specified requirements and global standards.
 
 In facilitating these accreditations, the SAC helps Singapore achieve these:
+<p align="justify">
 <li>strengthen Singapore’s technical infrastructure to support conformity assessments</li>
 <li>grow Singapore’s international networks of mutual recognition arrangements across more than 100 economies to facilitate the recognition of accredited reports and/or certificates.</li>
-<li>build global trust in our accredited products and services, putting Singapore on the map.</li>
-The SAC’s efforts are part of the national accreditation programme overseen by Enterprise Singapore.
+<li>build global trust in our accredited products and services, putting Singapore on the map.</li></p>
+	
+<p align="justify">The SAC’s efforts are part of the national accreditation programme overseen by Enterprise Singapore.
 
 Singapore Medical Council (SMC)
 <br>Parent Ministry: Ministry of Health (MOH)
