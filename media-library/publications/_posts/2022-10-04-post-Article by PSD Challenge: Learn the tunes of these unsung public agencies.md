@@ -68,3 +68,8 @@ Singapore Medical Council (SMC)
 <p align="justify">The SMC also monitors closely the work performance of doctors who have newly started clinical practice in Singapore until the Council is satisfied that the doctors are ready for independent clinical practice. This protects the safety and wellbeing of our public when they receive clinical care in Singapore.</p>
 
 <p align="justify">The SMC makes recommendations to the appropriate authorities on the courses of instructions and examinations leading to the Singapore medical degree, and for the training and education of registered medical doctors.</p>
+
+
+<p style="font-size: 16px;color:#585858;text-align:justify;">
+Click <a href="https://govinsider.asia/digital-gov/singapore-government-agency-launches-automation-platform-for-whole-of-government/"> HERE</a> to read the original article from GovInsider website.
+</p>
