@@ -55,3 +55,5 @@ Ladies and Gentlemen
 <p align="justify">In closing, a big thank you to speakers of the panel discussion for providing insights on the best practices and strategic advantage of inclusive hiring. My congratulations again to the graduating CHRAs. I wish you all the best.</p>
 
 Thank you.
+
+Click <a href="https://www.istana.gov.sg/Newsroom/Speeches/2022/11/03/Speech-by-President-Halimah-Yacob-at-the-HCS-SG-Enable-Masterclass)"> HERE</a> to read the original speech from the Istana website.
