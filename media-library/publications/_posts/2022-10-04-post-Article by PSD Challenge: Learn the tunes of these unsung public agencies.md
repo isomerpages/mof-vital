@@ -59,7 +59,7 @@ In facilitating these accreditations, the SAC helps Singapore achieve these:
 
 Singapore Medical Council (SMC)
 <br>Parent Ministry: Ministry of Health (MOH)
-<p align="justify"><br>What They Do:
+<p align="justify">What They Do:
 <br>Our health is nothing to sneeze at! That’s why the SMC maintains a register of all medical practitioners in Singapore and issues practising certificates to those who make the mark.
 </p>
 <p align="justify">All registered medical doctors are expected to adhere to high professional and ethical standards of practice, and the SMC holds them to account if they fail to do so.</p>
