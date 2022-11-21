@@ -24,6 +24,6 @@ Here are the key highlights from her sharing:
 
 <p align="justify">3.	Key take-aways in VITAL’s data analytics upskilling journey
 <br>•	A clear data strategy is in place to govern the use of data and create opportunities for staff to apply what they have learnt.
-<br>•	A community of practice is built where trained officers come together to share use cases and experiences.</p>
+<br>•	Build a community of practice where trained officers come together to share use cases and experiences.</p>
 
 Click <a href = "/files/CET Annual.pdf">HERE</a> to view D(CS)'s presentation slides in PDF format.
