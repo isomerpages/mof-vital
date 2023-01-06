@@ -19,7 +19,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">2.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;">We started 2022 with the Omicron variant sweeping through the world.  Protected by our vaccinations, we learned to live with COVID. Most restrictions were lifted, borders re-opened and it felt almost normal again. s occasion.</div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">We started 2022 with the Omicron variant sweeping through the world.  Protected by our vaccinations, we learned to live with COVID. Most restrictions were lifted, borders re-opened and it felt almost normal again.</div><br>
 		</td>		
 	</tr>
 	<tr style="border: 0px;padding:0px;">
