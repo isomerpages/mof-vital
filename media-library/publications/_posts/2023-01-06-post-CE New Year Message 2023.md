@@ -339,3 +339,46 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;"> We are conducting a short Employee Engagement survey this month to gather feedback. Please take some time to complete the survey. Your feedback is valuable to us. </div><br>
 		</td>		
 	</tr>
+			<td colspan="2" style="border: 0px;padding:0px;">
+			<div style="font-size: 32px;color:#a91932;text-align:justify;">Conclusion</div><br>
+		</td>
+	</tr>
+	<tr style="border: 0px;padding:0px;">
+		<td width="5%" style="border: 0px;padding:0px;">
+			<div style="font-size: 20px;color:#585858;text-align:justify;">39.</div>
+		</td>
+		<td style="border: 0px;padding:0px;">
+			<div style="font-size: 20px;color:#585858;text-align:justify;">To conclude, let me end with 3 points.  </div><br>
+		</td>		
+	</tr>	
+	<tr style="border: 0px;padding:0px;">
+		<td width="5%" style="border: 0px;padding:0px;">
+			<div style="font-size: 20px;color:#585858;text-align:justify;">40.</div>
+		</td>
+		<td style="border: 0px;padding:0px;">
+			<div style="font-size: 20px;color:#585858;text-align:justify;"><b>Adapt and grow as Citizen Developers</b>, as you continue to contribute to VITAL’s transformation.  </div><br>
+		</td>		
+	</tr>	<tr style="border: 0px;padding:0px;">
+		<td width="5%" style="border: 0px;padding:0px;">
+			<div style="font-size: 20px;color:#585858;text-align:justify;">41.</div>
+		</td>
+		<td style="border: 0px;padding:0px;">
+			<div style="font-size: 20px;color:#585858;text-align:justify;"><b>Take care of yourself</b> and look out for one another. </div><br>
+		</td>		
+	</tr>
+	</tr>	<tr style="border: 0px;padding:0px;">
+		<td width="5%" style="border: 0px;padding:0px;">
+			<div style="font-size: 20px;color:#585858;text-align:justify;">42.</div>
+		</td>
+		<td style="border: 0px;padding:0px;">
+			<div style="font-size: 20px;color:#585858;text-align:justify;"><b>Be involved</b>, participate in our activities, share your views in the Employee Engagement Survey and co-create with us a better workplace in 2023!</div><br>
+		</td>		
+	</tr>
+		</tr>	<tr style="border: 0px;padding:0px;">
+		<td width="5%" style="border: 0px;padding:0px;">
+			<div style="font-size: 20px;color:#585858;text-align:justify;">43.</div>
+		</td>
+		<td style="border: 0px;padding:0px;">
+			<div style="font-size: 20px;color:#585858;text-align:justify;">Thank you for being a part of the VITAL family. Here is wishing everyone a fruitful and abundant year of 2023. Please stay happy and healthy! Cheers. </div><br>
+		</td>		
+	</tr>
