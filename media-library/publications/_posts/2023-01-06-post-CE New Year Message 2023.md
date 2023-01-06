@@ -350,7 +350,7 @@ image: ""
 		<td style="border: 0px;padding:0px;">
 			<div style="font-size: 20px;color:#585858;text-align:justify;">To conclude, let me end with 3 points.  </div><br>
 		</td>		
-	</tr>	
+	</tr>
 	<tr style="border: 0px;padding:0px;">
 		<td width="5%" style="border: 0px;padding:0px;">
 			<div style="font-size: 20px;color:#585858;text-align:justify;">40.</div>
@@ -358,7 +358,7 @@ image: ""
 		<td style="border: 0px;padding:0px;">
 			<div style="font-size: 20px;color:#585858;text-align:justify;"><b>Adapt and grow as Citizen Developers</b>, as you continue to contribute to VITAL’s transformation.  </div><br>
 		</td>		
-	</tr>	<tr style="border: 0px;padding:0px;">
+		<tr style="border: 0px;padding:0px;">
 		<td width="5%" style="border: 0px;padding:0px;">
 			<div style="font-size: 20px;color:#585858;text-align:justify;">41.</div>
 		</td>
