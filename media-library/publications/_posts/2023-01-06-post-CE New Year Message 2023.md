@@ -381,4 +381,3 @@ image: ""
 		<td style="border: 0px;padding:0px;">
 			<div style="font-size: 20px;color:#585858;text-align:justify;">Thank you for being a part of the VITAL family. Here is wishing everyone a fruitful and abundant year of 2023. Please stay happy and healthy! Cheers. </div><br>
 		</td>		
-	</tr>
