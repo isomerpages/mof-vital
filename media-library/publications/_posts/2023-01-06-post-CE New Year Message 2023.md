@@ -254,7 +254,7 @@ image: ""
 		<td style="border: 0px;padding:0px;">
 			<div style="font-size: 20px;color:#585858;text-align:justify;">Second, build up the innovative and supportive culture that we all want in VITAL. Some companies are calling back their staff because they think that culture and innovation will take a big hit over time if hybrid working continues, and hence people must come together.</div><br>
 		</td>		
-	</tr>
+
 <tr style="border: 0px;padding:0px;">
 		<td width="5%" style="border: 0px;padding:0px;">
 			<div style="font-size: 20px;color:#585858;text-align:justify;">29.</div>
@@ -380,4 +380,4 @@ image: ""
 		</td>
 		<td style="border: 0px;padding:0px;">
 			<div style="font-size: 20px;color:#585858;text-align:justify;">Thank you for being a part of the VITAL family. Here is wishing everyone a fruitful and abundant year of 2023. Please stay happy and healthy! Cheers. </div><br>
-		</td>		
+		</td>
