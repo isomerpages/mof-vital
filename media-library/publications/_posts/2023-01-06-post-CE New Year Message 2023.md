@@ -331,7 +331,7 @@ image: ""
 		<td style="border: 0px;padding:0px;">
 			<div style="font-size: 20px;color:#585858;text-align:justify;">We intend to have more physical events to come together and have fun.  For example, we will organise an inter-division Captain’s Ball tournament, in preparation to compete for the championship title at the MOF Active Day.</div><br>
 		</td>		
-	</tr>	<tr style="border: 0px;padding:0px;">
+		<tr style="border: 0px;padding:0px;">
 		<td width="5%" style="border: 0px;padding:0px;">
 			<div style="font-size: 20px;color:#585858;text-align:justify;">38.</div>
 		</td>
