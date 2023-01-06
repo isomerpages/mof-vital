@@ -6,7 +6,9 @@ layout: post
 description: "CE New Year Message 2023 "
 image: ""
 ---
-<div style="font-size: 20px;color:#585858;text-align:justify;">1.</div>
+<table height="100%" width="100%" style="border: 0px;padding:0px;">
+		<tbody><tr><td width="5%" style="border: 0px;padding:0px;">
+			<div style="font-size: 20px;color:#585858;text-align:justify;">1.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
 			<div style="font-size: 20px;color:#585858;text-align:justify;">Good afternoon VITALites. Happy New Year! 2023 is here. I hope all of you had some rest time over the year-end holidays. </div><br>
