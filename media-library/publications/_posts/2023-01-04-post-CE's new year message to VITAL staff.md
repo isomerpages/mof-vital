@@ -130,7 +130,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">14.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;">As the Central Agency for Shared Services, VITAL is expected to do more, to be more productive, to be more efficient and to be more innovative. How do we do this? </div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">As the central agency for shared services, VITAL is expected to do more, to be more productive, to be more efficient and to be more innovative. How do we do this? </div><br>
 		</td>		
 	</tr>
 		<tr style="border: 0px;padding:0px;">
