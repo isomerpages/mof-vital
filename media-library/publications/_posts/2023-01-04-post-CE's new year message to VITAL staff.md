@@ -348,7 +348,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">39.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;">To conclude, let me end with 3 points.  </div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">To conclude, let me end with three points:  </div><br>
 		</td>		
 	</tr>
 	<tr style="border: 0px;padding:0px;">
