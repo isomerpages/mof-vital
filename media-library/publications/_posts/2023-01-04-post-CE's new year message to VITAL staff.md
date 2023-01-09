@@ -167,7 +167,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">18.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;">The Citizen Developer approach is designed for all VITALites regardless of your academic background, training, gender or age.  It stems from my deep belief that VITAL has talent everywhere.</div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">The citizen developer approach is designed for all VITALites regardless of your academic background, training, gender or age.  It stems from my deep belief that VITAL has talent everywhere.</div><br>
 		</td>		
 	</tr>
 		<tr style="border: 0px;padding:0px;">
@@ -175,7 +175,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">19.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;">Let me cite one example – one of our officers joined VITAL in 2012 (mid-career) as a Senior Executive and retired from service in Feb 2019. He was re-employed at the same substantive grade, as an Ops-Tech specialist. For many years, he had been picking up new skills on his own, including RPA, PowerBI, Tableau, Excel and more.  Hence, he qualified for the Ops-Tech Specialist role.   </div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">Let me cite one example – one of our officers joined VITAL in 2012 (mid-career) as a Senior Executive and retired from service in February 2019. He was re-employed at the same substantive grade, as an Ops-Tech specialist. For many years, he had been picking up new skills on his own, including RPA, PowerBI, Tableau, Excel and more.  Hence, he qualified for the Ops-Tech Specialist role.   </div><br>
 		</td>		
 	</tr>
 		<tr style="border: 0px;padding:0px;">
