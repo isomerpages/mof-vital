@@ -220,7 +220,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">24.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;">Let me move on to work culture and work arrangements.  Many of you have worked tirelessly to stabilize HRP and onboard new agencies for Cumulus. Thank you for your dedication and commitment.</div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">Let me move on to work culture and work arrangements.  Many of you have worked tirelessly to stabilise HRP and onboard new agencies for Cumulus. Thank you for your dedication and commitment.</div><br>
 		</td>		
 	</tr>
 	<tr style="border: 0px;padding:0px;">
