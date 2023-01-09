@@ -356,7 +356,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">40.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;"><b>Adapt and grow as Citizen Developers</b>, as you continue to contribute to VITAL’s transformation.  </div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;"><b>Adapt and grow as citizen developers</b>, as you continue to contribute to VITAL’s transformation.  </div><br>
 		</td>		
 		<tr style="border: 0px;padding:0px;">
 		<td width="5%" style="border: 0px;padding:0px;">
