@@ -336,7 +336,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">38.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;"> We are conducting a short Employee Engagement survey this month to gather feedback. Please take some time to complete the survey. Your feedback is valuable to us. </div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;"> We are conducting a short Employee Engagement Survey this month to gather feedback. Please take some time to complete the survey. Your feedback is valuable to us. </div><br>
 		</td>		
 	</tr>
 			<td colspan="2" style="border: 0px;padding:0px;">
