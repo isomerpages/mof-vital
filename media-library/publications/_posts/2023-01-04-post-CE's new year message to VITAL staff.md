@@ -313,7 +313,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">35.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;">2023 will be an exciting year for us. We will have more VITALites trained as Citizen Developers. We will empower you to innovate, and ride on this automation momentum.</div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">2023 will be an exciting year for us. We will have more VITALites trained as citizen developers. We will empower you to innovate, and ride on this automation momentum.</div><br>
 		</td>		
 	</tr>
 	<tr style="border: 0px;padding:0px;">
