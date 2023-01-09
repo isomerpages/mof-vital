@@ -183,7 +183,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">20.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;">This officer continued to perform very well. DCE and I have personally seen his work in all the automation and dashboards to strengthen HR and Payroll processes, especially for the many manual rectification works that we had to do.  He is also the mentor to many of his younger colleagues.</div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">This officer continued to perform very well. DCE and I have personally seen his work in all the automation and dashboards to strengthen HR and payroll processes, especially for the many manual rectification works that we had to do.  He is also the mentor to many of his younger colleagues.</div><br>
 		</td>		
 	</tr>
 	<tr style="border: 0px;padding:0px;">
