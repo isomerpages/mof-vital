@@ -93,7 +93,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">10.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;">We were invited to speak on the mainstage by UiPATH, a leading RPA provider, at their global conference in Las Vegas with 3,500 attendees. This was a proud moment for VITAL, for Singapore. We were also conferred the “Recognition of Excellence Award” by OpenGov at the 7th Annual Singapore OpenGov Leadership Forum.</div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">We were invited to speak on the main stage by UiPATH, a leading RPA provider, at their global conference in Las Vegas with 3,500 attendees. This was a proud moment for VITAL, for Singapore. We were also conferred the “Recognition of Excellence Award” by OpenGov at the 7th Annual Singapore OpenGov Leadership Forum.</div><br>
 		</td>		
 	</tr>
 		<tr style="border: 0px;padding:0px;">
