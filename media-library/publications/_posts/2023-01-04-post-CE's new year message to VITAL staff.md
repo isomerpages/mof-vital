@@ -6,7 +6,6 @@ layout: post
 description: "CE New Year Message 2023 "
 image: ""
 ---
-
 <table height="100%" width="100%" style="border: 0px;padding:0px;">
 		<tbody><tr><td width="5%" style="border: 0px;padding:0px;">
 			<div style="font-size: 20px;color:#585858;text-align:justify;">1.</div>
@@ -20,7 +19,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">2.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;">We started 2022 with the Omicron variant sweeping through the world.  Protected by our vaccinations, we learned to live with COVID. Most restrictions were lifted, borders re-opened and it felt almost normal again.</div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">We started 2022 with the Omicron variant sweeping through the world.  Protected by our vaccinations, we learned to live with COVID-19. Most restrictions were lifted, borders re-opened and it felt almost normal again.</div><br>
 		</td>		
 	</tr>
 	<tr style="border: 0px;padding:0px;">
@@ -65,7 +64,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">7.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;">We supported the stabilization of the new HR &amp; Payroll system for Ministries, as well as the onboarding of Statutory Boards onto the Cumulus system.</div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">We supported the stabilisation of the new HR &amp; Payroll system for ministries, as well as the onboarding of statutory boards onto the Cumulus system.</div><br>
 		</td>		
 	</tr>
 		<tr style="border: 0px;padding:0px;">
