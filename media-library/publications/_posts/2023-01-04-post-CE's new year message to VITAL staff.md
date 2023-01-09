@@ -85,7 +85,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">9.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;">We launched our refreshed Mission, Vision, and Values.  We received global awards and recognition - a testament that we are making good progress to become a globally recognised leader for corporate shared services. For example, we won the Silver in Business Transformation at the Shared Services Outsourcing Network (SSON) Asia Awards. We were the only public sector winner from this region in 2022. </div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">We launched our refreshed Mission, Vision and Values.  We received global awards and recognition - a testament that we are making good progress to become a globally recognised leader for corporate shared services. For example, we won the Silver Award in Business Transformation at the Shared Services Outsourcing Network (SSON) Asia Awards. We were the only public sector winner from this region in 2022. </div><br>
 		</td>		
 	</tr>
 		<tr style="border: 0px;padding:0px;">
