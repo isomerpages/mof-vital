@@ -146,7 +146,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">16.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;">To support this major shift, we have embarked on the Citizen Developer strategy.  And for every VITALite to be a Citizen Developer, we are systematically sending all of you for training in these cutting-edge skills.</div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">To support this major shift, we have embarked on the citizen developer strategy.  And for every VITALite to be a citizen developer, we are systematically sending all of you for training in these cutting-edge skills.</div><br>
 		</td>		
 	</tr>
 	<tr style="border: 0px;padding:0px;">
@@ -154,7 +154,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">17.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;">I am very heartened that till date, more than 132 (26%) staff have gone for either the Certificate of Data Analytics or Specialist Diploma in Data Analytics course.  More than 274 (55%) staff have attended a Design Thinking course, and 87 (17%) staff have attended some RPA training. </div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">I am very heartened that till date, more than 132 (26%) staff have gone for either the Certificate of Data Analytics or Specialist Diploma in Data Analytics course.  More than 274 (55%) staff have attended a design thinking course, and 87 (17%) staff have attended some RPA training. </div><br>
 		</td>		
 	</tr>
 		<tr>
