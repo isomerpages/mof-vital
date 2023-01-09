@@ -72,7 +72,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">8.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;">We launched the revamped Robotics and Automation hub portal to share RPA scripts and innovation resources with agencies; all in line with our mandate as the Robotics &amp; Automation (R&amp;A) Lead for the Whole-of-Government in the Corporate and Admin Services domain.</div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">We launched the revamped Robotics and Automation Hub portal to share RPA scripts and innovation resources with agencies; all in line with our mandate as the Robotics &amp; Automation (R&amp;A) lead for the whole-of-government in the corporate and administrative services domain.</div><br>
 		</td>		
 	</tr>
 	<tr>
