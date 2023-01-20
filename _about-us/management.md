@@ -36,7 +36,7 @@ description: VITAL’s management team
          </td>
       </tr>
       <tr>
-         <td>Tan Wearn Haw (Mr)</td>
+         <td>Alex Tang (Mr)</td>
          <td>Director, Service, Innovation &amp; Compliance      
          </td>
       </tr>
