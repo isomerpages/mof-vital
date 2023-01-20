@@ -33,4 +33,4 @@ We are humbled by this recognition award, a testament to our practices in suppor
 <img src="/images/Media/Istana 04.jpg">
 <font size="-1">CE participates in panel discussion hosted by the Speaker</font>
 
-<p style="font-size: 18px;color:#585858;text-align:justify;">Click <a href="https://www.hcs.com.sg/hr-powerbank"> HERE</a> to read more about the HR Powerbank.</p>
+<p style="font-size: 18px;color:#585858;text-align:justify;">Click <a href = "/files/E-booklet.pdf">HERE</a> to download the event e-booklet in PDF format. Click <a href="https://www.hcs.com.sg/hr-powerbank"> HERE</a> to read more about the HR Powerbank.</p>
