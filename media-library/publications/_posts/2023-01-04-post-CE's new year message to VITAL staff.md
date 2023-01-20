@@ -130,7 +130,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">14.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;">As the Central Agency for Shared Services, VITAL is expected to do more, to be more productive, to be more efficient and to be more innovative. How do we do this? </div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">As the central agency for shared services, VITAL is expected to do more, to be more productive, to be more efficient and to be more innovative. How do we do this? </div><br>
 		</td>		
 	</tr>
 		<tr style="border: 0px;padding:0px;">
@@ -146,7 +146,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">16.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;">To support this major shift, we have embarked on the Citizen Developer strategy.  And for every VITALite to be a Citizen Developer, we are systematically sending all of you for training in these cutting-edge skills.</div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">To support this major shift, we have embarked on the citizen developer strategy.  And for every VITALite to be a citizen developer, we are systematically sending all of you for training in these cutting-edge skills.</div><br>
 		</td>		
 	</tr>
 	<tr style="border: 0px;padding:0px;">
@@ -154,7 +154,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">17.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;">I am very heartened that till date, more than 132 (26%) staff have gone for either the Certificate of Data Analytics or Specialist Diploma in Data Analytics course.  More than 274 (55%) staff have attended a Design Thinking course, and 87 (17%) staff have attended some RPA training. </div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">I am very heartened that till date, more than 132 (26%) staff have gone for either the Certificate of Data Analytics or Specialist Diploma in Data Analytics course.  More than 274 (55%) staff have attended a design thinking course, and 87 (17%) staff have attended some RPA training. </div><br>
 		</td>		
 	</tr>
 		<tr>
@@ -167,7 +167,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">18.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;">The Citizen Developer approach is designed for all VITALites regardless of your academic background, training, gender or age.  It stems from my deep belief that VITAL has talent everywhere.</div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">The citizen developer approach is designed for all VITALites regardless of your academic background, training, gender or age.  It stems from my deep belief that VITAL has talent everywhere.</div><br>
 		</td>		
 	</tr>
 		<tr style="border: 0px;padding:0px;">
@@ -175,7 +175,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">19.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;">Let me cite one example – one of our officers joined VITAL in 2012 (mid-career) as a Senior Executive and retired from service in Feb 2019. He was re-employed at the same substantive grade, as an Ops-Tech specialist. For many years, he had been picking up new skills on his own, including RPA, PowerBI, Tableau, Excel and more.  Hence, he qualified for the Ops-Tech Specialist role.   </div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">Let me cite one example – one of our officers joined VITAL in 2012 (mid-career) as a Senior Executive and retired from service in February 2019. He was re-employed at the same substantive grade, as an Ops-Tech specialist. For many years, he had been picking up new skills on his own, including RPA, PowerBI, Tableau, Excel and more.  Hence, he qualified for the Ops-Tech Specialist role.   </div><br>
 		</td>		
 	</tr>
 		<tr style="border: 0px;padding:0px;">
@@ -183,7 +183,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">20.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;">This officer continued to perform very well. DCE and I have personally seen his work in all the automation and dashboards to strengthen HR and Payroll processes, especially for the many manual rectification works that we had to do.  He is also the mentor to many of his younger colleagues.</div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">This officer continued to perform very well. DCE and I have personally seen his work in all the automation and dashboards to strengthen HR and payroll processes, especially for the many manual rectification works that we had to do.  He is also the mentor to many of his younger colleagues.</div><br>
 		</td>		
 	</tr>
 	<tr style="border: 0px;padding:0px;">
@@ -220,7 +220,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">24.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;">Let me move on to work culture and work arrangements.  Many of you have worked tirelessly to stabilize HRP and onboard new agencies for Cumulus. Thank you for your dedication and commitment.</div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">Let me move on to work culture and work arrangements.  Many of you have worked tirelessly to stabilise HRP and onboard new agencies for Cumulus. Thank you for your dedication and commitment.</div><br>
 		</td>		
 	</tr>
 	<tr style="border: 0px;padding:0px;">
@@ -313,7 +313,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">35.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;">2023 will be an exciting year for us. We will have more VITALites trained as Citizen Developers. We will empower you to innovate, and ride on this automation momentum.</div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">2023 will be an exciting year for us. We will have more VITALites trained as citizen developers. We will empower you to innovate, and ride on this automation momentum.</div><br>
 		</td>		
 	</tr>
 	<tr style="border: 0px;padding:0px;">
@@ -336,7 +336,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">38.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;"> We are conducting a short Employee Engagement survey this month to gather feedback. Please take some time to complete the survey. Your feedback is valuable to us. </div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;"> We are conducting a short Employee Engagement Survey this month to gather feedback. Please take some time to complete the survey. Your feedback is valuable to us. </div><br>
 		</td>		
 	</tr>
 			<td colspan="2" style="border: 0px;padding:0px;">
@@ -348,7 +348,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">39.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;">To conclude, let me end with 3 points.  </div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">To conclude, let me end with three points:  </div><br>
 		</td>		
 	</tr>
 	<tr style="border: 0px;padding:0px;">
@@ -356,7 +356,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">40.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;"><b>Adapt and grow as Citizen Developers</b>, as you continue to contribute to VITAL’s transformation.  </div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;"><b>Adapt and grow as citizen developers</b>, as you continue to contribute to VITAL’s transformation.  </div><br>
 		</td>		
 		<tr style="border: 0px;padding:0px;">
 		<td width="5%" style="border: 0px;padding:0px;">

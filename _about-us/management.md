@@ -36,7 +36,7 @@ description: VITAL’s management team
          </td>
       </tr>
       <tr>
-         <td>Tan Wearn Haw (Mr)</td>
+         <td>Alex Tang (Mr)</td>
          <td>Director, Service, Innovation &amp; Compliance      
          </td>
       </tr>
@@ -77,15 +77,15 @@ description: VITAL’s management team
             Adeline Ng (Ms)         
          </td>
          <td>
-            Director, Finance &amp; ACE Services
+            Director, HR & Payroll (Statutory Board)
          </td>
       </tr>
       <tr>
          <td>
-            Chua Mui Yim (Ms)
+            Koh-Tham Kah Wai (Ms)
          </td>
          <td>
-            Director, Transformation
+            Director, Finance Services
          </td>
       </tr>		 
    </tbody>
