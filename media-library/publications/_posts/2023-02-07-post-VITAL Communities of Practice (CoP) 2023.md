@@ -28,20 +28,20 @@ We look forward to seeing our service partners again at the next CoP event!
 <font size="-1">Presentation by Ms Jessica Ong from VITAL</font>
 <br>
 <img src="/images/Media/COP 3.jpg">
-<font size="-1">VITAL team with t</font>
+<font size="-1">Presentation by Ms Jessica Kim from UiPath Southeast Asia</font>
 <br>
 <img src="/images/Media/COP 4.jpg">
-<font size="-1">Award recipients with the President and the Speaker</font>
+<font size="-1">Opening remarks by VITAL Chief Executive</font>
 <br>
 <img src="/images/Media/COP 5.jpg">
-<font size="-1">CE participates in panel discussion hosted by the Speaker</font>
+<font size="-1">VITAL CoP 2023 was attended by about 130 service partners from close to 60 public agencies.</font>
 <br>
 <img src="/images/Media/COP 6.jpg">
-<font size="-1">VITAL team with the President</font>
+<font size="-1">Networking with service partners</font>
 <br>
 <img src="/images/Media/COP 7.jpg">
-<font size="-1">Award recipients with the President and the Speaker</font>
+<font size="-1">Networking with service partners</font>
 <br>
 <img src="/images/Media/COP 8.jpg">
-<font size="-1">CE participates in panel discussion hosted by the Speaker</font>
+<font size="-1">Networking with service partners</font>
 <p style="font-size: 18px;color:#585858;text-align:justify;">Click <a href = "/files/E-booklet.pdf">HERE</a> to download the event e-booklet in PDF format. Click <a href="https://www.hcs.com.sg/hr-powerbank"> HERE</a> to read more about the HR Powerbank.</p>
