@@ -21,6 +21,14 @@ Last but not least, the CoP was also a wonderful platform for us to network, mak
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 We look forward to seeing our service partners again at the next CoP event!
 </p>
+<a href = "/files/COP opening.pdf">Opening remarks by VITAL Chief Executive</a> 
+
+<a href = "/files/COP VITAL.pdf">Presentation by VITAL: Leading Robotics and Automation for Corporate Services in Singapore Public Service</a> 
+
+<a href = "/files/COP UiPath.pdf">Presentation by UiPath: Towards intelligent process automation for shared services</a> 
+
+<a href = "/files/COP closing.pdf">Closing remarks by VITAL Chief Executive</a> 
+
 <img src="/images/Media/COP 1.jpg">
 <font size="-1">VITAL CoP 2023 focused on the topic of digitalisation and automation in corporate services.</font>
 <br>
@@ -44,4 +52,3 @@ We look forward to seeing our service partners again at the next CoP event!
 <br>
 <img src="/images/Media/COP 8.jpg">
 <font size="-1">Networking with service partners</font>
-<p style="font-size: 18px;color:#585858;text-align:justify;">Click <a href = "/files/E-booklet.pdf">HERE</a> to download the event e-booklet in PDF format. Click <a href="https://www.hcs.com.sg/hr-powerbank"> HERE</a> to read more about the HR Powerbank.</p>
