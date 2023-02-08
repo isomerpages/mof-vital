@@ -21,6 +21,9 @@ Last but not least, the CoP was also a wonderful platform for us to network, mak
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 We look forward to seeing our service partners again at the next CoP event!
 </p>
+<p style="font-size: 18px;color:#585858;text-align:justify;">
+You may download the event materials in PDF format below:
+</p>
 <a href = "/files/COP opening.pdf">Opening remarks by VITAL Chief Executive</a> 
 
 <a href = "/files/COP VITAL.pdf">Presentation by VITAL: Leading Robotics and Automation for Corporate Services in Singapore Public Service</a> 
