@@ -42,7 +42,7 @@ You may download the event materials in PDF format below:
 <font size="-1">Presentation by Ms Jessica Kim, Customer Success Manager, UiPath Southeast Asia</font>
 <br>
 <img src="/images/Media/COP 4.jpg">
-<font size="-1">Opening remarks by VITAL Chief Executive</font>
+<font size="-1">Opening remarks by Mr Dennis Lui, Chief Executive, VITAL</font>
 <br>
 <img src="/images/Media/COP 5.jpg">
 <font size="-1">VITAL CoP 2023 was attended by about 130 service partners from close to 60 public agencies.</font>
