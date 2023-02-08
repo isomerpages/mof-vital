@@ -39,7 +39,7 @@ You may download the event materials in PDF format below:
 <font size="-1">Presentation by Ms Jessica Ong, Deputy Director (Innovation Hub), VITAL </font>
 <br>
 <img src="/images/Media/COP 3.jpg">
-<font size="-1">Presentation by Ms Jessica Kim from UiPath Southeast Asia</font>
+<font size="-1">Presentation by Ms Jessica Kim, Customer Success Manager, UiPath Southeast Asia</font>
 <br>
 <img src="/images/Media/COP 4.jpg">
 <font size="-1">Opening remarks by VITAL Chief Executive</font>
