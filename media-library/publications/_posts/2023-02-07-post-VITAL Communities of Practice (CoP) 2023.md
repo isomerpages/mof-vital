@@ -7,13 +7,13 @@ description: ""
 image: ""
 ---
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-VITAL Communities of Practice (CoP) 2023 was held successfully this morning, attended by about 130 corporate services leaders from close to 60 public agencies!
+VITAL Communities of Practice (CoP) 2023 was held successfully on 7 February 2023, attended by about 130 corporate services leaders from more than 50 public agencies!
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 Under the theme of "digitalisation and automation in corporate services", automation experts from both public and private sectors shared their insights into the endless possibilities and opportunities digitalisation and automation can bring to corporate services, as the engine of transformation.
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-As the robotics and automation lead for corporate services in the public sector, VITAL also shared about our ongoing and upcoming automation initiatives, including the very exciting whole-of-government central RPA platform which will allow all public agencies easily access a suite of bots and automation solutions without the need to set up their own RPA infrastructure.
+As the robotics and automation lead for corporate services in the public sector, VITAL shared about our ongoing and upcoming automation initiatives, including the very exciting whole-of-government central RPA platform which will allow all public agencies to easily access a suite of bots and automation solutions without the need to set up their own RPA infrastructure.
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 Last but not least, the CoP was also a wonderful platform for us to network, make new friends, and catch up with old comrades from the corporate services community. We were happy to see so many service partners in person since COVID-19 struck.
