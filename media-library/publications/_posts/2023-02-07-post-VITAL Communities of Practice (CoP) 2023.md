@@ -36,7 +36,7 @@ You may download the event materials in PDF format below:
 <font size="-1">VITAL CoP 2023 focused on the topic of digitalisation and automation in corporate services.</font>
 <br>
 <img src="/images/Media/COP 2.jpg">
-<font size="-1">Presentation by Ms Jessica Ong from VITAL</font>
+<font size="-1">Presentation by Ms Jessica Ong, Deputy Director (Innovation Hub), VITAL </font>
 <br>
 <img src="/images/Media/COP 3.jpg">
 <font size="-1">Presentation by Ms Jessica Kim from UiPath Southeast Asia</font>
