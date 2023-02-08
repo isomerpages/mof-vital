@@ -24,9 +24,9 @@ We look forward to seeing our service partners again at the next CoP event!
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 You may download the event materials in PDF format below:
 </p>
-<a href = "/files/COP opening.pdf">Opening remarks by VITAL Chief Executive</a> 
+<a href = "/files/COP opening.pdf">Opening remarks by Mr Dennis Lui, Chief Executive of VITAL</a> 
 
-<a href = "/files/COP VITAL.pdf">Presentation by VITAL: Leading Robotics and Automation for Corporate Services in Singapore Public Service</a> 
+<a href = "/files/COP VITAL.pdf">Presentation by Ms Jessica Ong, Deputy Director (Innovation Hub), VITAL: Leading robotics and automation for corporate services in Singapore Public Service</a> 
 
 <a href = "/files/COP UiPath.pdf">Presentation by UiPath: Towards intelligent process automation for shared services</a> 
 
