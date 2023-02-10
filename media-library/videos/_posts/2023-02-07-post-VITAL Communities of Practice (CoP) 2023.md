@@ -13,5 +13,5 @@ At VITAL Communities of Practice (CoP) 2023, Ms Jessica Ong, Deputy Director (In
 <div class="home-video"><iframe allowfullscreen="" allow="encrypted-media" src="https://www.youtube.com/embed/TdN3yen15Os" height="350" width="640" id="video_player"></iframe></div>
 
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-At the event, Mr Lui shared his views and insights into empowering public officers through technology, VITAL's automation story and citizen developer initiatives, with over 3,500 audience at the world's largest gathering of enterprise automation leaders.
+The presentation of Ms Jessica Kim, Customer Success Manager of UiPath Southeast Asia, focused on intelligent automation use cases leveraging on artificial intelligence and machine learning functionalities such as document understanding. With these, agencies will be able to reap the benefits of RPA and scale up rapidly.
 </p>
