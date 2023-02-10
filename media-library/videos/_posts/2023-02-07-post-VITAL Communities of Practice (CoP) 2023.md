@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-At VITAL Communities of Practice (CoP) 2023, Ms Jessica Ong, Deputy Director (Innovation Hub) of VITAL, shared about VITAL's automation journey, as well as our upcoming automation initiatives, including the exciting whole-of-government central robotic process automation (RPA) platform which will allow all public agencies to easily access a suite of bots and automation solutions without the need to set up their own RPA infrastructure.
+At VITAL Communities of Practice (CoP) 2023, Ms Jessica Ong, Deputy Director (Innovation Hub) of VITAL, shared about VITAL's automation journey and our upcoming automation initiatives, including the exciting whole-of-government central robotic process automation (RPA) platform which will allow all public agencies to easily access a suite of bots and automation solutions without the need to set up their own RPA infrastructure.
 </p>
 
 <div class="home-video"><iframe allowfullscreen="" allow="encrypted-media" src="https://www.youtube.com/embed/tBTid56mUkw?rel=0&amp;showinfo=0" height="350" width="640" id="video_player"></iframe></div>
