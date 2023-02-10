@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-Mr Dennis Lui, Chief Executive of VITAL, participated as a guest speaker in UiPath's FORWARD 5 conference for automation and digital transformation in Las Vegas, the U.S., from 27 to 29 September 2022.
+As the robotics and automation lead for corporate services in the public sector, VITAL shared about our automation journey, as well as upcoming automation initiatives, including the exciting whole-of-government central robotic process automation (RPA) platform which will allow all public agencies to easily access a suite of bots and automation solutions without the need to set up their own RPA infrastructure.
 </p>
 
 <div class="home-video"><iframe allowfullscreen="" allow="encrypted-media" src="https://www.youtube.com/embed/TdN3yen15Os" height="350" width="640" id="video_player"></iframe></div>
