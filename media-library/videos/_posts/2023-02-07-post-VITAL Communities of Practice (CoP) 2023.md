@@ -15,3 +15,4 @@ At VITAL Communities of Practice (CoP) 2023, Ms Jessica Ong, Deputy Director (In
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 The presentation of Ms Jessica Kim, Customer Success Manager of UiPath Southeast Asia, focused on intelligent automation use cases leveraging on artificial intelligence and machine learning functionalities such as document understanding. With these, agencies will be able to reap the benefits of RPA and scale up rapidly.
 </p>
+<div class="home-video"><iframe allowfullscreen="" allow="encrypted-media" src="https://www.youtube.com/embed/TdN3yen15Os" height="350" width="640" id="video_player"></iframe></div>
