@@ -6,3 +6,40 @@ layout: post
 description: ""
 image: ""
 ---
+<p style="font-size: 18px;color:#585858;text-align:justify;">
+VITAL had partnered with SimplifyNext and UiPath to organise a series of webinar, to share how automation can be a force for good if its adoption benefits organisations, employees, and the broader society and environment. The series aim to provide insights into how agencies can enable digital upskilling opportunities, business agility and improve citizen experience through automation in the public sector.
+</p>
+<p style="font-size: 18px;color:#585858;text-align:justify;">
+The first session of the webinar series was successfully held on 23 November 2022. Speakers from VITAL, SimplifyNext, UiPath and Civil Service College shared their insights into democratising digital transformation through citizen development strategy across the public sector and a sneak peak of new capabilities for citizen developers to leverage on in future. Close to 200 public officers from 50 agencies attended the session and rated it to be satisfactory at 4.6 out of 5. Generally, they found the session insightful and would like to attend more of such sessions.
+</p>
+<p style="font-size: 18px;color:#585858;text-align:justify;">
+Agencies may access the Robotics & Automation Hub for materials presented at the first session 
+</p>
+
+
+<img src="/images/Media/COP 1.jpg">
+<font size="-1">VITAL CoP 2023 focused on the topic of digitalisation and automation in corporate services.</font>
+<br>
+<img src="/images/Media/COP 0.jpg">
+<font size="-1">Speakers at VITAL CoP 2023 (from the left: Ms Jessica Kim from UiPath, Mr Mark Lim from Temasek, Mr Dennis Lui from VITAL and Ms Jessica Ong from VITAL)</font>
+<br>
+<img src="/images/Media/COP 4.jpg">
+<font size="-1">Opening remarks by Mr Dennis Lui, Chief Executive, VITAL</font>
+<br>
+<img src="/images/Media/COP 2.jpg">
+<font size="-1">Presentation by Ms Jessica Ong, Deputy Director (Innovation Hub), VITAL </font>
+<br>
+<img src="/images/Media/COP 3.jpg">
+<font size="-1">Presentation by Ms Jessica Kim, Customer Success Manager, UiPath Southeast Asia</font>
+<br>
+<img src="/images/Media/COP 5.jpg">
+<font size="-1">VITAL CoP 2023 was attended by about 130 corporate services leaders from more than 50 public agencies.</font>
+<br>
+<img src="/images/Media/COP 6.jpg">
+<font size="-1">Networking with service partners</font>
+<br>
+<img src="/images/Media/COP 7.jpg">
+<font size="-1">Networking with service partners</font>
+<br>
+<img src="/images/Media/COP 8.jpg">
+<font size="-1">Networking with service partners</font>
