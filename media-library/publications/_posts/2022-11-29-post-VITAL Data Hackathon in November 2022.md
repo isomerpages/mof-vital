@@ -21,13 +21,9 @@ Congratulations again to all the participants for completing the CDA successfull
 
 
 <img src="/images/Media/Hackathon Nov22 1.jpg">
-<font size="-1">VITAL CoP 2023 focused on the topic of digitalisation and automation in corporate services.</font>
 <br>
 <img src="/images/Media/Hackathon Nov22 2.jpg">
-<font size="-1">Speakers at VITAL CoP 2023 (from the left: Ms Jessica Kim from UiPath, Mr Mark Lim from Temasek, Mr Dennis Lui from VITAL and Ms Jessica Ong from VITAL)</font>
 <br>
 <img src="/images/Media/Hackathon Nov22 3.jpg">
-<font size="-1">Opening remarks by Mr Dennis Lui, Chief Executive, VITAL</font>
 <br>
 <img src="/images/Media/Hackathon Nov22 4.jpg">
-<font size="-1">Presentation by Ms Jessica Ong, Deputy Director (Innovation Hub), VITAL </font>
