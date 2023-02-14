@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-VITAL Communities of Practice (CoP) 2023 was held successfully on 7 February 2023, attended by about 130 corporate services leaders from more than 50 public agencies!
+VITAL Communities of Practice (CoP) 2023 was held successfully on 7 February 2023, attended by about 130 corporate services leaders from more than 50 public agencies. Automation experts from Temasek, VITAL and UiPath shared their insights into the endless possibilities and opportunities that digitalisation and automation, as the engine of transformation, can bring to corporate services.
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 Under the theme of "digitalisation and automation in corporate services", automation experts from both public and private sectors shared their insights into the endless possibilities and opportunities digitalisation and automation can bring to corporate services, as the engine of transformation.
