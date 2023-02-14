@@ -10,7 +10,7 @@ image: ""
 VITAL Communities of Practice (CoP) 2023 was held successfully on 7 February 2023, attended by about 130 corporate services leaders from more than 50 public agencies. Automation experts from Temasek, VITAL and UiPath shared their insights into the endless possibilities and opportunities that digitalisation and automation, as the engine of transformation, can bring to corporate services.
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-Our keynote speaker, Mr. Mark Lim, shared how Temasek is building its digital foundation to create more value by enabling and inspiring its people with a culture of scalable innovation and providing them with high quality data and intelligent digital platforms.
+Our keynote speaker, Mr Mark Lim, shared how Temasek is building its digital foundation to create more value by enabling and inspiring its people with a culture of scalable innovation and providing them with high quality data and intelligent digital platforms.
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 As the robotics and automation lead for corporate services in the public sector, VITAL shared about our automation journey and upcoming automation initiatives, including the exciting whole-of-government central robotic process automation (RPA) platform which will allow all public agencies to easily access a suite of bots and automation solutions without the need to set up RPA infrastructure.
