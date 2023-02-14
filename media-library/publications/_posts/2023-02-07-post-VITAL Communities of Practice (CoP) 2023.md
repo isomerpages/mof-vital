@@ -38,6 +38,9 @@ You may download the event materials in PDF format below:
 <img src="/images/Media/COP 1.jpg">
 <font size="-1">VITAL CoP 2023 focused on the topic of digitalisation and automation in corporate services.</font>
 <br>
+<img src="/images/Media/COP 0.jpg">
+<font size="-1">Speakers at VITAL CoP 2023 (from the left: Ms Jessica Kim from UiPath, Mr Mark Lim from Temasek, Mr Dennis Lui from VITAL and Ms Jessica Ong from VITAL)</font>
+<br>
 <img src="/images/Media/COP 4.jpg">
 <font size="-1">Opening remarks by Mr Dennis Lui, Chief Executive, VITAL</font>
 <br>
