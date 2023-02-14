@@ -13,13 +13,15 @@ VITAL Communities of Practice (CoP) 2023 was held successfully on 7 February 202
 Our keynote speaker, Mr. Mark Lim, shared how Temasek is building its digital foundation to create more value by enabling and inspiring its people with a culture of scalable innovation and providing them with high quality data and intelligent digital platforms.
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-As the robotics and automation lead for corporate services in the public sector, VITAL shared about our ongoing and upcoming automation initiatives, including the very exciting whole-of-government central RPA platform which will allow all public agencies to easily access a suite of bots and automation solutions without the need to set up their own RPA infrastructure.
+As the robotics and automation lead for corporate services in the public sector, VITAL shared about our automation journey and upcoming automation initiatives, including the exciting whole-of-government central robotic process automation (RPA) platform which will allow all public agencies to easily access a suite of bots and automation solutions without the need to set up RPA infrastructure.
+</p>
+As VITAL’s technology partner, UiPath focused on intelligent automation use cases leveraging on artificial intelligence (AI) and machine learning functionalities such as document understanding. With these, agencies will be able to reap the benefits of RPA and scale up rapidly.
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-Last but not least, the CoP was also a wonderful platform for us to network, make new friends, and catch up with old comrades from the corporate services community. We were happy to see so many service partners in person since COVID-19 struck.
+The CoP was also a wonderful platform for us to network, make new friends, and catch up with old comrades from the corporate services community. We were happy to see so many service partners in person since COVID-19 struck.
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-We look forward to seeing our service partners again at the next CoP event!
+We look forward to seeing our service partners again at the next CoP!
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 You may download the event materials in PDF format below:
