@@ -15,6 +15,7 @@ Our keynote speaker, Mr. Mark Lim, shared how Temasek is building its digital fo
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 As the robotics and automation lead for corporate services in the public sector, VITAL shared about our automation journey and upcoming automation initiatives, including the exciting whole-of-government central robotic process automation (RPA) platform which will allow all public agencies to easily access a suite of bots and automation solutions without the need to set up RPA infrastructure.
 </p>
+<p style="font-size: 18px;color:#585858;text-align:justify;">
 As VITAL’s technology partner, UiPath focused on intelligent automation use cases leveraging on artificial intelligence (AI) and machine learning functionalities such as document understanding. With these, agencies will be able to reap the benefits of RPA and scale up rapidly.
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
