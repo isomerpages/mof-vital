@@ -18,13 +18,9 @@ Agencies may access the Robotics & Automation Hub for materials presented at the
 
 
 <img src="/images/Media/webinar 1.png">
-<font size="-1">VITAL CoP 2023 focused on the topic of digitalisation and automation in corporate services.</font>
 <br>
 <img src="/images/Media/webinar 2.png">
-<font size="-1">Speakers at VITAL CoP 2023 (from the left: Ms Jessica Kim from UiPath, Mr Mark Lim from Temasek, Mr Dennis Lui from VITAL and Ms Jessica Ong from VITAL)</font>
 <br>
 <img src="/images/Media/webinar 3.png">
-<font size="-1">Opening remarks by Mr Dennis Lui, Chief Executive, VITAL</font>
 <br>
 <img src="/images/Media/webinar 4.png">
-<font size="-1">Presentation by Ms Jessica Ong, Deputy Director (Innovation Hub), VITAL </font>
