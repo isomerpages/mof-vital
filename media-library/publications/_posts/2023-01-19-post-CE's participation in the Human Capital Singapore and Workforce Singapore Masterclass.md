@@ -8,17 +8,12 @@ description: ""
 image: ""
 ---
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-23 VITAL officers successfully completed Ngee Ann Polytechnic's Certificate in Data Analytics (CDA) in November 2022.
+Mr Dennis Lui, Chief Executive of VITAL, was invited to join a panel discussion in the Human Capital Singapore - Workforce Singapore Masterclass on 1d9 January 2023, where he discussed the importance of upskilling and reskilling of VITAL staff in order to stay ahead of the curve and be future-ready.
 </p>
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-As the closing project of the CDA course, the participants were divided into four teams to compete in a data hackathon on 29 November 2022, to work on actual business challenges faced by VITAL and come up with innovative solutions.
+VITAL’s goal is to create an environment where staff are highly motivated and well-skilled in their respective fields. By doing so, we can also ensure that our staff can reach their full potential.
 </p>
-<p style="font-size: 18px;color:#585858;text-align:justify;">
-A team made up of officers from different functions was given the opportunity to work on a topic related to credit management's debt recovery. Although none of them was from credit management function, the team was able to analyse the datasets and provide recommendations to improve the effectiveness of the debt recovery framework. Well done!
-</p>
-<p style="font-size: 18px;color:#585858;text-align:justify;">
-Congratulations again to all the participants for completing the CDA successfully!
-</p>
+
 
 
 <img src="/images/Media/HCS 1.jpeg">
