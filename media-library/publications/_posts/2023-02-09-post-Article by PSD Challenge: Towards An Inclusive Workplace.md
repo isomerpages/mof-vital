@@ -61,3 +61,22 @@ To support persons with disabilities (PwDs) in taking on roles in the NLB, its s
 
 <img src="/images/Media/210223_01.png">
 <font size="-1">Digitalisation Services executive Jian Xiong (left) with his supervisor, Vernon Tay (right).</font>
+
+<p style="font-size: 20px;color:#585858;text align:justify;">At VITAL, staff attend workshops by the ARC to learn how to better communicate with their colleagues on the autism spectrum. For example, when talking to officers with autism, they should avoid using long sentences, use visual aids where possible, and be clear when giving instructions.</p>
+
+<p style="font-size: 20px;color:#585858;text align:justify;">
+Jian Xiong’s supervisor, Mr Vernon Tay, oversees eight officers with autism. As officers with autism may take longer to respond to questions, their teammates have to be patient and gently get their attention back to the topic at hand if they get distracted, he said.</p>
+
+<p style="font-size: 20px;color:#585858;text align:justify;">“Every officer on the autism spectrum has a different personality, needs and working style,” Vernon added. So VITAL teammates and supervisors make an effort to better understand each individual and adapt to their needs.</p>
+
+<p style="font-size: 24px;color:#a91932;text-align:justify;"> The Next Step</p>
+
+<p style="font-size: 20px;color:#585858;text align:justify;">Although there are more employment opportunities for PwDs today, misconceptions about their abilities still persist.</p>
+
+<p style="font-size: 20px;color:#585858;text align:justify;">According to Dr Justin Lee, a senior research fellow at the Institute of Policy Studies, employers may use business reasons to justify prejudiced hiring practices – such as preventing PwDs from holding customer-facing roles.</p>
+
+<p style="font-size: 20px;color:#585858;text align:justify;">To Dorothy, this is one of the biggest barriers that needs to be overcome: the perception that PwDs are less capable and cannot contribute to society.</p>
+
+<p style="font-size: 20px;color:#585858;text align:justify;">“We have our own goals and dreams, just like anyone else. We have our own strengths and abilities, and can do a great job with support and training,” she shared.</p>
+
+<p style="font-size: 20px;color:#585858;text align:justify;">With more opportunities available now for PwDs, she hopes that those who are capable can be better informed of these opportunities and given an equal chance to contribute and do more.</p>
