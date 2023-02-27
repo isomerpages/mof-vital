@@ -58,3 +58,6 @@ To support persons with disabilities (PwDs) in taking on roles in the NLB, its s
 <p style="font-size: 20px;color:#585858;text align:justify;">He also took up a four-week Robotic Process Automation online course recommended by VITAL and run by business automation service UiPath.</p>
 
 <p style="font-size: 20px;color:#585858;text align:justify;">This allowed him to develop software skills and improve productivity by building virtual bots to reduce manual work. He has worked with colleagues to automate the manual search of records with a bot, which will save about 600 man-hours a year.</p>
+
+<img src="/images/Media/210223_01.png">
+<font size="-1">Digitalisation Services executive Jian Xiong (left) with his supervisor, Vernon Tay (right).</font>
