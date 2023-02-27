@@ -85,3 +85,11 @@ Jian Xiong’s supervisor, Mr Vernon Tay, oversees eight officers with autism. A
 
 <p style="font-size: 20px;color:#585858;text align:justify;">     
 Ms Daphne Ong, Director, People Matters Division, NLB, said: “In NLB, we value and care for every officer who comes through our doors, and want to ensure they are in a supportive environment where they can contribute to the best of their abilities. When everyone can play their part, in their own special ways, we can better deliver our services at our libraries and archives.”</p>
+
+<img src="/images/Media/210223\_03.png"/>
+
+<p style="font-size: 20px;color:#585858;text align:justify;">     For VITAL, the key to successful inclusive hiring is to view it as a mutually beneficial process for PwDs and the organisation.</p>
+
+<p style="font-size: 20px;color:#585858;text align:justify;">Good skills-to-job matching, for example, can lead to higher productivity and positive business outcomes. Similarly, creating abundant opportunities for upskilling and upward mobility improves the employee experience for the PwDs while enabling them to progress in their careers.</p>
+
+<p align="justify">Click <a href="https://www.psd.gov.sg/challenge/ideas/feature/towards-an-inclusive-workplace"> HERE</a> to read the original article from PSD Challenge website.</p>
