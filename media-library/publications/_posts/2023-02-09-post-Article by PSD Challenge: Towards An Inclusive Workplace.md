@@ -43,3 +43,18 @@ To support persons with disabilities (PwDs) in taking on roles in the NLB, its s
 <p style="font-size: 20px;color:#585858;text align:justify;">This helped them better understand how their deaf colleague deals with the challenges at work, as they continue to find ways to make the workplace an inclusive one</p>
 
 <p style="font-size: 20px;color:#585858;text align:justify;">To recognise NLB’s efforts in creating an inclusive workplace, SG Enable, the agency for enabling PwDs, conferred the NLB with the Enabling Mark (Gold) award for two years from 2021 to 2023.</p>
+
+<p style="font-size: 24px;color:#a91932;text-align:justify;"> Supporting PwDs’ Career Growth</p>
+
+<p style="font-size: 20px;color:#585858;text align:justify;">In 2021, VITAL, the Public Service’s central agency for corporate shared services, was also awarded the Enabling Mark (Gold) by SG Enable.</p>
+
+<p style="font-size: 20px;color:#585858;text align:justify;">PwDs employed by the agency have the opportunity to hone both their hard and soft skills.</p>
+
+<p style="font-size: 20px;color:#585858;text align:justify;">Mr Chew Jian Xiong, an Executive in the Digitalisation Services department, is one such staff member. He is part of a team digitalising files for 38 public agencies.
+</p>
+
+<p style="font-size: 20px;color:#585858;text align:justify;">After joining VITAL, Jian Xiong, who has autism, went through a two-part training with support from an assigned ARC Job Coach. “I learnt both hard skills based on my department’s requirements and soft skills such as work habits and workplace communications,” he said.</p>
+
+<p style="font-size: 20px;color:#585858;text align:justify;">He also took up a four-week Robotic Process Automation online course recommended by VITAL and run by business automation service UiPath.</p>
+
+<p style="font-size: 20px;color:#585858;text align:justify;">This allowed him to develop software skills and improve productivity by building virtual bots to reduce manual work. He has worked with colleagues to automate the manual search of records with a bot, which will save about 600 man-hours a year.</p>
