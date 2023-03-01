@@ -11,8 +11,8 @@ image: ""
 <p style="font-size: 20px;color:#585858;text-align:justify;">During the panel discussion, Mr Tang talked about VITAL's journey in experimenting with robotic process automation (RPA) in shared services processes, and our intent to move up the value chain to tap on advanced functions in intelligent automation. VITAL is developing an upcoming Cloud-native central RPA platform, which public agencies can tap on to quickly scale up RPA adoption, bringing about efficiencies and unlocking capacities.</p>
 
 <br>
-<img src="/images/Media/01 Cloud.jpg">
+<img src="/images/Media/01 Cloud.png">
 <br>
-<img src="/images/Media/02Cloud.jpeg">
+<img src="/images/Media/02Cloud.png">
 <br>
-<img src="/images/Media/03Cloud.jpeg">
+<img src="/images/Media/03Cloud.png">
