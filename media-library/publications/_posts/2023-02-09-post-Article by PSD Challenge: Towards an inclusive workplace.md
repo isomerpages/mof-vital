@@ -16,7 +16,12 @@ Welcoming people with disabilities at work goes beyond physical accommodations. 
 <font size="-1">From left to right: Mr Mohammed Shafie Haja Mohaideen and Ms Dorothy Tang from the NLB, and Mr Chew Jian Xiong and Mr Vernon Tay from VITAL.</font>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
-At the Lee Kong Chian Reference Library in the National Library Building on Victoria Street, Library Service Assistant Dorothy Tang can often be seen walking through the various floors of the reference section to shelve and check that books are in their right places.Dorothy is one of about 30 persons with special needs who works at the National Library Board (NLB).
+At the Lee Kong Chian Reference Library in the National Library Building on Victoria Street, Library Service Assistant Dorothy Tang can often be seen walking through the various floors of the reference section to shelve and check that books are in their right places.</p>
+
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+Dorothy is one of about 30 persons with special needs who works at the National Library Board (NLB).</p>
+
+<p style="font-size: 20px;color:#585858;text-align:justify;">
 After having tried jobs such as data entry and warehouse stocking, Dorothy, who is on the autism spectrum, took up her current role at the NLB in January 2020.</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">“Working in a library really suits me,” she said. “The work taps on my strength of being able to pay strong attention to detail, especially when I shelve books and do shelf-reading.”</p>
