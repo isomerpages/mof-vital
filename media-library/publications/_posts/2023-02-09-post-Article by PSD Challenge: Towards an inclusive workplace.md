@@ -28,7 +28,9 @@ After having tried jobs such as data entry and warehouse stocking, Dorothy, who 
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">A long-time partner of the Autism Resource Centre (ARC), the NLB signed a Memorandum of Understanding in 2015 to set up a digital services centre at the Enabling Village.</p>
 
-<p style="font-size: 20px;color:#585858;text-align:justify;">This provided employment for 15 people on the autism spectrum to do digitisation work, such as scanning print materals and post-processing work (e.g., cropping material), before doing final quality assurance checks.
+<p style="font-size: 20px;color:#585858;text-align:justify;">This provided employment for 15 people on the autism spectrum to do digitisation work, such as scanning print materals and post-processing work (e.g., cropping material), before doing final quality assurance checks.</p>
+
+<p style="font-size: 20px;color:#585858;text-align:justify;">
 Besides the digitisation work, others in the team on the autism spectrum like Dorothy help to sort, shelve and arrange the library materials at Lee Kong Chian Reference Library.</p>
 
 <p style="font-size: 24px;color:#a91932;text-align:justify;">
