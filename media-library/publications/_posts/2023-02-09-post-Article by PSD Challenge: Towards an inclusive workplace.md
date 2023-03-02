@@ -6,9 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
-
 <div style="font-size: 16px;color:#585858;text-align:justify;">
-By Hidayah Md Sham | 9 FEB 2023</div>
+By Hidayah Md Sham | 9 February 2023</div>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 Welcoming people with disabilities at work goes beyond physical accommodations. Central agency VITAL and the National Library Board (NLB), which has hired people with disabilities since 1991, show how aspects such as job scope and training support can create inclusive workplaces.</p>
