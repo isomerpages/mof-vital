@@ -12,6 +12,6 @@ image: ""
 
 
 <img src="/images/Media/03Cloud.png">
-<font size="-1">Mr Alex Tang</font>
+<font size="-1">Mr Alex Tang (4th from the left) participates in GovInsider's panel discussion</font>
 <br>
 <img src="/images/Media/01Cloud.png">
