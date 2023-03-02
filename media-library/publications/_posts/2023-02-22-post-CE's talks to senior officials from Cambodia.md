@@ -16,5 +16,6 @@ image: ""
 <font size="-1">CE was invited to give two talks on VITAL's digitalisation and transformation journey to senior officials from Cambodia.</font>
 <br>
 <img src="/images/Media/Cambodia 2.jpg">
+<font size="-1">CE and H.E Youk Bunna, Secretary of State, Ministry of Civil Service, Cambodia (on the left).</font>
 <br>
 <img src="/images/Media/Cambodia 3.jpg">
