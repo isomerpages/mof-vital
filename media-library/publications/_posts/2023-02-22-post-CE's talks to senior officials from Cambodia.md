@@ -13,7 +13,7 @@ image: ""
 <p style="font-size: 20px;color:#585858;text-align:justify;">It was a great opportunity for us to learn and exchange ideas with foreign counterparts who are also looking at using digital tools to enhance and transform the public service.</p>
 
 <img src="/images/Media/Cambodia 1.jpg">
-<font size="-1">Mr Alex Tang (4th from the left) participated in GovInsider's panel discussion.</font>
+<font size="-1">CE was invited to give two talks on VITAL's digitalisation and transformation journey to senior officials from Cambodia.</font>
 <br>
 <img src="/images/Media/Cambodia 2.jpg">
 <br>
