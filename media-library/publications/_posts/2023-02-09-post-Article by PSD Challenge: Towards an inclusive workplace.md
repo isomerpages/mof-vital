@@ -47,7 +47,7 @@ To support persons with disabilities (PwDs) in taking on roles in the NLB, its s
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">One team member, Mr Mohammed Shafie Haja Mohaideen, Associate Librarian, Resource Discovery and Management Division, “The [sign language] course [also] gave us insight into how challenging non-verbal communication can be, and how to understand and be understood.”</p>
 
-<p style="font-size: 20px;color:#585858;text align:justify;">This helped them better understand how their deaf colleague deals with the challenges at work, as they continue to find ways to make the workplace an inclusive one</p>
+<p style="font-size: 20px;color:#585858;text align:justify;">This helped them better understand how their deaf colleague deals with the challenges at work, as they continue to find ways to make the workplace an inclusive one.</p>
 
 <p style="font-size: 20px;color:#585858;text align:justify;">To recognise NLB’s efforts in creating an inclusive workplace, SG Enable, the agency for enabling PwDs, conferred the NLB with the Enabling Mark (Gold) award for two years from 2021 to 2023.</p>
 
