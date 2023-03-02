@@ -87,17 +87,17 @@ Jian Xiong’s supervisor, Mr Vernon Tay, oversees eight officers with autism. A
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">"We have our own goals and dreams, just like anyone else. We have our own strengths and abilities, and can do a great job with support and training,” she shared.</p>
 
-<p style="font-size: 20px;color:#585858;text align:justify;">With more opportunities available now for PwDs, she hopes that those who are capable can be better informed of these opportunities and given an equal chance to contribute and do more.</p>
+<p style="font-size: 20px;color:#585858;text-align:justify;">With more opportunities available now for PwDs, she hopes that those who are capable can be better informed of these opportunities and given an equal chance to contribute and do more.</p>
 
-<p style="font-size: 20px;color:#585858;text align:justify;">For agencies interested in hiring PwDs, the NLB has a few pointers to share. In addition to considering the mobility conditions, such as where they are seated in the office, agencies should also consider their communication methods, simplify work processes or provide specific office equipment to address the needs of PwDs and help them integrate into the workplace.</p>
+<p style="font-size: 20px;color:#585858;text-align:justify;">For agencies interested in hiring PwDs, the NLB has a few pointers to share. In addition to considering the mobility conditions, such as where they are seated in the office, agencies should also consider their communication methods, simplify work processes or provide specific office equipment to address the needs of PwDs and help them integrate into the workplace.</p>
 
-<p style="font-size: 20px;color:#585858;text align:justify;">     
+<p style="font-size: 20px;color:#585858;text-align:justify;">   
 Ms Daphne Ong, Director, People Matters Division, NLB, said: “In NLB, we value and care for every officer who comes through our doors, and want to ensure they are in a supportive environment where they can contribute to the best of their abilities. When everyone can play their part, in their own special ways, we can better deliver our services at our libraries and archives.”</p>
 
 <img src="/images/Media/210223_03.png"/>
 
-<p style="font-size: 20px;color:#585858;text align:justify;">     For VITAL, the key to successful inclusive hiring is to view it as a mutually beneficial process for PwDs and the organisation.</p>
+<p style="font-size: 20px;color:#585858;text-align:justify;">For VITAL, the key to successful inclusive hiring is to view it as a mutually beneficial process for PwDs and the organisation.</p>
 
-<p style="font-size: 20px;color:#585858;text align:justify;">Good skills-to-job matching, for example, can lead to higher productivity and positive business outcomes. Similarly, creating abundant opportunities for upskilling and upward mobility improves the employee experience for the PwDs while enabling them to progress in their careers.</p>
+<p style="font-size: 20px;color:#585858;text-align:justify;">Good skills-to-job matching, for example, can lead to higher productivity and positive business outcomes. Similarly, creating abundant opportunities for upskilling and upward mobility improves the employee experience for the PwDs while enabling them to progress in their careers.</p>
 
 <p align="justify">Click <a href="https://www.psd.gov.sg/challenge/ideas/feature/towards-an-inclusive-workplace"> HERE</a> to read the original article from PSD Challenge website.</p>
