@@ -7,17 +7,18 @@ layout: post
 description: ""
 image: ""
 ---
-<p align="justify">VITAL’s Demand Aggregation contracts for common buys is mentioned in the speech of FY2023 MOF Committee of Supply Debate Speech by Senior Minister of State Mr Chee Hong Tat.
+<p style="font-size: 20px;color:#585858;text-align:justify;">VITAL’s Demand Aggregation contracts for common buys is mentioned in the speech of FY2023 MOF Committee of Supply Debate Speech by Senior Minister of State Mr Chee Hong Tat.</p>
 
-**A. INTRODUCTION**   
+<b><p style="font-size: 20px;color:#585858;text-align:justify;">A. INTRODUCTION
+	</b>
+<p style="font-size: 20px;color:#585858;text-align:justify;">A1. Mr Chairman, I thank Members for their questions and suggestions.</p>
   
-<p align="justify">A1. Mr Chairman, I thank Members for their questions and suggestions.  
-  
-**B. FISCAL SUSTAINABILITY AND GOVERNANCE OVER OUR SPENDING**   
+<b><p style="font-size: 20px;color:#585858;text-align:justify;">B. FISCAL SUSTAINABILITY AND GOVERNANCE OVER OUR SPENDING	</b>
 
-<p align="justify">B1. Mr Liang Eng Hwa and Mr Saktiandi Supaat asked how the Government ensures fiscal sustainability and spend prudently within our means.   
-  
-<p align="justify">B2. Besides the audits by the Auditor-General’s Office and our internal auditors, MOF conducts regular reviews of Ministries’ budgets to identify areas for improvement and ensures every Ministry uses its allocated resources efficiently and effectively.   
+<p style="font-size: 20px;color:#585858;text-align:justify;">B1. Mr Liang Eng Hwa and Mr Saktiandi Supaat asked how the Government ensures fiscal sustainability and spend prudently within our means.</p>
+
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+B2. Besides the audits by the Auditor-General’s Office and our internal auditors, MOF conducts regular reviews of Ministries’ budgets to identify areas for improvement and ensures every Ministry uses its allocated resources efficiently and effectively.</p>
   
 <p align="justify">B3. Singapore’s overall performance has been good, with current government expenditure being around 18% of GDP.  Even as our expenditures grow further and exceed 20% of GDP by 2030, our government expenditure as a percentage of GDP is significantly lower than most developed countries. At the same time, we are able to achieve positive economic and social outcomes for Singapore and Singaporeans.    
   
