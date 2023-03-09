@@ -14,6 +14,7 @@ image: ""
 A1. Mr Chairman, I thank Members for their questions and suggestions.  
   
 **B. FISCAL SUSTAINABILITY AND GOVERNANCE OVER OUR SPENDING**   
+
 B1. Mr Liang Eng Hwa and Mr Saktiandi Supaat asked how the Government ensures fiscal sustainability and spend prudently within our means.   
   
 B2. Besides the audits by the Auditor-General’s Office and our internal auditors, MOF conducts regular reviews of Ministries’ budgets to identify areas for improvement and ensures every Ministry uses its allocated resources efficiently and effectively.   
@@ -23,12 +24,14 @@ B3. Singapore’s overall performance has been good, with current government exp
 B4. One example is how we reduce the costs of major government infrastructure projects, by applying a stringent cost-effectiveness evaluation together with experts from the private sector and academia. In 2022, we achieved total cost avoidance of around $1.0 billion through this process.  This $1 billion saved means we can put it to good use, and meet our spending needs in other areas.   
   
 B5. The Government also looks out for other forms of savings by integrating different projects to maximise the synergies. 
+<ul>
+a. For example, the upcoming East Coast Integrated Depot, which incorporates three MRT depots and one bus depot, saved about 44 hectares of land, this is twice the land size of Changi Airport’s Terminal 4, or equivalent to approximately 60 football fields.  </ul>
+	
 
-a. For example, the upcoming East Coast Integrated Depot, which incorporates three MRT depots and one bus depot, saved about 44 hectares of land, this is twice the land size of Changi Airport’s Terminal 4, or equivalent to approximately 60 football fields.  
-
-B6. Another example is VITAL’s Demand Aggregation contracts for common buys such as office supplies, catering and courier services. These save the Government more than $50 million per annum. This approach also reduces the need for agencies to call separate tenders and quotations, saving at least 100,000 man-hours a year.    
+<b>B6. Another example is VITAL’s Demand Aggregation contracts for common buys such as office supplies, catering and courier services. These save the Government more than $50 million per annum. This approach also reduces the need for agencies to call separate tenders and quotations, saving at least 100,000 man-hours a year. </b>
   
 **C. HELPING BUSINESSES REDUCE COSTS AND BUILD CAPABILITIES FOR GROWTH**   
+
 C1. Sir, Mr Liang, Mr Edward Chia, Ms Mariam Jafaar and Mr Saktiandi asked how MOF helps businesses to reduce costs and build capabilities for growth.   
   
 C2. The Government will continue to implement pro-business policies and measures, and provide an environment that enables them to grow and succeed.   
@@ -39,7 +42,7 @@ C4. First, by simplifying government rules and processes, we enable businesses t
   
 C5. Let me share some examples.  
   
-C6. We recently launched eGuarantee@Gov, a simple and secure digital process for businesses and individuals to provide a banker’s guarantee or insurance bond to government agencies. Businesses can apply for an eGuarantee from over 20 participating financial institutions online, for direct submission to government agencies within a day. 
+C6. We recently launched eGuarantee@Gov, a simple and secure digital process for businesses and individuals to provide a banker’s guarantee or insurance bond to government agencies. Businesses can apply for an eGuarantee from over 20 participating financial institutions online, for direct submission to government agencies within a day. <ul>
 
 a. With eGuarantee@Gov, there is no longer a need to visit a bank to purchase a physical copy of the guarantee or to pay for courier services to deliver it. The new arrangement is quicker, better and cheaper.    
   
@@ -47,7 +50,7 @@ b. We expect up to 4,000 eGuarantees to be lodged in 2023, resulting in overall 
   
 c. There is also scope in the future for eGuarantees to extend to commercial transactions between businesses and their suppliers and customers. MOF and the Ministry of Trade and Industry will work with the financial institutions and Trade Association and Chambers to encourage adoption of eGuarantees for such transactions.    
   
-d. Just as the use of PayNow for digital payments has allowed businesses and individuals to enjoy lower transaction costs and time savings compared to the traditional method of using cheques, the adoption of eGuarantees can bring about benefits compared to the current method of providing physical bank guarantees.
+d. Just as the use of PayNow for digital payments has allowed businesses and individuals to enjoy lower transaction costs and time savings compared to the traditional method of using cheques, the adoption of eGuarantees can bring about benefits compared to the current method of providing physical bank guarantees.</ul>
 
 C7. Next, MOF removed the requirement for businesses with annual turnover of less than $5 million to submit audited accounts when applying for Government Supplier Registration. This benefits about 2,400 small and medium enterprises (SMEs) annually, with estimated cost savings of around $4.5 million per year.   
   
@@ -55,9 +58,9 @@ C8. MOF continually makes improvements to GeBIZ, the government-wide procurement
   
 C9. Sir, another example is IRAS’ initiative to encourage businesses to use seamless filing software. Such software provides many productivity benefits for businesses, as they can automatically generate and file their corporate income tax computations and returns. This process takes only 15 minutes, compared to the estimated 8 hours required for manual preparation and submission.   
   
-C10. Moving on to the next area of how MOF supports businesses to develop capabilities for growth. We will continue to simplify our processes for suppliers, including SMEs, to participate in government tenders while maintaining a level-playing field for all businesses, and achieving value-for-money procurement outcomes. 
+C10. Moving on to the next area of how MOF supports businesses to develop capabilities for growth. We will continue to simplify our processes for suppliers, including SMEs, to participate in government tenders while maintaining a level-playing field for all businesses, and achieving value-for-money procurement outcomes. <ul>
 
-a. For procurement below $90,000, financial track record is not required. The terms and conditions are also simplified, for example there is no requirement to provide security deposits. 
+a. For procurement below $90,000, financial track record is not required. The terms and conditions are also simplified, for example there is no requirement to provide security deposits. </ul>
 
 C11. SMEs participate actively in our government contracts, and about 80% of these are awarded to SMEs annually. Winning government contracts gives SMEs the opportunity to build up their track records, develop capabilities and capacity to tap into new growth areas.   
   
@@ -88,6 +91,7 @@ C23. InvoiceNow also facilitates the direct transmission of invoices in a struct
 C24. Today, about 55,000 businesses have adopted InvoiceNow, supported by 200 service providers. I encourage more businesses to come on board.  
   
 **D. SUPPORTING PHILANTHROPY AND VOLUNTEERISM TO STRENGTHEN OUR SOCIAL COMPACT**   
+
 D1. Sir, Mr Liang and Ms Foo Mee Har asked how MOF will support and encourage more philanthropy and volunteerism from corporations and the community.   
   
 D2. Philanthropy and volunteerism are key elements for building a strong social compact. There is something intangible and different in how we build up the character of our society, when people go beyond what they are required to contribute under our fair and progressive tax and benefits system, where everyone contributes something and those who are better off contribute more. Many Singaporeans and also foreigners and companies who are based here have an interest in philanthropy and are keen to help others in society.   
