@@ -33,21 +33,21 @@ B2. Besides the audits by the Auditor-General’s Office and our internal audito
   
 <b><p style="font-size: 20px;color:#585858;text-align:justify;">C. HELPING BUSINESSES REDUCE COSTS AND BUILD CAPABILITIES FOR GROWTH</b></c>
 
-<p align="justify">C1. Sir, Mr Liang, Mr Edward Chia, Ms Mariam Jafaar and Mr Saktiandi asked how MOF helps businesses to reduce costs and build capabilities for growth.   
+<p style="font-size: 20px;color:#585858;text-align:justify;">C1. Sir, Mr Liang, Mr Edward Chia, Ms Mariam Jafaar and Mr Saktiandi asked how MOF helps businesses to reduce costs and build capabilities for growth.</p>
   
-<p align="justify">C2. The Government will continue to implement pro-business policies and measures, and provide an environment that enables them to grow and succeed.   
+<p style="font-size: 20px;color:#585858;text-align:justify;">C2. The Government will continue to implement pro-business policies and measures, and provide an environment that enables them to grow and succeed.</p>
   
-<p align="justify">C3. Besides supporting businesses through our economic agencies and via a comprehensive suite of grants and incentives for innovation, productivity improvements and skills-upgrading, there are two additional areas where MOF’s work benefit our companies.   
-  
-<p align="justify">C4. First, by simplifying government rules and processes, we enable businesses to save time and money when they transact with Government. Second, by helping businesses build capabilities to enhance their competitiveness and access new opportunities, both locally and abroad.   
-  
-<p align="justify">C5. Let me share some examples.  
-  
-<p align="justify">C6. We recently launched eGuarantee@Gov, a simple and secure digital process for businesses and individuals to provide a banker’s guarantee or insurance bond to government agencies. Businesses can apply for an eGuarantee from over 20 participating financial institutions online, for direct submission to government agencies within a day. 
+<p style="font-size: 20px;color:#585858;text-align:justify;">C3. Besides supporting businesses through our economic agencies and via a comprehensive suite of grants and incentives for innovation, productivity improvements and skills-upgrading, there are two additional areas where MOF’s work benefit our companies.</p>
 
-<p align="justify">a. With eGuarantee@Gov, there is no longer a need to visit a bank to purchase a physical copy of the guarantee or to pay for courier services to deliver it. The new arrangement is quicker, better and cheaper.    
+<p style="font-size: 20px;color:#585858;text-align:justify;">C4. First, by simplifying government rules and processes, we enable businesses to save time and money when they transact with Government. Second, by helping businesses build capabilities to enhance their competitiveness and access new opportunities, both locally and abroad.</p>
   
-<p align="justify">b. We expect up to 4,000 eGuarantees to be lodged in 2023, resulting in overall savings for all stakeholders of about $500,000 per year.   
+<p style="font-size: 20px;color:#585858;text-align:justify;">C5. Let me share some examples.</p>
+  
+<p style="font-size: 20px;color:#585858;text-align:justify;">C6. We recently launched eGuarantee@Gov, a simple and secure digital process for businesses and individuals to provide a banker’s guarantee or insurance bond to government agencies. Businesses can apply for an eGuarantee from over 20 participating financial institutions online, for direct submission to government agencies within a day.</p>
+
+<p style="font-size: 20px;color:#585858;text-align:justify;">a. With eGuarantee@Gov, there is no longer a need to visit a bank to purchase a physical copy of the guarantee or to pay for courier services to deliver it. The new arrangement is quicker, better and cheaper.</b>
+  
+<p style="font-size: 20px;color:#585858;text-align:justify;">b. We expect up to 4,000 eGuarantees to be lodged in 2023, resulting in overall savings for all stakeholders of about $500,000 per year.</p>
   
 <p align="justify">c. There is also scope in the future for eGuarantees to extend to commercial transactions between businesses and their suppliers and customers. MOF and the Ministry of Trade and Industry will work with the financial institutions and Trade Association and Chambers to encourage adoption of eGuarantees for such transactions.    
   
