@@ -57,14 +57,14 @@ Learnings from CPF Board: A story of opportunistic cloud migration</p>
 <p style="font-size: 24px;color:#a91932;text-align:justify;">Treating government agencies as the customer</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">“A lot of times when we build a platform, what we thought would be an accelerator for agencies may not translate to the actual intended experience at the end of the day,” said Bing Wan. </p>
+
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 To address this gap, Bing Wan said that rather than merely building a platform, GovTech adopts the product making approach, and refers to other government agencies as the customers.</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 Listening to customer feedback and optimising the customer experience hence became key. “In order for them to tap on our platform, do we know the pain points that we have? For example, are outsourced contractors trained with the right skills? Would they be able to use a particular platform that we have built with certain underlying technologies?” Bing Wan said. </p>
 
- 
-<b><p style="font-size: 20px;color:#585858;text-align:justify;">The same mantra applies to any government agencies providing an outward-facing digital service. This was the case for VITAL, a central agency that delivers corporate shared services to over 100 other government agencies. </p>
+<p style="font-size: 20px;color:#585858;text-align:justify;"><b>The same mantra applies to any government agencies providing an outward-facing digital service. This was the case for VITAL, a central agency that delivers corporate shared services to over 100 other government agencies. </p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;"> 
 “We had to first establish the need for the product, and find out what’s really in it for the user to adopt our services,” said Mr Alex Tang, Director (Service, Innovation and Compliance), VITAL.</p>
