@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-VITAL’s Demand Aggregation contracts for common buys is mentioned in the speech of FY2023 MOF Committee of Supply Debate Speech by Senior Minister of State Mr Chee Hong Tat.
+<p align="justify">VITAL’s Demand Aggregation contracts for common buys is mentioned in the speech of FY2023 MOF Committee of Supply Debate Speech by Senior Minister of State Mr Chee Hong Tat.
 
 **A. INTRODUCTION**   
   
@@ -15,9 +15,9 @@ A1. Mr Chairman, I thank Members for their questions and suggestions.
   
 **B. FISCAL SUSTAINABILITY AND GOVERNANCE OVER OUR SPENDING**   
 
-B1. Mr Liang Eng Hwa and Mr Saktiandi Supaat asked how the Government ensures fiscal sustainability and spend prudently within our means.   
+<p align="justify">B1. Mr Liang Eng Hwa and Mr Saktiandi Supaat asked how the Government ensures fiscal sustainability and spend prudently within our means.   
   
-B2. Besides the audits by the Auditor-General’s Office and our internal auditors, MOF conducts regular reviews of Ministries’ budgets to identify areas for improvement and ensures every Ministry uses its allocated resources efficiently and effectively.   
+<p align="justify">B2. Besides the audits by the Auditor-General’s Office and our internal auditors, MOF conducts regular reviews of Ministries’ budgets to identify areas for improvement and ensures every Ministry uses its allocated resources efficiently and effectively.   
   
 B3. Singapore’s overall performance has been good, with current government expenditure being around 18% of GDP.  Even as our expenditures grow further and exceed 20% of GDP by 2030, our government expenditure as a percentage of GDP is significantly lower than most developed countries. At the same time, we are able to achieve positive economic and social outcomes for Singapore and Singaporeans.    
   
@@ -117,5 +117,6 @@ D11. This will then provide the social cohesion and stability for us to pursue p
 D12. In this way, we can strengthen our social compact and grow our economy at the same time. The two objectives will reinforce and support each other, allowing us to move forward while staying together.     
   
 D13. Thank you.
+</p>
 
 Click <a href="https://www.mof.gov.sg/news-publications/speeches/fy2023-mof-committee-of-supply-debate-speech-by-senior-minister-of-state-mr-chee-hong-tat"> HERE</a> to read the original speech from the MOF website.
