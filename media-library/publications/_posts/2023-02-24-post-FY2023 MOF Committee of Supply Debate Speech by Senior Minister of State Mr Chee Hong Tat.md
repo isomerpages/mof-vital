@@ -10,7 +10,7 @@ image: ""
 <p style="font-size: 20px;color:#585858;text-align:justify;">VITAL’s Demand Aggregation contracts for common buys is mentioned in the speech of FY2023 MOF Committee of Supply Debate Speech by Senior Minister of State Mr Chee Hong Tat.</p>
 
 <b><p style="font-size: 20px;color:#585858;text-align:justify;">A. INTRODUCTION
-	</b>
+	</b></p>
 <p style="font-size: 20px;color:#585858;text-align:justify;">A1. Mr Chairman, I thank Members for their questions and suggestions.</p>
   
 <b><p style="font-size: 20px;color:#585858;text-align:justify;">B. FISCAL SUSTAINABILITY AND GOVERNANCE OVER OUR SPENDING	</b></p>
@@ -92,7 +92,7 @@ C14. MOF will work with representatives from Singapore Business Federation and t
   
 <p style="font-size: 20px;color:#585858;text-align:justify;">C24. Today, about 55,000 businesses have adopted InvoiceNow, supported by 200 service providers. I encourage more businesses to come on board.</p> 
   
-**D. SUPPORTING PHILANTHROPY AND VOLUNTEERISM TO STRENGTHEN OUR SOCIAL COMPACT**   
+<b><p style="font-size: 20px;color:#585858;text-align:justify;">D. SUPPORTING PHILANTHROPY AND VOLUNTEERISM TO STRENGTHEN OUR SOCIAL COMPACT</b></p>  
 
 D1. Sir, Mr Liang and Ms Foo Mee Har asked how MOF will support and encourage more philanthropy and volunteerism from corporations and the community.   
   
