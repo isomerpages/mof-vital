@@ -72,25 +72,25 @@ B2. Besides the audits by the Auditor-General’s Office and our internal audito
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 C14. MOF will work with representatives from Singapore Business Federation and the Association of Small & Medium Enterprises, as well as government agencies on the design of Tender Lite. We believe this approach of government and industry working together as partners will bring about win-win outcomes, and allow us to move faster and innovate new solutions more effectively.</p>   
   
-<p align="justify">C15. So my colleagues and I are keen to continue the partnership with our industry partners beyond Tender Lite, and extend the collaboration to other subsequent areas of work that will benefit our businesses.  
+<p style="font-size: 20px;color:#585858;text-align:justify;">C15. So my colleagues and I are keen to continue the partnership with our industry partners beyond Tender Lite, and extend the collaboration to other subsequent areas of work that will benefit our businesses.</p>
   
-<p align="justify">C16. Members such as Mr Derrick Goh have highlighted during the Budget Debate that government can help prepare SMEs for new requirements and opportunities in environmental sustainability. We agree. The public sector is supporting our suppliers’ efforts to adopt greener practices, which are increasingly in demand by other major buyers. Over the years, the Government has incorporated environmental sustainability requirements into our procurement, such as requiring ICT equipment and air conditioners to meet energy efficiency standards.   
+<p style="font-size: 20px;color:#585858;text-align:justify;">C16. Members such as Mr Derrick Goh have highlighted during the Budget Debate that government can help prepare SMEs for new requirements and opportunities in environmental sustainability. We agree. The public sector is supporting our suppliers’ efforts to adopt greener practices, which are increasingly in demand by other major buyers. Over the years, the Government has incorporated environmental sustainability requirements into our procurement, such as requiring ICT equipment and air conditioners to meet energy efficiency standards.</p>
   
-<p align="justify">C17. Our target is to include environmental sustainability requirements and evaluation criteria into all government procurement within the next 5 years, in a manner that keeps pace with industry readiness and international developments.   
+<p style="font-size: 20px;color:#585858;text-align:justify;">C17. Our target is to include environmental sustainability requirements and evaluation criteria into all government procurement within the next 5 years, in a manner that keeps pace with industry readiness and international developments.</p>
   
-<p align="justify">C18. Starting from FY24, for tenders of construction projects and ICT projects with minimum estimated procurement value of $50 million and $10 million respectively, we will set aside up to 5 per cent of the evaluation points for sustainability-related considerations. The Government will further engage the industry stakeholders on the details of these measures.   
+<p style="font-size: 20px;color:#585858;text-align:justify;">C18. Starting from FY24, for tenders of construction projects and ICT projects with minimum estimated procurement value of $50 million and $10 million respectively, we will set aside up to 5 per cent of the evaluation points for sustainability-related considerations. The Government will further engage the industry stakeholders on the details of these measures.</p>
   
-<p align="justify">C19. Another capability that is increasingly sought after is sustainability reporting. Businesses that can provide good sustainability-related information can gain competitive advantage, expand into markets, and potentially access cheaper funds through green financing.   
+<p style="font-size: 20px;color:#585858;text-align:justify;">C19. Another capability that is increasingly sought after is sustainability reporting. Businesses that can provide good sustainability-related information can gain competitive advantage, expand into markets, and potentially access cheaper funds through green financing.</p>
   
-<p align="justify">C20. To drive sustainability reporting efforts for the industry, ACRA and the Singapore Exchange Regulation established the Sustainability Reporting Advisory Committee in June 2022. The Committee will embark on its public consultations later this year.  
+<p style="font-size: 20px;color:#585858;text-align:justify;">C20. To drive sustainability reporting efforts for the industry, ACRA and the Singapore Exchange Regulation established the Sustainability Reporting Advisory Committee in June 2022. The Committee will embark on its public consultations later this year.</p>
   
-<p align="justify">C21. Businesses also need to accelerate their pace of digitalisation, a point which Mr Liang made. The Government will implement InvoiceNow as the default e-invoice submission channel for all Government vendors within the next few years.  
+<p style="font-size: 20px;color:#585858;text-align:justify;">C21. Businesses also need to accelerate their pace of digitalisation, a point which Mr Liang made. The Government will implement InvoiceNow as the default e-invoice submission channel for all Government vendors within the next few years.</p>
   
-<p align="justify">C22. Using InvoiceNow will help businesses improve efficiency and reduce cost, by eliminating the need for manual processing and it also reduces errors. Businesses transacting on InvoiceNow can save $8 per invoice compared to the manual process.   
+<p style="font-size: 20px;color:#585858;text-align:justify;">C22. Using InvoiceNow will help businesses improve efficiency and reduce cost, by eliminating the need for manual processing and it also reduces errors. Businesses transacting on InvoiceNow can save $8 per invoice compared to the manual process.</p>
   
-<p align="justify">C23. InvoiceNow also facilitates the direct transmission of invoices in a structured and standardised digital format that is accepted internationally across finance systems, and this helps businesses access overseas markets more easily.    
+<p style="font-size: 20px;color:#585858;text-align:justify;">C23. InvoiceNow also facilitates the direct transmission of invoices in a structured and standardised digital format that is accepted internationally across finance systems, and this helps businesses access overseas markets more easily.</p>
   
-<p align="justify">C24. Today, about 55,000 businesses have adopted InvoiceNow, supported by 200 service providers. I encourage more businesses to come on board.  
+<p style="font-size: 20px;color:#585858;text-align:justify;">C24. Today, about 55,000 businesses have adopted InvoiceNow, supported by 200 service providers. I encourage more businesses to come on board.</p> 
   
 **D. SUPPORTING PHILANTHROPY AND VOLUNTEERISM TO STRENGTHEN OUR SOCIAL COMPACT**   
 
