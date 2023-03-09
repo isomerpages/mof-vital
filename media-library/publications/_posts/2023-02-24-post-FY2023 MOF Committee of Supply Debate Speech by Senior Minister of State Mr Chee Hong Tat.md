@@ -58,7 +58,7 @@ C8. MOF continually makes improvements to GeBIZ, the government-wide procurement
   
 C9. Sir, another example is IRAS’ initiative to encourage businesses to use seamless filing software. Such software provides many productivity benefits for businesses, as they can automatically generate and file their corporate income tax computations and returns. This process takes only 15 minutes, compared to the estimated 8 hours required for manual preparation and submission.   
   
-C10. Moving on to the next area of how MOF supports businesses to develop capabilities for growth. We will continue to simplify our processes for suppliers, including SMEs, to participate in government tenders while maintaining a level-playing field for all businesses, and achieving value-for-money procurement outcomes. <ul>
+C10. Moving on to the next area of how MOF supports businesses to develop capabilities for growth. We will continue to simplify our processes for suppliers, including SMEs, to participate in government tenders while maintaining a level-playing field for all businesses, and achieving value-for-money procurement outcomes.
 
 a. For procurement below $90,000, financial track record is not required. The terms and conditions are also simplified, for example there is no requirement to provide security deposits. </ul>
 
