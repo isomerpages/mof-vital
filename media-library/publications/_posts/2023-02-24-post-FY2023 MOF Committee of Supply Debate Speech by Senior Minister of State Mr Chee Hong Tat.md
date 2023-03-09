@@ -49,27 +49,28 @@ B2. Besides the audits by the Auditor-General’s Office and our internal audito
   
 <p style="font-size: 20px;color:#585858;text-align:justify;">b. We expect up to 4,000 eGuarantees to be lodged in 2023, resulting in overall savings for all stakeholders of about $500,000 per year.</p>
   
-<p align="justify">c. There is also scope in the future for eGuarantees to extend to commercial transactions between businesses and their suppliers and customers. MOF and the Ministry of Trade and Industry will work with the financial institutions and Trade Association and Chambers to encourage adoption of eGuarantees for such transactions.    
-  
-<p align="justify">d. Just as the use of PayNow for digital payments has allowed businesses and individuals to enjoy lower transaction costs and time savings compared to the traditional method of using cheques, the adoption of eGuarantees can bring about benefits compared to the current method of providing physical bank guarantees.
+<p style="font-size: 20px;color:#585858;text-align:justify;">c. There is also scope in the future for eGuarantees to extend to commercial transactions between businesses and their suppliers and customers. MOF and the Ministry of Trade and Industry will work with the financial institutions and Trade Association and Chambers to encourage adoption of eGuarantees for such transactions.</p>
+
+<p style="font-size: 20px;color:#585858;text-align:justify;">d. Just as the use of PayNow for digital payments has allowed businesses and individuals to enjoy lower transaction costs and time savings compared to the traditional method of using cheques, the adoption of eGuarantees can bring about benefits compared to the current method of providin  physical bank guarantees.</p>
 
 <p align="justify">C7. Next, MOF removed the requirement for businesses with annual turnover of less than $5 million to submit audited accounts when applying for Government Supplier Registration. This benefits about 2,400 small and medium enterprises (SMEs) annually, with estimated cost savings of around $4.5 million per year.   
   
-<p align="justify">C8. MOF continually makes improvements to GeBIZ, the government-wide procurement system. For instance, about 3,000 businesses can benefit from the Supplier File Repository by the end of this year. Businesses no longer need to submit the same financial statements and company profile, when responding to different government quotations and tenders. We will also consider the features that Mr Saktiandi mentioned for future improvements.  
+<p style="font-size: 20px;color:#585858;text-align:justify;">C8. MOF continually makes improvements to GeBIZ, the government-wide procurement system. For instance, about 3,000 businesses can benefit from the Supplier File Repository by the end of this year. Businesses no longer need to submit the same financial statements and company profile, when responding to different government quotations and tenders. We will also consider the features that Mr Saktiandi mentioned for future improvements.</p>
   
-<p align="justify">C9. Sir, another example is IRAS’ initiative to encourage businesses to use seamless filing software. Such software provides many productivity benefits for businesses, as they can automatically generate and file their corporate income tax computations and returns. This process takes only 15 minutes, compared to the estimated 8 hours required for manual preparation and submission.   
-  
-<p align="justify">C10. Moving on to the next area of how MOF supports businesses to develop capabilities for growth. We will continue to simplify our processes for suppliers, including SMEs, to participate in government tenders while maintaining a level-playing field for all businesses, and achieving value-for-money procurement outcomes.
+<p style="font-size: 20px;color:#585858;text-align:justify;">C9. Sir, another example is IRAS’ initiative to encourage businesses to use seamless filing software. Such software provides many productivity benefits for businesses, as they can automatically generate and file their corporate income tax computations and returns. This process takes only 15 minutes, compared to the estimated 8 hours required for manual preparation and submission.</p>
 
-<p align="justify">a. For procurement below $90,000, financial track record is not required. The terms and conditions are also simplified, for example there is no requirement to provide security deposits. </ul>
+<p style="font-size: 20px;color:#585858;text-align:justify;"> C10. Moving on to the next area of how MOF supports businesses to develop capabilities for growth. We will continue to simplify our processes for suppliers, including SMEs, to participate in government tenders while maintaining a level-playing field for all businesses, and achieving value-for-money procurement outcomes.</p>
 
-<p align="justify">C11. SMEs participate actively in our government contracts, and about 80% of these are awarded to SMEs annually. Winning government contracts gives SMEs the opportunity to build up their track records, develop capabilities and capacity to tap into new growth areas.   
+<p style="font-size: 20px;color:#585858;text-align:justify;">a. For procurement below $90,000, financial track record is not required. The terms and conditions are also simplified, for example there is no requirement to provide security deposits. </p>
+
+<p style="font-size: 20px;color:#585858;text-align:justify;">C11. SMEs participate actively in our government contracts, and about 80% of these are awarded to SMEs annually. Winning government contracts gives SMEs the opportunity to build up their track records, develop capabilities and capacity to tap into new growth areas.</p>
   
-<p align="justify">C12. To further improve the access of SMEs to business opportunities through government tenders, MOF will introduce a new category of tender by end-2023 called “Tender Lite”, which comes with fewer and simpler conditions.   
+<p style="font-size: 20px;color:#585858;text-align:justify;">C12. To further improve the access of SMEs to business opportunities through government tenders, MOF will introduce a new category of tender by end-2023 called “Tender Lite”, which comes with fewer and simpler conditions.</p>
   
-<p align="justify">C13. Tender Lite will allow more suppliers to participate in tenders with value higher than $90,000 but below $1 million, and is estimated to cover over 70% of all government tenders that are currently awarded to SMEs.  
+<p style="font-size: 20px;color:#585858;text-align:justify;">C13. Tender Lite will allow more suppliers to participate in tenders with value higher than $90,000 but below $1 million, and is estimated to cover over 70% of all government tenders that are currently awarded to SMEs.</p>
   
-<p align="justify">C14. MOF will work with representatives from Singapore Business Federation and the Association of Small & Medium Enterprises, as well as government agencies on the design of Tender Lite. We believe this approach of government and industry working together as partners will bring about win-win outcomes, and allow us to move faster and innovate new solutions more effectively.    
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+C14. MOF will work with representatives from Singapore Business Federation and the Association of Small & Medium Enterprises, as well as government agencies on the design of Tender Lite. We believe this approach of government and industry working together as partners will bring about win-win outcomes, and allow us to move faster and innovate new solutions more effectively.</p>   
   
 <p align="justify">C15. So my colleagues and I are keen to continue the partnership with our industry partners beyond Tender Lite, and extend the collaboration to other subsequent areas of work that will benefit our businesses.  
   
