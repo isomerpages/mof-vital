@@ -24,8 +24,8 @@ B3. Singapore’s overall performance has been good, with current government exp
 B4. One example is how we reduce the costs of major government infrastructure projects, by applying a stringent cost-effectiveness evaluation together with experts from the private sector and academia. In 2022, we achieved total cost avoidance of around $1.0 billion through this process.  This $1 billion saved means we can put it to good use, and meet our spending needs in other areas.   
   
 B5. The Government also looks out for other forms of savings by integrating different projects to maximise the synergies. 
-<ul>
-a. For example, the upcoming East Coast Integrated Depot, which incorporates three MRT depots and one bus depot, saved about 44 hectares of land, this is twice the land size of Changi Airport’s Terminal 4, or equivalent to approximately 60 football fields.  </ul>
+
+a. For example, the upcoming East Coast Integrated Depot, which incorporates three MRT depots and one bus depot, saved about 44 hectares of land, this is twice the land size of Changi Airport’s Terminal 4, or equivalent to approximately 60 football fields.  
 	
 
 <b>B6. Another example is VITAL’s Demand Aggregation contracts for common buys such as office supplies, catering and courier services. These save the Government more than $50 million per annum. This approach also reduces the need for agencies to call separate tenders and quotations, saving at least 100,000 man-hours a year. </b>
@@ -42,7 +42,7 @@ C4. First, by simplifying government rules and processes, we enable businesses t
   
 C5. Let me share some examples.  
   
-C6. We recently launched eGuarantee@Gov, a simple and secure digital process for businesses and individuals to provide a banker’s guarantee or insurance bond to government agencies. Businesses can apply for an eGuarantee from over 20 participating financial institutions online, for direct submission to government agencies within a day. <ul>
+C6. We recently launched eGuarantee@Gov, a simple and secure digital process for businesses and individuals to provide a banker’s guarantee or insurance bond to government agencies. Businesses can apply for an eGuarantee from over 20 participating financial institutions online, for direct submission to government agencies within a day. 
 
 a. With eGuarantee@Gov, there is no longer a need to visit a bank to purchase a physical copy of the guarantee or to pay for courier services to deliver it. The new arrangement is quicker, better and cheaper.    
   
@@ -50,7 +50,7 @@ b. We expect up to 4,000 eGuarantees to be lodged in 2023, resulting in overall 
   
 c. There is also scope in the future for eGuarantees to extend to commercial transactions between businesses and their suppliers and customers. MOF and the Ministry of Trade and Industry will work with the financial institutions and Trade Association and Chambers to encourage adoption of eGuarantees for such transactions.    
   
-d. Just as the use of PayNow for digital payments has allowed businesses and individuals to enjoy lower transaction costs and time savings compared to the traditional method of using cheques, the adoption of eGuarantees can bring about benefits compared to the current method of providing physical bank guarantees.</ul>
+d. Just as the use of PayNow for digital payments has allowed businesses and individuals to enjoy lower transaction costs and time savings compared to the traditional method of using cheques, the adoption of eGuarantees can bring about benefits compared to the current method of providing physical bank guarantees.
 
 C7. Next, MOF removed the requirement for businesses with annual turnover of less than $5 million to submit audited accounts when applying for Government Supplier Registration. This benefits about 2,400 small and medium enterprises (SMEs) annually, with estimated cost savings of around $4.5 million per year.   
   
