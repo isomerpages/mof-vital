@@ -13,25 +13,25 @@ image: ""
 	</b>
 <p style="font-size: 20px;color:#585858;text-align:justify;">A1. Mr Chairman, I thank Members for their questions and suggestions.</p>
   
-<b><p style="font-size: 20px;color:#585858;text-align:justify;">B. FISCAL SUSTAINABILITY AND GOVERNANCE OVER OUR SPENDING	</b>
+<b><p style="font-size: 20px;color:#585858;text-align:justify;">B. FISCAL SUSTAINABILITY AND GOVERNANCE OVER OUR SPENDING	</b></p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">B1. Mr Liang Eng Hwa and Mr Saktiandi Supaat asked how the Government ensures fiscal sustainability and spend prudently within our means.</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 B2. Besides the audits by the Auditor-General’s Office and our internal auditors, MOF conducts regular reviews of Ministries’ budgets to identify areas for improvement and ensures every Ministry uses its allocated resources efficiently and effectively.</p>
   
-<p align="justify">B3. Singapore’s overall performance has been good, with current government expenditure being around 18% of GDP.  Even as our expenditures grow further and exceed 20% of GDP by 2030, our government expenditure as a percentage of GDP is significantly lower than most developed countries. At the same time, we are able to achieve positive economic and social outcomes for Singapore and Singaporeans.    
+<p style="font-size: 20px;color:#585858;text-align:justify;">B3. Singapore’s overall performance has been good, with current government expenditure being around 18% of GDP.  Even as our expenditures grow further and exceed 20% of GDP by 2030, our government expenditure as a percentage of GDP is significantly lower than most developed countries. At the same time, we are able to achieve positive economic and social outcomes for Singapore and Singaporeans.</p>
   
-<p align="justify">B4. One example is how we reduce the costs of major government infrastructure projects, by applying a stringent cost-effectiveness evaluation together with experts from the private sector and academia. In 2022, we achieved total cost avoidance of around $1.0 billion through this process.  This $1 billion saved means we can put it to good use, and meet our spending needs in other areas.   
+<p style="font-size: 20px;color:#585858;text-align:justify;">B4. One example is how we reduce the costs of major government infrastructure projects, by applying a stringent cost-effectiveness evaluation together with experts from the private sector and academia. In 2022, we achieved total cost avoidance of around $1.0 billion through this process.  This $1 billion saved means we can put it to good use, and meet our spending needs in other areas.</p>
   
-<p align="justify">B5. The Government also looks out for other forms of savings by integrating different projects to maximise the synergies. 
+<p style="font-size: 20px;color:#585858;text-align:justify;">B5. The Government also looks out for other forms of savings by integrating different projects to maximise the synergies.</p>
 
-<p align="justify">a. For example, the upcoming East Coast Integrated Depot, which incorporates three MRT depots and one bus depot, saved about 44 hectares of land, this is twice the land size of Changi Airport’s Terminal 4, or equivalent to approximately 60 football fields.  
+<p style="font-size: 20px;color:#585858;text-align:justify;">a. For example, the upcoming East Coast Integrated Depot, which incorporates three MRT depots and one bus depot, saved about 44 hectares of land, this is twice the land size of Changi Airport’s Terminal 4, or equivalent to approximately 60 football fields.</p>
 	
 
-<p align="justify"><b>B6. Another example is VITAL’s Demand Aggregation contracts for common buys such as office supplies, catering and courier services. These save the Government more than $50 million per annum. This approach also reduces the need for agencies to call separate tenders and quotations, saving at least 100,000 man-hours a year. </b>
+<p style="font-size: 20px;color:#585858;text-align:justify;"><b>B6. Another example is VITAL’s Demand Aggregation contracts for common buys such as office supplies, catering and courier services. These save the Government more than $50 million per annum. This approach also reduces the need for agencies to call separate tenders and quotations, saving at least 100,000 man-hours a year. </b></p>
   
-**C. HELPING BUSINESSES REDUCE COSTS AND BUILD CAPABILITIES FOR GROWTH**   
+<b><p style="font-size: 20px;color:#585858;text-align:justify;">C. HELPING BUSINESSES REDUCE COSTS AND BUILD CAPABILITIES FOR GROWTH</b></c>
 
 <p align="justify">C1. Sir, Mr Liang, Mr Edward Chia, Ms Mariam Jafaar and Mr Saktiandi asked how MOF helps businesses to reduce costs and build capabilities for growth.   
   
