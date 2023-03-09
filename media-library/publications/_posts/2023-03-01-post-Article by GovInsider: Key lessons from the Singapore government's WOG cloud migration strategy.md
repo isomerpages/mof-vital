@@ -58,7 +58,7 @@ Learnings from CPF Board: A story of opportunistic cloud migration</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">“A lot of times when we build a platform, what we thought would be an accelerator for agencies may not translate to the actual intended experience at the end of the day,” said Bing Wan. </p>
 
- <p style="font-size: 20px;color:#585858;text-align:justify;">To address this gap, Bing Wan said that rather than merely building a platform, GovTech adopts the product making approach, and refers to other government agencies as the customers.</p.
+ <p style="font-size: 20px;color:#585858;text-align:justify;">To address this gap, Bing Wan said that rather than merely building a platform, GovTech adopts the product making approach, and refers to other government agencies as the customers.</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 Listening to customer feedback and optimising the customer experience hence became key. “In order for them to tap on our platform, do we know the pain points that we have? For example, are outsourced contractors trained with the right skills? Would they be able to use a particular platform that we have built with certain underlying technologies?” Bing Wan said. </p>
