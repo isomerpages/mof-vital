@@ -117,3 +117,5 @@ D11. This will then provide the social cohesion and stability for us to pursue p
 D12. In this way, we can strengthen our social compact and grow our economy at the same time. The two objectives will reinforce and support each other, allowing us to move forward while staying together.     
   
 D13. Thank you.
+
+Click <a href="https://www.mof.gov.sg/news-publications/speeches/fy2023-mof-committee-of-supply-debate-speech-by-senior-minister-of-state-mr-chee-hong-tat"> HERE</a> to read the original speech from the MOF website.
