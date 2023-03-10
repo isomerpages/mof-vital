@@ -34,7 +34,7 @@ B2. Besides the audits by the Auditor-General’s Office and our internal audito
   
 <p style="font-size: 20px;color:#585858;font-weight: bold;text-align:justify;">C. HELPING BUSINESSES REDUCE COSTS AND BUILD CAPABILITIES FOR GROWTH</p>
 
-</p><p style="font-size: 20px;color:#585858;text-align:justify;">C1. Sir, Mr Liang, Mr Edward Chia, Ms Mariam Jafaar and Mr Saktiandi asked how MOF helps businesses to reduce costs and build capabilities for growth.</p>
+<p style="font-size: 20px;color:#585858;text-align:justify;">C1. Sir, Mr Liang, Mr Edward Chia, Ms Mariam Jafaar and Mr Saktiandi asked how MOF helps businesses to reduce costs and build capabilities for growth.</p>
   
 <p style="font-size: 20px;color:#585858;text-align:justify;">C2. The Government will continue to implement pro-business policies and measures, and provide an environment that enables them to grow and succeed.</p>
   
