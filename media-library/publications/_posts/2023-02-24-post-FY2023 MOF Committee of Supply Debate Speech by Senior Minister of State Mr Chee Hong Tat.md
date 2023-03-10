@@ -9,8 +9,9 @@ image: ""
 ---
 <p style="font-size: 20px;color:#585858;text-align:justify;">VITAL’s Demand Aggregation contracts for common buys is mentioned in the speech of FY2023 MOF Committee of Supply Debate Speech by Senior Minister of State Mr Chee Hong Tat.</p>
 
-<b><p style="font-size: 20px;color:#585858;">A. INTRODUCTION
-	</b></p>
+<b><p style="font-size: 20px;text-align:justify;">A. INTRODUCTION</p></b>
+
+
 <p style="font-size: 20px;color:#585858;text-align:justify;">A1. Mr Chairman, I thank Members for their questions and suggestions.</p>
   
 <b><p style="font-size: 20px;color:#585858;text-align:justify;">B. FISCAL SUSTAINABILITY AND GOVERNANCE OVER OUR SPENDING	</b></p>
