@@ -14,7 +14,7 @@ image: ""
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">A1. Mr Chairman, I thank Members for their questions and suggestions.</p>
   
-<p style="font-size: 20px;color:#585858;text-align:justify;">B. FISCAL SUSTAINABILITY AND GOVERNANCE OVER OUR SPENDING</p>
+<p style="font-size: 20px;color:#585858;font-weight: bold;text-align:justify;">B. FISCAL SUSTAINABILITY AND GOVERNANCE OVER OUR SPENDING</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">B1. Mr Liang Eng Hwa and Mr Saktiandi Supaat asked how the Government ensures fiscal sustainability and spend prudently within our means.</p>
 
@@ -32,7 +32,7 @@ B2. Besides the audits by the Auditor-General’s Office and our internal audito
 
 <p style="font-size: 20px;color:#585858;text-align:justify;"><b>B6. Another example is VITAL’s Demand Aggregation contracts for common buys such as office supplies, catering and courier services. These save the Government more than $50 million per annum. This approach also reduces the need for agencies to call separate tenders and quotations, saving at least 100,000 man-hours a year.&nbsp;</b></p>
   
-<b></b><p style="font-size: 20px;color:#585858;text-align:justify;"><b>C. HELPING BUSINESSES REDUCE COSTS AND BUILD CAPABILITIES FOR GROWTH</b>
+<p style="font-size: 20px;color:#585858;font-weight: bold;text-align:justify;">C. HELPING BUSINESSES REDUCE COSTS AND BUILD CAPABILITIES FOR GROWTH</p>
 
 </p><p style="font-size: 20px;color:#585858;text-align:justify;">C1. Sir, Mr Liang, Mr Edward Chia, Ms Mariam Jafaar and Mr Saktiandi asked how MOF helps businesses to reduce costs and build capabilities for growth.</p>
   
@@ -92,8 +92,8 @@ C14. MOF will work with representatives from Singapore Business Federation and t
 <p style="font-size: 20px;color:#585858;text-align:justify;">C23. InvoiceNow also facilitates the direct transmission of invoices in a structured and standardised digital format that is accepted internationally across finance systems, and this helps businesses access overseas markets more easily.</p>
   
 <p style="font-size: 20px;color:#585858;text-align:justify;">C24. Today, about 55,000 businesses have adopted InvoiceNow, supported by 200 service providers. I encourage more businesses to come on board.</p> 
-  
-<p style="font-size: 20px;color:#585858;text-align:justify;">D. SUPPORTING PHILANTHROPY AND VOLUNTEERISM TO STRENGTHEN OUR SOCIAL COMPACT</p>  
+
+<p style="font-size: 20px;color:#585858;font-weight: bold;text-align:justify;">D. SUPPORTING PHILANTHROPY AND VOLUNTEERISM TO STRENGTHEN OUR SOCIAL COMPACT</p>  
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">D1. Sir, Mr Liang and Ms Foo Mee Har asked how MOF will support and encourage more philanthropy and volunteerism from corporations and the community.</p>
   
