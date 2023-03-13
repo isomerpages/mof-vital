@@ -8,7 +8,9 @@ description: ""
 image: ""
 ---
 <div style="font-size: 16px;color:#585858;text-align:justify;">
-By Rachel Teng 1 March 2023</div>
+By Rachel Teng</div>
+<div style="font-size: 16px;color:#585858;text-align:justify;">
+1 March 2023</div>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 From tapping on private sector capabilities to taking a customer-centric approach to digital service delivery, leaders from GovTech, CPF Board, and VITAL share how they have benefitted from an opportunistic cloud migration approach.
