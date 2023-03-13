@@ -8,7 +8,7 @@ description: ""
 image: ""
 ---
 <p style="font-size: 20px;color:#585858;text-align:justify;">In MOF's Committee of Supply Debate FY2023, VITAL's demand aggregation contracts were cited in Senior Minister of State Chee Hong Tat's speech as a good example of Government achieving savings and increasing procurement efficiency.</p>
-
+<hr style="height: 1px; width: 100%; margin:0 auto;line-height:1px;background-color: #585858; border:0 none;"/>
 <p style="font-size: 20px;color:#585858;font-weight: bold;text-align:justify;">A. INTRODUCTION</p>
 
 
