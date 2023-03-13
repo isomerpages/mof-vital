@@ -95,8 +95,8 @@ James Leong, Chief Technology Officer of digital transformation company Xtremax,
 <p style="font-size: 24px;color:#a91932;text-align:justify;">
 The security and compliance labyrinth </p>
 
-<p style="font-size: 20px;color:#585858;text-align:justify;">
-When asked for one piece of advice that he would give to other government agencies earlier on in their cloud adoption journeys, Alex suggested taking a good look at the agencies' data. “ Data security is critical and different agencies have different contexts. However, are you being overly stringent in your classification of data, and perhaps even limiting your own ability to tap on cloud solutions?” he asked.</p>
+<p style="font-size: 20px;color:#585858;text-align:justify;"><b>
+When asked for one piece of advice that he would give to other government agencies earlier on in their cloud adoption journeys, Alex suggested taking a good look at the agencies' data. “ Data security is critical and different agencies have different contexts. However, are you being overly stringent in your classification of data, and perhaps even limiting your own ability to tap on cloud solutions?” he asked.</b></p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 Mr Philip Tran, partner solution architect at AWS, pointed out that after migrating to the cloud, agencies often have to engage in high-maintenance manual processes to comply with security standards. These processes could include collecting data and gathering evidence from multiple sources to audit the risk management practices that have been put in place.</p>
