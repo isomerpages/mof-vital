@@ -105,3 +105,7 @@ Mr Philip Tran, partner solution architect at AWS, pointed out that after migrat
 With offerings such as AWS Config, AWS Security Hub, and AWS Audit Manager, a lot of these processes can be automated while still adhering to established security standards, said Tran.</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">“After all, the shift itself might be analogous to a nine-month long pregnancy, but after the baby is born you still have to nurture and look after it – and you have to make sure that you have the right capabilities and people to continue on this journey,” said Lee.</p>
+
+<p style="font-size: 16px;color:#585858;text-align:justify;">
+Click <a href="https://govinsider.asia/intl-en/article/key-lessons-from-the-singapore-governments-ambitious-whole-of-government-cloud-migration-strategy"> HERE</a> to read the original article from GovInsider website.
+</p>
