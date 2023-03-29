@@ -86,11 +86,56 @@ Alex summarises the top five crucial points for successfully integrating and str
 2.  Deploy solid policy-operations-technology integration. Collaborate with central teams to review policy and system requirements to use technology tools.</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
-3. To reap greater benefits across the entire government, processes must be standardised and consolidated through the use of shared services and common central systems.</p>
+3. To reap greater benefits across the entire government, processes must be standardised and consolidated through
+the use of shared services and common central systems.</p>
 
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+4. Verify software and solution compatibility with key internal and external systems and applications, as well as the hosting environment.</p>
 
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+5.  Avoid automating inefficiencies. Before developing a script, examine the selected process and streamline it by eliminating unnecessary steps.4. Verify software and solution compatibility with key internal and external systems and applications, as well as the hosting environment.</p>
 
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+Alex and his team discovered that RPA is extremely sensitive to changes in system or application performance – the more applications and systems a script integrates, the more complex it becomes. Deploying patches can have an impact on performance, including success rate, and may require more script changes.</p>
 
-	
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+“We found it useful to plan early and assess the complexity of the integration scope during script development,” Alex explains.</p>
 
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+Although automation is often touted as a means to increase efficiency, it can also cause anxiety and uptake-hesitancy among employees. To overcome stress and resistance, effective communication is necessary.</p>
+
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+VITAL took a different approach and presented Robotic Process Automation (RPA) as an enabler, freeing its people from manual and tedious tasks. This allowed them to focus on more valuable work, professional growth, and innovation.</p>
+
+<p><img src="/images/Media/GovAsia 04.png"/></p>
+
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+Developing the skills and capabilities to become an RPA developer can be challenging, especially when coding knowledge and experience are required. Fortunately, the shift towards democratising automation development through low-code or no-code tools has made it easier.</p>
+
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+“Currently, we are upskilling more officers to be Citizen**** Developers who can tap on low-code RPA tools to automate simple, manual tasks,” Alex reveals.</p>
+
+<p style="font-size: 24px;color:#585858;text-align:justify;">
+	<b>Key Factors That Lead to Success</b></p>
+
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+In addition to the innovation structure, Alex identifies two crucial factors for success: effective change management and a robust ecosystem that encourages bottom-up innovation.</p>
+
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+In addition to the innovation structure, Alex identifies two crucial factors for success: effective change management and a robust ecosystem that encourages bottom-up innovation.“As a shared services outfit, we aggregate and process many transactions across WoG, which makes VITAL a fitting target for automation,” Alex states.</p>
+
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+There are abundant automation opportunities in Operations functions, as these teams are often eager to ease their daily workload through tech solutions. To meet this immediate need, VITAL invites successful automation projects to apply for its annual innovation project awards, which recognise credible innovation efforts and successful use cases.</p>
+
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+VITAL had also created a dashboard to track RPA script success rates and time savings – useful metrics that validate the efforts and serve as “fuel” for further automation adoption and growth.</p>
+
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+The automation initiative is continuously monitoring the external environment for potential changes in the technology industry that could impact the solutions they use, the systems landscape and the corporate services space in WoG as part of future-proofing. This allows them to anticipate the impact of the automation programme and adjust their strategy accordingly.</p>
+
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+“We are moving up the value chain in our automation journey by exploring the integration of RPA with the use of other intelligent tools,” Alex concludes.</p>
+
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+He is confident that VITAL is vital to Whole-of-Government (WoG), as their efforts are intended to future-proof automation strategies across the public sector. Ultimately, they want to work more intelligently, smarter and safer to provide the best service experience they can.</p>
 
