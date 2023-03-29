@@ -113,7 +113,7 @@ VITAL took a different approach and presented Robotic Process Automation (RPA) a
 Developing the skills and capabilities to become an RPA developer can be challenging, especially when coding knowledge and experience are required. Fortunately, the shift towards democratising automation development through low-code or no-code tools has made it easier.</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
-“Currently, we are upskilling more officers to be Citizen**** Developers who can tap on low-code RPA tools to automate simple, manual tasks,” Alex reveals.</p>
+“Currently, we are upskilling more officers to be Citizen Developers who can tap on low-code RPA tools to automate simple, manual tasks,” Alex reveals.</p>
 
 <p style="font-size: 24px;color:#585858;text-align:justify;">
 	<b>Key Factors That Lead to Success</b></p>
@@ -138,4 +138,3 @@ The automation initiative is continuously monitoring the external environment fo
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 He is confident that VITAL is vital to Whole-of-Government (WoG), as their efforts are intended to future-proof automation strategies across the public sector. Ultimately, they want to work more intelligently, smarter and safer to provide the best service experience they can.</p>
-
