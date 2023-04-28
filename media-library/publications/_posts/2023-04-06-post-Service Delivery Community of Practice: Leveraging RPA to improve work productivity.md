@@ -19,12 +19,8 @@ Ms Jessica Ong, Deputy Director (Innovation Hub) of VITAL, shared insights into 
 While RPA is not a solution for every problem, it can be an effective enabler by removing mundane and repetitive tasks for staff to channel their precious time for higher value work.
 </p>
 
-<img src="/images/Media/webinar2 01.jpeg">
+<img src="/images/Media/csc sharing 01.jpeg">
 <br>
-<img src="/images/Media/webinar2 02.png">
+<img src="/images/Media/csc sharing 02.jpeg">
 <br>
-<img src="/images/Media/webinar2 03.png">
-<br>
-<img src="/images/Media/webinar2 04.png">
-<br>
-<img src="/images/Media/webinar2 05.png">
+<img src="/images/Media/csc sharing 03.jpeg">
