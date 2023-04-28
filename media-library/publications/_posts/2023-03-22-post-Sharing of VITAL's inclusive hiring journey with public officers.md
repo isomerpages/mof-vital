@@ -11,5 +11,5 @@ image: ""
 <p style="font-size: 18px;color:#585858;text-align:justify;">In recognition of VITAL’s best practices and outcomes in disability-inclusive employment, VITAL is accredited with SG Enable’s Enabling Mark (Gold).</p>
 
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-Click <a href="/files/SSOW 2022.pdf">HERE</a> to view VITAL's presentation slides in PDF format.
+Click <a href="/files/alphasoc visit.pdf">HERE</a> to view VITAL's presentation slides in PDF format.
 </p>
