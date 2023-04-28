@@ -22,10 +22,6 @@ Besides VITAL’s sharing of our RPA governance and operating model, we were als
 More than 350 public officers from around 70 agencies attended the session and benefited from the informative and candid sharing of our expert speakers.
 </p>
 
-<p style="font-size: 18px;color:#585858;text-align:justify;">
-The recording and materials of the session are available on VITAL’s Robotics and Automation Hub.
-</p>
-
 <img src="/images/Media/webinar2 01.jpeg">
 <br>
 <img src="/images/Media/webinar2 02.png">
