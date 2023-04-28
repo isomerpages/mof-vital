@@ -6,3 +6,15 @@ layout: post
 description: ""
 image: ""
 ---
+<p style="font-size: 18px;color:#585858;text-align:justify;">VITAL was happy to host a visit for several public officers from various ministries and statutory boards on 22 March 2023. During the visit, VITAL had the privilege of having SG Enable over to share their Enabling Masterplan 2030 employment-related recommendations and goals, and where the public sector can fit into this. VITAL also took the opportunity to share our inclusive hiring journey as well as brought our visitors on a special site tour around VITAL ScanHub.</p>
+
+<p style="font-size: 18px;color:#585858;text-align:justify;">In recognition of VITAL’s best practices and outcomes in disability-inclusive employment, VITAL is accredited with SG Enable’s Enabling Mark (Gold).</p>
+
+<p style="font-size: 18px;color:#585858;text-align:justify;">
+You may download the event materials in PDF format below:
+</p>
+<a href="/files/COP opening.pdf">Opening remarks by Mr Dennis Lui, Chief Executive, VITAL</a> 
+
+<a href="/files/COP VITAL.pdf">Presentation by Ms Jessica Ong, Deputy Director (Innovation Hub), VITAL: Leading robotics and automation for corporate services in Singapore Public Service</a> 
+
+<a href="/files/COP UiPath.pdf">Presentation by Ms Jessica Kim, Customer Success Manager, UiPath Southeast Asia: Towards intelligent process automation for shared services</a> 
