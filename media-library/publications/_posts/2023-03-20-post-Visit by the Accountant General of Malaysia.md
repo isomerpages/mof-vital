@@ -12,14 +12,14 @@ image: ""
 
 <p style="font-size: 18px;color:#585858;text-align:justify;">It was a great opportunity for us to exchange views with our Malaysian guests who are also looking at using RPA to enhance and transform the public service.</p>
 
-<img src="/images/Media/malaysian 01.jpg">
+<img src="/images/Media/malaysian 06.jpg">
 <br>
-<img src="/images/Media/malaysian 02.jpg">
+<img src="/images/Media/malaysian 05.jpg">
 <br>
 <img src="/images/Media/malaysian 03.jpg">
 <br>
 <img src="/images/Media/malaysian 04.jpg">
 <br>
-<img src="/images/Media/malaysian 05.jpg">
+<img src="/images/Media/malaysian 02.jpg">
 <br>
-<img src="/images/Media/malaysian 06.jpg">
+<img src="/images/Media/malaysian 01.jpg">
