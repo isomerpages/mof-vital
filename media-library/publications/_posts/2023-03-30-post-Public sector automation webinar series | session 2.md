@@ -26,10 +26,12 @@ More than 350 public officers from around 70 agencies attended the session and b
 The recording and materials of the session are available on VITAL’s Robotics and Automation Hub.
 </p>
 
-<img src="/images/Media/webinar 1.png">
+<img src="/images/Media/webinar2 01.jpeg">
 <br>
-<img src="/images/Media/webinar 2.png">
+<img src="/images/Media/webinar2 02.png">
 <br>
-<img src="/images/Media/webinar 3.png">
+<img src="/images/Media/webinar2 03.png">
 <br>
-<img src="/images/Media/webinar 4.png">
+<img src="/images/Media/webinar2 04.png">
+<br>
+<img src="/images/Media/webinar2 05.png">
