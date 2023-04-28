@@ -10,4 +10,4 @@ image: ""
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">Click on the link below to view the programme on Channel 8 website. (VITAL is featured from 44:23.)</p>
 
-<img src="/images/Media/channel8.png">
+<a href="https://www.8world.com/singapore/budget-and-you-2023-2079046"><img src="/images/Media/channel8.png"></a>
