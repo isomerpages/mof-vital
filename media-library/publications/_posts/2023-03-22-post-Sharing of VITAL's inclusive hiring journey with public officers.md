@@ -13,3 +13,9 @@ image: ""
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 Click <a href="/files/alphasoc visit.pdf">HERE</a> to view VITAL's presentation slides in PDF format.
 </p>
+
+<img src="/images/Media/alphasoc 01.jpg">
+<br>
+<img src="/images/Media/alphasoc 02.jpg">
+<br>
+<img src="/images/Media/alphasoc 03.jpg">
