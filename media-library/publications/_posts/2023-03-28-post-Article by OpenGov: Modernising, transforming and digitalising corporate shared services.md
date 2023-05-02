@@ -36,8 +36,6 @@ All these endeavours have led VITAL to being awarded the prestigious OpenGov Asi
 <p style="font-size: 24px;color:#585858;text-align:justify;">
 	<b>VITAL’s Digitalisation Strategy for Enhanced Service Delivery</b></p>
 	
-<p><img src="/images/Media/GovAsia 02.png"></p>
-
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 Alex Tang, Director (Service, Innovation, and Compliance), VITAL, Ministry of Finance in Singapore, said that VITAL’s Digitalisation Strategy led to the transition from manual, paper-based processes to digital services and operations. These services are provided to their service partners and public agencies that they have collaborated with over the years.</p>
 
