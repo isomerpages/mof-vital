@@ -66,8 +66,6 @@ VITAL’s digitalisation is the result of an ecosystem that includes a central i
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 The VITAL Innovation Hub is made up of a group of specialists who conduct technology exploration and agile experimentation to source, test and scale up innovative solutions that improve VITAL’s efficiency and effectiveness. This team drives the digitalisation and automation agenda, collaborating with operations functions to identify appropriate processes for testing, scaling up and spreading automation adoption throughout the organisation.</p>
 
-<p><img src="/images/Media/GovAsia 03.png"></p>
-
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 Initially, the Innovation Hub led by Jessica Ong, Deputy Director (Innovation Hub) has played a critical role in the early stages of the project as the developer, working closely with process experts in operations to collect business requirements, develop scripts, and deploy them. However, as the RPA developer capability within Operations grew, the Ops-Tech specialists in the line functions took over this role.</p>
 
