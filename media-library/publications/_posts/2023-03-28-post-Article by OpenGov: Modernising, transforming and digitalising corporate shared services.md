@@ -89,7 +89,7 @@ the use of shared services and common central systems.</p>
 4. Verify software and solution compatibility with key internal and external systems and applications, as well as the hosting environment.</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
-5.  Avoid automating inefficiencies. Before developing a script, examine the selected process and streamline it by eliminating unnecessary steps.4. Verify software and solution compatibility with key internal and external systems and applications, as well as the hosting environment.</p>
+5.  Avoid automating inefficiencies. Before developing a script, examine the selected process and streamline it by eliminating unnecessary steps.</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 Alex and his team discovered that RPA is extremely sensitive to changes in system or application performance – the more applications and systems a script integrates, the more complex it becomes. Deploying patches can have an impact on performance, including success rate, and may require more script changes.</p>
