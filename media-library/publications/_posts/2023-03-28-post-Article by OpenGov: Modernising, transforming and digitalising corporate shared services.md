@@ -118,7 +118,7 @@ Developing the skills and capabilities to become an RPA developer can be challen
 In addition to the innovation structure, Alex identifies two crucial factors for success: effective change management and a robust ecosystem that encourages bottom-up innovation.</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
-In addition to the innovation structure, Alex identifies two crucial factors for success: effective change management and a robust ecosystem that encourages bottom-up innovation.“As a shared services outfit, we aggregate and process many transactions across WoG, which makes VITAL a fitting target for automation,” Alex states.</p>
+“As a shared services outfit, we aggregate and process many transactions across WoG, which makes VITAL a fitting target for automation,” Alex states.</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 There are abundant automation opportunities in Operations functions, as these teams are often eager to ease their daily workload through tech solutions. To meet this immediate need, VITAL invites successful automation projects to apply for its annual innovation project awards, which recognise credible innovation efforts and successful use cases.</p>
