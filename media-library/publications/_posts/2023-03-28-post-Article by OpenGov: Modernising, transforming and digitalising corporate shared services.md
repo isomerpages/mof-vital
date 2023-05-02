@@ -31,7 +31,7 @@ Providing common services in human resource, payroll, finance and procurement to
 VITAL has worked to expand and propagate its digital and automation capabilities internally and among Whole-of-Government (WoG) agencies. This is aimed at achieving economies of scale, enhancing efficiency, strengthening governance, and improving the quality of service.</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
-All these endeavours have led VITAL to being awarded the prestigious&nbsp;**OpenGov Asia’s Recognition of Excellence Award**&nbsp;which will be conferred during the&nbsp;<b>8th Annual Singapore OpenGov Leadership Forum 2023.</b></p>
+All these endeavours have led VITAL to being awarded the prestigious OpenGov Asia’s Recognition of Excellence Award which will be conferred during the 8th Annual Singapore OpenGov Leadership Forum 2023.</p>
 
 <p style="font-size: 24px;color:#585858;text-align:justify;">
 	<b>VITAL’s Digitalisation Strategy for Enhanced Service Delivery</b></p>
