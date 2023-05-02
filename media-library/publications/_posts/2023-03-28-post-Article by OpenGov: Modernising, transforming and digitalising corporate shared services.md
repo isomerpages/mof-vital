@@ -134,3 +134,7 @@ The automation initiative is continuously monitoring the external environment fo
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 He is confident that VITAL is vital to Whole-of-Government (WoG), as their efforts are intended to future-proof automation strategies across the public sector. Ultimately, they want to work more intelligently, smarter and safer to provide the best service experience they can.</p>
+
+<p style="font-size: 16px;color:#585858;text-align:justify;">
+Click <a href="https://opengovasia.com/exclusive-modernising-transforming-and-digitalising-corporate-shared-services-in-the-singapore-public-service/"> HERE</a> to read the original article from OpenGov website.
+</p>
