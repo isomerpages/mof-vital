@@ -19,4 +19,4 @@ To encourage the course participants to apply what they have learnt to work and 
 <br>
 <img src="/images/Media/rpa training 02.jpeg">
 <br>
-<img src="/images/Media/bot workshop 03.png">
+<img src="/images/Media/rpa training 03.jpeg">
