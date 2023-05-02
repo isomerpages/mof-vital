@@ -33,7 +33,7 @@ VITAL has worked to expand and propagate its digital and automation capabilities
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 All these endeavours have led VITAL to being awarded the prestigious OpenGov Asia’s Recognition of Excellence Award which will be conferred during the 8th Annual Singapore OpenGov Leadership Forum 2023.</p>
 
-<p style="font-size: 24px;color:#585858;text-align:justify;">
+<p style="font-size: 24px;color:#a91932;text-align:justify;">
 	<b>VITAL’s Digitalisation Strategy for Enhanced Service Delivery</b></p>
 	
 <p style="font-size: 20px;color:#585858;text-align:justify;">
@@ -111,7 +111,7 @@ Developing the skills and capabilities to become an RPA developer can be challen
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 “Currently, we are upskilling more officers to be Citizen Developers who can tap on low-code RPA tools to automate simple, manual tasks,” Alex reveals.</p>
 
-<p style="font-size: 24px;color:#585858;text-align:justify;">
+<p style="font-size: 24px;color:#a91932;text-align:justify;">
 	<b>Key Factors That Lead to Success</b></p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
