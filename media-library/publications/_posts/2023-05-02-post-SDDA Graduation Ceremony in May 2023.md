@@ -19,5 +19,3 @@ They have completed the 5-month SDDA course which is one of the milestone traini
 We look forward to seeing the SDDA graduates apply what they have learnt to tackle real business challenges at work and champion data analytics projects at VITAL!
 	</p>
 <img src="/images/Media/sdda may 23 01.jpg">
-<br>
-<img src="/images/Media/sdda may 23 02.jpg">
