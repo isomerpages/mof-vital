@@ -13,13 +13,14 @@ image: ""
 <p style="font-size: 18px;color:#585858;text-align:justify;">It was a great opportunity for us to exchange views with our Malaysian guests who are also looking at using RPA to enhance and transform the public service.</p>
 
 <img src="/images/Media/malaysian 06.jpg">
+<font size="-1">A visit to VITAL by senior officials from Malaysia's Accountant General's Department and Inland Revenue Board
 <br>
 <img src="/images/Media/malaysian 05.jpg">
-<font size="-1">CE and Datuk Dr Yacob Bin Mustafa, Accountant General of Malaysia
+<font size="-1">CE and Datuk Dr Yacob Bin Mustafa, Accountant General of Malaysia (on the right)
 <img src="/images/Media/malaysian 03.jpg">
 <br>
 <img src="/images/Media/malaysian 04.jpg">
 <br>
 <img src="/images/Media/malaysian 02.jpg">
 <br>
-<img src="/images/Media/malaysian 01.jpg"></font>
+<img src="/images/Media/malaysian 01.jpg"></font></font>
