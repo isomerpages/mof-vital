@@ -24,5 +24,6 @@ image: ""
 <font size="-1"> Presentation by Deputy Director (Innovation Hub), VITAL
 <br>
 <img src="/images/Media/malaysian 02.jpg">
+<font size="-1">Meeting with senior officials from Malaysia's Accountant General's Department and Inland Revenue Board
 <br>
-<img src="/images/Media/malaysian 01.jpg"></font></font></font></font>
+<img src="/images/Media/malaysian 01.jpg"></font></font></font></font></font>
