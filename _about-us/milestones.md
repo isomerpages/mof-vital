@@ -169,7 +169,7 @@ description: Key events that took place since VITAL’s formation
 				<ul>
 					<li> Received the Recognition Award of HR Powerbank Early Adopter from Madam Halimah Yacob, President of Singapore</li>
 					<li> Supported the roll-out of HRP, the new central HR and payroll administration system for ministries</li>
-					<li> SSON Asia Impact Awards 2022 – Business Transformation Impact Award (Silver)</li>
+					<li> SSON Asia Impact Awards 2022 – Business Transformation Impact Award (Silver) and Automation Impact Award (Honourary Mention)</li>
 					<li>Celebrated VITAL’s 15th 
 						anniversary</li>
 					</ul>
