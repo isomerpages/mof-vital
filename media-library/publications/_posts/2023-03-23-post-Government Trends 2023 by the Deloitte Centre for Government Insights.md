@@ -13,8 +13,6 @@ As part of the “Government Trends 2023” report by the&nbsp;Deloitte Centre f
 <p style="font-size: 26px;color:#585858;text-align:justify;">
 	<b>Leveraging technology for corporate services transformation - the VITAL experience</b>
 </p>
-<div style="font-size: 18px;color:#585858;text-align:justify;">
-Interview with Dennis Lui, Chief Executive at VITAL.
-</div>
+
 <div style="font-size: 16px;color:#585858;text-align:justify;">
-By Amanda Oon | 29 JUL 2021</div>
+By Dennis Lui, Chief Executive, VITAL</div>
