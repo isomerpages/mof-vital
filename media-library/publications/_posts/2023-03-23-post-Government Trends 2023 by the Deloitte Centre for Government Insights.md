@@ -21,7 +21,7 @@ By Dennis Lui, Chief Executive, VITAL</div>
 VITAL is Singapore Public Service’s central agency for corporate shared services. We serve over 100 agencies and more than 100,000 public servants. Our staff strength is approximately 500 - almost 3% are persons with disabilities. We aggregate and transform common corporate services in areas such as human resources and payroll, finance, and procurement to achieve economies of scale, improve efficiency, strengthen governance, and enhance service quality.</p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
-He is confident that VITAL is vital to Whole-of-Government (WoG), as their efforts are intended to future-proof automation strategies across the public sector. Ultimately, they want to work more intelligently, smarter and safer to provide the best service experience they can.</p>
+VITAL is constantly exploring new technologies to make government services even more efficient and robust. We are a pioneer adopter of robotics process automation (RPA) in public service. RPA application has helped us reduce manual effort, human errors, and turnaround time substantially. This translates to delivering more effective corporate services to the public service agencies that we serve.</p>
 
 <p style="font-size: 16px;color:#585858;text-align:justify;">
 Click <a href="https://opengovasia.com/exclusive-modernising-transforming-and-digitalising-corporate-shared-services-in-the-singapore-public-service/"> HERE</a> to read the original article from OpenGov website.
