@@ -33,5 +33,5 @@ In 2020, VITAL was entrusted with a new role as the robotics and automation lead
 <p style="font-size: 20px;color:#585858;text-align:justify;">To conclude, the application of robotics and automation is not just enabling VITAL to provide public service agencies with more effective and efficient services; the core of our purpose is to equip and empower our people by giving them the tools and opportunities to move up the value chain. VITAL will become an engine of transformation for Singapore Public Service.</p>
 	
 <p style="font-size: 16px;color:#585858;text-align:justify;">
-Click <a href="https://opengovasia.com/exclusive-modernising-transforming-and-digitalising-corporate-shared-services-in-the-singapore-public-service/"> HERE</a> to read the full report from Deloitte Insights website.
+Click <a href="https://www2.deloitte.com/us/en/insights/industry/public-sector/government-trends.html?id=us:2em:3pa:industry:eng:di:032423#back-office-innovations"> HERE</a> to read the full report from Deloitte Insights website.
 </p>
