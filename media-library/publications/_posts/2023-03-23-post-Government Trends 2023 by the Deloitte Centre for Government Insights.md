@@ -23,6 +23,9 @@ VITAL is Singapore Public Service’s central agency for corporate shared servic
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 VITAL is constantly exploring new technologies to make government services even more efficient and robust. We are a pioneer adopter of robotics process automation (RPA) in public service. RPA application has helped us reduce manual effort, human errors, and turnaround time substantially. This translates to delivering more effective corporate services to the public service agencies that we serve.</p>
 
+<p style="font-size: 20px;color:#585858;text-align:justify;">
+In 2020, VITAL was entrusted with a new role as the robotics and automation lead in corporate and administrative services. VITAL’s ambition is to scale up the adoption of automation across Singapore Public Service. VITAL is now a platform for corporate services innovation. We actively seek opportunities to partner with policymakers, public service agencies, and vendors to help transform the delivery of corporate services. For instance, we are harnessing artificial intelligence and machine learning recruitment technology for process automation and better decision-making, enabling data-driven insights for a more effective end-to-end recruitment process.</p>
+
 <p style="font-size: 16px;color:#585858;text-align:justify;">
 Click <a href="https://opengovasia.com/exclusive-modernising-transforming-and-digitalising-corporate-shared-services-in-the-singapore-public-service/"> HERE</a> to read the original article from OpenGov website.
 </p>
