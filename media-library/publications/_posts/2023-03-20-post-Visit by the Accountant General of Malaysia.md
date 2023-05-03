@@ -18,9 +18,11 @@ image: ""
 <img src="/images/Media/malaysian 05.jpg">
 <font size="-1">CE and Datuk Dr Yacob Bin Mustafa, Accountant General of Malaysia (on the right)
 <img src="/images/Media/malaysian 03.jpg">
+<font size="-1"> Presentation by Deputy Director (Corporate Planning), VITAL
 <br>
 <img src="/images/Media/malaysian 04.jpg">
+<font size="-1"> Presentation by Deputy Director (Innovation Hub), VITAL
 <br>
 <img src="/images/Media/malaysian 02.jpg">
 <br>
-<img src="/images/Media/malaysian 01.jpg"></font></font>
+<img src="/images/Media/malaysian 01.jpg"></font></font></font></font>
