@@ -66,9 +66,9 @@ To address this gap, Bing Wan said that rather than merely building a platform, 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 Listening to customer feedback and optimising the customer experience hence became key. “In order for them to tap on our platform, do we know the pain points that we have? For example, are outsourced contractors trained with the right skills? Would they be able to use a particular platform that we have built with certain underlying technologies?” Bing Wan said. </p>
 
-<p style="font-size: 20px;color:#585858;text-align:justify;"><b>The same mantra applies to any government agencies providing an outward-facing digital service. This was the case for VITAL, a central agency that delivers corporate shared services to over 100 other government agencies. 
+<p style="font-size: 20px;color:#585858;text-align:justify;"><b>The same mantra applies to any government agencies providing an outward-facing digital service. This was the case for VITAL, a central agency that delivers corporate shared services to over 100 other government agencies. </b></p>
 
-</b></p><p style="font-size: 20px;color:#585858;text-align:justify;"><b> 
+<p style="font-size: 20px;color:#585858;text-align:justify;"><b> 
 “We had to first establish the need for the product, and find out what’s really in it for the user to adopt our services,” said Mr Alex Tang, Director (Service, Innovation and Compliance), VITAL.</b></p><b>
 
  <p style="font-size: 20px;color:#585858;text-align:justify;">
