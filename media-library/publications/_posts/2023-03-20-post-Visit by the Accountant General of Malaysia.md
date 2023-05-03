@@ -27,3 +27,4 @@ image: ""
 <font size="-1">Meeting with senior officials from Malaysia's Accountant General's Department and Inland Revenue Board</font>
 <br>
 <img src="/images/Media/malaysian 01.jpg">
+<font size="-1">Presentation of token of appreciation</font>
