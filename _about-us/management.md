@@ -42,7 +42,7 @@ description: VITAL’s management team
       </tr>
       <tr>
          <td>
-            Yang Wen (Ms)
+            Sharon Yap (Ms)
          </td>
          <td>
             Director, Corporate Development
@@ -77,7 +77,7 @@ description: VITAL’s management team
             Adeline Ng (Ms)         
          </td>
          <td>
-            Director, HR & Payroll (Statutory Board)
+            Director, HR &amp; Payroll (Statutory Board)
          </td>
       </tr>
       <tr>
