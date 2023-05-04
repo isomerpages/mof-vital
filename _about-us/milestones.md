@@ -162,5 +162,18 @@ description: Key events that took place since VITAL’s formation
 					</ul>
 				</td>
 			</tr>
+		<tr>
+			<td>2021
+				</td>
+			<td>
+				<ul>
+					<li> Received the Recognition Award of HR Powerbank Early Adopter from Madam Halimah Yacob, President of Singapore</li>
+					<li> Participated in UiPath's FORWARD 5 conference for automation and digital transformation in Las Vegas, the U.S.</li>
+					<li> SSON Asia Impact Awards 2022 – Business Transformation Impact Award (Silver) and Automation Impact Award (Honourary Mention)</li>
+					<li>Cited as a good example of disability-inclusive employer in public sector in Deputy Prime Minister&nbsp;Lawrence Wong's speech at the Inclusive Business Forum</li>
+					<li>Participated in the 25th Shared Services &amp; Outsourcing Week (SSOW) Australasia in Melbourne, Australia</li>
+					</ul>
+			</td>
+			</tr>
  </tbody>
 </table>

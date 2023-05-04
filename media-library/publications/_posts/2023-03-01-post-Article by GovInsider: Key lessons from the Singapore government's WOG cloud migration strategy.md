@@ -66,16 +66,16 @@ To address this gap, Bing Wan said that rather than merely building a platform, 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 Listening to customer feedback and optimising the customer experience hence became key. “In order for them to tap on our platform, do we know the pain points that we have? For example, are outsourced contractors trained with the right skills? Would they be able to use a particular platform that we have built with certain underlying technologies?” Bing Wan said. </p>
 
-<p style="font-size: 20px;color:#585858;text-align:justify;"><b>The same mantra applies to any government agencies providing an outward-facing digital service. This was the case for VITAL, a central agency that delivers corporate shared services to over 100 other government agencies. 
+<p style="font-size: 20px;color:#585858;text-align:justify;"><b>The same mantra applies to any government agencies providing an outward-facing digital service. This was the case for VITAL, a central agency that delivers corporate shared services to over 100 other government agencies. </b></p>
 
-</b></p><p style="font-size: 20px;color:#585858;text-align:justify;"><b> 
-“We had to first establish the need for the product, and find out what’s really in it for the user to adopt our services,” said Mr Alex Tang, Director (Service, Innovation and Compliance), VITAL.</b></p><b>
+<p style="font-size: 20px;color:#585858;text-align:justify;"><b> 
+“We had to first establish the need for the product, and find out what’s really in it for the user to adopt our services,” said Mr Alex Tang, Director (Service, Innovation and Compliance), VITAL.</b></p>
 
- <p style="font-size: 20px;color:#585858;text-align:justify;">
-To do so, they first had their own agency act as a use case for proof of concept, before moving on to polls and surveys to truly understand if other agencies had the same intent to tap on automation.</p>
+<p style="font-size: 20px;color:#585858;text-align:justify;"><b>
+To do so, they first had their own agency act as a use case for proof of concept, before moving on to polls and surveys to truly understand if other agencies had the same intent to tap on automation.</b></p>
  
  
-<p style="font-size: 20px;color:#585858;text-align:justify;">“Current ERP systems are just like your MRT stations – they take you from town to town, but they can’t take you to your doorstep. Robotic process automation can be the last mile tool to bridge that last little journey, just like an electric scooter,” said Alex. These “journeys” could include extracting and preparing reports for management, mass-sending emails, or processing and analysing data for business decision making. </p></b>
+<p style="font-size: 20px;color:#585858;text-align:justify;"><b>“Current ERP systems are just like your MRT stations – they take you from town to town, but they can’t take you to your doorstep. Robotic process automation can be the last mile tool to bridge that last little journey, just like an electric scooter,” said Alex. These “journeys” could include extracting and preparing reports for management, mass-sending emails, or processing and analysing data for business decision making. </b></p>
 
 <p style="font-size: 24px;color:#a91932;text-align:justify;">Tapping on private sector capabilities</p>
 
