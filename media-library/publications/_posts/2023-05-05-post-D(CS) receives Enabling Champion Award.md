@@ -19,7 +19,7 @@ The Enabling Champion Award seeks to recognise management staff who have champio
 </p>
 
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-Ms Kavitha Subash, Director (Central Services) of VITAL, has received the Enabling Champion Award presented by Minister Masagos Zulkifli at SG Enable’s Enabling Mark Awards ceremony on 5 May 2023.
+Under her leadership, the PwD officers were empowered to take on higher value work and progress on their career pathways. In addition, Kavitha encouraged and supported them to upskill through data analytics, RPA and design thinking courses, and curated suitable projects to allow these officers to put their new skillsets into practice.
 </p>
 
 <p style="font-size: 18px;color:#585858;text-align:justify;"></p>
