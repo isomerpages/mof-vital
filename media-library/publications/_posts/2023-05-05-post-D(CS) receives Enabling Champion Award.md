@@ -22,4 +22,4 @@ The Enabling Champion Award seeks to recognise management staff who have champio
 Under her leadership, the PwD officers were empowered to take on higher value work and progress on their career pathways. In addition, Kavitha encouraged and supported them to upskill through data analytics, RPA and design thinking courses, and curated suitable projects to allow these officers to put their new skillsets into practice.
 </p>
 
-<p style="font-size: 18px;color:#585858;text-align:justify;"></p>
+<p style="font-size: 18px;color:#585858;text-align:justify;">We would like to congratulate Kavitha again on her meaningful award and express our warmest gratitude to her for her commendable efforts in integrating PwD employees and creating value-add to our organisation!</p>
