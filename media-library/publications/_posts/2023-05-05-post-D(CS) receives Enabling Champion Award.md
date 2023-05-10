@@ -27,4 +27,3 @@ Under her leadership, the PwD officers were empowered to take on higher value wo
 <img src="/images/Media/enabling champion 01.jpg">
 <br>
 <img src="/images/Media/enabling champion 02.jpg">
-<br>
