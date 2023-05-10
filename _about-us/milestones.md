@@ -163,7 +163,7 @@ description: Key events that took place since VITAL’s formation
 				</td>
 			</tr>
 		<tr>
-			<td>2021
+			<td>2022
 				</td>
 			<td>
 				<ul>
