@@ -204,13 +204,10 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">Through continuous learning, upgrading, and competence building; all these officers have demonstrated and applied these core competencies to achieve superior outcomes for their teams, and for VITAL. </div><br>
 		</td>		
 	</tr>
-							
-	
 	<tr><td style="border: 0px;padding:0px;" colspan="2">
 			<div style="font-size: 32px;color:#a91932;text-align:justify;">Closing</div><br>
 		</td>
 	</tr>
-	
 			<tr style="border: 0px;padding:0px;">
 		<td style="border: 0px;padding:0px;" width="5%">
 			<div style="font-size: 20px;color:#585858;text-align:justify;">14</div>
