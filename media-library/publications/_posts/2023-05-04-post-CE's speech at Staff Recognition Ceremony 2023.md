@@ -6,7 +6,7 @@ layout: post
 description: CE's speech at Staff Recognition Ceremony 2023
 image: ""
 ---
-<br><table style="border: 0px;padding:0px;" width="100%" height="100%">
+<table style="border: 0px;padding:0px;" width="100%" height="100%">
 	<tbody><tr>
 		<td style="border: 0px;padding:0px;" colspan="2">
 			<div style="font-size: 32px;color:#a91932;text-align:justify;">Introduction</div><br>
