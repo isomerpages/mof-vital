@@ -91,7 +91,7 @@ image: ""
 	</tr>
 	<tr>
 	<td style="border: 0px;padding:0px;" colspan="2">
-			<div style="font-size: 32px;color:#a91932;text-align:justify;">Celebrating Our Pomotees through “Our Core Competencies”</div><br>
+			<div style="font-size: 32px;color:#a91932;text-align:justify;">Celebrating Our Promotees through “Our Core Competencies”</div><br>
 		</td>
 	</tr>	
 	<tr style="border: 0px;padding:0px;">
