@@ -37,7 +37,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">3.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;">VITAL is unlike many other shared services organisations.  We do not merely process HR, Finance and Procurement transactions.  Rather, we see ourselves as an engine of innovation supported by a family of Citizen Developers.  Our unique approach has gained international attention – for example, in the Government Trends 2023 report published by Deloitte, VITAL’s approach towards leveraging technology to transform corporate services was used as a case study.  [Segment on Back-office innovations improving mission performance]</div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">VITAL is unlike many other shared services organisations.  We do not merely process HR, Finance and Procurement transactions.  Rather, we see ourselves as an engine of innovation supported by a family of Citizen Developers.  Our unique approach has gained international attention – for example, in the Government Trends 2023 report published by Deloitte, VITAL’s approach towards leveraging technology to transform corporate services was used as a case study.</div><br>
 		</td>		
 	</tr>
 	<tr style="border: 0px;padding:0px;">
@@ -45,7 +45,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">4.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;">All this did not happen by chance.  Rather, it stems from our deep leadership belief that our people are our best asset.  Let me quote –<i> “We must develop talents and skills of our people throughout their careers”</i> (President Halimah Yacob – speech at the opening of the second session of 14th Parliament).  This is precisely what VITAL has been doing.  We have invested in significant resources to train all of you to be capable Citizen Developers and make use of low/no-code tools to help you streamline and automate work. Beyond this, it is also about preparing you and our workforce to stay relevant and skilled in a digital world. </div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">All this did not happen by chance.  Rather, it stems from our deep leadership belief that our people are our best asset.  Let me quote – “We must develop talents and skills of our people throughout their careers” (President Halimah Yacob – speech at the opening of the second session of 14th Parliament).  This is precisely what VITAL has been doing.  We have invested in significant resources to train all of you to be capable Citizen Developers and make use of low/no-code tools to help you streamline and automate work. Beyond this, it is also about preparing you and our workforce to stay relevant and skilled in a digital world. </div><br>
 		</td>		
 	</tr>
 		<tr style="border: 0px;padding:0px;">
