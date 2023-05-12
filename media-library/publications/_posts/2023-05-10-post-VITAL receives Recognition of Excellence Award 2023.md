@@ -18,4 +18,4 @@ Mr Alex Tang, Director (Service, Innovation and Compliance) of VITAL, received t
 This is a testament to the drive and agility of all VITAL staff. We are inspired to push on with our citizen developer strategy and automation journey!
 </p>
 
-<img src="/images/Media/opengov 2023.jpg">
+<img src="/images/Media/opengov 2023.JPG">
