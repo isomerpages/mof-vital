@@ -70,7 +70,7 @@ image: ""
 		</td>		
 	</tr><tr>
 	<td style="border: 0px;padding:0px;" colspan="2">
-			<div style="font-size: 32px;color:#a91932;text-align:justify;">Competency-Driven Growth to Stay Relevant and Successful</div><br>
+			<div style="font-size: 32px;color:#a91932;text-align:justify;">Competency-driven Growth to Stay Relevant and Successful</div><br>
 		</td>
 	</tr>	
 	<tr style="border: 0px;padding:0px;">
@@ -86,7 +86,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">8.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;">Regardless of the form, career advancement is anchored on competency-based growth,<u>and not about clocking time or doing things well in a Business-As-Usual (or BAU) fashion</u>. Neither is it about which school you attended or what grades you achieved in school. We celebrate the development of our many officers sitting among you today.  You have demonstrated such competency-based growth.</div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">Regardless of the form, career advancement is anchored on competency-based growth, and not about clocking time or doing things well in a Business-As-Usual (or BAU) fashion. Neither is it about which school you attended or what grades you achieved in school. We celebrate the development of our many officers sitting among you today.  You have demonstrated such competency-based growth.</div><br>
 		</td>		
 	</tr>
 	<tr>
