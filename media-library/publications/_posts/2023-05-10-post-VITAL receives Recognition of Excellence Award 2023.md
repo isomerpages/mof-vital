@@ -11,7 +11,7 @@ VITAL has received OpenGov Asia's Recognition of Excellence Award, which recogni
 </p>
 
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-Mr Alex Tang, Director (Service, Innovation and Compliance) of VITAL, received the award from Mr Mohit Sagar, CEO and Editor-in-Chief of OpenGov Asia, at the Singapore Leadership Forum 2023 yesterday.
+Mr Alex Tang, Director (Service, Innovation and Compliance) of VITAL, received the award from Mr Mohit Sagar, CEO and Editor-in-Chief of OpenGov Asia, at the Singapore Leadership Forum 2023 on 10 May 2023.
 </p>
 
 <p style="font-size: 18px;color:#585858;text-align:justify;">
