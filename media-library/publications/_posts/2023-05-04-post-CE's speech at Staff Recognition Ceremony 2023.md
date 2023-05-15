@@ -37,7 +37,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">3.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;">VITAL is unlike many other shared services organisations.  We do not merely process HR, Finance and Procurement transactions.  Rather, we see ourselves as an engine of innovation supported by a family of Citizen Developers.  Our unique approach has gained international attention – for example, in the Government Trends 2023 report published by Deloitte, VITAL’s approach towards leveraging technology to transform corporate services was used as a case study.</div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">VITAL is unlike many other shared services organisations.  We do not merely process HR, finance and procurement transactions.  Rather, we see ourselves as an engine of innovation supported by a family of citizen developers.  Our unique approach has gained international attention – for example, in the Government Trends 2023 report published by Deloitte, VITAL’s approach towards leveraging technology to transform corporate services was used as a case study.</div><br>
 		</td>		
 	</tr>
 	<tr style="border: 0px;padding:0px;">
