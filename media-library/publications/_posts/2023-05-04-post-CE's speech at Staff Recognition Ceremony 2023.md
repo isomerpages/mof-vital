@@ -143,7 +143,7 @@ image: ""
 		</td>		
 	</tr>
 		<tr><td style="border: 0px;padding:0px;" colspan="2">
-			<div style="font-size: 32px;color:#a91932;text-align:justify;">Celebrating our LSA/SAA Recipients</div><br>
+			<div style="font-size: 32px;color:#a91932;text-align:justify;">Celebrating Our LSA/SAA Recipients</div><br>
 		</td>
 	</tr>
 	<tr style="border: 0px;padding:0px;">
@@ -151,7 +151,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">10.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;">Let me now move on to our Long Service Award and Special Appreciation Award recipients. Congratulations to all 67 of you! DCE Yuen Sai Kuan shared this with me –<i> “You can excel in many areas, be it automation or process. You need to master your skills, continue to improve and upskill”. </i>This point on continuous learning is critical.  Let me share how some of our LSA and SAA recipients have stepped up, embraced lifelong learning and adapted themselves to keep abreast and stay relevant. </div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">Let me now move on to our Long Service Award and Special Appreciation Award recipients. Congratulations to all 67 of you! DCE Yuen Sai Kuan shared this with me – “You can excel in many areas, be it automation or process. You need to master your skills, continue to improve and upskill”. This point on continuous learning is critical.  Let me share how some of our LSA and SAA recipients have stepped up, embraced lifelong learning and adapted themselves to keep abreast and stay relevant. </div><br>
 		</td>		
 	</tr>
 	<tr style="border: 0px;padding:0px;">
