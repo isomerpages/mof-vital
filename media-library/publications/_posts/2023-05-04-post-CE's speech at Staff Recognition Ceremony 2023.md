@@ -45,7 +45,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">4.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;">All this did not happen by chance.  Rather, it stems from our deep leadership belief that our people are our best asset.  Let me quote – “We must develop talents and skills of our people throughout their careers” (President Halimah Yacob – speech at the opening of the second session of 14th Parliament).  This is precisely what VITAL has been doing.  We have invested in significant resources to train all of you to be capable Citizen Developers and make use of low/no-code tools to help you streamline and automate work. Beyond this, it is also about preparing you and our workforce to stay relevant and skilled in a digital world. </div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">All this did not happen by chance.  Rather, it stems from our deep leadership belief that our people are our best asset.  Let me quote – “We must develop talents and skills of our people throughout their careers” (President Halimah Yacob – speech at the opening of the second session of 14th Parliament).  This is precisely what VITAL has been doing.  We have invested in significant resources to train all of you to be capable citizen developers and make use of low/no-code tools to help you streamline and automate work. Beyond this, it is also about preparing you and our workforce to stay relevant and skilled in a digital world. </div><br>
 		</td>		
 	</tr>
 		<tr style="border: 0px;padding:0px;">
