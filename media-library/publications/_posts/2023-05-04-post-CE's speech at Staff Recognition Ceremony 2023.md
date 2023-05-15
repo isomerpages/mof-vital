@@ -187,7 +187,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">11</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;">DPM Lawrence Wong said at the debate on President’s address, <i>“More broadly, we also want to give Singaporeans who graduate from ITE and polytechnics stronger assurance: that their wages and career prospects will not be too far below their university-going peers, and will not be permanently conscribed to be below. They <u>don’t have to succumb to a paper chase to secure a good salary and a viable career path.</u></i><u>”</u></div><u><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">DPM Lawrence Wong said at the debate on President’s address, “More broadly, we also want to give Singaporeans who graduate from ITE and polytechnics stronger assurance: that their wages and career prospects will not be too far below their university-going peers, and will not be permanently conscribed to be below. They don’t have to succumb to a paper chase to secure a good salary and a viable career path.<u>”</u></div><u><br>
 		</u></td>		
 	</tr>
 	<tr style="border: 0px;padding:0px;">
