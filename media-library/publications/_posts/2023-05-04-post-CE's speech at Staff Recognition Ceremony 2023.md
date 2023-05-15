@@ -123,7 +123,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">c.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;"><u>Vernon Tay Kwan Boon, Section Manager, DGS, CS [promoted into MX12]</u><br>Vernon Tay from CS demonstrated the core competency, <b>Improving and Innovating Continuously</b>. He began his career with VITAL in 2018 as an Executive in DGS. Today, he is the Section Manager and oversees DGS’ Scan Hub Operations and a team of 24 individuals. Vernon continuously seeks improvement in his work and tries new ways to achieve better outcomes. He implemented RPA/macro scripts to increase the sample checks efficiency and accuracy for the digitisation process. He also created a page count macro to verify the DA vendors’ output to identify any potential discrepancies in the number of pages scanned. </div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">Vernon Tay Kwan Boon, Section Manager, DGS, CS<br>Vernon Tay from CS demonstrated the core competency, improving and innovating continuously. He began his career with VITAL in 2018 as an Executive in DGS. Today, he is the Section Manager and oversees DGS’ Scan Hub Operations and a team of 24 individuals. Vernon continuously seeks improvement in his work and tries new ways to achieve better outcomes. He implemented RPA/macro scripts to increase the sample checks efficiency and accuracy for the digitisation process. He also created a page count macro to verify the DA vendors’ output to identify any potential discrepancies in the number of pages scanned. </div><br>
 		</td>		
 	</tr>
 	<tr style="border: 0px;padding:0px;">
