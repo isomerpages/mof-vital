@@ -17,7 +17,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">1.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;">Dear Colleagues and Guests</div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">Dear colleagues and guests</div><br>
 		</td>		
 	</tr>
 	<tr style="border: 0px;padding:0px;">
