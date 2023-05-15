@@ -213,7 +213,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">14</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;">Let me conclude by reminding all of us that there are many formidable challenges facing our country, the little island of Singapore.  Our role, as the Central Agency for Corporate Shared Services, will only become more important. We must ensure that we do our job well and contribute to the stability and well-functioning of the Singapore Public Service. And to do that, it would be impossible without our people putting in their best. VITAL would be nothing without our VITALites.   </div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">Let me conclude by reminding all of us that there are many formidable challenges facing our country, the little island of Singapore.  Our role, as the central agency for corporate shared services, will only become more important. We must ensure that we do our job well and contribute to the stability and well-functioning of the Singapore Public Service. And to do that, it would be impossible without our people putting in their best. VITAL would be nothing without our VITALites.   </div><br>
 				</td></tr><tr style="border: 0px;padding:0px;">
 		<td style="border: 0px;padding:0px;" width="5%">
 			<div style="font-size: 20px;color:#585858;text-align:justify;">15</div>
