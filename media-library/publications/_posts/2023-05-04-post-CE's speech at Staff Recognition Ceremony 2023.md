@@ -201,7 +201,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">13</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;">Through continuous learning, upgrading, and competence building; all these officers have demonstrated and applied these core competencies to achieve superior outcomes for their teams, and for VITAL. </div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">Through continuous learning, upgrading, and competence building, all these officers have demonstrated and applied these core competencies to achieve superior outcomes for their teams, and for VITAL. </div><br>
 		</td>		
 	</tr>
 	<tr><td style="border: 0px;padding:0px;" colspan="2">
