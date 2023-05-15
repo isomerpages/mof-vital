@@ -99,7 +99,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">9.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;">First, let me extend my warmest congratulations to all 45 promotees today! I will describe how some of the promotees have exemplified the Core Competencies.</div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">First, let me extend my warmest congratulations to all 45 promotees today! I will describe how some of the promotees have exemplified the core competencies.</div><br>
 		</td>		
 	</tr>
 		<tr style="border: 0px;padding:0px;">
