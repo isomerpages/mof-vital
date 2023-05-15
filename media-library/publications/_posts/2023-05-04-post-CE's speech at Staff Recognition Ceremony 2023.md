@@ -175,7 +175,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">c.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;"><u>Mdm Kartini Bte Ab Hamid, Executive, HPA (PACA) [40-Year LSA]</u><br>Mdm Kartini from HPA started her career as a Typist with the Ministry of Health in 1982 before joining VITAL as an officer in Finance Services in 2006. A keen learner who rises to the occasion and challenges herself to step out of her comfort zone to gain new experiences, Mdm Kartini took on the payroll and claims portfolio in 2014 and has been with PACA since. Progressive and adaptable, Mdm Kartini receives her 40-Year Long Service Award this year</div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">Mdm Kartini Bte Ab Hamid, Executive, HPA (PACA)<br>Mdm Kartini from HPA started her career as a Typist with the Ministry of Health in 1982 before joining VITAL as an officer in Finance Services in 2006. A keen learner who rises to the occasion and challenges herself to step out of her comfort zone to gain new experiences, Mdm Kartini took on the payroll and claims portfolio in 2014 and has been with PACA since. Progressive and adaptable, Mdm Kartini receives her 40-Year Long Service Award this year</div><br>
 		</td>		
 	</tr>
 	<tr><td style="border: 0px;padding:0px;" colspan="2">
