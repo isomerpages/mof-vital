@@ -159,7 +159,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">a.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;"><u>Sandy Chen Mingzhen, Section Manager, HPS (HR) [10-Year LSA]</u><br>Sandy Chen from HPS joined VITAL in 2012 as an Executive and moved up the ranks to a Section Manager in HPS, leading a team of 6 officers today. Sandy enrolled herself as a part-time student of Temasek Polytechnic and attained a Specialist Diploma in Business Analytics in 2019. With the knowledge obtained, Sandy finds herself able to grasp insights faster and give feedback while participating in projects such as the E&amp;L Analytics Study with OP, Kryon Proof of Concept with IH and Kryon System Experts, and RPA for VOICES SR Reports. Sandy receives her 10-Year Long Service Award this year. </div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">Sandy Chen Mingzhen, Section Manager, HPS (HR) <br>Sandy Chen from HPS joined VITAL in 2012 as an Executive and moved up the ranks to a Section Manager in HPS, leading a team of 6 officers today. Sandy enrolled herself as a part-time student of Temasek Polytechnic and attained a Specialist Diploma in Business Analytics in 2019. With the knowledge obtained, Sandy finds herself able to grasp insights faster and give feedback while participating in projects such as the E&amp;L Analytics Study with OP, Kryon Proof of Concept with IH and Kryon System Experts, and RPA for VOICES SR Reports. Sandy receives her 10-Year Long Service Award this year. </div><br>
 		</td>		
 	</tr>
 	<tr style="border: 0px;padding:0px;">
@@ -167,7 +167,7 @@ image: ""
 			<div style="font-size: 20px;color:#585858;text-align:justify;">b.</div>
 		</td>
 		<td style="border: 0px;padding:0px;">
-			<div style="font-size: 20px;color:#585858;text-align:justify;"><u>Mdm Tan Yoke Moi Annie, Senior Executive, HPE (Pay) [pro-rated 25-Year LSA]</u><br>Annie Tan from HPE started her career as a Payroll Assistant with the Ministry of Education in 1999. She transferred to VITAL in 2006 and has been handling payroll and claims for MOE officers since. For the past 20 years, Annie strove to deepen her payroll knowledge. Today, she is one of HPE’s pillars in payroll administration. With her depth of knowledge, she plays a key role advising, guiding and motivating her team in managing payroll operations. Annie receives her pro-rated 25-Year Long Service Award this year.</div><br>
+			<div style="font-size: 20px;color:#585858;text-align:justify;">Mdm Tan Yoke Moi Annie, Senior Executive, HPE (Pay)<br>Annie Tan from HPE started her career as a Payroll Assistant with the Ministry of Education in 1999. She transferred to VITAL in 2006 and has been handling payroll and claims for MOE officers since. For the past 20 years, Annie strove to deepen her payroll knowledge. Today, she is one of HPE’s pillars in payroll administration. With her depth of knowledge, she plays a key role advising, guiding and motivating her team in managing payroll operations. Annie receives her pro-rated 25-Year Long Service Award this year.</div><br>
 		</td>		
 	</tr>
 	<tr style="border: 0px;padding:0px;">
