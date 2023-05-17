@@ -6,4 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
-<div class="home-video"><iframe allowfullscreen="" allow="encrypted-media" src="https://www.youtube.com/embed/tJQrHB-Ig4Q?rel=0&amp;showinfo=0" height="350" width="640" id="video_player"></iframe></div>
+<div class="home-video"><iframe allowfullscreen="" allow="encrypted-media" src="https://www.youtube.com/embed/zXRuAkE4wuk?rel=0&amp;showinfo=0" height="350" width="640" id="video_player"></iframe></div>
