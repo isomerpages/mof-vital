@@ -8,12 +8,10 @@ description: ""
 image: ""
 ---
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-VITAL has partnered non-profit organisation Food from the Heart to conduct a food donation drive to support underprivileged families in Singapore. Thanks to the generous contribution in kind by VITAL staff, we were able to collect and pack 60 food hampers (worth $3,000) for low-income households. 
+Mr Dennis Lui, Chief Executive of VITAL, was invited to speak at the Shared Services Forum for Agency Implementation Leaders on 8 June 2023, which was organised by the U.S. Shared Services Leadership Coalition. During his presentation, Mr Lui talked about VITAL's transformation journey from backroom processors of transactions to the central agency for corporate shared services in Singapore Public Service, creating higher value-add to the ecosystem. He also shared his insights into the impacts of generative AI on shared services and how VITAL is keeping up with this latest technological trend to revolutionise our work.
 </p>
 
-<p style="font-size: 18px;color:#585858;text-align:justify;">
-We would like to express our deepest appreciation and gratitude for the contributions in kind by 64 donors,  and the efforts of 35 volunteers involved in packing and delivering the food hampers to Food from the Heart. VITAL team’s collective work has made a positive impact on the 60 low-income households receiving these food hampers.
-</p>
+
 
 <img src="/images/Media/sslc 1.png">
 <br>
