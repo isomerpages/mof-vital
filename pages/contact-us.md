@@ -6,7 +6,7 @@ agency_name: VITAL
 contacts:
   - title: VITAL Helpdesk
     content:
-    - other: <p>Our hotline is temporarily closed.</p><p>Please direct all enquiries to our helpdesk email.</p><p><span>E-mail:</span> <a href="mailto:vital_helpdesk@vital.gov.sg" target="">VITAL Helpdesk</a></p>
+    - other: <p>Please direct all enquiries to our helpdesk email.</p><p><span>E-mail:</span> <a href="mailto:vital_helpdesk@vital.gov.sg" target="">VITAL Helpdesk</a></p>
   - title: QSM Enquiries & Suspected Scams
     content:
     - other: <p><span>For queries/appeals from MPs, POHs or agency QSMs, or suspected scams, please email to </span> <a href="mailto:vital-QSM@vital.gov.sg" target="">VITAL QSM</a>.</p>
