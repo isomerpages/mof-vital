@@ -7,3 +7,15 @@ layout: post
 description: ""
 image: ""
 ---
+<p style="font-size: 18px;color:#585858;text-align:justify;">
+Mr Dennis Lui, Chief Executive of VITAL, was invited to participate in a panel discussion moderated by Ms Geok Choo Ho in the Human Capital Singapore - Workforce Singapore Masterclass on 15 June 2023. The panel discussed and shared insights into modern HR practices in the digital age of disruption and transformation.
+</p>
+<p style="font-size: 18px;color:#585858;text-align:justify;">
+In VITAL, we support diversity, equity and disability inclusion through our citizen developer strategy where low-code/no-code technologies are able to close skill gaps and allow the latest digital tools to be democratized to all VITAL staff.
+</p>
+
+
+
+<img src="/images/Media/HCS 1.jpeg">
+<br>
+<img src="/images/Media/HCS 2.jpeg">
