@@ -16,6 +16,8 @@ In VITAL, we support diversity, equity and disability inclusion through our citi
 
 
 
-<img src="/images/Media/HCS 1.jpeg">
+<img src="/images/Media/hcs 1.jpg">
 <br>
-<img src="/images/Media/HCS 2.jpeg">
+<img src="/images/Media/hcs 2.jpg">
+<br>
+<img src="/images/Media/hcs 3.jpg">
