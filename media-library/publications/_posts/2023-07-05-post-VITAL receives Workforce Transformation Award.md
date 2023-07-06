@@ -32,3 +32,6 @@ As we celebrate receiving of the Workforce Transformation Award, we would like t
 
 <img src="/images/Media/pst 01.jpg">
 <br>
+<img src="/images/Media/pst 03.jpg">
+<br>
+<img src="/images/Media/pst 04.jpg">
