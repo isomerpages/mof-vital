@@ -30,6 +30,9 @@ As shared by Mr Dennis Lui, Chief Executive of VITAL, in the Government Trends 2
 As we celebrate receiving of the Workforce Transformation Award, we would like to take the opportunity to thank all our colleagues, partners and friends for partnering us in this journey. We look forward to your continued support as we work hard to bring VITAL to greater heights!
 </p>
 
+<p style="font-size: 18px;color:#585858;text-align:justify;">
+(Click <a href="/files/Workforce Transformation Award.pdf">HERE</a> to read more about VITAL's workforce transformation initiatives in PDF format.)</p>
+
 <img src="/images/Media/pst 01.jpg">
 <br>
 <img src="/images/Media/pst 03.jpg">
