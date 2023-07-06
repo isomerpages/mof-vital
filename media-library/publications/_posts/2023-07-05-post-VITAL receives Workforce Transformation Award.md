@@ -31,7 +31,7 @@ As we celebrate receiving of the Workforce Transformation Award, we would like t
 </p>
 
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-(Click <a href="/files/Workforce Transformation Award.pdf">HERE</a> to read more about VITAL's workforce transformation initiatives in PDF format.)</p>
+(Click <a href="/files/workforce transformation award.pdf">HERE</a> to read more about VITAL's workforce transformation initiatives in PDF format.)</p>
 
 <img src="/images/Media/pst 01.jpg">
 <br>
