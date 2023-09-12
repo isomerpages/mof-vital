@@ -96,5 +96,13 @@ description: VITAL’s management team
             Director, Corporate Development
          </td>
       </tr>		 
+		  <tr>
+         <td>
+            Alex Tang
+         </td>
+         <td>
+            Director, Service Partnership &amp; Innovation
+         </td>
+      </tr>		
    </tbody>
 </table>
