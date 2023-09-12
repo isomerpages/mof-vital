@@ -61,7 +61,7 @@ description: VITAL’s management team
             Regina Raja         
          </td>
          <td>
-            Director, HR &amp; Payroll (Stat Boards)
+            Director, HR &amp; Payroll (Statutory Boards)
          </td>
       </tr>
       <tr>
