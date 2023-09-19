@@ -7,11 +7,9 @@ description: ""
 image: ""
 ---
 <p style="font-size: 18px;color:#585858;text-align:justify;">
-As the central agency for corporate shared services, VITAL has partnered Accountant-General's Department and Public Service Division on Project Cumulus to design and build a new cloud-based ERP system, and progressively transit statutory boards which were on various systems onto it to centralise and standardise corporate services.
-</p>
+At VITAL (Ministry of Finance), we understand that true business transformation revolves around our people. As the central agency for corporate shared services and leaders in robotics and automation since 2020, we've pioneered the Shared Services Competency Framework. Our dedication is focused on elevating our team's expertise in critical areas like Robotic Process Automation (RPA), Data Analytics, and Design Thinking, ensuring their skills have value beyond VITAL's operations.
+</p><p style="font-size: 18px;color:#585858;text-align:justify;">
+Join us on this transformative journey as we invest in our team's growth! #WorkforceTransformationSeries</p>	<p></p>
 
-<p style="font-size: 18px;color:#585858;text-align:justify;">
-In the video below, representatives from VITAL and the Ministry of Finance have explained how VITAL is able to create value-add to our service partners and encourage more agencies to come onboard VITAL’s Cumulus services. At the same time, service partners from Health Promotion Board and Tote Board have talked about their positive experience working with VITAL.
-	</p>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lI5pQP36GQw?si=4VGiEn_RrixJEeGJ" height="315" width="560"></iframe>
 	
-<div class="home-video"><iframe allowfullscreen="" allow="encrypted-media" src="https://www.youtube.com/embed/zXRuAkE4wuk?rel=0&amp;showinfo=0" height="350" width="640" id="video_player"></iframe></div>
