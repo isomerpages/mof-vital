@@ -12,6 +12,6 @@ VITAL (Ministry of Finance) is committed to empowering its officers to become RP
 
 </p><p style="font-size: 18px;color:#585858;text-align:justify;">
 
-With access to the latest low-code RPA and generative AI tools, VITALites have been able to learn how to create bots that can automate tasks and streamline processes, increasing efficiency and productivity in the workplace. Learn more about how VITAL is leading the way in digitalisation and automation! #WorkforceTransformationSeries
+With access to the latest low-code RPA and generative AI tools, VITALites have been able to learn how to create bots that can automate tasks and streamline processes, increasing efficiency and productivity in the workplace. Learn more about how VITAL is leading the way in digitalisation and automation! #WorkforceTransformationSeries</p>
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1aw7W25N1uc?si=8izBe57pLBm0rtTJ" height="315" width="560"></iframe></p>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1aw7W25N1uc?si=8izBe57pLBm0rtTJ" height="315" width="560"></iframe><p></p>
