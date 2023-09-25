@@ -14,4 +14,4 @@ At VITAL (Ministry of Finance), we understand that true business transformation 
 
 Join us on this transformative journey as we invest in our team's growth! #WorkforceTransformationSeries</p>
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lI5pQP36GQw?si=Bheu0kjvlnYsgoRr" height="315" width="560"></iframe>
+<div class="home-video"><iframe allowfullscreen="" allow="encrypted-media" src="https://www.youtube.com/embed/lI5pQP36GQw" height="350" width="640" id="video\_player"></iframe></div>
