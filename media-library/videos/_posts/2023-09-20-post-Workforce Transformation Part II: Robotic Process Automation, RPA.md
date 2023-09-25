@@ -18,4 +18,4 @@ Despite not having a technical background, they were able to learn and apply the
 
 Their experience serves as an inspiration to other VITAL officers to take advantage of upskilling opportunities and leverage on technology to enhance work efficiency. #WorkforceTransformationSeries</p>
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/-BdY0VQ0sbA?si=lSX8o5QDZPyJp2UF" height="315" width="560"></iframe>
+<div class="home-video"><iframe allowfullscreen="" allow="encrypted-media" src="https://www.youtube.com/embed/-BdY0VQ0sbA" height="350" width="640" id="video\_player"></iframe></div>
