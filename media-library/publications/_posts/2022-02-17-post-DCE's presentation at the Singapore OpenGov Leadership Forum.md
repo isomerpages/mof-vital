@@ -8,7 +8,7 @@ description: DCE's presentation at the Singapore OpenGov Leadership Forum
 <table style="border: 0px;padding:0px;" width="100%" height="100%">	
 	<tr style="border: 0px;padding:0px;">
 		<td colspan = "2" style="border: 0px;padding:0px;vertical-align: middle;text-align: center;">
-			<img src="/images/Media/OpenGovHeader.png"  /> 
+			<img src="/images/media/opengovheader.png"  /> 
 		</td>
 	</tr>
 	<tr style="border: 0px; padding:0px;" >
@@ -26,7 +26,7 @@ description: DCE's presentation at the Singapore OpenGov Leadership Forum
 				</div>
 		</td>	
 		<td style="border: 0px; padding:0px;" >
-			<img src="/images/Media/OpenGovImage1.png"  /> 
+			<img src="/images/media/opengovimage1.png"  /> 
 		</td>
 	</tr>
 	<tr style="border: 0px; padding:0px;">
@@ -34,7 +34,7 @@ description: DCE's presentation at the Singapore OpenGov Leadership Forum
 			<table style="border: 0px;padding:0px;">	
 				<tr style="border: 0px; padding:0px;">
 				<td style="border: 0px;vertical-align: middle;background-color:#fbbb56" width="35%" >
-					<img src="/images/Media/OpenGovImage2.png"/> 
+					<img src="/images/media/opengovimage2.png"/> 
 			</td>
 		<td style="border: 0px;vertical-align: middle;background-color:#fbbb56" >
 			<p style="font-size:20px;text-align:justify;color:#a91932;">	
@@ -61,7 +61,7 @@ description: DCE's presentation at the Singapore OpenGov Leadership Forum
 				</div>
 		</td>
 		<td style="border: 0px; padding:0px;vertical-align: middle;background-color:#f9f4de" width="35%" >
-					<img src="/images/Media/OpenGovImage3.png"/> 
+					<img src="/images/media/opengovimage3.png"/> 
 			</td>
 	</tr>
 </table>
@@ -72,7 +72,7 @@ description: DCE's presentation at the Singapore OpenGov Leadership Forum
 			<table style="border: 0;padding:0px;">	
 				<tr style="border: 0px; padding:0px;">
 				<td style="border: 0px; padding:0px;background-color:#eeedfd;vertical-align: middle;" width= "35%" height="100%">
-					<img src="/images/Media/OpenGovImage4.png" /> 
+					<img src="/images/media/opengovimage4.png" /> 
 			</td>
 		<td style="border: 0px;vertical-align: middle;background-color:#eeedfd" >
 			<p style="font-size:20px;text-align:justify;color:#a91932;">	
@@ -91,7 +91,7 @@ description: DCE's presentation at the Singapore OpenGov Leadership Forum
 			<table style="border: 0;padding:0px;" width="100%" height="100%">	
 				<tr style="border: 0px; padding:0px;">
 				<td width="10%">
-					<img src="/images/Media/OpenGovImage5.png" /> 
+					<img src="/images/media/opengovimage5.png" /> 
 		</td>
 		<td style="border: 0px;vertical-align: middle;" >
 			<div style="font-size:16px;text-align:Justify;">  

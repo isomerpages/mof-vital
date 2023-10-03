@@ -15,4 +15,4 @@ This award focuses on the crisis management, risk management and business contin
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 VITAL's work was also recognised by the industry for the Diversity & Inclusion Impact Award (Finalist) which aims to identify business impact of a culture of inclusion across the full spectrum of diversity in shared services.
 </p>
-<img id="SSONAwards" src="/images/Media/SSON Awards EDM.png" alt="SSON Awards">
+<img id="SSONAwards" src="/images/media/sson awards edm.png" alt="SSON Awards">

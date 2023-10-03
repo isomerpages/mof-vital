@@ -66,7 +66,7 @@ VITAL provides deposit creation services to more than 30 agencies. “Imagine ea
 <p style="font-size: 32px;color:#a91932;text-align:justify;">
 'Supervisor of bots'
 </p>
-<img src="/images/Media/roboticshift_2.png" alt="Robotic Shift">	
+<img src="/images/media/roboticshift_2.png" alt="Robotic Shift">	
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 Standard RPA software is not easy to pick up, Lui concedes. The agency wants to make the tech more accessible for civil servants.
 </p>

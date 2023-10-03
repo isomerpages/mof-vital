@@ -20,10 +20,10 @@ Congratulations again to all the participants for completing the CDA successfull
 </p>
 
 
-<img src="/images/Media/Hackathon Nov22 1.jpg">
+<img src="/images/media/hackathon nov22 1.jpg">
 <br>
-<img src="/images/Media/Hackathon Nov22 2.jpg">
+<img src="/images/media/hackathon nov22 2.jpg">
 <br>
-<img src="/images/Media/Hackathon Nov22 3.jpg">
+<img src="/images/media/hackathon nov22 3.jpg">
 <br>
-<img src="/images/Media/Hackathon Nov22 4.jpg">
+<img src="/images/media/hackathon nov22 4.jpg">

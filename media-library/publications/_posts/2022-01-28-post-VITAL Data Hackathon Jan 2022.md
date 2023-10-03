@@ -16,7 +16,7 @@ description: VITAL Data Hackathon Jan 2022
 	</tr>
 	<tr style="border: 0px; padding:0px;" >		
 		<td style="border: 0px; padding:0px;vertical-align: middle;" >
-			<img src="/images/Media/Hackathon_Image1.png"  /> 
+			<img src="/images/media/hackathon_image1.png"  /> 
 		</td>
 		<td width="55%" style="border: 0px; padding:10px;" >
 			<div style="font-size:18px;text-align:justify;color:#585858">   
@@ -34,7 +34,7 @@ description: VITAL Data Hackathon Jan 2022
 	</tr>
 	<tr style="border: 0px;padding:0px;">
 		<td colspan = "2" style="border: 0px;padding:0px;vertical-align: middle;text-align: center;">						
-			<img src="/images/Media/Hackathon_Image2.png"  /> 
+			<img src="/images/media/hackathon_image2.png"  /> 
 		</td>
 	</tr>
 	</table>

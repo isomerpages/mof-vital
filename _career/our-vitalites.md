@@ -5,7 +5,7 @@ description: Let our folks tell you why VITAL is a great workplace!
 ---
 <div class="content-box img-content">
     <div class="img">
-        <img alt="Muntaj Begum, Senior Executive, Payroll and Claims" src="/images/career/Muntaj-Begum.png">
+        <img alt="Muntaj Begum, Senior Executive, Payroll and Claims" src="/images/career/muntaj-begum.png">
     </div>
     <div class="des">
         <h4>Muntaj Begum, Senior Executive, Payroll and Claims</h4>
@@ -17,7 +17,7 @@ description: Let our folks tell you why VITAL is a great workplace!
 
 <div class="content-box content-img">
     <div class="img">
-        <img alt="Tan Hwee Ching, Assistant Director, Service Partnership" src="/images/career/Tan-Hwee-Ching.png">
+        <img alt="Tan Hwee Ching, Assistant Director, Service Partnership" src="/images/career/tan-hwee-ching.png">
     </div>
     <div class="des">
         <h4>Tan Hwee Ching, Assistant Director, Service Partnership</h4>
@@ -29,7 +29,7 @@ description: Let our folks tell you why VITAL is a great workplace!
 
 <div class="content-box img-content">
     <div class="img">
-        <img alt="Diana Lim, Assistant Director, Credit Management Services" src="/images/career/Diana-Lim.png">
+        <img alt="Diana Lim, Assistant Director, Credit Management Services" src="/images/career/diana-lim.png">
     </div>
     <div class="des">
         <h4>Diana Lim, Assistant Director, Credit Management</h4>

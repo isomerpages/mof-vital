@@ -10,4 +10,4 @@ image: ""
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">Click on the link below to hear the podcast.</p>
 
-<a href="https://ssonetwork.libsyn.com/gbs-careers-corner-dennis-lui-on-the-power-of-collaboration-to-empower-and-upskill-employees"><img src="/images/Media/ssonext.png"></a>
+<a href="https://ssonetwork.libsyn.com/gbs-careers-corner-dennis-lui-on-the-power-of-collaboration-to-empower-and-upskill-employees"><img src="/images/media/ssonext.png"></a>

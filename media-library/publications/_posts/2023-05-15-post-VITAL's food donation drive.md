@@ -14,16 +14,16 @@ VITAL has partnered non-profit organisation Food from the Heart to conduct a foo
 We would like to express our deepest appreciation and gratitude for the contributions in kind by 64 donors,  and the efforts of 35 volunteers involved in packing and delivering the food hampers to Food from the Heart. VITAL team’s collective work has made a positive impact on the 60 low-income households receiving these food hampers.
 </p>
 
-<img src="/images/Media/charity 01.jpg">
+<img src="/images/media/charity 01.jpg">
 <br>
-<img src="/images/Media/charity 02.jpg">
+<img src="/images/media/charity 02.jpg">
 <br>
-<img src="/images/Media/charity 03.jpg">
+<img src="/images/media/charity 03.jpg">
 <br>
-<img src="/images/Media/charity 04.jpg">
+<img src="/images/media/charity 04.jpg">
 <br>
-<img src="/images/Media/charity 05.jpg">
+<img src="/images/media/charity 05.jpg">
 <br>
-<img src="/images/Media/charity 06.jpg">
+<img src="/images/media/charity 06.jpg">
 <br>
-<img src="/images/Media/charity 07.jpg">
+<img src="/images/media/charity 07.jpg">

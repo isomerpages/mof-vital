@@ -8,12 +8,12 @@ description: CE’s fireside chat at GovInsider’s Festival of Innovation 2021 
 <table style="border: 0px;padding:0px;" width="100%" height="100%">	
 	<tr style="border: 0px;padding:0px;">
 		<td colspan = "2" style="border: 0px;padding:0px;vertical-align: middle;text-align: center;">
-			<img src="/images/Media/Fireside_Header.png"  /> 
+			<img src="/images/media/fireside_header.png"  /> 
 		</td>
 	</tr>
 	<tr style="border: 0px;padding:0px;">
 		<td colspan = "2" style="border: 0px;padding:0px;vertical-align: middle;text-align: center;">
-			<img src="/images/Media/Fireside_Image1.png"  /> 
+			<img src="/images/media/fireside_image1.png"  /> 
 		</td>
 	</tr>
 	<tr style="border: 0px; padding:0px;">
@@ -37,7 +37,7 @@ description: CE’s fireside chat at GovInsider’s Festival of Innovation 2021 
 				</div>
 		</td>
 				<td style="border: 0px;vertical-align: middle;" width="35%" >
-					<img src="/images/Media/Fireside_Image2.png"/> 
+					<img src="/images/media/fireside_image2.png"/> 
 			</td>		
 	</tr>
 </table>
@@ -55,7 +55,7 @@ description: CE’s fireside chat at GovInsider’s Festival of Innovation 2021 
 				</tr>
 				<tr style="border: 0px; padding:0px;">					
 				<td style="border: 0px;vertical-align: middle;" width="35%" >
-					<img src="/images/Media/Fireside_Image3.png"/> 
+					<img src="/images/media/fireside_image3.png"/> 
 			</td>		
 					<td style="border: 0px;vertical-align: middle;" >			
 						<div style="font-size:16px;text-align:justify;">
@@ -91,7 +91,7 @@ At this central position as a platform, with all the transactions coming in, we 
 				</div>
 		</td>
 				<td style="border: 0px;vertical-align: middle;" width="35%" >
-					<img src="/images/Media/Fireside_Image4.png"/> 
+					<img src="/images/media/fireside_image4.png"/> 
 			</td>		
 	</tr>
 </table>
@@ -109,7 +109,7 @@ At this central position as a platform, with all the transactions coming in, we 
 				</tr>
 				<tr style="border: 0px; padding:0px;">
 					<td style="border: 0px;vertical-align: middle;" width="35%" >
-					<img src="/images/Media/Fireside_Image5.png"/> 
+					<img src="/images/media/fireside_image5.png"/> 
 			</td>
 					<td style="border: 0px;vertical-align: middle;" >			
 						<div style="font-size:16px;text-align:justify;">
@@ -145,7 +145,7 @@ At this central position as a platform, with all the transactions coming in, we 
 				</div>
 		</td>
 					<td style="border: 0px;vertical-align: middle;" width="35%" >
-					<img src="/images/Media/Fireside_Image6.png"/> 
+					<img src="/images/media/fireside_image6.png"/> 
 			</td>	
 	</tr>
 </table>

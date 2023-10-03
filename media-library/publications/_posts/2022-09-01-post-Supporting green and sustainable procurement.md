@@ -18,4 +18,4 @@ For example, BCA Green Mark certified rating is required for event venues listed
 Through such requirements, VITAL shapes government agencies' buying behaviour, influences suppliers towards green and sustainable practices, and contributes to the reduction of environmental impact.
 </p>
 
-<img src="/images/Media/Green procurement.png">
+<img src="/images/media/green procurement.png">

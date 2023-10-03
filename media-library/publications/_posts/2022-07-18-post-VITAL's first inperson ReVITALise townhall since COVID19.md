@@ -15,18 +15,18 @@ Many thanks to VITAL staff who have worked hard to make this in-person ReVITALis
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 And congratulations again to recipients of the VITAL Star Awards who have delivered excellent services!
 </p>
-<img src="/images/Media/InPersonTownhall2022_Image1.jpg"  /> 
+<img src="/images/media/inpersontownhall2022_image1.jpg"  /> 
 <br>
-<img src="/images/Media/InPersonTownhall2022_Image2.jpg"  />
+<img src="/images/media/inpersontownhall2022_image2.jpg"  />
 <br>
-<img src="/images/Media/InPersonTownhall2022_Image3.jpg"  />
+<img src="/images/media/inpersontownhall2022_image3.jpg"  />
 <br>
-<img src="/images/Media/InPersonTownhall2022_Image4.jpg"  />
+<img src="/images/media/inpersontownhall2022_image4.jpg"  />
 <br>
-<img src="/images/Media/InPersonTownhall2022_Image5.jpg"  />
+<img src="/images/media/inpersontownhall2022_image5.jpg"  />
 <br>
-<img src="/images/Media/InPersonTownhall2022_Image6.jpg"  />
+<img src="/images/media/inpersontownhall2022_image6.jpg"  />
 <br>
-<img src="/images/Media/InPersonTownhall2022_Image7.jpg"  />
+<img src="/images/media/inpersontownhall2022_image7.jpg"  />
 <br>
-<img src="/images/Media/InPersonTownhall2022_Image8.jpg"  />
+<img src="/images/media/inpersontownhall2022_image8.jpg"  />

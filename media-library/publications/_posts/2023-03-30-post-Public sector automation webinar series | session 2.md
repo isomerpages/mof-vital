@@ -24,10 +24,10 @@ More than 350 public officers from around 70 agencies attended the session and b
 
 <img src="/images/Media/webinar2 01.jpeg">
 <br>
-<img src="/images/Media/webinar2 02.png">
+<img src="/images/media/webinar2 02.png">
 <br>
-<img src="/images/Media/webinar2 03.png">
+<img src="/images/media/webinar2 03.png">
 <br>
-<img src="/images/Media/webinar2 04.png">
+<img src="/images/media/webinar2 04.png">
 <br>
-<img src="/images/Media/webinar2 05.png">
+<img src="/images/media/webinar2 05.png">

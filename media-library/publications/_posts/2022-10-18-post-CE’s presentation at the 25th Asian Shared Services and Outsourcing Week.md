@@ -6,10 +6,10 @@ layout: post
 description: ""
 image: ""
 ---
-<img src="/images/Media/SSOW 2022.jpg">
+<img src="/images/media/ssow 2022.jpg">
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
-Click <a href = "/files/SSOW 2022.pdf">HERE</a> to view CE's presentation slides in PDF format.
+Click <a href = "/files/ssow 2022.pdf">HERE</a> to view CE's presentation slides in PDF format.
 </p>
 
 <p style="font-size: 24px;color:#a91932;text-align:justify;">
@@ -158,7 +158,7 @@ ii. In addition, we will build central systems to facilitate innovation for Whol
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 25. (Slide 17) Through all these efforts, VITAL will help bring in cutting edge digital tools far more quickly into the entire public sector than what we see today. The possibilities are endless!</p>
 
-<img src="/images/Media/Slide 18.jpg">
+<img src="/images/media/slide 18.jpg">
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 26. (Slide 18) Let me quote Robert Enslin, co-CEO of UiPath, who wrote “<i>automation-fueled transformation is a game changer for this era</i>”. I agree with him fully. In this era of low-code/no-code tools, the automation possibilities can now be democratized to the citizen developer.</p>
@@ -206,7 +206,7 @@ Building Capabilities and Upskilling Our People to be Drivers of Corporate Servi
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 37. (Slide 21) We want to take advantage of all the new low-code and no-code tools, like RPA. We want to build an army of citizen developers. Hence, we are giving all officers access to such software and supporting infrastructure, to enable them to develop software robots and other low-code solutions. Who says shared services work is mundane and boring? Our officers will be able to use all these new tools to weave a tapestry of automation, and to create huge value for VITAL as they will become very much more productive.</p>
 
-<img src="/images/Media/Slide 22.jpg">
+<img src="/images/media/slide 22.jpg">
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 38. (Slide 22) At the heart of our efforts, is a deep focus on our people. It is a fundamental belief that our people can and want to do more. Hence, it is our leadership burden and responsibility to uplift them, to give them the opportunities and the access to all the new digital tools and exciting tech that industry has to offer. This slide shows you the Data Hackathon that Ngee Ann Polytechnic helps us to conduct for our staff at the end of the Certificate in Data Analytics programme. It is always a happy event because staff come to realise that they are empowered to learn and apply all their new skills to VITAL’s business problems.	</p>

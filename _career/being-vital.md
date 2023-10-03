@@ -15,4 +15,4 @@ Join the VITAL family today and be part of a quality team!
 <a class="" href="https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=VITAL" target="_blank">View Opportunities</a>
 
 
-<img src="/images/career/VITALites.jpg" alt="VITALites" /> 
+<img src="/images/career/vitalites.jpg" alt="VITALites" /> 

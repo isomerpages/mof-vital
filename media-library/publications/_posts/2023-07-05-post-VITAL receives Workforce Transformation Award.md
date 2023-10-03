@@ -33,8 +33,8 @@ As we celebrate receiving the Workforce Transformation Award, we would like to t
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 (Click <a href="/files/workforce transformation award.pdf">HERE</a> to read more about VITAL's workforce transformation initiatives in PDF format.)</p>
 
-<img src="/images/Media/pst 01.jpg">
+<img src="/images/media/pst 01.jpg">
 <br>
-<img src="/images/Media/pst 03.jpg">
+<img src="/images/media/pst 03.jpg">
 <br>
-<img src="/images/Media/pst 04.jpg">
+<img src="/images/media/pst 04.jpg">

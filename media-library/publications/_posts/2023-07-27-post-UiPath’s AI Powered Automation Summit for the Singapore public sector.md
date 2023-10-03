@@ -21,4 +21,4 @@ The summit also featured automation experts and industry professionals from othe
 </p>
 
 
-<img src="/images/Media/summit.jpg">
+<img src="/images/media/summit.jpg">

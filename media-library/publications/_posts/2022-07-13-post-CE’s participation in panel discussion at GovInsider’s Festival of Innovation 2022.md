@@ -11,7 +11,7 @@ description: CE’s participation in panel discussion at GovInsider’s Festival
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 Mr Dennis Lui, Chief Executive of VITAL, spoke at GovInsider’s Festival of Innovation on 13 July 2022. At a panel discussion, he addressed the topic about developing the next generation of public servants, how they can be trained to better serve the public, and the infrastructure and skillsets that will let them flourish. 
 </p>
-<img src="/images/Media/FestivalInnovation.png" />
+<img src="/images/media/festivalinnovation.png" />
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 	Here are the key highlights from Mr Lui’s speech!      
 	</p>

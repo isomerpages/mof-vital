@@ -12,10 +12,10 @@ image: ""
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">It was a great opportunity for us to learn and exchange ideas with foreign counterparts who are also looking at using digital tools to enhance and transform the public service.</p>
 
-<img src="/images/Media/Cambodia 1.jpg">
+<img src="/images/media/cambodia 1.jpg">
 <font size="-1">CE was invited to give two talks on VITAL's digitalisation and transformation journey to senior officials from Cambodia.</font>
 <br>
-<img src="/images/Media/Cambodia 2.jpg">
+<img src="/images/media/cambodia 2.jpg">
 <font size="-1">CE and H.E Youk Bunna, Secretary of State, Ministry of Civil Service, Cambodia (on the left).</font>
 <br>
-<img src="/images/Media/Cambodia 3.jpg">
+<img src="/images/media/cambodia 3.jpg">

@@ -22,7 +22,7 @@ VITAL has taken their role to the next level with a plan to implement a new clou
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 “With VITAL’s robotics and automation efforts, public agencies will be able to increase work efficiency and free up officers from otherwise tedious and repetitive work. This will also enable them to continue delivering quality services while developing other value-added services,” says Leong Siew Keong, Chief Information Officer of VITAL.</p>
 
-<img src="/images/Media/Automation%20platform.png" />
+<img src="/images/media/automation%20platform.png" />
  <font size="-1">With robotics and automation, public officers will be freed up from tedious or repetitive tasks, and spend more time developing value-added services for citizens. Image: VITAL</font>
 
  <p style="font-size: 20px;color:#585858;text-align:justify;">

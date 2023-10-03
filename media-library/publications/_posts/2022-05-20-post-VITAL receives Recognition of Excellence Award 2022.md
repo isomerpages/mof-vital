@@ -12,4 +12,4 @@ VITAL has received the “Recognition of Excellence Award” conferred by OpenGo
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 We are humbled by this recognition, a testament to the drive and agility of all VITAL staff, and are inspired to push on with our citizen developer and automation journey!
 </p>
-<img src="/images/Media/ExcellenceAward_Image1.png">
+<img src="/images/media/excellenceaward_image1.png">

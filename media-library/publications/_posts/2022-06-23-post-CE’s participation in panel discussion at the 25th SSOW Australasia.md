@@ -16,7 +16,7 @@ description: CE’s participation in panel discussion at the 25th SSOW Australas
 			</p>
 		</td>
 		<td width ="35%" style="border: 0px;vertical-align: middle;">
-					<img src="/images/Media/ssow_image1.png"  /> 
+					<img src="/images/media/ssow_image1.png"  /> 
 		</td>
 	</tr>
 <tr>

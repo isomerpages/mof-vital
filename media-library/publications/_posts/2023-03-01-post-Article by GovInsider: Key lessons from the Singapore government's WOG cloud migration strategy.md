@@ -16,7 +16,7 @@ By Rachel Teng</div>
 From tapping on private sector capabilities to taking a customer-centric approach to digital service delivery, leaders from GovTech, CPF Board, and VITAL share how they have benefitted from an opportunistic cloud migration approach.
 </p>
 
-<img src="/images/Media/01Cloud.png">
+<img src="/images/media/01cloud.png">
 <font size="-1">Speakers at the GovInsider's panel, "Navigating the cloud landscape in the public sector". From left to right: Lim May-Ann, Betty Lee, Tang Bing Wan, Alex Tang, James Leong. </font>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">As part of the Singapore’s Digital Government Blueprint, Singapore’s Government Technology Agency (GovTech) set an ambitious goal to shift at least 70 per cent of less sensitive government systems to the commercial cloud by 2023. </p>

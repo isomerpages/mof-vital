@@ -31,7 +31,7 @@ description: VITAL CE joins SSON Asia Advisory Board 2022
 			</div>
 		</td>	
 		<td>
-			<img src="/images/Media/SSON_Image1.png"  /> 
+			<img src="/images/media/sson_image1.png"  /> 
 		</td>
 	</tr>
 	<tr style="border: 0px; padding:0px;">
@@ -39,7 +39,7 @@ description: VITAL CE joins SSON Asia Advisory Board 2022
 			<table style="border: 0;padding:0px;" width="100%" height="100%">	
 				<tr>
 				<td style="border: 0px;vertical-align: middle;background-color:#042b5c;" width="30%">
-			 <img src="/images/Media/SSON_Image2.png"  /> 
+			 <img src="/images/media/sson_image2.png"  /> 
 		</td>
 		<td style="border: 0px;vertical-align: middle;background-color:#042b5c;" >
 			<div style="font-size:16px;text-align:justify;color:#FFFFFF">   

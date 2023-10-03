@@ -13,8 +13,8 @@ Mr Dennis Lui, Chief Executive of VITAL, was invited to speak at the Shared Serv
 
 
 
-<img src="/images/Media/sslc 1.png">
+<img src="/images/media/sslc 1.png">
 <br>
-<img src="/images/Media/sslc 2.png">
+<img src="/images/media/sslc 2.png">
 <br>
-<img src="/images/Media/sslc 3.png">
+<img src="/images/media/sslc 3.png">
