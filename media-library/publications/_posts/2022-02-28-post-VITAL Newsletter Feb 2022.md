@@ -1,6 +1,6 @@
 ---
 title: VITAL Newsletter Feb 2022
-permalink: /media-library/publications/vital-newsletter-feb2022
+permalink: /media-library/publications/vital-newsletter-feb2022/
 date: 2022-02-28
 layout: post
 description: VITAL Newsletter Feb 2022

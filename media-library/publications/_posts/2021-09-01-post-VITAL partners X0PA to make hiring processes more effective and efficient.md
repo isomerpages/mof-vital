@@ -1,6 +1,6 @@
 ---
 title: VITAL partners X0PA to make hiring processes more effective and efficient
-permalink: /media-library/publications/vital-xopa-hiring-processes-effective-efficient
+permalink: /media-library/publications/vital-xopa-hiring-processes-effective-efficient/
 date: 2021-09-01
 layout: post
 description: VITAL partners X0PA to make hiring processes more effective and efficient

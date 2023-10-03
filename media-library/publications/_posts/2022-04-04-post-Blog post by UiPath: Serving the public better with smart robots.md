@@ -1,6 +1,6 @@
 ---
 title: "Blog post by UiPath: Serving the public better with smart robots"
-permalink: /media-library/publications/blog-post-uipath
+permalink: /media-library/publications/blog-post-uipath/
 date: 2022-04-04
 layout: post
 description: "Blog post by UiPath: Serving the public better with smart robots"

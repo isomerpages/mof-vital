@@ -1,6 +1,6 @@
 ---
 title: VITAL 10th anniversary commemorative book
-permalink: /media-library/publications/vital-10-commemorative-book
+permalink: /media-library/publications/vital-10-commemorative-book/
 date: 2018-04-13
 layout: post
 description: VITAL 10th anniversary commemorative book

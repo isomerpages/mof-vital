@@ -1,6 +1,6 @@
 ---
 title: "Advertorial by SG Enable: Tapping the abilities of persons with autism"
-permalink: /media-library/publications/Tapping-abilities-persons-autism/
+permalink: /media-library/publications/tapping-abilities-persons-autism/
 date: 2022-08-14
 layout: post
 description: "Advertorial by SG Enable: Tapping the abilities of persons with autism"

@@ -1,6 +1,6 @@
 ---
 title: VITAL’s 15th anniversary speech by CE
-permalink: /media-library/publications/vital-15-anniversary-speech
+permalink: /media-library/publications/vital-15-anniversary-speech/
 date: 2021-07-05
 layout: post
 description: VITAL’s 15th anniversary speech by CE
