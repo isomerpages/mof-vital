@@ -14,7 +14,7 @@ VITAL is proud to have participated in the 26th Annual Asian Shared Services &am
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 
-We are thrilled to have won three&nbsp;SSON&nbsp;Impact Awards at the event - <b>Creative Talent Management Impact Award (Honorary Mention)</b>, <b>Best Shared Services Team (Bronze)</b> and<b>🏆 Human Resources Impact Award (Bronze) </b> 
+We are thrilled to have won three&nbsp;SSON&nbsp;Impact Awards at the event - <b>Creative Talent Management Impact Award (Honorary Mention)</b>, <b>Best Shared Services Team (Bronze)</b> and<b> Human Resources Impact Award (Bronze) </b> 
 
 </p><p style="font-size: 20px;color:#585858;text-align:justify;">
 
