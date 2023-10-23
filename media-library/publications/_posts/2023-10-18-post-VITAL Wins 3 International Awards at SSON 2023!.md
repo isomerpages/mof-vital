@@ -18,7 +18,12 @@ We are thrilled to have won three&nbsp;SSON&nbsp;Impact Awards at the event - <b
 
 </p><p style="font-size: 20px;color:#585858;text-align:justify;">
 
-These recognitions highlight our dedication to transforming shared services and our focus on capability improvements in HR Services. We will continue to strive for excellence and uphold our position as a globally recognized leader in corporate shared services!  
-  
+These recognitions highlight our dedication to transforming shared services and our focus on capability improvements in HR Services. We will continue to strive for excellence and uphold our position as a globally recognized leader in corporate shared services!  </p>
 
-</p>
+![](/images/media/sson-1.jpg)
+
+![](/images/media/sson-2.jpg)
+
+![](/images/media/sson-3.jpg)
+
+![](/images/media/sson-4.jpg)
