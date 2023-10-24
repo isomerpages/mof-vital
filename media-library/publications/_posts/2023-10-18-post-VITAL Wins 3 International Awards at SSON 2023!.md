@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-<p style="font-size: 24px;color:#585858;text-align:justify;">
+<p style="font-size: 20px;color:#585858;text-align:justify;">
 
 VITAL is proud to have participated in the 26th Annual Asian Shared Services &amp; Outsourcing Week, the region's premier gathering for shared services, GBS, and outsourcing professionals. Our Chief Executive, Mr. Dennis Lui, shared his insights as a panellist for "The Global Turmoil and The Future Priorities of the Shared Service Industry: How are Macroeconomics and Geopolitics Impacting Key Decisions in Asia". It was a great opportunity for VITAL to showcase our innovative work and exchange ideas with Shared Service Leaders on the future of the industry.
 
