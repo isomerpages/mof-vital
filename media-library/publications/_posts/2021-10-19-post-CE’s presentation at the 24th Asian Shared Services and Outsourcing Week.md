@@ -1,6 +1,6 @@
 ---
 title: CE’s presentation at the 24th Asian Shared Services and Outsourcing Week
-permalink: /media-library/publications/24th-asian-shared-services-outsourcing-week
+permalink: /media-library/publications/24th-asian-shared-services-outsourcing-week/
 date: 2021-10-19
 layout: post
 description: CE’s presentation at the 24th Asian Shared Services and Outsourcing Week
@@ -8,7 +8,7 @@ description: CE’s presentation at the 24th Asian Shared Services and Outsourci
 <table style="border: 0px;padding:0px;" width="100%" height="100%">	
 	<tr style="border: 0px;padding:0px;">
 		<td colspan = "2" style="border: 0px;padding:0px;">
-			<img src="/images/Media/SSON24_Header.png"  /> 
+			<img src="/images/media/sson24_header.png"  /> 
 		</td>
 	</tr>
 	<tr style="border: 0px; padding:0px;background-color:#ffffcc" >
@@ -29,7 +29,7 @@ description: CE’s presentation at the 24th Asian Shared Services and Outsourci
 			<table style="border: 0;padding:0px;">	
 				<tr style="border: 0px; padding:0px;background-color:#ffffcc">
 				<td style="border: 0px;vertical-align: middle" width="40%" >
-					<img src="/images/Media/SSON24_Image1.png"/> 
+					<img src="/images/media/sson24_image1.png"/> 
 			</td>
 		<td style="border: 0px;vertical-align: middle;" >
 			<div style="font-size:22px;padding:5px;text-align:center;color:#FFFFFF;background-color:#002060">	
@@ -56,7 +56,7 @@ description: CE’s presentation at the 24th Asian Shared Services and Outsourci
 				</div>
 		</td>
 				<td style="border: 0px;vertical-align: middle" width="40%" >
-					<img src="/images/Media/SSON24_Image2.png"/> 
+					<img src="/images/media/sson24_image2.png"/> 
 			</td>		
 	</tr>
 </table>
@@ -67,7 +67,7 @@ description: CE’s presentation at the 24th Asian Shared Services and Outsourci
 			<table style="border: 0;padding:0px;">	
 				<tr style="border: 0px; padding:0px;background-color:#ffffcc">
 				<td style="border: 0px;vertical-align: middle" width="40%" >
-					<img src="/images/Media/SSON24_Image3.png"/> 
+					<img src="/images/media/sson24_image3.png"/> 
 			</td>
 		<td style="border: 0px;vertical-align: middle;" >
 			<div style="font-size:22px;padding:5px;text-align:center;color:#FFFFFF;background-color:#002060">	

@@ -1,6 +1,6 @@
 ---
 title: "Blog post by UiPath: Serving the public better with smart robots"
-permalink: /media-library/publications/blog-post-uipath
+permalink: /media-library/publications/blog-post-uipath/
 date: 2022-04-04
 layout: post
 description: "Blog post by UiPath: Serving the public better with smart robots"
@@ -10,7 +10,7 @@ description: "Blog post by UiPath: Serving the public better with smart robots"
 </p>
 <div style="font-size: 16px;color:#585858;text-align:justify;">
 	by Wen-Ming Wong | 04 APRIL 2022</div>
-<img src="/images/Media/UiPathBlogPost_Image1.png">
+<img src="/images/media/uipathblogpost_image1.png">
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 	The mission of public sector services is often defined as serving the people, by the people. With the help of software robots, humans are empowered to achieve greater productivity and satisfaction at work, which benefits the employee, the organization, and the citizen. This is where robotic process automation (RPA) can shine.
 </p>

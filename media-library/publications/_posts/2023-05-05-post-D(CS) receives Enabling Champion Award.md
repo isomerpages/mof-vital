@@ -24,6 +24,6 @@ Under her leadership, the PwD officers were empowered to take on higher value wo
 
 <p style="font-size: 18px;color:#585858;text-align:justify;">We would like to congratulate Kavitha on her meaningful award and express our sincere gratitude to her for her commendable efforts in integrating PwD employees and creating value-add to our organisation!</p>
 
-<img src="/images/Media/enabling champion 01.jpg">
+<img src="/images/media/enabling champion 01.jpg">
 <br>
-<img src="/images/Media/enabling champion 02.jpg">
+<img src="/images/media/enabling champion 02.jpg">

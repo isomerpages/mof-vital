@@ -1,6 +1,6 @@
 ---
 title: "Article by FutureCIO: Stopping Singapore's looming labour shortage"
-permalink: /media-library/publications/article-by-futureCIO/
+permalink: /media-library/publications/article-by-futurecio/
 date: 2022-05-13
 layout: post
 description: "Article by FutureCIO: Stopping Singapore's looming labour shortage"

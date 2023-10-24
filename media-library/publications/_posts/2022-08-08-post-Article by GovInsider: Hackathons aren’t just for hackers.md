@@ -1,6 +1,6 @@
 ---
 title: "Article by GovInsider: Hackathons aren’t just for hackers"
-permalink: /media-library/publications/Hackathons-are-not-just-for-hackers/
+permalink: /media-library/publications/hackathons-are-not-just-for-hackers/
 date: 2022-08-08
 layout: post
 description: "Article by GovInsider: Hackathons aren’t just for hackers"
@@ -10,7 +10,7 @@ Talk of innovative ways of solving government agencies’ problems is plentiful,
 </p>
 <div style="font-size: 16px;color:#585858;text-align:justify;">
 By Ranamita Chakraborty | 08 AUG 2021</div>
-<img src="/images/Media/Hackathon_1.png" />
+<img src="/images/media/hackathon_1.png" />
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 Mention the word “hackathon”, and a vision of geeks coding in a room illuminated almost solely by computer screens probably springs to mind. When I was invited to my first data hackathon – in this case an event organised by Singapore government shared services agency VITAL, which manages human resources, finance and procurement for more than 100 public sector organisations – that’s pretty much what I imagined.
 </p>
@@ -29,7 +29,7 @@ The data hackathon was a capstone event for the Certificate in Data Analytics pr
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 At the end of the four-month programme, each cohort takes part in the hackathon, at which they are presented with problem statements related to issues that VITAL is working on or challenges it is facing. Participants use data sets from VITAL and are asked to come up with ideas or recommendations to address those issues or challenges.
 </p>
-<img src="/images/Media/Hackathon_2.png" />
+<img src="/images/media/hackathon_2.png" />
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 The agency has also rolled out a Specialist Diploma in Data Analytics for managers. The data analytics certificate and diploma programmes are both part of VITAL’s Shared Services Competency Framework, introduced to upskill its workforce in areas such as data analytics, robotic process automation and design thinking.
 </p>

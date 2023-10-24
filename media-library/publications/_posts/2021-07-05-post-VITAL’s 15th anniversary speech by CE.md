@@ -1,11 +1,11 @@
 ---
 title: VITAL’s 15th anniversary speech by CE
-permalink: /media-library/publications/vital-15-anniversary-speech
+permalink: /media-library/publications/vital-15-anniversary-speech/
 date: 2021-07-05
 layout: post
 description: VITAL’s 15th anniversary speech by CE
 ---
-<img src="/images/Media/VITAL-15-Anniversary_1.png" />	
+<img src="/images/media/vital-15-anniversary_1.png" />	
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 Good morning VITALites. Today, 5th July 2021, marks VITAL's 15th birthday!
 </p>
@@ -151,7 +151,7 @@ The journey ahead will not be easy, but together, we can achieve our dreams and 
 <p style="font-size: 24px;color:#585858;text-align:justify;">
 	Happy 15th birthday VITAL!
 </p>
-<img src="/images/Media/VITAL-15-Anniversary_2.png" />	
+<img src="/images/media/vital-15-anniversary_2.png" />	
 <div style="font-size: 16px;color:#585858;text-align:justify;">
 28th Jun 2021: Minister Lawrence Wong’s Virtual Dialogue with VITALites
 </div>

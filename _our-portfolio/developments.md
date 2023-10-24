@@ -3,7 +3,7 @@ title: Developments
 permalink: /our-portfolio/innovation-and-improvement/
 description: Key innovations and improvements that VITAL spearheaded
 ---
-<img src="/images/Portfolio/VITAL at a glance.png" alt="VITAL at a glance"/>
+<img src="/images/portfolio/vital at a glance.png" alt="VITAL at a glance"/>
 
 <br>At VITAL, we strive to improve our systems and processes to deliver corporate shared services to public agencies and officers efficiently.
 

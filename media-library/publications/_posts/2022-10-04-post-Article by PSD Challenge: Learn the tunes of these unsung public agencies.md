@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-<img src="/images/Media/PSD Challenge.png">
+<img src="/images/media/psd challenge.png">
 
 <p align="justify">Think about the sheer number of products, services, and professionals we rely on as we go about our lives each day. Chances are, one or more of Singapore’s public agencies are behind these interactions.</p>
 

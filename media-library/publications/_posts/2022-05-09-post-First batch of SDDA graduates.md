@@ -1,6 +1,6 @@
 ---
 title: First batch of SDDA graduates
-permalink: /media-library/publications/first-batch-sdda-graduates
+permalink: /media-library/publications/first-batch-sdda-graduates/
 date: 2022-05-09
 layout: post
 description: First batch of SDDA graduates
@@ -17,6 +17,6 @@ They have completed the 5-month SDDA course with modules such as data visualisat
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 With the full array of technical skills and tools, the SDDA graduates are now ready to champion data analytics projects at VITAL!
 </p>
-<img src="/images/Media/FirstBatchSDDA_Image1.png"  /> 
+<img src="/images/media/firstbatchsdda_image1.png"  /> 
 <br>
-<img src="/images/Media/FirstBatchSDDA_Image2.png"  /> 
+<img src="/images/media/firstbatchsdda_image2.png"  /> 

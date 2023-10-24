@@ -10,7 +10,7 @@ image: ""
 <div style="font-size: 16px;color:#585858;text-align:justify;">
 By Mohit Sagar and Yen Ocampo | 28 March 2023</div>
 
-<p><img src="/images/Media/GovAsia 01.png"></p>
+<p><img src="/images/media/govasia 01.png"></p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 To increase efficiency and productivity, leverage better insights for decision-making and provide seamless digital services for citizens, Singapore’s government is investing in digital technologies such as robotic process automation, artificial intelligence (AI), and data analytics.
@@ -103,7 +103,7 @@ Although automation is often touted as a means to increase efficiency, it can al
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 VITAL took a different approach and presented Robotic Process Automation (RPA) as an enabler, freeing its people from manual and tedious tasks. This allowed them to focus on more valuable work, professional growth, and innovation.</p>
 
-<p><img src="/images/Media/GovAsia 04.png"></p>
+<p><img src="/images/media/govasia 04.png"></p>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 Developing the skills and capabilities to become an RPA developer can be challenging, especially when coding knowledge and experience are required. Fortunately, the shift towards democratising automation development through low-code or no-code tools has made it easier.</p>

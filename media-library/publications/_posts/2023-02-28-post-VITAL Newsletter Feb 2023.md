@@ -6,13 +6,13 @@ layout: post
 description: ""
 image: ""
 ---
-<img src="/images/Media/newsletter feb 23 01.jpg">
+<img src="/images/media/newsletter feb 23 01.jpg">
 <br>
-<img src="/images/Media/newsletter feb 23 02.jpg">
+<img src="/images/media/newsletter feb 23 02.jpg">
 <br>
-<img src="/images/Media/newsletter feb 23 03.jpg">
+<img src="/images/media/newsletter feb 23 03.jpg">
 <br>
-<img src="/images/Media/newsletter feb 23 04.jpg">
+<img src="/images/media/newsletter feb 23 04.jpg">
 
 <p style="font-size: 16px;color:#585858;text-align:justify;">
 Click <a href="/files/newsletter%20feb%2023.pdf">HERE</a> to download VITAL Newsletter in PDF format.

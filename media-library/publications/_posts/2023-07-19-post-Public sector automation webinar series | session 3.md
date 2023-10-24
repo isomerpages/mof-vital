@@ -20,4 +20,4 @@ We had a record attendance of around 480 public officers from 67 agencies at the
 </p>
 
 
-<img src="/images/Media/webinar3 07.JPG">
+<img src="/images/media/webinar3 07.jpg">

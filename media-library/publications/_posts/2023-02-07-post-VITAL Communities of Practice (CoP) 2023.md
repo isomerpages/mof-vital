@@ -27,37 +27,37 @@ We look forward to seeing our service partners again at the next CoP!
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 You may download the event materials in PDF format below:
 </p>
-<a href = "/files/COP opening.pdf">Opening remarks by Mr Dennis Lui, Chief Executive, VITAL</a> 
+<a href = "/files/cop opening.pdf">Opening remarks by Mr Dennis Lui, Chief Executive, VITAL</a> 
 
-<a href = "/files/COP VITAL.pdf">Presentation by Ms Jessica Ong, Deputy Director (Innovation Hub), VITAL: Leading robotics and automation for corporate services in Singapore Public Service</a> 
+<a href = "/files/cop vital.pdf">Presentation by Ms Jessica Ong, Deputy Director (Innovation Hub), VITAL: Leading robotics and automation for corporate services in Singapore Public Service</a> 
 
-<a href = "/files/COP UiPath.pdf">Presentation by Ms Jessica Kim, Customer Success Manager, UiPath Southeast Asia: Towards intelligent process automation for shared services</a> 
+<a href = "/files/cop uipath.pdf">Presentation by Ms Jessica Kim, Customer Success Manager, UiPath Southeast Asia: Towards intelligent process automation for shared services</a> 
 
-<a href = "/files/COP closing.pdf">Closing remarks by Mr Dennis Lui, Chief Executive, VITAL</a> 
+<a href = "/files/cop closing.pdf">Closing remarks by Mr Dennis Lui, Chief Executive, VITAL</a> 
 
-<img src="/images/Media/COP 1.jpg">
+<img src="/images/media/cop 1.jpg">
 <font size="-1">VITAL CoP 2023 focused on the topic of digitalisation and automation in corporate services.</font>
 <br>
-<img src="/images/Media/COP 0.jpg">
+<img src="/images/media/cop 0.jpg">
 <font size="-1">Speakers at VITAL CoP 2023 (from the left: Ms Jessica Kim from UiPath, Mr Mark Lim from Temasek, Mr Dennis Lui from VITAL and Ms Jessica Ong from VITAL)</font>
 <br>
-<img src="/images/Media/COP 4.jpg">
+<img src="/images/media/cop 4.jpg">
 <font size="-1">Opening remarks by Mr Dennis Lui, Chief Executive, VITAL</font>
 <br>
-<img src="/images/Media/COP 2.jpg">
+<img src="/images/media/cop 2.jpg">
 <font size="-1">Presentation by Ms Jessica Ong, Deputy Director (Innovation Hub), VITAL </font>
 <br>
-<img src="/images/Media/COP 3.jpg">
+<img src="/images/media/cop 3.jpg">
 <font size="-1">Presentation by Ms Jessica Kim, Customer Success Manager, UiPath Southeast Asia</font>
 <br>
-<img src="/images/Media/COP 5.jpg">
+<img src="/images/media/cop 5.jpg">
 <font size="-1">VITAL CoP 2023 was attended by about 130 corporate services leaders from more than 50 public agencies.</font>
 <br>
-<img src="/images/Media/COP 6.jpg">
+<img src="/images/media/cop 6.jpg">
 <font size="-1">Networking with service partners</font>
 <br>
-<img src="/images/Media/COP 7.jpg">
+<img src="/images/media/cop 7.jpg">
 <font size="-1">Networking with service partners</font>
 <br>
-<img src="/images/Media/COP 8.jpg">
+<img src="/images/media/cop 8.jpg">
 <font size="-1">Networking with service partners</font>

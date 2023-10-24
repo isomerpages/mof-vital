@@ -1,6 +1,6 @@
 ---
 title: CE's presentation at GovInsider's AI x Gov Summit
-permalink: /media-library/publications/ce-presentation-govinsider-ai-gov-summit
+permalink: /media-library/publications/ce-presentation-govinsider-ai-gov-summit/
 date: 2022-04-07
 layout: post
 description: CE's presentation at GovInsider's AI x Gov Summit
@@ -8,7 +8,7 @@ description: CE's presentation at GovInsider's AI x Gov Summit
 <table style="padding:0px;border:0;">
 	<tr>
 		<td colspan = "2" width="100%" style="padding:0px;border:0;">
-			<img src="/images/Media/AiXGovHeader.png"  /> 
+			<img src="/images/media/aixgovheader.png"  /> 
 		</td>
 	</tr>
 	<tr style="background-color:#FFFFE0;">
@@ -24,7 +24,7 @@ description: CE's presentation at GovInsider's AI x Gov Summit
 	</tr>
 	<tr style="background-color:#FFFFE0;">
 		<td width="45%" style="text-align:center;">
-			<br><img src="/images/Media/AiXGovImage1.png" />
+			<br><img src="/images/media/aixgovimage1.png" />
 		</td>
 		<td style="padding-right: 20px;padding-left: 5px;">
 			<ol type="1" style="font-size:20px;text-align:justify;color:#585858">

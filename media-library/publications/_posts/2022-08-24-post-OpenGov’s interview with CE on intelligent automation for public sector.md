@@ -1,6 +1,6 @@
 ---
 title: OpenGov’s interview with CE on intelligent automation for public sector
-permalink: /media-library/publications/OpenGov-interview-CE-intelligent-automation/
+permalink: /media-library/publications/opengov-interview-ce-intelligent-automation/
 date: 2022-08-24
 layout: post
 description: OpenGov’s interview with CE on intelligent automation for public sector
@@ -10,7 +10,7 @@ description: OpenGov’s interview with CE on intelligent automation for public 
 </p>
 <div style="font-size: 16px;color:#585858;text-align:justify;">
 By Mohit Sagar and Yen Ocampo | 24 AUG 2022</div>
-<img src="/images/Media/Reimagining_1.png">
+<img src="/images/media/reimagining_1.png">
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 	Intelligent automation (IA) has become the new norm for the public sector in today’s increasingly digital and tech-enabled environment. Automation in repetitive tasks allows businesses to increase their efficiency. However, next-level performance can only happen by applying intelligent automation across a gamut of duties.
 </p>

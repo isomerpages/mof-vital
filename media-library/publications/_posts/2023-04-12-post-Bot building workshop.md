@@ -18,10 +18,10 @@ A journey of a thousand miles begins with a single step. We are glad to see our 
 We would also like to extend our sincere thanks to Automation Anywhere and PwC Singapore for hosting this workshop for VITAL.
 </p>
 
-<img src="/images/Media/bot workshop 01.png">
+<img src="/images/media/bot workshop 01.png">
 <br>
-<img src="/images/Media/bot workshop 02.png">
+<img src="/images/media/bot workshop 02.png">
 <br>
-<img src="/images/Media/bot workshop 03.png">
+<img src="/images/media/bot workshop 03.png">
 <br>
-<img src="/images/Media/bot workshop 04.png">
+<img src="/images/media/bot workshop 04.png">

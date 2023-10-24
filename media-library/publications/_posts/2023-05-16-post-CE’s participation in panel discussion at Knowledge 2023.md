@@ -15,4 +15,4 @@ As part of ServiceNow's "Knowledge 2023" conference held in Las Vegas, the U.S.,
 During the panel discussion, Mr Lui shared VITAL's experiences and insights into government procurement, including the mental model shifts to revolutionise procurement, sharing of procurement knowledge across the Singapore Government, and how we collaborate with industry partners to deliver and transform government procurement.
 </p>
 
-<img src="/images/Media/knowledge 2023.png">
+<img src="/images/media/knowledge 2023.png">

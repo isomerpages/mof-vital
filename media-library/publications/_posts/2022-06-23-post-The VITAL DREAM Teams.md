@@ -1,6 +1,6 @@
 ---
 title: The VITAL DREAM Teams
-permalink: /media-library/publications/vital-dream-teams
+permalink: /media-library/publications/vital-dream-teams/
 date: 2022-06-23
 layout: post
 description: The VITAL DREAM Teams
@@ -12,5 +12,5 @@ The VITAL DREAM Teams were formed in 2021 to refresh VITAL’s mission, vision a
 In the June 2022 issue of VITAL MOMENTS, members of the DREAM Teams share about their journey of re-defining VITAL's MVV and their key take-aways.
 </p>
 <p style="font-size: 16px;color:#585858;text-align:justify;">
-	Click <a href = "/files/The VITAL DREAM Teams.pdf">HERE</a> to download VITAL Moments which features the VITAL DREAM Teams.
+	Click <a href = "/files/the vital dream teams.pdf">HERE</a> to download VITAL Moments which features the VITAL DREAM Teams.
 </p>

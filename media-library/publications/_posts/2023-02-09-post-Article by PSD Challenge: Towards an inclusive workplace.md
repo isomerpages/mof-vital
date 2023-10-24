@@ -12,7 +12,7 @@ By Hidayah Md Sham | 9 February 2023</div>
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 Welcoming people with disabilities at work goes beyond physical accommodations. Central agency VITAL and the National Library Board (NLB), which has hired people with disabilities since 1991, show how aspects such as job scope and training support can create inclusive workplaces.</p>
 
-<img src="/images/Media/210223_01.png"/>
+<img src="/images/media/210223_01.png"/>
 <font size="-1">From left to right: Mr Mohammed Shafie Haja Mohaideen and Ms Dorothy Tang from the NLB, and Mr Chew Jian Xiong and Mr Vernon Tay from VITAL.</font>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">
@@ -67,7 +67,7 @@ This helped them better understand how their deaf colleague deals with the chall
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">This allowed him to develop software skills and improve productivity by building virtual bots to reduce manual work. He has worked with colleagues to automate the manual search of records with a bot, which will save about 600 man-hours a year.</p>
 
-<img src="/images/Media/210223_02.png">
+<img src="/images/media/210223_02.png">
 <font size="-1">Digitalisation Services executive Jian Xiong (left) with his supervisor, Vernon Tay (right).</font>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">At VITAL, staff attend workshops by the ARC to learn how to better communicate with their colleagues on the autism spectrum. For example, when talking to officers with autism, they should avoid using long sentences, use visual aids where possible, and be clear when giving instructions.</p>
@@ -94,7 +94,7 @@ Jian Xiong’s supervisor, Mr Vernon Tay, oversees eight officers with autism. A
 <p style="font-size: 20px;color:#585858;text-align:justify;">   
 Ms Daphne Ong, Director, People Matters Division, NLB, said: “In NLB, we value and care for every officer who comes through our doors, and want to ensure they are in a supportive environment where they can contribute to the best of their abilities. When everyone can play their part, in their own special ways, we can better deliver our services at our libraries and archives.”</p>
 
-<img src="/images/Media/210223_03.png"/>
+<img src="/images/media/210223_03.png"/>
 
 <p style="font-size: 20px;color:#585858;text-align:justify;">For VITAL, the key to successful inclusive hiring is to view it as a mutually beneficial process for PwDs and the organisation.</p>
 

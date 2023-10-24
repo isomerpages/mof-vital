@@ -1,7 +1,7 @@
 ---
 title: GovInsider's interview with CE on how AI and robots will change
   Singapore's public sector
-permalink: /media-library/publications/how-ai-robots-change-sg-public-sector
+permalink: /media-library/publications/how-ai-robots-change-sg-public-sector/
 date: 2021-07-29
 layout: post
 description: GovInsider's interview with CE on how AI and robots will change
@@ -15,7 +15,7 @@ Interview with Dennis Lui, Chief Executive at VITAL.
 </div>
 <div style="font-size: 16px;color:#585858;text-align:justify;">
 By Amanda Oon | 29 JUL 2021</div>
-<img src="/images/Media/AI-Future_1.jpg" />
+<img src="/images/media/ai-future_1.jpg" />
 <p style="font-size: 24px;color:#a91932;text-align:justify;">
 What are the main priorities of VITAL for the post-pandemic future?
 </p>
@@ -99,7 +99,7 @@ Below is an illustration of how VITAL uses RPA to extract and verify data for an
 <p style="font-size: 22px;color:#49759a;text-align:justify;">
 Finance Process – Deposit Record Creation
 </p>
-<img src="/images/Media/AI-Future_2.png" />
+<img src="/images/media/ai-future_2.png" />
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 The deposit record creation process is a finance service provided by VITAL for more than 30 Singapore Government agencies. The unattended automation is used for multiple agencies and requires interaction with a central finance system.
 </p>

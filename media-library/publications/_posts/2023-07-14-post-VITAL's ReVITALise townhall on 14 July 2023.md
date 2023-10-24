@@ -18,14 +18,14 @@ In this spirit, we were heartened to see many VITAL staff who have taken the fir
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 Last but not least, a big thank you to our colleagues who have worked hard on this event and congratulations again to all the award winners!
 </p>
-<img src="/images/Media/0714 01.jpg">
+<img src="/images/media/0714 01.jpg">
 <br>
-<img src="/images/Media/0714 02.jpg">
+<img src="/images/media/0714 02.jpg">
 <br>
-<img src="/images/Media/0714 03.jpg">
+<img src="/images/media/0714 03.jpg">
 <br>
-<img src="/images/Media/0714 04.jpg">
+<img src="/images/media/0714 04.jpg">
 <br>
-<img src="/images/Media/0714 05.jpg">
+<img src="/images/media/0714 05.jpg">
 <br>
-<img src="/images/Media/0714 06.jpg">
+<img src="/images/media/0714 06.jpg">

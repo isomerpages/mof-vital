@@ -1,6 +1,6 @@
 ---
 title: DPM Lawrence Wong’s speech at the Inclusive Business Forum 2022
-permalink: /media-library/publications/DPM-Inclusive-Business-Forum-2022/
+permalink: /media-library/publications/dpm-inclusive-business-forum-2022/
 date: 2022-08-25
 layout: post
 description: DPM Lawrence Wong’s speech at the Inclusive Business Forum 2022
@@ -8,7 +8,7 @@ description: DPM Lawrence Wong’s speech at the Inclusive Business Forum 2022
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 	In Deputy Prime Minister Lawrence Wong's speech at the Inclusive Business Forum on 25 August 2022, VITAL was cited as a good example of public service doing our part to become disability-inclusive.
 </p>
-<img src="/images/Media/DPM speech at the Inclusive Business Forum 2022.jpg" alt="Inclusive Business Forum 2022">	
+<img src="/images/media/dpm speech at the inclusive business forum 2022.jpg" alt="Inclusive Business Forum 2022">	
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 	Chairman and CEO of SG Enable, <br>
 	Parliamentary Colleagues Mr Eric Chua and Ms Denise Phua, <br>

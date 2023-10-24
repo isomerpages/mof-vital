@@ -9,7 +9,7 @@ image: ""
 <p align="justify">Ms Kavitha Subash, Director (Central Services) at VITAL, participated as a guest speaker in Ngee Ann Polytechnic's Continuing Education and Training (CET) ANNUAL on 14 Oct 2022. She shared with the audience how VITAL has invested in and supported officers in their data analytics upskilling journey.  
 
 <p align="justify">The CET ANNUAL is Ngee Ann Polytechnic's yearly event for industry experts to discuss trending learning and development topics in the continuing education and training space.
-<img src="/images/Media/CET Annual.png">
+<img src="/images/media/cet annual.png">
 
 
 Here are the key highlights from her sharing:
@@ -26,4 +26,4 @@ Here are the key highlights from her sharing:
 <br>•	A clear data strategy to be in place to govern the use of data and create opportunities for staff to apply what they have learnt.
 <br>•	Build a community of practice where trained officers come together to share use cases and experiences.</p>
 
-Click <a href = "/files/CET Annual.pdf">HERE</a> to view D(CS)'s presentation slides in PDF format.
+Click <a href = "/files/cet annual.pdf">HERE</a> to view D(CS)'s presentation slides in PDF format.

@@ -15,10 +15,10 @@ At the event, Mr Lui shared his views and insights into empowering public office
 <p style="font-size: 18px;color:#585858;text-align:justify;">
 We will continue to forge ahead with our citizen developer strategy such that every public officer can come along with this automation journey.
 </p>
-<img src="/images/Media/Forward5 0.jpg">
+<img src="/images/media/forward5 0.jpg">
 <font size="-1">Social media post by Mr Robert Enslin, Co-CEO of UiPath</font>
 <br>
-<img src="/images/Media/Forward5 6.jpg">
+<img src="/images/media/forward5 6.jpg">
 <font size="-1">UiPath Forward 5 Summit - Distinguished Speaker award</font>
 <br>
 <img src="/images/Media/Forward5 1.jpeg">

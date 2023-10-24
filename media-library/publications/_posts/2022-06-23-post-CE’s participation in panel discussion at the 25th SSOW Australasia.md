@@ -1,6 +1,6 @@
 ---
 title: CE’s participation in panel discussion at the 25th SSOW Australasia
-permalink: /media-library/publications/ce-participation-panel-discussion-25-ssow-australasia
+permalink: /media-library/publications/ce-participation-panel-discussion-25-ssow-australasia/
 date: 2022-06-23
 layout: post
 description: CE’s participation in panel discussion at the 25th SSOW Australasia
@@ -16,7 +16,7 @@ description: CE’s participation in panel discussion at the 25th SSOW Australas
 			</p>
 		</td>
 		<td width ="35%" style="border: 0px;vertical-align: middle;">
-					<img src="/images/Media/ssow_image1.png"  /> 
+					<img src="/images/media/ssow_image1.png"  /> 
 		</td>
 	</tr>
 <tr>

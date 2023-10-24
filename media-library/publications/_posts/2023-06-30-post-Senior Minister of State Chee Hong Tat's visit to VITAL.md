@@ -18,4 +18,4 @@ We shared with SMS Chee that under VITAL's shared services competency framework 
 We will continue to work hard and strive to become the catalyst and change agent for the entire public sector.
 </p>
 
-<img src="/images/Media/sms visit.jpg">
+<img src="/images/media/sms visit.jpg">
