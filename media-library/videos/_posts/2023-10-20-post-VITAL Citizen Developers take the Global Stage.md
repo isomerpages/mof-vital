@@ -30,7 +30,3 @@ Join us on a journey down memory lane as we reflect on Team VITAL’s incredible
 </p><div class="home-video"><iframe allowfullscreen="" allow="encrypted-media" src="https://www.youtube.com/embed/LUZHklRQdKc" height="350" width="640" id="video\_player"></iframe></div>      
 
 <p></p>
-
-
-
-
