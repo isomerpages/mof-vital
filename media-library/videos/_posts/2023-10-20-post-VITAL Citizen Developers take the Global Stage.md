@@ -13,6 +13,8 @@ Join us on a journey down memory lane as we reflect on Team VITAL’s incredible
 
 <p></p><p style="font-size: 20px;color:#585858;text-align:justify;">
 	
+	</p>
+	
 ![](/images/forwardvi-1.png)
 	
 ![](/images/forwardvi-3.png)
@@ -21,7 +23,7 @@ Join us on a journey down memory lane as we reflect on Team VITAL’s incredible
 	
 ![](/images/foward%20vi-2.jpg)	
 	
-</p><p style="font-size: 18px;color:#585858;text-align:justify;">
+<p></p><p style="font-size: 18px;color:#585858;text-align:justify;">
 
 </p><div class="home-video"><iframe allowfullscreen="" allow="encrypted-media" src="https://www.youtube.com/embed/WDQWNSdfyhI" height="350" width="640" id="video\_player"></iframe></div>
 
