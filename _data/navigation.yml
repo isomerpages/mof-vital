@@ -1,0 +1,12 @@
+logo: /images/general/logo.png
+links:
+  - title: Home
+    url: /
+  - title: About Us
+    collection: about-us
+  - title: Our Portfolio
+    collection: our-portfolio
+  - title: Media Library
+    resource_room: true
+  - title: Career
+    collection: career

@@ -1,0 +1,6 @@
+collections:
+  career:
+    output: true
+    order:
+      - being-vital.md
+      - our-vitalites.md

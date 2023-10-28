@@ -1,0 +1,60 @@
+title: VITAL SHARED SERVICES
+url: ""
+favicon: /images/general/favicon.ico
+agency-logo: /images/general/logo.png
+colors:
+  primary-color: "#a91932"
+  secondary-color: "#a91932"
+  tr-hover-color: "#dfe6ef"
+  th-color: "#13388f"
+  h4: "#2F4692"
+  media-colors:
+    - title: media-color-one
+      color: "#49759a"
+    - title: media-color-two
+      color: "#1B4393"
+    - title: media-color-three
+      color: "#444444"
+    - title: media-color-four
+      color: "#00838f"
+    - title: media-color-five
+      color: "#00838f"
+description: VITAL is the shared services arm of the Singapore Government. We
+  aggregate common corporate services to derive economies of scale to achieve
+  efficiency and effectiveness.
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+staging: https://staging.d2181b8bb4mtf1.amplifyapp.com/
+prod: https://master.d2181b8bb4mtf1.amplifyapp.com/
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+resources_name: media-library

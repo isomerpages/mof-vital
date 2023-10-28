@@ -1,0 +1,18 @@
+contact_us: /contact-us/
+show_reach: 
+feedback: /feedback/
+faq: /faq/
+copyright_agency: VITAL GOVERNMENT OF SINGAPORE
+navlinks:
+  - title: About Us
+    collection: about-us
+  - title: Our Portfolio
+    collection: our-portfolio
+  - title: Career
+    collection: career
+links:
+  - title: Best Viewed Browsers
+    url: /best-viewed-browsers
+  - title: Useful Links
+    url: /useful-links
+
