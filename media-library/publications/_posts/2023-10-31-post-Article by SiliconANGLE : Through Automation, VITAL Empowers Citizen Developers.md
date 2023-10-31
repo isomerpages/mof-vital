@@ -31,6 +31,6 @@ Lui and Muhammad Khidhir (left), senior section manager at VITAL, spoke with the
 
 <p style="font-size: 16px;color:#585858;text-align:justify;">
 
-Click <a href="https://siliconangle.com/2023/10/27/automation-vital-empowers-citizen-developers-within-singapore-government-uipathforward"> HERE</a> to continue reading the original article from SiliconANGLE website.
+Click <a href="https://siliconangle.com/2023/10/27/automation-vital-empowers-citizen-developers-within-singapore-government-uipathforward"> HERE</a> to continue reading the original article from SiliconANGLE website, by Victor Dabrinze.
 
 </p>
