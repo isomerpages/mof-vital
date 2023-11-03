@@ -6,8 +6,11 @@ date: 2023-10-31
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
-![](/images/siliconangle_img.jpg)<p style="font-size: 20px;color:#585858;text-align:justify;">
+![](/images/siliconangle_img.jpg)
+
+<p style="font-size: 20px;color:#585858;text-align:justify;">
 
 <b>Through automation, VITAL empowers citizen developers within the Singapore government.</b>
 
