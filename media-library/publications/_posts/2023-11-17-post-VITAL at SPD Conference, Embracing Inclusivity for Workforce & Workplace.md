@@ -13,6 +13,8 @@ VITAL participated in a conference that focused on "Embracing Inclusivity for Wo
 	
 During the panel discussion on "Accessible and Inclusive Strategies in Workplaces," CE Dennis Lui shared about VITAL's inclusive hiring journey. We are thrilled to be part of a community that promotes Diversity, Inclusivity and Equity. The session was insightful, and highlighted the importance of empathy, empowerment, and engagement in the workplace. <p></p>
 
+<b> Read more about what CE Dennis Lui shared. </b>
+
 <p style="font-size: 24px;color:#585858;text-align:justify;">
 	
 Kudos to VITALite Mr. Chew Jian Xiong for sharing his inspiring story! We are committed to continuing this journey and making a difference in building a more inclusive Singapore. Let's Do Good and Do Well! </p>
