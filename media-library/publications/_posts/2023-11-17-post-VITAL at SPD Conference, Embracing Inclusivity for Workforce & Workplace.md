@@ -15,7 +15,7 @@ VITAL participated in a conference that focused on "Embracing Inclusivity for Wo
 	
 During the panel discussion on "Accessible and Inclusive Strategies in Workplaces," CE Dennis Lui shared about VITAL's inclusive hiring journey. We are thrilled to be part of a community that promotes Diversity, Inclusivity and Equity. The session was insightful, and highlighted the importance of empathy, empowerment, and engagement in the workplace. </p>
 
-<b>Read more about what CE Dennis Lui shared.[](/files/VITAL_Script_for_SPD_Conference.pdf) </b>
+<b>[Read more about what CE Dennis Lui shared.](/files/VITAL_Script_for_SPD_Conference.pdf) </b>
 
 <p style="font-size: 24px;color:#585858;text-align:justify;">
 	
