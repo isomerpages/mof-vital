@@ -20,10 +20,8 @@ During the panel discussion on "Accessible and Inclusive Strategies in Workplace
 <p style="font-size: 20px;color:#585858;text-align:justify;">
 	
 Kudos to VITALite Mr. Chew Jian Xiong for sharing his inspiring story! We are committed to continuing this journey and making a difference in building a more inclusive Singapore. Let's Do Good and Do Well! </p>
-
-<p style="font-size: 20px;color:#585858;text-align:justify;">
 	
-#EmpoweringInclusivity #InclusiveWorkforce #InclusiveSingapore </p>
+#EmpoweringInclusivity #InclusiveWorkforce #InclusiveSingapore 
 
 ![](/images/IMG_20231116_WA0035.jpg)
 
