@@ -1,18 +1,21 @@
 ---
 title: Being VITAL
 permalink: /career/being-vital/
-description: Join VITAL for a fulfilling career to deliver and improve corporate services to Singapore public agencies.
+description: Join VITAL for a fulfilling career to deliver and improve corporate
+  services to Singapore public agencies.
+variant: markdown
 ---
+**Looking to make an impact in your career? Join VITAL, a department under the Ministry of Finance that is transforming the delivery of corporate services in the Singapore Public Service.**
 
-At VITAL, we strive to be a provider of quality corporate services and to create value for our service partners.
+As the Central Agency for Corporate Shared Services, VITAL provides HR, Payroll, Finance, Procurement and other essential services to over 100,000 public officers and 100 government agencies. Also, as the Robotics & Automation Lead for corporate and administrative services domain, we are at the forefront of driving innovation and technology adoption!
 
-As a member of the VITAL team, you’ll work alongside a team of officers committed to delivering quality services to public agencies. You will also get the opportunity to participate in projects to improve the workplace and the work processes to enhance the value proposition we offer to our service partners.  
+More than just an organisation, we are a community committed to creating an inclusive environment that cares for our officers. We prioritise your growth and development, offering exciting career prospects and training opportunities in high-demand skills like Data Analytics, Design Thinking and Robotics Process Automation. We understand the importance of work-life harmony and strive to support our officers in achieving it.
 
-You will receive the necessary training to do your work well and development opportunities at various stages of your career with VITAL to build up your skill set and to progress.
+As a member of the VITAL team, you’ll work alongside a team of officers committed to delivering quality services to public agencies. You will also get the opportunity to participate in projects to improve the workplace and the work processes to enhance the value proposition we offer to our 
+service partners.
 
-Join the VITAL family today and be part of a quality team!
+If you are a dynamic and innovative team player who aligns with our vision, we invite you to apply and be part of VITAL shaping the future of corporate shared services! 
 
-<a class="" href="https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=VITAL" target="_blank">View Opportunities</a>
+Follow us on [LinkedIn](https://lnkd.in/gSidSEj2)!
 
-
-<img src="/images/career/vitalites.jpg" alt="VITALites" /> 
+![](/images/2023_VITAL_s_Employer_Branding.png)
