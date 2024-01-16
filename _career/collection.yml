@@ -2,5 +2,5 @@ collections:
   career:
     output: true
     order:
-      - being-vital.md
+      - Join VITAL.md
       - our-vitalites.md
