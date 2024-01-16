@@ -2,19 +2,8 @@
 title: Our VITALites
 permalink: /career/our-vitalites/
 description: Let our folks tell you why VITAL is a great workplace!
+variant: markdown
 ---
-<div class="content-box img-content">
-    <div class="img">
-        <img alt="Muntaj Begum, Senior Executive, Payroll and Claims" src="/images/career/muntaj-begum.png">
-    </div>
-    <div class="des">
-        <h4>Muntaj Begum, Senior Executive, Payroll and Claims</h4>
-        <p>I am a payroll specialist in VITAL. Payroll work can be complex and demanding at times, but I am glad that I have strong support from colleagues who are like family.</p>
-        <p>As a specialist with many years of payroll experience, I frequently conduct training to share my insights with younger colleagues who have just joined the team. This gives me great satisfaction and motivation!</p>
-        <p>I am also grateful for the opportunities provided by VITAL. Over the years, I have received recognition for my contributions. These include the National Day Award for Efficiency, VITAL Services Ambassador Award and Long Service Award.</p>
-    </div>
-</div>
-
 <div class="content-box content-img">
     <div class="img">
         <img alt="Tan Hwee Ching, Assistant Director, Service Partnership" src="/images/career/tan-hwee-ching.png">
