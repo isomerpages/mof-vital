@@ -22,6 +22,10 @@ to help you work smarter, think deeper and get ahead in your work life.</p>
 <p>Vital is the Singapore public service’s central agency for corporate shared
 services entrusted with managing and transforming corporate services delivery
 for the government.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ST_Podcast___Work_Talk.png">
+</div>
 <p>For years, a government agency called Vital had been humming in the background,
 paying out the salaries&nbsp;and expense claims of more than 100,000 public
 servants in Singapore.</p>
@@ -45,10 +49,7 @@ employees are automating their own work processes.&nbsp;</p>
 </p>
 <p><em>&nbsp;</em>
 </p>
-<p>Produced by: Krist Boo (<a rel="noopener noreferrer nofollow" target="_blank">kristb@sph.com.sg</a>),
-Ernest Luis, Teo Tong Kai and Amirul Karim</p>
+<p>Produced by: Krist Boo, Ernest Luis, Teo Tong Kai and Amirul Karim</p>
 <p>Edited by: Teo Tong Kai</p>
-<p></p>
-<p><strong>&gt;&gt;&gt; Click <a href="https://www.straitstimes.com/business/how-a-back-office-agency-is-reinventing-its-500-humdrum-jobs" rel="noopener noreferrer nofollow" target="_blank">HERE</a> to read the original article on The Straits Times website.</strong>
-</p>
+<h4><strong>Click<em> <a href="https://www.straitstimes.com/business/how-a-back-office-agency-is-reinventing-its-500-humdrum-jobs" rel="noopener noreferrer nofollow" target="_blank">HERE</a> </em>to read the original article on The Straits Times website.</strong></h4>
 <p></p>
