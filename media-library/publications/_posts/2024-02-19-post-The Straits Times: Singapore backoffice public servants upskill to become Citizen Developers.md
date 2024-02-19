@@ -10,7 +10,7 @@ variant: tiptap
 ---
 <p><strong>In this feature from The Straits Times (Business section), discover how VITAL is making waves in transforming corporate shared services - by empowering our staff to improve business processes through upskilling.</strong>
 </p>
-<p><strong>"We were very upfront: We want you to upskill, we want you to learn, we want you to be trained," said Mr Lui. "We will send you on our time, on our cost. Please get it done."</strong>
+<p><strong><em>"We were very upfront: We want you to upskill, we want you to learn, we want you to be trained," said Mr Lui. "We will send you on our time, on our cost. Please get it done."</em></strong>
 </p>
 <p><strong>Read on to learn more!</strong>
 </p>
