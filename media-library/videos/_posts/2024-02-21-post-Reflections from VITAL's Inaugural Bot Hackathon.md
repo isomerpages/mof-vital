@@ -7,3 +7,11 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>A look back at VITAL's inaugural RPA (Robot Process Automation) Bot Hackathon
+that took place last September – an event that empowered our staff to showcase
+their creative application of RPA skills acquired through training. Discover
+what our Citizen Developers have to share about their experience!</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HI9j26eRPqY?si=ZbgI5GwYjRHBGyhn"></iframe>
+</div>
+<p></p>
