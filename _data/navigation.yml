@@ -2,9 +2,9 @@ logo: /images/general/logo.png
 links:
   - title: Home
     url: /
-  - title: VITAL
+  - title: ABOUT US
     collection: about-us
-  - title: Our Services
+  - title: Our Portfolio
     collection: our-portfolio
   - title: Media Library
     resource_room: true
