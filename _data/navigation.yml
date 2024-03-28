@@ -2,7 +2,7 @@ logo: /images/general/logo.png
 links:
   - title: Home
     url: /
-  - title: ABOUT US
+  - title: About Us
     collection: about-us
   - title: Our Portfolio
     collection: our-portfolio
