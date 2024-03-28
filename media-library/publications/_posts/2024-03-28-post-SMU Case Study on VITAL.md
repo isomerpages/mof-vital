@@ -7,3 +7,5 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<h4>VITAL: A Singapore Public Agency Transforming from Within for Revitalisation, Efficiency, and Future-Readiness</h4>
+<p></p>
