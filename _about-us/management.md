@@ -2,6 +2,7 @@
 title: Management
 permalink: /about-us/management/
 description: VITAL’s management team
+variant: markdown
 ---
 <table class="vital-table-1">
    <tbody>
@@ -15,7 +16,7 @@ description: VITAL’s management team
       </tr>
       <tr>
          <td>
-            Dennis Lui&nbsp; 
+            Clarence Tang 
          </td>
          <td>
             Chief Executive
