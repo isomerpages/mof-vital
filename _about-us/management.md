@@ -104,6 +104,14 @@ variant: markdown
          <td>
             Director, Service Partnership &amp; Innovation
          </td>
-      </tr>		
+      </tr>
+		 <tr>
+			 <td>
+				 Terence Ong
+			 </td>
+			 <td>
+				 Director, Central Services
+			 </td>
+		 </tr>
    </tbody>
 </table>
