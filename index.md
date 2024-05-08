@@ -10,8 +10,16 @@ sections:
       title: Forging VITAL Partnerships
       subtitle: Building strong partnership is crucial for us to excel in our work.
       background: /images/hero/hero-banner.png
-      button: FIND OUT MORE
-      url: /about-us/overview
+      key_highlights:
+        - title: CORPORATE SERVICES
+          description: ""
+          url: /our-portfolio/services
+        - title: CAREER
+          description: ""
+          url: /career/being-vital
+        - title: PARTNERSHIP
+          description: ""
+          url: /our-portfolio/for-suppliers
   - infopic:
       title: Overview
       description: VITAL is the central agency for corporate shared services entrusted
@@ -19,6 +27,8 @@ sections:
         Singapore Public Service.
       image: /images/home/overview.jpg
       alt: Overview
+      url: /about-us/overview
+      button: FIND OUT MORE
   - infopic:
       title: Working in VITAL
       description: As part of VITAL, you will play a key role in delivering corporate
