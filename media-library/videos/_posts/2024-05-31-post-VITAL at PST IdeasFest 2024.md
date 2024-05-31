@@ -14,4 +14,7 @@ discussions, providing us with valuable insights and perspectives.</p>
 <p>The event served as a powerful platform for fostering innovative ideas
 and collaboration, and we are truly grateful for the chance to be a part
 of this enriching experience!</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dwuHozRMf8s?si=Oox6JSOdaI13T8nh"></iframe>
+</div>
 <p></p>
