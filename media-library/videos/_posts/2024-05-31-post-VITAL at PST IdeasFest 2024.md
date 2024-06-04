@@ -15,6 +15,6 @@ discussions, providing us with valuable insights and perspectives.</p>
 and collaboration, and we are truly grateful for the chance to be a part
 of this enriching experience!</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dwuHozRMf8s?si=Oox6JSOdaI13T8nh"></iframe>
+<iframe height="350" width="640" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dwuHozRMf8s?si=Oox6JSOdaI13T8nh"></iframe>
 </div>
 <p></p>
