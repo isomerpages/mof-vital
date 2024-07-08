@@ -2,8 +2,8 @@ logo: /images/general/logo.png
 links:
   - title: Home
     url: /
-  - title: About Us
-    collection: about-us
+  - title: About Vital
+    collection: about-vital
   - title: Our Portfolio
     collection: our-portfolio
   - title: Media Library
