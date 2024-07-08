@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - awards & achievement.md
       - overview.md
       - milestones.md
+      - awards & achievement.md
       - management.md
       - partners.md
       - media-library.md
