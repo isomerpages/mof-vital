@@ -1,5 +1,5 @@
 collections:
-  about-us:
+  about-vital:
     output: true
     order:
       - overview.md
