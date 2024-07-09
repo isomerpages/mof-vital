@@ -4,24 +4,24 @@ permalink: /our-vision-mission-core-values/
 variant: markdown
 description: ""
 ---
-<p style="font-size: 25px;">With more than 500 staff and still growing, VITAL is serving more than 100 public agencies (i.e.  ministries, organs of state, or statutory boards) and over 100,000 public officers.</p>
+<p>With more than 500 staff and still growing, VITAL is serving more than 100 public agencies (i.e.  ministries, organs of state, or statutory boards) and over 100,000 public officers.</p>
 
 <div class="wrapper">
     <div class="text-box">
 			<h3>OUR VISION</h3>
-			<p style="font-size: 25px;">A globally recognised leader for corporate shared services</p>
+			<p>A globally recognised leader for corporate shared services</p>
     </div>
 </div>&nbsp;&nbsp;
 <div class="wrapper">
     <div class="text-box">
 			<h3>OUR MISSION</h3>
-			<p style="font-size: 25px;">To transform and deliver corporate shared services for the Singapore Public Service</p>
+			<p>To transform and deliver corporate shared services for the Singapore Public Service</p>
     </div>
 </div>&nbsp;&nbsp;
 <div class="wrapper">
     <div class="text-box">
 			<h3>OUR CORE VALUES</h3>
-			<ul style="font-size: 25px;">
+			<ul>
 				<li><b>V</b>isionary</li>
 				<li><b>I</b>nnovation</li>
 				<li><b>T</b>eamwork</li>
