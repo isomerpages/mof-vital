@@ -15,12 +15,12 @@ description: ""
 		.column{
 	float: left;
 	width: 33.33%;
-	padding: 10px;
+	padding: 3px;
 	border: 5px solid #243588;
 	border-padding: 10px;
 	}
 	
-	.row{
+	.row:after{
 	content:"";
 	display: table;
 	clear: both;
