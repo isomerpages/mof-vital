@@ -2,10 +2,10 @@ collections:
   about-vital:
     output: true
     order:
-      - Our Vision, Mission & Core Values.md
       - About VITAL.md
       - milestones.md
       - Awards & Achievement.md
+      - Our Vision, Mission & Core Values.md
       - management.md
       - VAP Members.md
       - partners.md
