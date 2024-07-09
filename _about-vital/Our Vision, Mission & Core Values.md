@@ -11,13 +11,13 @@ description: ""
 			<h3>OUR VISION</h3>
 			<p>A globally recognised leader for corporate shared services</p>
     </div>
-</div>&nbsp;&nbsp;
+</div>
 <div class="wrapper">
     <div class="text-box">
 			<h3>OUR MISSION</h3>
 			<p>To transform and deliver corporate shared services for the Singapore Public Service</p>
     </div>
-</div>&nbsp;&nbsp;
+</div>
 <div class="wrapper">
     <div class="text-box">
 			<h3>OUR CORE VALUES</h3>
