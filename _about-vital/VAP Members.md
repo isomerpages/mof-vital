@@ -11,46 +11,68 @@ description: ""
 	box-sizing: border-box;
 	font-family: Arial, Helvetica, sans-serif;
 	}
-	
-	.vap{
-	border: 4px solid black;
-	border-collapse: collapse;
-	}
-
 </style>
-<div class="vap">
-	<table class="members">
-		<tbody><tr>
-			<th><center>NAME</center></th>
-			<th><center>DESIGNATION</center></th>
-		</tr>
-		<tr>
-			<td><center>Ms Lim Soo Hoon</center></td>
-			<td><center>Senior Advisor, MOF (Chairperson)</center></td>
-		</tr>
-		<tr>
-			<td><center>Mr Goh Teck Seng</center></td>
-			<td><center>DCE (Corporate &amp; Development), LTA</center></td>
-		</tr>
-		<tr>
-			<td><center>Mr Hoe Siu Loon</center></td>
-			<td><center>Associate Professor of Information Systems (Practice), SMU</center></td>
-		</tr>
-		<tr>
-			<td><center>Mr Ng Hock Keong</center></td>
-			<td><center>DCE (Infocomm Technology &amp; Digital Services), CPFB</center></td>
-		</tr>
-		<tr>
-			<td><center>Mr Tan Eng Pheng</center></td>
-			<td><center>ACE (Economic and National Development), GovTech</center></td>
-		</tr>
-		<tr>
-			<td><center>Mr Terence Lee</center></td>
-			<td><center>Chief Procurement Officer, Asia Pacific, Procurement / Supply Chain Optimization, GEODIS Singapore Pte Ltd</center></td>
-		</tr>
-		<tr>
-			<td><center>Ms Yvonne Chan</center></td>
-			<td><center>Chief Financial Officer, SMU</center></td>
-		</tr>
-	</tbody></table>
-</div>
+
+<table class="vap-table">
+   <tbody>
+      <tr>
+         <th>
+            Name
+         </th>
+         <th>
+            Designation
+         </th>
+      </tr>
+      <tr>
+         <td>
+            Ms Lim Soo Hoon
+         </td>
+         <td>
+            Senior Advisor, MOF (Chairperson)
+         </td>
+      </tr>
+      <tr>
+         <td>Mr Goh Teck Seng </td>
+         <td>
+            DCE (Corporate &amp; Development), LTA
+         </td>
+      </tr>
+      <tr>
+         <td>
+            Mr Hoe Siu Loon
+         </td>
+         <td>
+            Associate Professor of Information Systems (Practice), SMU
+         </td>
+      </tr>
+      <tr>
+         <td>Mr Ng Hock Keong</td>
+         <td>DCE (Informcomm Technology &amp; Digital Services), CPFB   
+         </td>
+      </tr>
+      <tr>
+         <td>
+            Mr Tan Eng Pheng
+         </td>
+         <td>
+            ACE (Economic and National Development), GovTech
+         </td>
+      </tr>
+      <tr>
+         <td>
+            Mr Terence Lee      
+         </td>
+         <td>
+            Chief Procurement Officer, Asia Pacific, Procurement / Supply Chain Optimization, GEODIS Singapore Pte Ltd
+         </td>
+      </tr>
+      <tr>
+         <td>
+            Ms Yvonne Chan
+         </td>
+         <td>
+            Chief Financial Officer, SMU
+         </td>
+      </tr>
+   </tbody>
+</table>
