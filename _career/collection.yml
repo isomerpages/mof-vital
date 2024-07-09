@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - Join VITAL.md
-      - our-vitalites.md
+      - Our VITALites.md
