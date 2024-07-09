@@ -2,7 +2,7 @@ collections:
   about-vital:
     output: true
     order:
-      - overview.md
+      - About VITAL.md
       - milestones.md
       - Awards & Achievement.md
       - management.md
