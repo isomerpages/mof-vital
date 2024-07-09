@@ -4,6 +4,15 @@ permalink: /demand-aggregation/
 variant: markdown
 description: ""
 ---
+<style>
+	*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: Arial, Helvetica, sans-serif;
+	}
+</style>
+
 VITAL works with businesses and service providers to co-create and offer corporate services solutions to government agencies. Here are areas where your company can partner us.
 
 ### Demand Aggregation
