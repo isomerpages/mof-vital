@@ -72,7 +72,7 @@ description: ""
 </div>&nbsp;&nbsp;&nbsp;
 		<div class="row">
 	<div class="column">
-		<h3><u></u><center><u><b>2016</b></u><center><u></u></center></center></h3>
+		<h3><u><center><b>2016</b></center></u></h3>
 		<ul>
 			<li>SSON Excellence Asia Awards 2016 - Best Process Innovation (Bronze)</li>
 			<li>SSON Excellence Asia Awards 2016 - Excellence in Transformation (Honourable Mention - Top 5)</li>
@@ -94,20 +94,20 @@ description: ""
 </div>&nbsp;&nbsp;&nbsp;
 		<div class="row">
 	<div class="column">
-		<h3><u></u><center><u><b>2020</b></u><center><u></u></center></center></h3>
+		<h3><u><center><b>2020</b></center></u></h3>
 		<ul>
 			<li>SSON Asia Impact Awards 2020 - Process Improvement &amp; Value Creation Impact Award</li>
 		</ul>
 	</div>&nbsp;&nbsp;&nbsp;
 	<div class="column">
-		<h3><u></u><center><u><b>2021</b></u><center><u></u></center></center></h3>
+		<h3><u><center><b>2021</b></center></u></h3>
 		<ul>
 			<li>Achieved the Enabling Mark (Gold) Award by SG Enable, which recognised us for disability-inclusive employment</li>
 			<li>SSON Asia Impact Awards 2021 - Business Resilience Impact Award (Sliver)</li>
 		</ul>
 	</div>&nbsp;&nbsp;&nbsp;
 			<div class="column">
-				<h3><u></u><center><u><b>2022</b></u><center><u></u></center></center></h3>
+				<h3><u><center><b>2022</b></center></u></h3>
 		<ul>
 			<li>Received the Recognition Award of HR Powerbank Early Adopter from Halimah Yacob, President of Singapore</li>
 			<li>SSON Asia Impact Awards 2022 - Business Transformation Impact Award (Sliver) and Automation Impact Award (Honourary Mention)</li>
@@ -117,7 +117,7 @@ description: ""
 </div>&nbsp;&nbsp;&nbsp;
 				<div class="row">
 	<div class="column">
-		<h3><u></u><center><u><b>2023</b></u><center><u></u></center></center></h3>
+		<h3><u><center><b>2023</b></center></u></h3>
 		<ul>
 			<li>SSON Impact Awards Asia 2023: Creative Talent Management Impact (Honourary Mention), Best Shared Services (Bronze) and Human Resources Impact Award (Bronze)</li>
 			<li>PST Workforce Transformation Award (Jul 2023 Cycle) at the Public Service Transformation Awards</li>
@@ -127,7 +127,7 @@ description: ""
 		</ul>
 	</div>&nbsp;&nbsp;&nbsp;
 	<div class="column">
-		<h3><u></u><center><u><b>2024</b></u><center><u></u></center></center></h3>
+		<h3><u><center><b>2024</b></center></u></h3>
 		<ul>
 			<li>GovInsider Festival of Innovation Awards 2024 - Transformative Agency of the Year Award (Special Mention)</li>
 			<li>GovInsider Festival of Innovation Awards 2024 - Innovator of the Year Award (Special Mention)</li>
