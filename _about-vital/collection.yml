@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - About VITAL.md
-      - milestones.md
+      - Milestones.md
       - Awards & Achievement.md
       - Our Vision, Mission & Core Values.md
       - management.md
