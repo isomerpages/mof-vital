@@ -42,7 +42,7 @@ sections:
         offer corporate services solutions to government agencies.
       button: READ MORE
       url: /partners/demand-aggregation
-      image: /images/CorporateImg12_Asian_.jpg
+      image: /images/home/CorporateImg12_Asian_.jpg
       alt: Image alt text
   - infopic:
       title: UPDATES
