@@ -8,11 +8,10 @@ description: ""
 	*{
 	margin: 0;
 	padding: 0;
-	box-sizing: border-box;
 	font-family: Arial, Helvetica, sans-serif;
 	}
 	
-		.column{
+	.column{
 	float: left;
 	width: 33.33%;
 	padding: 3px;
@@ -28,13 +27,13 @@ description: ""
 </style>
 <div class="row">
 	<div class="column">
-		<h3><u></u><center><u><b>2008</b></u><center><u></u></center></center></h3>
+		<h3><u><center><b>2008</b></center></u></h3>
 		<ul>
 			<li>Attained ISO 9001:2000 Certification</li>
 		</ul>
 	</div>&nbsp;&nbsp;&nbsp;
 	<div class="column">
-		<h3><u></u><center><u><b>2011</b></u><center><u></u></center></center></h3>
+		<h3><u><center><b>2011</b></center></u></h3>
 		<ul>
 			<li>14th Annual Asian Shared Services &amp; Outsourcing Excellence Awards - Excellence in People and Communications (Winner)</li>
 			<li>14th Annual Asian Shared Services &amp; Outsourcing Excellence Awards - Excellence in Customer Service (Honourable Mention)</li>
@@ -42,15 +41,16 @@ description: ""
 		</ul>
 	</div>&nbsp;&nbsp;&nbsp;
 			<div class="column">
-		<h3><u></u><center><u><b>2012</b></u><center><u></u></center></center></h3>
+		<h3><u><center><b>2012</b></center></u></h3>
 		<ul>
 			<li>15th Annual Asian Shared Services &amp; Outsourcing Excellence Awards - Excellence in Culture Creation</li>
 		</ul>
-	</div>&nbsp;&nbsp;&nbsp;
+	</div>&nbsp;&nbsp;
 </div>&nbsp;
+
 <div class="row">
 	<div class="column">
-		<h3><u></u><center><u><b>2013</b></u><center><u></u></center></center></h3>
+		<h3><u><center><b>2013</b></center></u></h3>
 		<ul>
 			<li>Attained the Singapore Quality Class, Singapore Innovation Class, Singapore Service Class and People Developer Business Excellence Certifications</li>
 			<li>16th Asia Pacific Shared Services &amp; Outsourcing Excellence Award in Talent Management &amp; Leadership (First Runner-Up)</li>
@@ -69,8 +69,9 @@ description: ""
 			<li>18th Asia Pacific SSON Excellence Awards - Excellence in Customer Service (Honourable Mention)</li>
 		</ul>
 	</div>&nbsp;&nbsp;&nbsp;
-</div>&nbsp;&nbsp;&nbsp;
-		<div class="row">
+</div>&nbsp;&nbsp;
+
+<div class="row">
 	<div class="column">
 		<h3><u><center><b>2016</b></center></u></h3>
 		<ul>
@@ -91,8 +92,9 @@ description: ""
 			<li>SSON Asia Impact Awards 2019 - Business Transformation Impact Award (Honourable Mention - Top 5)</li>
 		</ul>
 	</div>&nbsp;&nbsp;&nbsp;
-</div>&nbsp;&nbsp;&nbsp;
-		<div class="row">
+</div>&nbsp;&nbsp;
+
+<div class="row">
 	<div class="column">
 		<h3><u><center><b>2020</b></center></u></h3>
 		<ul>
@@ -114,8 +116,9 @@ description: ""
 			<li>Participated in the 25th Shared Services &amp; Outsourcing Week (SSOW) Australasia in Melbourne, Australia</li>
 		</ul>
 	</div>&nbsp;&nbsp;&nbsp;
-</div>&nbsp;&nbsp;&nbsp;
-				<div class="row">
+</div>&nbsp;&nbsp;
+
+<div class="row">
 	<div class="column">
 		<h3><u><center><b>2023</b></center></u></h3>
 		<ul>
@@ -134,4 +137,4 @@ description: ""
 			<li>GovInsider Festival of Innovation Awards 2024 - Digital Agency of the Year Award</li>
 		</ul>
 	</div>&nbsp;&nbsp;&nbsp;
-</div>&nbsp;&nbsp;&nbsp;
+</div>&nbsp;&nbsp;
