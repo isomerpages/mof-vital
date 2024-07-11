@@ -9,12 +9,12 @@ variant: markdown
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
-	font-family: Arial, Helevetica, sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	}
 	
 	.container{
 	position: relative;
-	text-align: center;
+	text-align: left;
 	}
 	
 	.top-left{
