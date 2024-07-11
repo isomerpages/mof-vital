@@ -34,10 +34,10 @@ description: ""
 	<p>Interest training providers who meet the following criteria may apply:</p>
 	<div class="row">
 		<div class="column">
-			<p style="transform: translateY(60px);"><b>Track record of delivering courses attended by participants from government agencies</b></p>
+			<p style="transform: translateY(70px);"><b>Track record of delivering courses attended by participants from government agencies</b></p>
 		</div>
 		<div class="column">
-			<p style="transform: translateY(60px);"><b>Track record of qualified trainers with qualification in training delivery or teaching</b></p>
+			<p style="transform: translateY(70px);"><b>Track record of qualified trainers with qualification in training delivery or teaching</b></p>
 		</div>
 	</div>&nbsp;
 	<div class="row">
