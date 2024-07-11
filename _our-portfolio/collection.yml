@@ -2,5 +2,5 @@ collections:
   our-portfolio:
     output: true
     order:
-      - services.md
+      - Services.md
       - for-suppliers.md
