@@ -22,7 +22,7 @@ variant: markdown
 	top: 8px;
 	left: 16px;
 	color: white;
-	font-size: 23px;
+	font-size: 30px;
 	}
 	
 	.text-box{
@@ -30,7 +30,7 @@ variant: markdown
 	top: 37px;
 	left: 16px;
 	color: white;
-	font-size: 11px;
+	font-size: 12px;
 	}
 	
 	.text-box2{
@@ -38,7 +38,7 @@ variant: markdown
 	top: 55px;
 	left: 16px;
 	color: white;
-	font-size: 11px;
+	font-size: 12px;
 	}
 </style>
 <div class="container">
