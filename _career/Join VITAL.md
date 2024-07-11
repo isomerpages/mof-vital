@@ -40,8 +40,8 @@ service partners.</p>
 		<h4><b>Be a VITALite!</b></h4>
 		<p>If you're a dynamic and innovative team player who aligns with out vision, be a part of the VITAL family in shaping the future of corporate shared service!</p>
 		</div>
-	<h4><b>To Learn More</b></h4>
+</div>
+<h4><b>To Learn More</b></h4>
 Follow us on&nbsp;[LinkedIn](https://lnkd.in/gSidSEj2)! and click here to learn more about the [opportunities](careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=VITAL) available in VITAL!
 
 ![](/images/2023_VITAL_s_Employer_Branding.png)
-</div>
