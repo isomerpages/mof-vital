@@ -8,9 +8,7 @@ description: ""
 	*{
 	margin: 0;
 	padding: 0;
-	box-sizing: border-box;
 	font-family: Arial, Helevetica, sans-serif;
-	font-size: 24px;
 	}
 	
 	.circle{
@@ -18,7 +16,7 @@ description: ""
 	height: 223px;
 	border-radius: 50%;
 	margin: 10% auto;
-	border: 3px solid #c10927;
+	border: 5px solid #c10927;
 	position: relative;
 	}
 	
@@ -27,6 +25,16 @@ description: ""
 	width: inherit;
 	height: auto;
 	top: 35%;
+	}
+	
+	.column{
+	float: left;
+	width: 50%;
+	}
+	
+	.row:after{
+	content: "";
+	clear: both;
 	}
 </style>
 
@@ -41,25 +49,37 @@ The Training module in the Human Resource and Payroll System (HRPS) provides a c
 By coming onboard as a training provider, you can extend your offerings to more than 40,000 public officers.
 
 Interested training providers who meet the following criteria may apply:
-<div class="circle">
+<div class="row">
+	<div class="column">
+		<div class="circle">
 	<div style="text-align: center; font-size: 24px" class="content">
 		<p>Track record of delivering courses attended by participants from government agencies</p>
 	</div>
 </div>
-<div class="circle">
+	</div>&nbsp;&nbsp;&nbsp;
+	<div class="column">
+		<div class="circle">
 	<div style="text-align: center; font-size: 24px" class="content">
 		<p>Track record of qualified trainers with qualification in training delivery or teaching</p>
 	</div>
 </div>
-<div class="circle">
+	</div>
+</div>
+<div class="row">
+	<div class="column">
+		<div class="circle">
 	<div style="text-align: center; font-size: 24px" class="content">
 		<p>Registered business entity with ACRA</p>
 	</div>
 </div>
-<div class="circle">
-	<div style="text-align: center;	font-size: 24px" class="content">
+	</div>&nbsp;&nbsp;&nbsp;
+	<div class="column">
+		<div class="circle">
+	<div style="text-align: center; font-size: 24px" class="content">
 		<p>Sound financial health</p>
 	</div>
 </div>
+	</div>
+</div>&nbsp;
 
 We welcome training providers who are interested to list their training courses on the HRPS Training module to submit your application with the required documents via this <a href="https://go.gov.sg/tpapplication">link</a>. There will be a one-time evaluation fee of $99 + prevailing GST payable to VITAL.
