@@ -26,6 +26,12 @@ description: ""
 	<div class="text-box">
 		<img style="float: left; max-width: 320px; margin-left: 10px;" src="/images/career/CorporateImg9_Asiain_.jpg">
 		<h4 style="color: #C10977"><b>OUR CORE VALUES</b></h4>
-		<p></p>
+		<ul>
+			<li><b>V</b>isionary</li>
+			<li><b>I</b>nnovation</li>
+			<li><b>T</b>eamwork</li>
+			<li><b>A</b>gility</li>
+			<li><b>L</b>eadership</li>
+		</ul>
 	</div>
 </div>
