@@ -9,7 +9,7 @@ description: ""
 </style>
 <p>With more than 500 staff and still growing, VITAL is serving more than 100 public agencies (i.e. ministries, organs of state, or statutory boards) and over 100,000 public officers.</p>
 <div style="margin: 150px auto; width: 100%;" class="wrapper">
-	<img style="float: right; max-width: 320px; margin-left: 10px;" src="/images/career/CorporateImg10.jpg">
+	<img style="float:left; max-width: 320px; margin-left: 10px;" src="/images/career/CorporateImg10.jpg">
 	<div class="text-box">
 		<h4><b>OUR VISION</b></h4>
 		<p>A globally recognised leader for corporate shared services</p>
