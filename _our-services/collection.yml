@@ -1,5 +1,5 @@
 collections:
-  our-portfolio:
+  our-services:
     output: true
     order:
       - Services.md
