@@ -22,20 +22,12 @@ variant: markdown
 	top: 8px;
 	left: 16px;
 	color: white;
-	font-size: 30px;
+	font-size: 20px;
 	}
 	
 	.text-box{
 	position: absolute;
 	top: 37px;
-	left: 16px;
-	color: white;
-	font-size: 12px;
-	}
-	
-	.text-box2{
-	position: absolute;
-	top: 55px;
 	left: 16px;
 	color: white;
 	font-size: 12px;
@@ -79,18 +71,15 @@ variant: markdown
 <div class="container">
 	<img src="/images/overview/BlueShape.png">
 	<div class="top-left"><p><b>2018</b></p></div>
-	<div class="text-box"><p>Launched virtual CabCharge and Grab-for-Work mobile apps for public</p></div>
-	<div class="text-box2"><p>officers' taxi and private car hire</p></div>
+	<div class="text-box"><p>Launched virtual CabCharge and Grab-for-Work mobile apps for public officers' taxi and private car hire</p></div>
 </div>&nbsp;
 <div class="container">
 	<img src="/images/overview/RedShape.png">
 	<div class="top-left"><p><b>2019</b></p></div>
-	<div class="text-box"><p>Migrated and rolled out Digital Workplace - Asset Management System</p></div>
-	<div class="text-box2"><p>(DWP-AMS)</p></div>
+	<div class="text-box"><p>Migrated and rolled out Digital Workplace - Asset Management System (DWP-AMS)</p></div>
 </div>&nbsp;
 <div class="container">
 	<img src="/images/overview/BlueShape.png">
 	<div class="top-left"><p><b>2021</b></p></div>
-	<div class="text-box"><p>Supported the roll-out of HRP, the new central HR and payroll</p></div>
-	<div class="text-box2"><p>administration system for ministries</p></div>
+	<div class="text-box"><p>Supported the roll-out of HRP, the new central HR and payroll administration system for ministries</p></div>
 </div>&nbsp;
