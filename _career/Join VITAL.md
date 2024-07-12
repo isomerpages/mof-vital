@@ -10,8 +10,7 @@ variant: markdown
 	color: #c10927;
 	}
 </style>
-**Looking to make an impact in your career? Join VITAL, a department under the Ministry of Finance that is transforming the delivery of corporate services in the Singapore Public Service.**
-
+<b>Looking to make an impact in your career? Join VITAL, a department under the Ministry of Finance that is transforming the delivery of corporate services in the Singapore Public Service.</b>
 <div style="margin: 150px auto; width: 100%;" class="wrapper">
 	<img style="float: right; max-width: 320px; margin-left: 10px;" src="/images/career/CorporateImg10.jpg">
 	<div class="text-box">
@@ -22,14 +21,14 @@ variant: markdown
 <div style="margin: 150px auto; width: 100%;" class="wrapper">
 	<img style="float: left; max-width: 320px; margin-right: 10px;" src="/images/career/CorporateImg4_Asian_.jpg">
 	<div class="text-box">
-		<h4><b>More than just organisation</b></h4>
+		<h4 style="color: #C10977"><b>More than just organisation</b></h4>
 		<p>We are a community committed to creating an inclusive environment that cares for our officers. We prioritise your growth and development, offering exciting career prospects and training opportunities in high-demand skills like Data Analytics, Design Thinking and Robotics Process Automation. We understand the importance of work-life harmony and strive to support our officers in achieving it.</p>
 		</div>
 </div>
 <div style="margin: 150px auto; width: 100%;" class="wrapper">
 	<div class="text-box">
 		<img style="float: right; max-width: 320px; margin-left: 10px;" src="/images/career/CorporateImg9_Asiain_.jpg">
-		<h4><b>Opportunities in VITAL</b></h4>
+		<h4 style="color: #C10977"><b>Opportunities in VITAL</b></h4>
 		<p>As a member of the VITAL team, you’ll work alongside a team of officers committed to delivering quality services to public agencies. You will also get the opportunity to participate in projects to improve the workplace and the work processes to enhance the value proposition we offer to our 
 service partners.</p>
 	</div>
@@ -37,11 +36,11 @@ service partners.</p>
 <div style="margin: 150px auto; width: 100%;" class="wrapper">
 	<img style="float: left; max-width: 320px; margin-right: 10px;" src="/images/career/CorporateImg3_Asian_.jpg">
 	<div class="text-box">
-		<h4><b>Be a VITALite!</b></h4>
+		<h4 style="color: #C10977"><b>Be a VITALite!</b></h4>
 		<p>If you're a dynamic and innovative team player who aligns with out vision, be a part of the VITAL family in shaping the future of corporate shared service!</p>
 		</div>
 </div>
-<h4><b>To Learn More</b></h4>
+<h4 style="color: #C10977"><b>To Learn More</b></h4>
 Follow us on&nbsp;[LinkedIn](https://lnkd.in/gSidSEj2)! and click here to learn more about the [opportunities](careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=VITAL) available in VITAL!
 
 ![](/images/2023_VITAL_s_Employer_Branding.png)
