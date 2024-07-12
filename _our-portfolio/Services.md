@@ -45,10 +45,10 @@ variant: markdown
 		<div class="flip-card">
 	<div class="flip-card-inner">
 		<div class="flip-card-front">
-			<img style="padding: 10px;" alt="finance" src="/images/our-services/Finance_HTML_.png">
+			<img style="padding: 15px;" alt="finance" src="/images/our-services/Finance_HTML_.png">
 		</div>
 		<div class="flip-card-back">
-			<p style="font-size: 13px; padding: 10px;">VITAL’s finance services include accounts payables, accounts receivables, general ledgers and journals, reporting, and asset accounting. VITAL helps public agencies ensure that financial transactions are processed in a timely and correct manner, and appropriate standards of governance and accountability are upheld according to public sector financial guidelines.</p>
+			<p style="font-size: 11px; padding: 10px;">VITAL’s finance services include accounts payables, accounts receivables, general ledgers and journals, reporting, and asset accounting. VITAL helps public agencies ensure that financial transactions are processed in a timely and correct manner, and appropriate standards of governance and accountability are upheld according to public sector financial guidelines.</p>
 		</div>
 			</div>
 		</div>
@@ -57,24 +57,66 @@ variant: markdown
 		<div class="flip-card">
 	<div class="flip-card-inner">
 		<div class="flip-card-front">
-			<img style="padding: 10px;" alt="hr" src="/images/our-services/HR_HTML_.png">
+			<img style="padding: 15px;" alt="hr" src="/images/our-services/HR_HTML_.png">
 		</div>
 		<div class="flip-card-back">
-			<p style="font-size: 13px; padding: 10px;">VITAL provides administrative human resource services to public agencies in Singapore, according to public sector guidelines. Our human resource services include appointment, benefits, scholarship, exit and superannuation.</p>
+			<p style="font-size: 11px; padding: 10px;">VITAL provides administrative human resource services to public agencies in Singapore, according to public sector guidelines. Our human resource services include appointment, benefits, scholarship, exit and superannuation.</p>
 		</div>
 			</div>
 		</div>
 	</div>
 </div>
-
-### Learning Services
-VITAL supports public agencies in the area of learning and development by taking care of the end-to-end administrative work required when officers register and attend training courses. Our learning services include external course registration, in-house course administration, training record management, training statistics analysis and HRMS learning hub management.
-
-### Payroll &amp; Claims
-VITAL’s payroll and claims services include monthly payroll administration, administration of allowances/deductions, processing of bonuses, verification of claims and payroll reporting, and payment recovery.
-
-### Procurement
-VITAL’s procurement services include creating purchase requests/orders in GeBIZ, reviewing procurement documents, and managing government-wide Demand Aggregation (DA) Contracts. Our procurement specialists also advise public agencies on procurement controls and process streamlining so that government purchases are fair, transparent and value-for-money.
-
-### Travel Management
-VITAL’s travel management services ensure public officers’ trip arrangements are taken care of when they travel abroad for work. Our team also supports public agencies’ needs for event venues and corporate card services for taxi and private car hire. Our service areas include air tickets, hotels, travel insurance, issuance of corporate credit cards, taxi and private car hire, as well as meeting and event spaces rental.
+<div class="row">
+	<div class="column">
+		<div class="flip-card">
+	<div class="flip-card-inner">
+		<div class="flip-card-front">
+			<img style="padding: 15px;" alt="ls" src="/images/our-services/LearningServices_HTML_.png">
+		</div>
+		<div class="flip-card-back">
+			<p style="font-size: 11px; padding: 10px;">VITAL supports public agencies in the area of learning and development by taking care of the end-to-end administrative work required when officers register and attend training courses. Our learning services include external course registration, in-house course administration, training record management, training statistics analysis and HRMS learning hub management.
+</p>
+		</div>
+			</div>
+		</div>
+	</div>
+	<div class="column">
+		<div class="flip-card">
+	<div class="flip-card-inner">
+		<div class="flip-card-front">
+			<img style="padding: 15px;" alt="payroll" src="/images/our-services/Payroll_HTML_.png">
+		</div>
+		<div class="flip-card-back">
+			<p style="font-size: 11px; padding: 10px;">VITAL’s payroll and claims services include monthly payroll administration, administration of allowances/deductions, processing of bonuses, verification of claims and payroll reporting, and payment recovery.</p>
+		</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="row">
+	<div class="column">
+		<div class="flip-card">
+	<div class="flip-card-inner">
+		<div class="flip-card-front">
+			<img style="padding: 15px;" alt="procurement" src="/images/our-services/Procurement_HTML_.png">
+		</div>
+		<div class="flip-card-back">
+			<p style="font-size: 11px; padding: 10px;">VITAL’s procurement services include creating purchase requests/orders in GeBIZ, reviewing procurement documents, and managing government-wide Demand Aggregation (DA) Contracts. Our procurement specialists also advise public agencies on procurement controls and process streamlining so that government purchases are fair, transparent and value-for-money.
+</p>
+		</div>
+			</div>
+		</div>
+	</div>
+	<div class="column">
+		<div class="flip-card">
+	<div class="flip-card-inner">
+		<div class="flip-card-front">
+			<img style="padding: 15px;" alt="travel" src="/images/our-services/TravelManagement_HTML_.png">
+		</div>
+		<div class="flip-card-back">
+			<p style="font-size: 11px; padding: 10px;">VITAL’s travel management services ensure public officers’ trip arrangements are taken care of when they travel abroad for work. Our team also supports public agencies’ needs for event venues and corporate card services for taxi and private car hire. Our service areas include air tickets, hotels, travel insurance, issuance of corporate credit cards, taxi and private car hire, as well as meeting and event spaces rental.</p>
+		</div>
+			</div>
+		</div>
+	</div>
+</div>
