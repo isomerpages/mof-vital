@@ -4,8 +4,10 @@ permalink: /our-vision-mission-core-values/
 variant: markdown
 description: ""
 ---
-
-	<p>With more than 500 staff and still growing, VITAL is serving more than 100 public agencies (i.e. ministries, organs of state, or statutory boards) and over 100,000 public officers.</p>
+<style>
+	
+</style>
+<p>With more than 500 staff and still growing, VITAL is serving more than 100 public agencies (i.e. ministries, organs of state, or statutory boards) and over 100,000 public officers.</p>
 	<div class="vision">
 		<img src="/images/overview/CorporateImg7_Asian_.jpg">
 		<h4><b>OUR VISION</b></h4>
