@@ -4,6 +4,9 @@ permalink: /publications/
 variant: markdown
 description: ""
 ---
+<style>
+	
+</style>
 <div class="publications">
 	<div class="articles">
 		<div class="row">
