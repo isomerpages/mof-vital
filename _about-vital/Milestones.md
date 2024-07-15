@@ -22,7 +22,7 @@ variant: markdown
 	top: 8px;
 	left: 16px;
 	color: white;
-	font-size: 20px;
+	font-size: 40px;
 	}
 	
 	.text-box{
