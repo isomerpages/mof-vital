@@ -9,7 +9,7 @@ description: ""
 		<div class="row">
 			<div class="column">
 				<div style="width: 30rem;" class="card">
-					<img style="width: 40%; float: left;" src="/images/VITALites_NP_Graduation_Ceremony_2024.jpg">
+					<img style="width: 40%; float: left; margin-top: 10px; margin: 10px;" src="/images/VITALites_NP_Graduation_Ceremony_2024.jpg">
 					<div class="card-body">
 						<h3 class="card-title">Celebrating VITAL's Data Analytics Graduates</h3>
 						<p class="card-text">Six VITALIites recently attended Ngee Ann Polytechnic 's Graduation  Ceremony.</p>
