@@ -36,7 +36,7 @@ sections:
       image: /images/home/CorporateImg8_Asiain_.jpg
       alt: Image alt text
   - infopic:
-      title:"<h5 style=font-size: 20px;><b>PARTNER WITH VITAL</b></h5>"
+      title: "<h5 style=font-size: 20px;><b>PARTNER WITH VITAL</b></h5>"
       id: infopic
       description: VITAL works with businesses and service providers to co-create and
         offer corporate services solutions to government agencies.
