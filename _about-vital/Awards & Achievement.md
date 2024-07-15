@@ -5,12 +5,6 @@ variant: markdown
 description: ""
 ---
 <style>
-	*{
-	margin: 0;
-	padding: 0;
-	font-family: Arial, Helvetica, sans-serif;
-	}
-	
 	.column{
 	float: left;
 	width: 33.33%;
