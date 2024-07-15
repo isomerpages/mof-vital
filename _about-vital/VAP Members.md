@@ -4,15 +4,6 @@ permalink: /vap-members/
 variant: markdown
 description: VITAL's VAP Members
 ---
-<style>
-	*{
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
-	font-family: Arial, Helvetica, sans-serif;
-	}
-</style>
-
 <table class="vap-table">
    <tbody>
       <tr>
