@@ -34,52 +34,52 @@ variant: markdown
 	}
 </style>
 <div class="container">
-	<img src="/images/overview/RedShape.png">
+	<img style="margin-bottom: 10px;" src="/images/overview/RedShape.png">
 	<div class="top-left"><p><b>2006</b></p></div>
 	<div class="text-box"><p>Official Launch of Centre for Shared Services in July</p></div>
-</div>&nbsp;
+</div>
 <div class="container">
-	<img src="/images/overview/BlueShape.png">
+	<img style="margin-bottom: 10px;" src="/images/overview/BlueShape.png">
 	<div class="top-left"><p><b>2008</b></p></div>
 	<div class="text-box"><p>Set up one-stop Travel Agent Services</p></div>
-</div>&nbsp;
+</div>
 <div class="container">
-	<img src="/images/overview/RedShape.png">
+	<img style="margin-bottom: 10px;" src="/images/overview/RedShape.png">
 	<div class="top-left"><p><b>2009</b></p></div>
 	<div class="text-box"><p>Set up Asset Accounting Services</p></div>
-</div>&nbsp;
+</div>
 <div class="container">
-	<img src="/images/overview/BlueShape.png">
+	<img style="margin-bottom: 10px;" src="/images/overview/BlueShape.png">
 	<div class="top-left"><p><b>2009</b></p></div>
 	<div class="text-box"><p>Set up Service Management Team and Call Centre Helpdesk</p></div>
-</div>&nbsp;
+</div>
 <div class="container">
-	<img src="/images/overview/RedShape.png">
+	<img style="margin-bottom: 10px;" src="/images/overview/RedShape.png">
 	<div class="top-left"><p><b>2010</b></p></div>
 	<div class="text-box"><p>Launched Corporate Card Programme</p></div>
-</div>&nbsp;
+</div>
 <div class="container">
-	<img src="/images/overview/BlueShape.png">
+	<img style="margin-bottom: 10px;" src="/images/overview/BlueShape.png">
 	<div class="top-left"><p><b>2015</b></p></div>
 	<div class="text-box"><p>Implemented a new Customer Relationship Management system, VOICES</p></div>
-</div>&nbsp;
+</div>
 <div class="container">
-	<img src="/images/overview/RedShape.png">
+	<img style="margin-bottom: 10px;" src="/images/overview/RedShape.png">
 	<div class="top-left"><p><b>2017</b></p></div>
 	<div class="text-box"><p>Set up Electronic Personnel File services</p></div>
-</div>&nbsp;
+</div>
 <div class="container">
-	<img src="/images/overview/BlueShape.png">
+	<img style="margin-bottom: 10px;" src="/images/overview/BlueShape.png">
 	<div class="top-left"><p><b>2018</b></p></div>
 	<div class="text-box"><p>Launched virtual CabCharge and Grab-for-Work mobile apps for public officers' taxi and private car hire</p></div>
-</div>&nbsp;
+</div>
 <div class="container">
-	<img src="/images/overview/RedShape.png">
+	<img style="margin-bottom: 10px;" src="/images/overview/RedShape.png">
 	<div class="top-left"><p><b>2019</b></p></div>
 	<div class="text-box"><p>Migrated and rolled out Digital Workplace - Asset Management System (DWP-AMS)</p></div>
-</div>&nbsp;
+</div>
 <div class="container">
-	<img src="/images/overview/BlueShape.png">
+	<img style="margin-bottom: 10px;" src="/images/overview/BlueShape.png">
 	<div class="top-left"><p><b>2021</b></p></div>
 	<div class="text-box"><p>Supported the roll-out of HRP, the new central HR and payroll administration system for ministries</p></div>
-</div>&nbsp;
+</div>
