@@ -19,5 +19,5 @@ variant: markdown
 	<div class="column">
 		<img style="width: 400px; padding: 5px" src="/images/overview/CorporateImg10_Asian_.jpg"></div>
 	</div>
-</div>&nbsp;
+</div>
 <p>As a policy-ops-tech innovation platform and robotics &amp; automation (R&amp;A) lead for corporate and administrative services, VITAL also partners the functional leaders, as well as policy and system owners (namely, the Public Service Division, Accountant-General’s Department and Government Procurement Function Office) to transform Public Service corporate services.</p>
