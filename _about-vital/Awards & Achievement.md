@@ -24,6 +24,14 @@ description: ""
 	display: table;
 	clear: both;
 	}
+	
+	.column h3{
+	font-size: 25px;
+	}
+	
+	.column ul li{
+	font-size: 15px;
+	}
 </style>
 <div class="row">
 	<div class="column">
