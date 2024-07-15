@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/home/HomePageBanner6_V4_.png
   - infopic:
-      title: "<h2 style=font-size: 24px;>LEARN ABOUT VITAL</h2>"
+      title: "<h2 style=font-size: 15px;>LEARN ABOUT VITAL</h2>"
       description: VITAL is the Central Agency for Corporate Shared Services, tasked
         with transforming and delivering corporate shared services for the
         Singapore Public Service.
