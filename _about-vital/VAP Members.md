@@ -4,7 +4,7 @@ permalink: /vap-members/
 variant: markdown
 description: VITAL's VAP Members
 ---
-<table class="vap-table">
+<table class="vital-table-1">
    <tbody>
       <tr>
          <th>
@@ -23,7 +23,7 @@ description: VITAL's VAP Members
          </td>
       </tr>
       <tr>
-         <td>Mr Goh Teck Seng </td>
+         <td>Mr Goh Teck Seng</td>
          <td>
             DCE (Corporate &amp; Development), LTA
          </td>
@@ -38,7 +38,7 @@ description: VITAL's VAP Members
       </tr>
       <tr>
          <td>Mr Ng Hock Keong</td>
-         <td>DCE (Informcomm Technology &amp; Digital Services), CPFB   
+         <td>DCE (Infocomm Technology &amp; Digital Services), CPFB   
          </td>
       </tr>
       <tr>
@@ -51,19 +51,19 @@ description: VITAL's VAP Members
       </tr>
       <tr>
          <td>
-            Mr Terence Lee      
+             Mr Terence Lee     
          </td>
          <td>
-            Chief Procurement Officer, Asia Pacific, Procurement / Supply Chain Optimization, GEODIS Singapore Pte Ltd
+            Chief Procurement Officer, Asia Pacific, Procurement / Supply Chain Optimization, GEODIS Singapore
          </td>
       </tr>
       <tr>
          <td>
-            Ms Yvonne Chan
+             Ms Yvonne Chan       
          </td>
          <td>
             Chief Financial Officer, SMU
          </td>
-      </tr>
+		 </tr>
    </tbody>
 </table>
