@@ -37,14 +37,9 @@ variant: markdown
 	transform: rotateY(180deg);
 	border-radius: 50px;
 	}
+	
 	.column{
-	float: left;
-	width: 50%;
-	}
-	.row{
-	content: "";  
-  display: table;  
-  clear: both;
+	margin: auto;
 	}
 </style>
 <p>As the shared services centre for the Singapore public service, VITAL helps over 100 public agencies take care of their corporate and administrative processes in the areas of Human Resource (HR), Finance and Procurement. Our value-add lies in our understanding of government regulations and requirements in HR, Finance and Procurement, our ability to handle the systems and processes effectively, and our commitment to productivity and service excellence.</p>
