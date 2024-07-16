@@ -79,7 +79,7 @@ description: ""
 			<div class="card">
 		<img src="/images/media/VITALCitizen.jpg">
 		<div class="card-content">
-			<h3>VITAL Citizen Developers take the Global Stage</h3>
+			<h3 style="font0">VITAL Citizen Developers take the Global Stage</h3>
 			<p>Join us on a journey down memory lane as we reflect on Team VITAL’s incredible presence at Forward VI! We were proud to showcase our Citizen Developer automation journey internationally, sharing about empowering our team with new skills and tools to excel.</p>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/vital-citizen-developers-global-stage/">READ MORE</a>
 		</div>
@@ -87,7 +87,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/WorkTransformationPartV.jpg">
 		<div class="card-content">
 			<h3>Work Transformation Part V: Design Thinking</h3>
 			<p>At VITAL, we are dedicated to creating a better customer experience through innovation. This belief has ignited a transformative journey of Design Thinking for our team.</p>
