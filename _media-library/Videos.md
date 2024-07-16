@@ -55,7 +55,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/IdeasFest2024.jpg">
 		<div class="card-content">
 			<h3>VITAL at PST IdeasFest 2024</h3>
 			<p>VITAL is delighted that our WOG Recruitment AI SaaS project was selected for showcase at the recent PST IdeasFest. This opportunity allowed us to present our latest recruitment initiatives and engage in thought-provoking discussions, providing us with valuable insights and perspectives.</p>
