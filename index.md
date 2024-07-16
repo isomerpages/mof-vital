@@ -18,7 +18,7 @@ sections:
       url: /about-us/overview
       button: READ MORE
   - infopic:
-      title: "<b style=font-size: 20px; color #CC002B;>CAREERS AT VITAL</b>"
+      title: "<h5 style=color: #CC002B;>CAREERS AT VITAL</5>"
       description: As part of VITAL, you will play a key role in delivering corporate
         services to public agencies and officers.
       button: READ MORE
