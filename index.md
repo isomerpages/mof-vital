@@ -25,6 +25,7 @@ sections:
       url: /career/our-vitalites
       image: /images/home/CorporateImg2_Asian_.jpg
       alt: Working in VITAL
+      font-size: 20px
   - infopic:
       title: SERVICES
       id: infopic
