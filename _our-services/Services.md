@@ -38,7 +38,7 @@ variant: markdown
 	border-radius: 50px;
 	}
 	.column{
-	float: center;
+	float: left;
 	width: 50%;
 	}
 	.row{
