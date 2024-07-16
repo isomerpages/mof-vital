@@ -48,4 +48,4 @@ description: ""
 			<p style="transform: translateY(50px);"><b>Sound financial health</b></p>
 		</div>
 	</div>
-	<p>We welcome training providers who are interested to list their training courses on the HRPS Training module to submit your application with required document via this [link](https://form.gov.sg/6401a0ccf7a44b001111f524). There will be a one-time evaluation fee of $99 + prevailing GST payable to VITAL.</p></div>
+	<p>We welcome training providers who are interested to list their training courses on the HRPS Training module to submit your application with required document via this <a href="https://form.gov.sg/6401a0ccf7a44b001111f524">link</a>. There will be a one-time evaluation fee of $99 + prevailing GST payable to VITAL.</p></div>
