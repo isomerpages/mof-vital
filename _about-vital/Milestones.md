@@ -51,7 +51,7 @@ variant: markdown
 	<div class="text-box"><p>Launched Corporate Card Programme</p></div>
 </div>
 <div class="container">
-	<img style="margin-bottom: 5px;" src="/images/overview/BlueShape.png">
+	<img style="margin-bottom: 5px; height: 90px;" src="/images/overview/BlueShape.png">
 	<div style="font-size: 30px;" class="top-left"><p><b>2015</b></p></div>
 	<div class="text-box"><p>Implemented a new Customer Relationship Management system, VOICES</p></div>
 </div>
@@ -61,17 +61,17 @@ variant: markdown
 	<div class="text-box"><p>Set up Electronic Personnel File services</p></div>
 </div>
 <div class="container">
-	<img style="margin-bottom: 5px;" src="/images/overview/BlueShape.png">
+	<img style="margin-bottom: 5px; height: 110px;" src="/images/overview/BlueShape.png">
 	<div style="font-size: 30px;" class="top-left"><p><b>2018</b></p></div>
 	<div class="text-box"><p>Launched virtual CabCharge and Grab-for-Work mobile apps for public officers' taxi and private car hire</p></div>
 </div>
 <div class="container">
-	<img style="margin-bottom: 5px;" src="/images/overview/RedShape.png">
+	<img style="margin-bottom: 5px; height: 90px;" src="/images/overview/RedShape.png">
 	<div style="font-size: 30px;" class="top-left"><p><b>2019</b></p></div>
 	<div class="text-box"><p>Migrated and rolled out Digital Workplace - Asset Management System (DWP-AMS)</p></div>
 </div>
 <div class="container">
-	<img style="margin-bottom: 10px;" src="/images/overview/BlueShape.png">
+	<img style="margin-bottom: 10px; height: 110px;" src="/images/overview/BlueShape.png">
 	<div style="font-size: 30px;" class="top-left"><p><b>2021</b></p></div>
 	<div class="text-box"><p>Supported the roll-out of HRP, the new central HR and payroll administration system for ministries</p></div>
 </div>
