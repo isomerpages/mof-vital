@@ -39,7 +39,7 @@ service partners.</p>
 		<h4 style="color: #C10977"><b>Be a VITALite!</b></h4>
 		<p style="margin-top: 3px;">If you're a dynamic and innovative team player who aligns with out vision, be a part of the VITAL family in shaping the future of corporate shared service!</p>
 	</div>
-	<h4 style="color: #C10977;"><b>To Learn More</b></h4>
+	<h4 style="color: #C10977; margin: 20px;"><b>To Learn More</b></h4>
 <p>Follow us on <a href="https://lnkd.in/gSidSEj2">LinkedIn</a>! and click here to learn more about the <a href="careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=VITAL">opportunities</a> available in VITAL!</p>
 <img src="/images/2023_VITAL_s_Employer_Branding.png">
 </div>
