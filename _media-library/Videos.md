@@ -65,7 +65,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/Hackathon.jpg">
 		<div class="card-content">
 			<h3>Reflections from VITAL's Inaugural Bot Hackathon</h3>
 			<p>A look back at VITAL's inaugural RPA (Robot Process Automation) Bot Hackathon that took place last September – an event that empowered our staff to showcase their creative application of RPA skills acquired through training.</p>
@@ -77,7 +77,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/VITALCitizen.jpg">
 		<div class="card-content">
 			<h3>VITAL Citizen Developers take the Global Stage</h3>
 			<p>Join us on a journey down memory lane as we reflect on Team VITAL’s incredible presence at Forward VI! We were proud to showcase our Citizen Developer automation journey internationally, sharing about empowering our team with new skills and tools to excel.</p>
