@@ -26,27 +26,27 @@ variant: markdown
 	}
 </style>
 <div class="container">
-	<img style="margin-bottom: 5px;" src="/images/overview/RedShape.png">
+	<img style="margin-bottom: 5px; height: 90px;" src="/images/overview/RedShape.png">
 	<div class="top-left"><p style="font-size: 30px;"><b>2006</b></p></div>
 	<div class="text-box"><p>Official Launch of Centre for Shared Services in July</p></div>
 </div>
 <div class="container">
-	<img style="margin-bottom: 5px;" src="/images/overview/BlueShape.png">
+	<img style="margin-bottom: 5px; height: 90px;" src="/images/overview/BlueShape.png">
 	<div style="font-size: 30px;" class="top-left"><p><b>2008</b></p></div>
 	<div class="text-box"><p>Set up one-stop Travel Agent Services</p></div>
 </div>
 <div class="container">
-	<img style="margin-bottom: 5px;" src="/images/overview/RedShape.png">
+	<img style="margin-bottom: 5px; height: 90px;" src="/images/overview/RedShape.png">
 	<div style="font-size: 30px;" class="top-left"><p><b>2009</b></p></div>
 	<div class="text-box"><p>Set up Asset Accounting Services</p></div>
 </div>
 <div class="container">
-	<img style="margin-bottom: 5px;" src="/images/overview/BlueShape.png">
+	<img style="margin-bottom: 5px; height: 90px;" src="/images/overview/BlueShape.png">
 	<div style="font-size: 30px;" class="top-left"><p><b>2009</b></p></div>
 	<div class="text-box"><p>Set up Service Management Team and Call Centre Helpdesk</p></div>
 </div>
 <div class="container">
-	<img style="margin-bottom: 5px;" src="/images/overview/RedShape.png">
+	<img style="margin-bottom: 5px; height: 90px;" src="/images/overview/RedShape.png">
 	<div style="font-size: 30px;" class="top-left"><p><b>2010</b></p></div>
 	<div class="text-box"><p>Launched Corporate Card Programme</p></div>
 </div>
@@ -56,7 +56,7 @@ variant: markdown
 	<div class="text-box"><p>Implemented a new Customer Relationship Management system, VOICES</p></div>
 </div>
 <div class="container">
-	<img style="margin-bottom: 5px;" src="/images/overview/RedShape.png">
+	<img style="margin-bottom: 5px; height: 90px;" src="/images/overview/RedShape.png">
 	<div style="font-size: 30px;" class="top-left"><p><b>2017</b></p></div>
 	<div class="text-box"><p>Set up Electronic Personnel File services</p></div>
 </div>
