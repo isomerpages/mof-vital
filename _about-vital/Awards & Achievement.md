@@ -20,7 +20,7 @@ description: ""
 	}
 	
 	.column h3{
-	font-size: 23px;
+	font-size: 20px;
 	}
 	
 	.column ul li{
