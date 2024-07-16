@@ -33,7 +33,7 @@ variant: markdown
 service partners.</p>
 	</div>
 </div>
-<div style="margin 150px auto; width: 115%; margin-top: 1px;" class="wrapper">
+<div style="margin: 150px auto; width: 115%; margin-top: 1px;" class="wrapper">
 	<div class="text-box">
 		<img style="float: left; max-width: 320px; margin-top: 3px; margin: 10px;" src="/images/career/CorporateImg3_Asian_.jpg">
 		<h4 style="color: #C10977"><b>Be a VITALite!</b></h4>
