@@ -20,11 +20,12 @@ description: ""
 	}
 	
 	.column h3{
-	font-size: 25px;
+	font-size: 23px;
 	}
 	
 	.column ul li{
 	font-size: 15px;
+	line-height: 22px;
 	}
 </style>
 <div class="row">
