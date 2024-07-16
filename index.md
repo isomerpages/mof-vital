@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/home/HomePageBanner6_V4_.png
   - infopic:
-      title: "<h5 style=font-size: 20px; color: #C10977;><b>LEARN ABOUT VITAL</b></h5>"
+      title: "<h5 style=font-size: 20px; color: #CC002B;><b>LEARN ABOUT VITAL</b></h5>"
       description: VITAL is the Central Agency for Corporate Shared Services, tasked
         with transforming and delivering corporate shared services for the
         Singapore Public Service.
@@ -18,7 +18,7 @@ sections:
       url: /about-us/overview
       button: READ MORE
   - infopic:
-      title: "<h5 style=font-size: 20px;><b>CAREERS AT VITAL</b></h5>"
+      title: "<h5 style=font-size: 20px; color: #CC002B;><b>CAREERS AT VITAL</b></h5>"
       description: As part of VITAL, you will play a key role in delivering corporate
         services to public agencies and officers.
       button: READ MORE
@@ -26,7 +26,7 @@ sections:
       image: /images/home/CorporateImg2_Asian_.jpg
       alt: Working in VITAL
   - infopic:
-      title: "<h5 style=font-size: 20px;><b>SERVICES</b></h5>"
+      title: "<h5 style=font-size: 20px; #CC002B;><b>SERVICES</b></h5>"
       id: infopic
       description: VITAL helps over 100 public agencies take care of their corporate
         and administrative processes in the areas of Human Resource (HR),
@@ -36,7 +36,7 @@ sections:
       image: /images/home/CorporateImg8_Asiain_.jpg
       alt: Image alt text
   - infopic:
-      title:  "<h5 style=font-size: 20px;><b>PARTNER WITH VITAL</b></h5>"
+      title:  "<h5 style=font-size: 20px; #CC002B;><b>PARTNER WITH VITAL</b></h5>"
       id: infopic
       description: VITAL works with businesses and service providers to co-create and
         offer corporate services solutions to government agencies.
@@ -45,7 +45,7 @@ sections:
       image: /images/home/CorporateImg12_Asian_.jpg
       alt: Image alt text
   - infopic:
-      title: "<h5 style=font-size: 20px;><b>UPDATES</b></h5>"
+      title: "<h5 style=font-size: 20px; #CC002B;><b>UPDATES</b></h5>"
       id: infopic
       description: Stay updated with VITAL's latest news and achievements!
       button: READ MORE
