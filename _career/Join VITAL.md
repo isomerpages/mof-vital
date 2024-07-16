@@ -28,7 +28,7 @@ variant: markdown
 <div style="margin: 150px auto; width: 115%; margin-top: 1px;" class="wrapper">
 	<div class="text-box">
 		<img style="float: right; max-width: 320px; margin-top: 3px; margin: 10px;" src="/images/career/CorporateImg9_Asiain_.jpg">
-		<h4 style="color: #C10977"><b>Opportunities in VITAL</b></h4>
+		<h4><b>Opportunities in VITAL</b></h4>
 		<p style="margin-top: 3px; line-height: 25px;">As a member of the VITAL team, you’ll work alongside a team of officers committed to delivering quality services to public agencies. You will also get the opportunity to participate in projects to improve the workplace and the work processes to enhance the value proposition we offer to our 
 service partners.</p>
 	</div>
@@ -36,10 +36,10 @@ service partners.</p>
 <div style="margin: 150px auto; width: 115%; margin-top: 1px;" class="wrapper">
 	<div class="text-box">
 		<img style="float: left; max-width: 320px; margin-top: 3px; margin: 10px;" src="/images/career/CorporateImg3_Asian_.jpg">
-		<h4 style="color: #C10977"><b>Be a VITALite!</b></h4>
+		<h4><b>Be a VITALite!</b></h4>
 		<p style="margin-top: 3px; line-height: 25px;">If you're a dynamic and innovative team player who aligns with out vision, be a part of the VITAL family in shaping the future of corporate shared service!</p>
-	</div>
-	<h4 style="color: #C10977; margin: 20px;"><b>To Learn More</b></h4>
+	</div>&nbsp;
+	<h4 style="margin: 20px;"><b>To Learn More</b></h4>
 <p style="line-height: 25px;">Follow us on <a href="https://lnkd.in/gSidSEj2">LinkedIn</a>! and click here to learn more about the <a href="careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=VITAL">opportunities</a> available in VITAL!</p>
 <img src="/images/2023_VITAL_s_Employer_Branding.png">
 </div>
