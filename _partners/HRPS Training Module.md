@@ -16,7 +16,7 @@ description: ""
 	border-radius: 50%;
 	border: 4px solid #c10927;
 	text-align: center;
-	width: 900px;
+	width: 920px;
 	height: 200px;
 	transform: translateY(4%);
 	margin: 10px;
