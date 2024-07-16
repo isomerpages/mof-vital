@@ -6,6 +6,8 @@ links:
     collection: about-vital
   - title: Our Services
     collection: our-services
+  - title: Our Services
+    url: /our-services
   - title: Partners
     collection: partners
   - title: Media Library
