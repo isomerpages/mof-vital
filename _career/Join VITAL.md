@@ -11,7 +11,7 @@ variant: markdown
 	}
 </style>
 <b>Looking to make an impact in your career? Join VITAL, a department under the Ministry of Finance that is transforming the delivery of corporate services in the Singapore Public Service.</b>
-<div style="margin: 150px auto; width: 110%; margin-top: 10px;" class="wrapper">
+<div style="margin: 150px auto; width: 110%;" class="wrapper">
 	<img style="float: right; max-width: 320px; margin-top: 3px; margin: 10px;" src="/images/career/CorporateImg10.jpg">
 	<div class="text-box">
 		<h4><b>Why VITAL?</b></h4>
