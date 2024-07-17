@@ -12,7 +12,7 @@ description: ""
 	border: 4px solid #c10927;
 	text-align: center;
 	width: 400px;
-	height: 220px;
+	height: 250px;
 	transform: translateY(4%);
 	margin: 10px;
 	}
