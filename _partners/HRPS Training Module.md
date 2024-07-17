@@ -11,8 +11,8 @@ description: ""
 	border-radius: 50%;
 	border: 4px solid #c10927;
 	text-align: center;
-	width: 420px;
-	height: 200px;
+	width: 400px;
+	height: 300px;
 	transform: translateY(4%);
 	margin: 10px;
 	}
