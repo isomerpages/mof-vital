@@ -32,15 +32,15 @@ description: ""
 			<p style="transform: translateY(50px); font-size: 17px;"><b>Track record of delivering courses attended by participants from government agencies</b></p>
 		</div>
 		<div class="column">
-			<p style="transform: translateY(50px); font-size: 17px;"><b>Track record of qualified trainers with qualification in training delivery or teaching</b></p>
+			<p style="transform: translateY(50px); font-size: 18px;"><b>Track record of qualified trainers with qualification in training delivery or teaching</b></p>
 		</div>
 	</div>&nbsp;
 	<div class="row">
 		<div class="column">
-			<p style="transform: translateY(50px); font-size: 17px;"><b>Registered business entity with ACRA</b></p>
+			<p style="transform: translateY(50px); font-size: 18px;"><b>Registered business entity with ACRA</b></p>
 		</div>
 		<div class="column">
-			<p style="transform: translateY(50px); font-size: 17px;"><b>Sound financial health</b></p>
+			<p style="transform: translateY(50px); font-size: 18px;"><b>Sound financial health</b></p>
 		</div>
 	</div>
 	<p>We welcome training providers who are interested to list their training courses on the HRPS Training module to submit your application with required document via this <a href="https://form.gov.sg/6401a0ccf7a44b001111f524">link</a>. There will be a one-time evaluation fee of $99 + prevailing GST payable to VITAL.</p></div>
