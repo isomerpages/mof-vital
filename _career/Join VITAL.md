@@ -13,14 +13,14 @@ variant: markdown
 		<p style="line-height: 25px;">As the Central Agency for Corporate Shared Services, VITAL provides HR, Payroll, Finance, Procurement and other essential services to over 100,000 public officers and 100 government agencies. Also, as the Robotics &amp; Automation Lead for corporate and administrative services domain, we are at the forefront of driving innovation and technology adoption!</p>
 		</div>
 	</div>
-<div style="margin: 150px auto; width: 100%; margin-top: 1px;" class="wrapper">
+<div style="margin: 110px auto; width: 100%; margin-top: 1px;" class="wrapper">
 	<img style="float: left; max-width: 320px; margin: 30px; margin-top: 2px;" src="/images/career/CorporateImg4_Asian_.jpg">
 	<div class="text-box">
 		<h4><b>More than just an organisation</b></h4>
 		<p style="line-height: 25px;">We are a community committed to creating an inclusive environment that cares for our officers. We prioritise your growth and development, offering exciting career prospects and training opportunities in high-demand skills like Data Analytics, Design Thinking and Robotics Process Automation. We understand the importance of work-life harmony and strive to support our officers in achieving it.</p>
 		</div>
 </div>
-<div style="margin: 150px auto; width: 100%; margin-top: 1px;" class="wrapper">
+<div style="margin: 110px auto; width: 100%; margin-top: 1px;" class="wrapper">
 	<img style="float: right; max-width: 320px; margin: 30px; margin-top: 2px;" src="/images/career/CorporateImg9_Asiain_.jpg">
 	<div class="text-box">
 		<h4><b>Opportunities in VITAL</b></h4>
