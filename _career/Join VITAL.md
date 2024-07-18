@@ -10,7 +10,7 @@ variant: markdown
 <img style="float:right; max-width: 320px; margin: 30px; margin-top: 2px;" src="/images/career/CorporateImg10.jpg">
 	<div class="text-box">
 		<h4><b>Why VITAL?</b></h4>
-		<p style="line-height: 25px;">As the Central Agency for Corporate Shared Services, VITAL provides HR, Payroll, Finance, Procurement and other essential services to over 100,000 public officers and 100 government agencies. Also, as the Robotics &amp; Automation Lead for corporate and administrative services domain, we are at the forefront of driving innovation and technology adoption!</p>
+		<p style="line-height: 25px; justify-content: left;">As the Central Agency for Corporate Shared Services, VITAL provides HR, Payroll, Finance, Procurement and other essential services to over 100,000 public officers and 100 government agencies. Also, as the Robotics &amp; Automation Lead for corporate and administrative services domain, we are at the forefront of driving innovation and technology adoption!</p>
 		</div>
 	</div>
 <div style="margin: 150px auto; width: 100%;" class="wrapper">
