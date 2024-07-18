@@ -5,11 +5,6 @@ description: Join VITAL for a fulfilling career to deliver and improve corporate
   services to Singapore public agencies.
 variant: markdown
 ---
-<style>
-	.text-box h4{
-	color: #c10927;
-	}
-</style>
 <b>Looking to make an impact in your career? Join VITAL, a department under the Ministry of Finance that is transforming the delivery of corporate services in the Singapore Public Service.</b>
 <div style="margin: 150px auto; width: 110%; margin-top: 1px;" class="wrapper">
 	<img style="float: right; max-width: 320px; margin-top: 1px; margin: 1px;" src="/images/career/CorporateImg10.jpg">
