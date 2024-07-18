@@ -10,14 +10,14 @@ description: ""
 	}
 </style>
 <p>With more than 500 staff and still growing, VITAL is serving more than 100 public agencies (i.e. ministries, organs of state, or statutory boards) and over 100,000 public officers.</p>&nbsp;
-<div style="margin: 120px auto; width: 100%; margin-top: 1px;" class="wrapper">
+<div style="margin: 150px auto; width: 100%; margin-top: 1px;" class="wrapper">
 <img style="float:left; max-width: 320px; margin: 30px; margin-top: 2px;" src="/images/overview/CorporateImg7_Asian_.jpg">
 	<div class="text-box">
 		<h4><b>OUR VISION</b></h4>
 		<p>A globally recognised leader for corporate shared services</p>
 		</div>
 	</div>
-<div style="margin: 80px auto; width: 100%; margin-top: 1px;" class="wrapper">
+<div style="margin: 150px auto; width: 100%; margin-top: 1px;" class="wrapper">
 	<img style="float: right; max-width: 320px; margin: 30px; margin-top: 2px;" src="/images/overview/CorporateImg6_Asian_.jpg">
 	<div class="text-box">
 		<h4 style="color: #C10977"><b>OUR MISSION</b></h4>
