@@ -98,3 +98,25 @@ We are excited to have you lead us into new horizons!</p>
 		</div>
 	</div>
 </div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<img src="/images/VITAL___GovInsider_Festival_of_Innovation_Awards_2024.jpg">
+		<div class="card-content">
+			<h3>VITAL Wins Big at GovInsider Festival of Innovation Awards 2024 </h3>
+			<p>We are excited to share that VITAL has clinched the&nbsp;<b>Digital Agency of the Year</b>&nbsp;award!</p>
+			<a class="btn" href="https://www.vital.gov.sg/vital-wins-big-at-govinsider-festival-of-innovation-awards-2024/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+		<img src="/images/SMU_Case_Study.jpg">
+		<div class="card-content">
+			<h3>SMU Case Study on VITAL</h3>
+			<p>We are delighted to announce that the SMU Centre for Management Practice (Singapore Management University) has recently developed a case study on VITAL.</p>
+			<a class="btn" href="https://www.vital.gov.sg/smu-case-study-on-vital/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
