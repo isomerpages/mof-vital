@@ -22,7 +22,7 @@ sections:
       description: As part of VITAL, you will play a key role in delivering corporate
         services to public agencies and officers.
       button: READ MORE
-      url: /career/join-vital
+      url: /career/join-vital/
       image: /images/home/CorporateImg2_Asian_.jpg
       alt: Working in VITAL
   - infopic:
@@ -32,7 +32,7 @@ sections:
         and administrative processes in the areas of Human Resource (HR),
         Finance and Procurement.
       button: READ MORE
-      url: /our-portfolio/services
+      url: /our-portfolio/services/
       image: /images/home/CorporateImg8_Asiain_.jpg
       alt: Image alt text
   - infopic:
@@ -41,7 +41,7 @@ sections:
       description: VITAL works with businesses and service providers to co-create and
         offer corporate services solutions to government agencies.
       button: READ MORE
-      url: /demand-aggregation
+      url: /demand-aggregation/
       image: /images/home/CorporateImg12_Asian_.jpg
       alt: Image alt text
   - infopic:
@@ -49,7 +49,7 @@ sections:
       id: infopic
       description: Stay updated with VITAL's latest news and achievements!
       button: READ MORE
-      url: /publications
+      url: /publications/
       image: /images/home/CorporateImg11_Asian_.jpg
       alt: Image alt text
   - infobar:
