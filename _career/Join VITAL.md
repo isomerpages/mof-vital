@@ -28,7 +28,7 @@ variant: markdown
 service partners.</p>
 	</div>
 </div>
-<div style="margin: 150px auto; width: 100%; margin-top: 1px;" class="wrapper">
+<div style="margin: 110px auto; width: 100%; margin-top: 1px;" class="wrapper">
 	<img style="float: left; max-width: 320px; margin: 30px; margin-top: 2px;" src="/images/career/CorporateImg3_Asian_.jpg">
 	<div class="text-box">
 		<h4><b>Be a VITALite!</b></h4>
