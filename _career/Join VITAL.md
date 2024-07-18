@@ -6,14 +6,14 @@ description: Join VITAL for a fulfilling career to deliver and improve corporate
 variant: markdown
 ---
 <p><b>Looking to make an impact in your career? Join VITAL, a department under the Ministry of Finance that is transforming the delivery of corporate services in the Singapore Public Service.</b></p>&nbsp;
-<div style="margin: 150px auto; width: 100%; margin-top: 1px;" class="wrapper">
+<div style="margin: 110px auto; width: 100%; margin-top: 1px;" class="wrapper">
 <img style="float:right; max-width: 320px; margin: 30px; margin-top: 2px;" src="/images/career/CorporateImg10.jpg">
 	<div class="text-box">
 		<h4><b>Why VITAL?</b></h4>
-		<p style="line-height: 25px; justify-content: left;">As the Central Agency for Corporate Shared Services, VITAL provides HR, Payroll, Finance, Procurement and other essential services to over 100,000 public officers and 100 government agencies. Also, as the Robotics &amp; Automation Lead for corporate and administrative services domain, we are at the forefront of driving innovation and technology adoption!</p>
+		<p style="line-height: 25px;">As the Central Agency for Corporate Shared Services, VITAL provides HR, Payroll, Finance, Procurement and other essential services to over 100,000 public officers and 100 government agencies. Also, as the Robotics &amp; Automation Lead for corporate and administrative services domain, we are at the forefront of driving innovation and technology adoption!</p>
 		</div>
 	</div>
-<div style="margin: 150px auto; width: 100%;" class="wrapper">
+<div style="margin: 150px auto; width: 100%; margin-top: 1px;" class="wrapper">
 	<img style="float: left; max-width: 320px; margin: 30px; margin-top: 2px;" src="/images/career/CorporateImg4_Asian_.jpg">
 	<div class="text-box">
 		<h4><b>More than just an organisation</b></h4>
