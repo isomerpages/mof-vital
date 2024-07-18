@@ -98,4 +98,3 @@ We are excited to have you lead us into new horizons!</p>
 		</div>
 	</div>
 </div>
-	
