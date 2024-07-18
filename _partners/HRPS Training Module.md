@@ -32,7 +32,7 @@ description: ""
 			<p style="transform: translateY(50px); font-size: 17px;"><b>Track record of delivering courses attended by participants from government agencies</b></p>
 		</div>
 		<div class="column">
-			<p style="transform: translateY(50px); font-size: 17px;"><b>Track record of qualified trainers with qualification in training delivery or teaching</b></p>
+			<p style="transform: translateY(50px); font-size: 18px;"><b>Track record of qualified trainers with qualification in training delivery or teaching</b></p>
 		</div>
 	</div>&nbsp;
 	<div class="row">
