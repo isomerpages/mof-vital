@@ -96,4 +96,26 @@ description: ""
 	</div>
 		</div>
 	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<img src="/images/media/IdeasFest2024.jpg">
+		<div class="card-content">
+			<h3>Workforce Transformation IV: Data Analytics</h3>
+			<p>Are you ready for the future of work? At VITAL, we are leveraging data analytics to enhance our workflow processes and partnering with Ngee Ann Polytechnic to offer comprehensive training programs in this area.</p>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/wt4-data-analytics/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+		<img src="/images/media/Hackathon.jpg">
+		<div class="card-content">
+			<h3>Workforce Transformation III: RPA Citizen Developers</h3>
+			<p>VITAL (Ministry of Finance) is committed to empowering its officers to become RPA Citizen Developers, and we're excited to share more about this work transformation journey with you!</p>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/permalink/wt3-rpa-citizen-developers/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
 </div>
