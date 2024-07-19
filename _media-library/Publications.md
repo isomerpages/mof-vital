@@ -58,6 +58,7 @@ description: ""
 	border-radius: 4px;
 	color: white;
 	transition: .3s linear;
+	border: 0;
 	}
 </style>
 <div class="card-container">
