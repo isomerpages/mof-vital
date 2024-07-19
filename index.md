@@ -18,7 +18,7 @@ sections:
       url: /about-us/overview
       button: READ MORE
   - infopic:
-      title: <h4><b>CAREERS AT VITAL</b></h4>
+      title: <h4><b>CAREERS AT VITAL</b></h4><br>
       description: As part of VITAL, you will play a key role in delivering corporate
         services to public agencies and officers.
       button: READ MORE
@@ -26,7 +26,7 @@ sections:
       image: /images/home/CorporateImg2_Asian_.jpg
       alt: Working in VITAL
   - infopic:
-      title: <h4><b>SERVICES</b></h4>
+      title: <h4><b>SERVICES</b></h4><br>
       id: infopic
       description: VITAL helps over 100 public agencies take care of their corporate
         and administrative processes in the areas of Human Resource (HR),
@@ -36,7 +36,7 @@ sections:
       image: /images/home/CorporateImg8_Asiain_.jpg
       alt: Image alt text
   - infopic:
-      title: <h4><b>PARTNER WITH VITAL</b></h4>
+      title: <h4><b>PARTNER WITH VITAL</b></h4><br>
       id: infopic
       description: VITAL works with businesses and service providers to co-create and
         offer corporate services solutions to government agencies.
@@ -45,7 +45,7 @@ sections:
       image: /images/home/CorporateImg12_Asian_.jpg
       alt: Image alt text
   - infopic:
-      title: <h4><b>UPDATES</b></h4>
+      title: <h4><b>UPDATES</b></h4><br>
       id: infopic
       description: Stay updated with VITAL's latest news and achievements!
       button: READ MORE
