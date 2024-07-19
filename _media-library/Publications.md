@@ -59,7 +59,8 @@ description: ""
 	color: white;
 	transition: .3s linear;
 	border: 0;
-	margin: 10px auto;
+	margin: 20px auto;
+
 	}
 </style>
 <div class="card-container">
@@ -130,5 +131,5 @@ We are excited to have you lead us into new horizons!</p>
 	</div>
 		</div>
 	</div>
-	<button class="load-more">Load More</button>
 </div>
+<button class="load-more">Load More</button>
