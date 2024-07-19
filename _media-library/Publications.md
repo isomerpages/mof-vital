@@ -59,6 +59,7 @@ description: ""
 	color: white;
 	transition: .3s linear;
 	border: 0;
+	margin: 10px auto;
 	}
 </style>
 <div class="card-container">
