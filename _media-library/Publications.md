@@ -50,6 +50,14 @@ description: ""
   display: table;  
   clear: both;
 	}
+	.load-more{
+	display: inline-block;
+	padding: 8px 16px;
+	background-color: #CC002B;
+	text-decoration: none;
+	border-radius: 4px;
+	color: white;
+	}
 </style>
 <div class="card-container">
 	<div class="row">
@@ -119,4 +127,5 @@ We are excited to have you lead us into new horizons!</p>
 	</div>
 		</div>
 	</div>
+	<button class="load-more">Load More</button>
 </div>
