@@ -150,7 +150,7 @@ We are excited to have you lead us into new horizons!</p>
 			<div class="card">
 		<img src="/images/VITAL_Leadership_Summit_06022024.jpg">
 		<div class="card-content">
-			<h3>VITIAL Leadership Summit: Navigating the Future of Leadership</h3>
+			<h3>VITAL Leadership Summit: Navigating the Future of Leadership</h3>
 			<p>Under the theme "Navigating the Future of VITAL Leadership", leaders in VITAL engaged in an enriching afternoon of insights and open discussions, culminating in an interactive team activity involving flying drones and building drone paths.</p>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/vital-leadership-summit/">READ MORE</a>
 		</div>
