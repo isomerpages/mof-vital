@@ -61,6 +61,7 @@ description: ""
 	border-radius: 4px;
 	color: white;
 	margin: 15px auto;
+	border: 0;
 	}
 	.load-more:hover{
 	opacity: 0.8;
