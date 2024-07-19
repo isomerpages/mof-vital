@@ -57,6 +57,7 @@ description: ""
 	text-decoration: none;
 	border-radius: 4px;
 	color: white;
+	transition: .3s linear;
 	}
 </style>
 <div class="card-container">
