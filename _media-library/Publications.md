@@ -157,5 +157,5 @@ We are excited to have you lead us into new horizons!</p>
 	</div>
 		</div>
 	</div>
+	<button class="load-more">Load More</button>
 </div>
-<button class="load-more">Load More</button>
