@@ -40,6 +40,9 @@ description: ""
 	border-radius: 4px;
 	color: white;
 	}
+	.card-content .btn:hover{
+	opacity: 0.8;
+	}
 	.column{
 	float: left;
 	width: 50%;
@@ -58,6 +61,9 @@ description: ""
 	border-radius: 4px;
 	color: white;
 	margin: 15px auto;
+	}
+	.load-more:hover{
+	opacity: 0.8;
 	}
 </style>
 <div class="card-container">
