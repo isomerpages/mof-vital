@@ -50,17 +50,6 @@ description: ""
   display: table;  
   clear: both;
 	}
-	.load-more{
-	display: inline-block;
-	padding: 8px 16px;
-	background-color: #CC002B;
-	text-decoration: none;
-	border-radius: 4px;
-	color: white;
-	transition: .3s linear;
-	border: 0;
-	margin: 20px auto;
-	}
 </style>
 <div class="card-container">
 	<div class="row">
