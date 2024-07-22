@@ -4,7 +4,6 @@ permalink: /publications/
 variant: markdown
 description: ""
 ---
-
 <style>
 	.card-container{
 	display: flex;
@@ -63,6 +62,7 @@ description: ""
 	color: white;
 	margin: 15px auto;
 	border: 0;
+	font-family: Helvetica;
 	}
 	.load-more:hover{
 	opacity: 0.8;
