@@ -133,12 +133,12 @@ description: ""
 			<div class="card">
 		<img src="/images/media/Hackathon.jpg">
 		<div class="card-content">
-			<h3>Workforce Transformation III: RPA Citizen Developers</h3>
-			<p>VITAL (Ministry of Finance) is committed to empowering its officers to become RPA Citizen Developers, and we're excited to share more about this work transformation journey with you!</p>
-			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/permalink/wt3-rpa-citizen-developers/">READ MORE</a>
+			<h3>Workforce Transformation Part I: Introduction</h3>
+			<p>At VITAL (Ministry of Finance), we understand that true business transformation revolves around our people.</p>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/permalink/wt1-introduction/">READ MORE</a>
 		</div>
 	</div>
 		</div>
 	</div>
 </div>
-<button class="load-more"></button>
+<button class="load-more">Load More</button>
