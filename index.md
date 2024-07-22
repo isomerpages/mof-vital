@@ -7,7 +7,15 @@ description: VITAL is the shared services arm of the Singapore Government. We
 permalink: /
 sections:
   - hero:
-      background: images/home/HomePageBanner6_V4_.png
+      background: <div class="swiper mySwiper">
+  <div class="swiper-wrapper">
+    <div class="swiper-slide slide_1"><img src="/images/home/HomePageBanner4_V4_.png"></div>
+    <div class="swiper-slide slide_2"><img src="/images/home/HomepageBanner5_V4_.png"></div>
+    <div class="swiper-slide slide_3"><img src="/imgaes/home/HomePagBannerV6_V4_.png"></div>
+  </div>
+  <div class="swiper-button-next"></div>
+  <div class="swiper-button-prev"></div>
+</div>
   - infopic:
       title: <h4><b>LEARN ABOUT VITAL</b></h4><br>
       description: VITAL is the Central Agency for Corporate Shared Services, tasked
@@ -59,3 +67,15 @@ sections:
         src="https://www.youtube.com/embed/RgqYee3O6Bo?rel=0&showinfo=0"
         allow="encrypted-media" allowfullscreen=""></iframe></div>
 ---
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
+
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+<script>let swiper = new Swiper(".mySwiper", {
+   navigation: {
+     nextEl: ".swiper-button-next",
+     prevEl: ".swiper-button-prev",
+   },
+ });
+</script>
