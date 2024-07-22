@@ -118,4 +118,27 @@ description: ""
 	</div>
 		</div>
 	</div>
+		<div class="row">
+		<div class="column">
+			<div class="card">
+		<img src="/images/media/IdeasFest2024.jpg">
+		<div class="card-content">
+			<h3>Workforce Transformation Part II: Robotic Process Automation, RPA</h3>
+			<p>Meet Amalina and Everlynn, two members of VITAL's HR Services team who have recently acquired low-code skills in RPA as part of the organization's workforce capability development program.</p>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/permalink/wt2-robotic-process-automation/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+		<img src="/images/media/Hackathon.jpg">
+		<div class="card-content">
+			<h3>Workforce Transformation III: RPA Citizen Developers</h3>
+			<p>VITAL (Ministry of Finance) is committed to empowering its officers to become RPA Citizen Developers, and we're excited to share more about this work transformation journey with you!</p>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/permalink/wt3-rpa-citizen-developers/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
 </div>
+<button class="load-more"></button>
