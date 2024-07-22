@@ -157,5 +157,27 @@ We are excited to have you lead us into new horizons!</p>
 	</div>
 		</div>
 	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<img src="/images/ST_Podcast___CE_Dennis.png">
+		<div class="card-content">
+			<h3>The Straits Times Podcast: How a back office agency is reinventing its 500 humdrum jobs</h3>
+			<p>Synopsis: Every first Monday of the month, listen to the Work Talk podcast to help you work smarter, think deeper and get ahead in your work life.</p>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/st-podcast-how-a-back-office-is-reinventing-its-500-humdrum-jobs/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+		<img src="/images/VITAL_Sir_Alex_Visit.jpg">
+		<div class="card-content">
+			<h3>A Fruitful Exchange with Sir Alex Chisholm and the UK Civil Service</h3>
+			<p>It was a great honour to welcome Sir Alex Chisholm, the Permanent Secretary for the Cabinet Office, and Chief Operating Officer for the UK Civil Service, along with the political team from the British High Commission Singapore, to VITAL's office.</p>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/vital-sir-alex-chisholm-uk-civil-service/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
 </div>
 <button class="load-more">Load More</button>
