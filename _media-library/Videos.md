@@ -50,6 +50,19 @@ description: ""
   display: table;  
   clear: both;
 	}
+	.load-more{
+	display: inline-block;
+	padding: 8px 16px;
+	background-color: #CC002B;
+	text-decoration: none;
+	border-radius: 4px;
+	color: white;
+	margin: 15px auto;
+	border: 0;
+	}
+	.load-more:hover{
+	opacity: 0.8;
+	}
 </style>
 <div class="card-container">
 	<div class="row">
@@ -141,4 +154,6 @@ description: ""
 		</div>
 	</div>
 </div>
-<button class="load-more">Load More</button>
+<div class="load-more">
+	<button>Load More</button>
+</div>
