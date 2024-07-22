@@ -4,7 +4,7 @@ permalink: /publications/
 variant: markdown
 description: ""
 ---
-
+<script src="https://cdnjs.cloudflare.com/ajax/libs/react/18.3.1/cjs/react.production.min.js" integrity="sha512-wGcZXj/wGy0PrK1PUJpABds0CNVMN5FOvx6RJ4VFX6d1cP21LHdn32pqqHZxnlAyTY3MN6agJQnV/RkWiOTZzw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <style>
 	.card-container{
 	display: flex;
