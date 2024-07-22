@@ -62,7 +62,6 @@ description: ""
 	color: white;
 	margin: 15px auto;
 	border: 0;
-	font-family: Helvetica;
 	}
 	.load-more:hover{
 	opacity: 0.8;
@@ -181,6 +180,4 @@ We are excited to have you lead us into new horizons!</p>
 		</div>
 	</div>
 </div>
-<div class="load-more">
-	<button>Load More</button>
-</div>
+<button class="load-more">Load More</button>
