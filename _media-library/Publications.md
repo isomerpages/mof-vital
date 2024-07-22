@@ -4,6 +4,7 @@ permalink: /publications/
 variant: markdown
 description: ""
 ---
+
 <style>
 	.card-container{
 	display: flex;
