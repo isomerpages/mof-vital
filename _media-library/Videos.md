@@ -4,7 +4,6 @@ permalink: /videos/
 variant: markdown
 description: ""
 ---
-
 <style>
 	.card-container{
 	display: flex;
