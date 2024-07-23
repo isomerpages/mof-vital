@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2109600c-8919-4669-be27-dbb89f062643)---
+---
 layout: homepage
 title: VITAL
 description: VITAL is the shared services arm of the Singapore Government. We
