@@ -8,6 +8,27 @@ permalink: /
 sections:
   - hero:
       background: /images/home/HomePageBanner6_V4_.png
+    <script src="https://unpkg.com/tiny-swiper@latest"></script>
+    <!-- Slider main container -->
+<div class="swiper-container">
+    <!-- Additional required wrapper -->
+    <div class="swiper-wrapper">
+        <!-- Slides -->
+        <div class="swiper-slide"><img src="/images/home/HomePageBanner4_V4_.png"></div>
+        <div class="swiper-slide"><img src="/images/home/HomePageBanner5_V4_.png"></div>
+        <div class="swiper-slide"><img src="/images/home/HomePageBanner6_V4_.png"></div>
+    </div>
+    <!-- If we need pagination -->
+    <div class="swiper-pagination"></div>
+</div>
+<script>import Swiper, {
+    SwiperPluginLazyload,
+    SwiperPluginPagination
+} from 'tiny-swiper'
+
+Swiper.use([ SwiperPluginLazyload, SwiperPluginPagination ])
+
+const swiper = new Swiper(swiperContainer: HTMLElement | string, parameters?: TinySwiperParameters)</script>
   - infopic:
       title: <h4><b>LEARN ABOUT VITAL</b></h4><br>
       description: VITAL is the Central Agency for Corporate Shared Services, tasked
