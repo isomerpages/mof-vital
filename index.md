@@ -76,7 +76,7 @@ sections:
 <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
 <style>
     .swiper-container {
-        width: 100%;
+        width: 50%;
         height: 100vh;
     }
     .swiper-slide {
