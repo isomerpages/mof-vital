@@ -156,3 +156,11 @@ description: ""
 	</div>
 </div>
 <button class="load-more">Load More</button>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script>
+	$(document).ready(function{
+		$(".card").slide(0,4).fadeIn();
+		$(".load-more").click(function{ $(".card").slide(0,12).fadeIn(); $(this).fadeOut();
+		});
+	});
+</script>
