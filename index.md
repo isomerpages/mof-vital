@@ -7,7 +7,7 @@ description: VITAL is the shared services arm of the Singapore Government. We
 permalink: /
 sections:
   - hero:
-      background: /images/home/HomePageBanner4_V4_1_.png
+      background: /images/home/HomePageBanner.gif
   - infopic:
       title: <h4><b>LEARN ABOUT VITAL</b></h4><br>
       description: VITAL is the Central Agency for Corporate Shared Services, tasked
@@ -59,44 +59,3 @@ sections:
         src="https://www.youtube.com/embed/RgqYee3O6Bo?rel=0&showinfo=0"
         allow="encrypted-media" allowfullscreen=""></iframe></div>
 ---
-<!-- Hero Section with Swiper Slider -->
-<div class="swiper-container">
-<div class="swiper-wrapper">
-<div class="swiper-slide" style="background-image:url(/images/home/HomePageBanner5_V4_.png)"></div>
-<div class="swiper-slide" style="background-image:url(/images/home/HomePageBanner6_V4_.png)"></div>
-</div>
-<!-- Add Pagination -->
-<div class="swiper-pagination"></div>
-<!-- Add Navigation -->
-<div class="swiper-button-next"></div>
-<div class="swiper-button-prev"></div>
-</div>
- 
-<!-- Include Swiper's CSS and JS -->
-<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
-<style>
-    .swiper-container {
-        width: 100%;
-        height: 100vh;
-    }
-    .swiper-slide {
-        background-size: cover;
-        background-position: center;
-    }
-</style>
- 
-<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
-<script>
-    var swiper = new Swiper('.swiper-container', {
-        loop: true,
-        pagination: {
-            el: '.swiper-pagination',
-            clickable: true,
-        },
-        navigation: {
-            nextEl: '.swiper-button-next',
-            prevEl: '.swiper-button-prev',
-        },
-      
-    });
-</script>
