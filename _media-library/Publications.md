@@ -4,8 +4,6 @@ permalink: /publications/
 variant: markdown
 description: ""
 ---
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <style>
 	.card-container{
 	display: flex;
@@ -17,6 +15,7 @@ description: ""
 	border-radius: 8px;
 	overflow: hidden;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.2);
+	display: none;
 	}
 	.card img{
 	width: 100%;
@@ -184,18 +183,3 @@ We are excited to have you lead us into new horizons!</p>
 	</div>
 </div>
 <button class="load-more">Load More</button>
-<script>
-$(document ).ready(function () {
-		$(".row").slice(0, 2).show();
-		if ($(".column:hidden").length != 0) {
-			$(".load-more").show();
-		}		
-		$(".load-more").on('click', function (e) {
-			e.preventDefault();
-			$(".row:hidden").slice(0, 2).slideDown();
-			if ($(".column:hidden").length == 0) {
-				$(".load-more").fadeOut('slow');
-			}
-		});
-	});
-</script>
