@@ -15,7 +15,6 @@ description: ""
 	border-radius: 8px;
 	overflow: hidden;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.2);
-	display: none;
 	}
 	.card img{
 	width: 100%;
@@ -183,12 +182,3 @@ We are excited to have you lead us into new horizons!</p>
 	</div>
 </div>
 <button class="load-more">Load More</button>
-<script>
-	$(document).ready(function{
-		$(".card").slice(0,4).fadeIn();
-		$(".load-more").click(function{
-			$(".card").slice(0,12).fadeIn();
-			$(this).fadeOut();
-		});
-	});
-</script>
