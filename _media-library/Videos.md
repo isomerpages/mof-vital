@@ -59,6 +59,7 @@ description: ""
 	color: white;
 	margin: 15px auto;
 	border: 0;
+	transition: 0.3s linear;
 	}
 	.load-more:hover{
 	opacity: 0.8;
@@ -154,3 +155,4 @@ description: ""
 		</div>
 	</div>
 </div>
+<button class="load-more">Load More</button>
