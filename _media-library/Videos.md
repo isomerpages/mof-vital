@@ -154,4 +154,3 @@ description: ""
 		</div>
 	</div>
 </div>
-	<button class="load-more">Load More</button>
