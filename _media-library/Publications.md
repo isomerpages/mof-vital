@@ -4,7 +4,7 @@ permalink: /publications/
 variant: markdown
 description: ""
 ---
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <style>
 	.card-container{
 	display: flex;
@@ -182,13 +182,6 @@ We are excited to have you lead us into new horizons!</p>
 		</div>
 	</div>
 </div>
-<button class="load-more">Load More</button>
+<a href=#><button class="load-more">Load More</button></a>
 <script>
-	$(document).ready(function{
-		$(".row").slice(0,4).fadeIn();
-		$(".load-more").click(function{
-			$(".row").slice(0,12).fadeIn();
-			$(this).fadeOut();
-		});
-	});
 </script>
