@@ -112,7 +112,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="/images/media/IdeasFest2024.jpg">
+		<img src="/images/media/WorkTransformationPartIV.jpg">
 		<div class="card-content">
 			<h3>Workforce Transformation IV: Data Analytics</h3>
 			<p>Are you ready for the future of work? At VITAL, we are leveraging data analytics to enhance our workflow processes and partnering with Ngee Ann Polytechnic to offer comprehensive training programs in this area.</p>
@@ -122,7 +122,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-		<img src="/images/media/Hackathon.jpg">
+		<img src="/images/media/WorkTransformationPartIII.jpg">
 		<div class="card-content">
 			<h3>Workforce Transformation III: RPA Citizen Developers</h3>
 			<p>VITAL (Ministry of Finance) is committed to empowering its officers to become RPA Citizen Developers, and we're excited to share more about this work transformation journey with you!</p>
@@ -134,7 +134,7 @@ description: ""
 		<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="/images/media/IdeasFest2024.jpg">
+		<img src="/images/media/WorkTransformationPartII.jpg">
 		<div class="card-content">
 			<h3>Workforce Transformation Part II: Robotic Process Automation, RPA</h3>
 			<p>Meet Amalina and Everlynn, two members of VITAL's HR Services team who have recently acquired low-code skills in RPA as part of the organization's workforce capability development program.</p>
@@ -144,7 +144,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-		<img src="/images/media/Hackathon.jpg">
+		<img src="/images/media/WorkTransformationPartI.jpg">
 		<div class="card-content">
 			<h3>Workforce Transformation Part I: Introduction</h3>
 			<p>At VITAL (Ministry of Finance), we understand that true business transformation revolves around our people.</p>
