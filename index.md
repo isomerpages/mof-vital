@@ -7,7 +7,6 @@ description: VITAL is the shared services arm of the Singapore Government. We
 permalink: /
 sections:
   - hero:
-      background:
     <script>
       let swiper = new Swiper(".mySwiper", {
    navigation: {
