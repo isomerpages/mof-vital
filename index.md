@@ -16,6 +16,11 @@ sections:
    },
  });
 </script>
+<style>
+  div.swiper-button-next, div.swiper-button-prev {
+  top: 50%
+}
+</style>
     <div class="swiper mySwiper">
   <div class="swiper-wrapper">
     <div class="swiper-slide slide_1">
