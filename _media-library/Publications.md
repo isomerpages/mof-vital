@@ -183,9 +183,7 @@ We are excited to have you lead us into new horizons!</p>
 		</div>
 	</div>
 </div>
-<div class="load-more">
-	<a href="#">Load More</a>
-</div>
+<button class="load-more">Load More</button>
 <script>
 $(document ).ready(function () {
 		$(".row").slice(0, 2).show();
