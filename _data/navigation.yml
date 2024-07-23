@@ -6,9 +6,9 @@ links:
     collection: about-vital
   - title: Our Services
     collection: our-services
+  - title: Media Library
+    resource_room: true
   - title: Partners
     collection: partners
-  - title: Media Library
-    collection: media-library
   - title: Career
     collection: career
