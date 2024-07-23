@@ -183,3 +183,12 @@ We are excited to have you lead us into new horizons!</p>
 	</div>
 </div>
 <button class="load-more">Load More</button>
+<script>
+	$(document).ready(function{
+		$(".card").slice(0,4).fadeIn();
+		$(".load-more").click(function{
+			$(".card").slice(0,12).fadeIn();
+			$(this).fadeOut();
+		});
+	});
+</script>
