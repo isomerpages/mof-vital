@@ -6,7 +6,8 @@ description: VITAL is the shared services arm of the Singapore Government. We
   efficiency and effectiveness.
 permalink: /
 sections:
-  - hero: /images/home/HomePageBanner6_V4_.png
+  - hero:
+  - background: /images/home/HomePageBanner6_V4_.png
   - infopic:
       title: <h4><b>LEARN ABOUT VITAL</b></h4><br>
       description: VITAL is the Central Agency for Corporate Shared Services, tasked
