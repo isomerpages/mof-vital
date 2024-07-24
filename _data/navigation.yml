@@ -12,3 +12,5 @@ links:
     resource_room: true
   - title: Career
     collection: career
+  - title: Media Library
+    collection: media-library
