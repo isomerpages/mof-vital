@@ -253,4 +253,24 @@ description: ""
 	</div>
 		</div>
 	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<img src="/images/media/img-20231025-wa0040.jpg">
+		<div class="card-content">
+			<h3>VITAL awarded the SHARE GOLD Community Chest Award</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/vital-share-gold-cca/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+				<img src="/images/media/hcs-wsg_oct2023.png">
+		<div class="card-content">
+			<h3>VITAL Chief Executive Shares Insights on Workforce Growth at HCS MasterClass Webinar</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/vital-workforce-growth-hcs-masterclass/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
 </div>
