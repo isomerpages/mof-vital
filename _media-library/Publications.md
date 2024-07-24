@@ -245,10 +245,10 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="">
+				<img src="/images/mtxx_mh20231026_141128355.jpg">
 		<div class="card-content">
-			<h3>DCE presented VITAL's shared services for Singapore at UK Gov Conference 2023 in Leeds</h3><br>
-			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/dce-vital-uk-gov-conference-2023/">READ MORE</a>
+			<h3>VITAL wins SHRI Award for Learning &amp; Development with Coaching &amp; Mentoring</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/shri-award-learning-development-coaching-mentoring/">READ MORE</a>
 		</div>
 	</div>
 		</div>
