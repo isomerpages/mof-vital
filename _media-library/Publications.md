@@ -177,7 +177,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="images/Enabling_Mark_Platinum.jpg">
+		<img src="/images/Enabling_Mark_Platinum.jpg">
 		<div class="card-content">
 			<h3>Enabling Mark Platinum, highest level of accreditation for VITAL</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/enabling-mark-platinum-vital/">READ MORE</a>
