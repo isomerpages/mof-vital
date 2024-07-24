@@ -313,4 +313,123 @@ description: ""
 	</div>
 		</div>
 	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<img src="/images/media/img-20231025-wa0040.jpg">
+		<div class="card-content">
+			<h3>Public sector automation webinar series | session 3</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/webinar3/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+				<img src="/images/media/hcs-wsg_oct2023.png">
+		<div class="card-content">
+			<h3>VITAL's ReVITALise townhall on 14 July 2023</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/townhall-0714/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<img src="/images/media/img-20231025-wa0040.jpg">
+		<div class="card-content">
+			<h3>VITAL receives Workforce Transformation Award</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/workforce-transformation/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+				<img src="/images/media/hcs-wsg_oct2023.png">
+		<div class="card-content">
+			<h3>Senior Minister of State Chee Hong Tat's visit to VITAL</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/sms-chee/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<img src="/images/media/img-20231025-wa0040.jpg">
+		<div class="card-content">
+			<h3>CE's participation in the Human Capital Singapore & Workforce Singapore Masterclass</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/hcs-masterclass-june2023/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+				<img src="/images/media/hcs-wsg_oct2023.png">
+		<div class="card-content">
+			<h3>CE's presentation at the Shared Services Forum for Agency Implementation Leaders</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/sslc-2023/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<img src="/images/media/img-20231025-wa0040.jpg">
+		<div class="card-content">
+			<h3>CE’s participation in panel discussion at Knowledge 2023</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/knowledge-2023/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+				<img src="/images/media/hcs-wsg_oct2023.png">
+		<div class="card-content">
+			<h3>VITAL's food donation drive</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/food-donation-drive/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<img src="/images/media/img-20231025-wa0040.jpg">
+		<div class="card-content">
+			<h3>VITAL receives Recognition of Excellence Award 2023</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/recognition-of-excellence-award-2023/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+				<img src="/images/media/hcs-wsg_oct2023.png">
+		<div class="card-content">
+			<h3>D(CS) receives Enabling Champion Award</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/enabling-champion-award/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<div class="card-content">
+			<h3>CE's speech at Staff Recognition Ceremony 2023</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/ce-speech-staff-recognition-ceremony-2023/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+				<img src="/images/media/hcs-wsg_oct2023.png">
+		<div class="card-content">
+			<h3>SDDA Graduation Ceremony in May 2023</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/sdda-graduation-may-2023/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
 </div>
