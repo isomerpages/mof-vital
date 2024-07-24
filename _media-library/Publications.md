@@ -432,4 +432,144 @@ description: ""
 	</div>
 		</div>
 	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<img src="/images/media/img-20231025-wa0040.jpg">
+		<div class="card-content">
+			<h3>RPA citizen developer training</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/rpatraining/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+				<img src="/images/media/hcs-wsg_oct2023.png">
+		<div class="card-content">
+			<h3>Bot building workshop</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/bot-workshop/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<img src="/images/media/img-20231025-wa0040.jpg">
+		<div class="card-content">
+			<h3>Service Delivery Community of Practice: Leveraging RPA to improve work productivity</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/sharing-service-leaders/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+				<img src="/images/media/hcs-wsg_oct2023.png">
+		<div class="card-content">
+			<h3>Public sector automation webinar series | session 2</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/webinar2/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<img src="/images/media/img-20231025-wa0040.jpg">
+		<div class="card-content">
+			<h3>Article by OpenGov: Modernising, transforming and digitalising corporate shared services</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/opengov-modernising-transforming-digitalising/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+				<img src="/images/media/hcs-wsg_oct2023.png">
+		<div class="card-content">
+			<h3>Government Trends 2023 by the Deloitte Centre for Government Insights</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/deloitte-government-trends-2023/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<img src="/images/media/img-20231025-wa0040.jpg">
+		<div class="card-content">
+			<h3>Sharing of VITAL's inclusive hiring journey with public officers</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/alphasoc-visit/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+				<img src="/images/media/hcs-wsg_oct2023.png">
+		<div class="card-content">
+			<h3>Visit by the Accountant General of Malaysia</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/malaysianag/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<img src="/images/media/img-20231025-wa0040.jpg">
+		<div class="card-content">
+			<h3>Article by GovInsider: Key lessons from the Singapore government's WOG cloud migration strategy</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/wog-cloud-migration-strategy/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+				<img src="/images/media/hcs-wsg_oct2023.png">
+		<div class="card-content">
+			<h3>VITAL Newsletter Feb 2023</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/newsletter-feb-2023/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<img src="/images/media/img-20231025-wa0040.jpg">
+		<div class="card-content">
+			<h3>FY2023 MOF Committee of Supply Debate Speech by Senior Minister of State Mr Chee Hong Tat</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/fy2023-supply-debate-speech/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+				<img src="/images/media/hcs-wsg_oct2023.png">
+		<div class="card-content">
+			<h3>CE's talks to senior officials from Cambodia</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/cambodia/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<img src="/images/media/img-20231025-wa0040.jpg">
+		<div class="card-content">
+			<h3>D(SIC)’s participation in GovInsider’s panel discussion on Cloud solutions</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/govinsider-cloud-solutions/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+				<img src="/images/media/hcs-wsg_oct2023.png">
+		<div class="card-content">
+			<h3>Article by PSD Challenge: Towards an inclusive workplace</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/psd-towards-an-inclusive-workplace/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
 </div>
