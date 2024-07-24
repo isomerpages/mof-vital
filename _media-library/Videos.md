@@ -50,20 +50,6 @@ description: ""
   display: table;  
   clear: both;
 	}
-	.load-more{
-	display: inline-block;
-	padding: 8px 16px;
-	background-color: #CC002B;
-	text-decoration: none;
-	border-radius: 4px;
-	color: white;
-	margin: 15px auto;
-	border: 0;
-	transition: 0.3s linear;
-	}
-	.load-more:hover{
-	opacity: 0.8;
-	}
 </style>
 <div class="card-container">
 	<div class="row">
@@ -155,12 +141,3 @@ description: ""
 		</div>
 	</div>
 </div>
-<button class="load-more">Load More</button>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-<script>
-	$(document).ready(function{
-		$(".card").slide(0,4).fadeIn();
-		$(".load-more").click(function{ $(".card").slide(0,12).fadeIn(); $(this).fadeOut();
-		});
-	});
-</script>
