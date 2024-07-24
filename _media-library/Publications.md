@@ -222,5 +222,5 @@ description: ""
 			<h3>VITAL invited to speak at MFA SCP Programme's RPA for Leaders</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/mfa-scp-rpa-leaders-course/">READ MORE</a>
 		</div>
-	</div
+			</div>
 </div>
