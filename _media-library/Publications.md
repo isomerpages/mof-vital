@@ -296,7 +296,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/newsletter%20aug%202022%201.jpg">
 		<div class="card-content">
 			<h3>VITAL Newsletter Aug 2023</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/newsletter-aug-2023/">READ MORE</a>
@@ -305,7 +305,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="">
+				<img src="/images/media/summit.jpg">
 		<div class="card-content">
 			<h3>UiPath’s AI Powered Automation Summit for the Singapore public sector</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/summit/">READ MORE</a>
