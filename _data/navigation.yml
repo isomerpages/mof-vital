@@ -8,8 +8,6 @@ links:
     collection: our-services
   - title: Partners
     collection: partners
-  - title: Media Library
-    resource_room: true
   - title: Career
     collection: career
   - title: Media Library
