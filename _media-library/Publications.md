@@ -194,4 +194,24 @@ description: ""
 	</div>
 		</div>
 	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<img src="/images/media/Public_Service_Conference_28Nov2023_108952.jpg">
+		<div class="card-content">
+			<h3>Sharing our VITAL story at the Public Service Conference 2023</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/vital-story-public-service-conference-2023/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+		<img src="/images/IMG_20231116_WA0035.jpg">
+		<div class="card-content">
+			<h3>VITAL at SPD Conference, Embracing Inclusivity for Workforce &amp; Workplace</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/vital-spd-embracing-inclusivity/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
 </div>
