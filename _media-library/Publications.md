@@ -217,18 +217,20 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-				<img src="/images/media/MFA_SCP__3_.jpg">
-				<div class="card-content">
-					<h3>VITAL invited to speak at MFA SCP Programme's RPA for Leaders</h3><br>
-					<a class="btn" href="https://www.vital.gov.sg/media-library/publications/mfa-scp-rpa-leaders-course/">READ MORE</a>
-				</div>
-			</div>
+		<img src="/images/media/MFA_SCP__3_.jpg">
+		<div class="card-content">
+			<h3>VITAL invited to speak at MFA SCP Programme's RPA for Leaders</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/mfa-scp-rpa-leaders-course/">READ MORE</a>
+		</div>
+	</div>
 		</div>
 		<div class="column">
 			<div class="card">
-				<h3>DCE presented VITAL's shared services for Singapore at UK Gov Conference 2023 in Leeds</h3><br>
-				<a class="btn" href="https://www.vital.gov.sg/media-library/publications/dce-vital-uk-gov-conference-2023/">READ MORE</a>
-			</div>
+		<div class="card-content">
+			<h3>DCE presented VITAL's shared services for Singapore at UK Gov Conference 2023 in Leeds</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/dce-vital-uk-gov-conference-2023/">READ MORE</a>
+		</div>
+	</div>
 		</div>
 	</div>
 </div>
