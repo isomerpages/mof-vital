@@ -53,20 +53,6 @@ description: ""
   display: table;  
   clear: both;
 	}
-	.load-more{
-	display: inline-block;
-	padding: 8px 16px;
-	background-color: #CC002B;
-	text-decoration: none;
-	border-radius: 4px;
-	color: white;
-	margin: 15px auto;
-	border: 0;
-	transition: 0.3s linear;
-	}
-	.load-more:hover{
-	opacity: 0.8;
-	}
 </style>
 <div class="card-container">
 	<div class="row">
@@ -184,6 +170,26 @@ description: ""
 		<div class="card-content">
 			<h3>The Edge Singapore: Achieving Singapore's Smart Nation ambition through AI and automation</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/the-edge-singapore-smart-nation-ai/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<img src="images/Enabling_Mark_Platinum.jpg">
+		<div class="card-content">
+			<h3>Enabling Mark Platinum, highest level of accreditation for VITAL</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/enabling-mark-platinum-vital/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+		<img src="/images/2023_VITAL_s_Employer_Branding.png">
+		<div class="card-content">
+			<h3>Join VITAL and Shape the Future of Corporate Shared Services</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/join-vital-shape-the-future/">READ MORE</a>
 		</div>
 	</div>
 		</div>
