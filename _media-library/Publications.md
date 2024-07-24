@@ -572,4 +572,550 @@ description: ""
 	</div>
 		</div>
 	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<img src="">
+		<div class="card-content">
+			<h3>VITAL Communities of Practice (CoP) 2023</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/cop2023/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+				<img src="">
+		<div class="card-content">
+			<h3>CE's participation in the Human Capital Singapore and Workforce Singapore Masterclass</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/hcs-masterclass/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<img src="">
+		<div class="card-content">
+			<h3>CE's new year message to VITAL staff</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/ce-new-year-message-2023/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+				<img src="">
+		<div class="card-content">
+			<h3>VITAL Data Hackathon in November 2022</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/data-hackathon-nov-2022/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<img src="">
+		<div class="card-content">
+			<h3>Public sector automation webinar series | session 1</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/webinar/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+				<img src="">
+		<div class="card-content">
+			<h3>VITAL recognised as HR Powerbank Early Adopter</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/hrpowerbank-early-adopter/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<img src="">
+		<div class="card-content">
+			<h3>Speech by President Halimah Yacob at the Human Capital Singapore and SG Enable Masterclass</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/president-speech-hcs/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+				<img src="">
+		<div class="card-content">
+			<h3>VITAL's ReVITALise townhall on 1 November 2022</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/revitalise-1-nov-2022/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<img src="">
+		<div class="card-content">
+			<h3>VITAL receives Community Chest Awards 2022</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/community-chest-2022/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+				<img src="">
+		<div class="card-content">
+			<h3>VITAL receives SSON Impact Awards 2022</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/impact-awards-2022/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<img src="">
+		<div class="card-content">
+			<h3>CE’s presentation at the 25th Asian Shared Services and Outsourcing Week</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/ssow-2022/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+				<img src="">
+		<div class="card-content">
+			<h3>D(CS)'s presentation at Ngeen Ann Polytechnic's CET Annual</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/ngee-ann-polytechnic-cet-annual/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<img src="">
+		<div class="card-content">
+			<h3>MFA SCP Robotics Process Automation for Leaders Programme</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/mfa-scp/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+				<img src="">
+		<div class="card-content">
+			<h3>Article by PSD Challenge: Learn the tunes of these unsung public agencies</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/psd-challenge-unsung-public-agencies/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<img src="">
+		<div class="card-content">
+			<h3>CE's participation in UiPath FORWARD5 conference</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/forward5-conference/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+		<div class="card-content">
+			<h3>Article by The Business Times: What will keep business leaders awake in 2023?</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/keep-business-leaders-awake/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<img src="">
+		<div class="card-content">
+			<h3>Article by GovInsider: VITAL launches automation platform for whole of government</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/vital-launches-automation-platform/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+				<img src="">
+		<div class="card-content">
+			<h3>Supporting green and sustainable procurement</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/green-procurement/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<img src="">
+		<div class="card-content">
+			<h3>Demand aggregation contracts to yield value for money and increase procurement efficiency</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/da-contracts/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+				<img src="">
+		<div class="card-content">
+			<h3>VITAL Newsletter Aug 2022</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/newsletter-aug-2022/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<img src="">
+		<div class="card-content">
+			<h3>DPM Lawrence Wong’s speech at the Inclusive Business Forum 2022</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/dpm-inclusive-business-forum-2022/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+		<div class="card-content">
+			<h3>Article by The Straits Times: Start small in hiring people with disabilities</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/the-straits-times-start-small-hiring-people-disabilities/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<img src="">
+		<div class="card-content">
+			<h3>OpenGov’s interview with CE on intelligent automation for public sector</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/opengov-interview-ce-intelligent-automation/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+				<img src="">
+		<div class="card-content">
+			<h3>Advertorial by SG Enable: Tapping the abilities of persons with autism</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/tapping-abilities-persons-autism/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<img src="">
+		<div class="card-content">
+			<h3>Article by GovInsider: Hackathons aren’t just for hackers</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/hackathons-are-not-just-for-hackers/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+				<img src="">
+		<div class="card-content">
+			<h3>VITAL Data Hackathon in August 2022</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/data-hackathon-aug-2022/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<img src="">
+		<div class="card-content">
+			<h3>VITAL's first in-person ReVITALise townhall since COVID-19</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/first-in-person-townhall-since-covid/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+				<img src="">
+		<div class="card-content">
+			<h3>CE’s participation in panel discussion at GovInsider’s Festival of Innovation 2022</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/govinsider-festival-innovation-2022/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<img src="">
+		<div class="card-content">
+			<h3>The VITAL DREAM Teams</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/vital-dream-teams/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+				<img src="">
+		<div class="card-content">
+			<h3>CE’s participation in panel discussion at the 25th SSOW Australasia</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/ce-participation-panel-discussion-25-ssow-australasia/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<img src="">
+		<div class="card-content">
+			<h3>Ministry of Finance Family National Day Awards</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/mof-family-national-day-awards/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+				<img src="">
+		<div class="card-content">
+			<h3>VITAL receives Recognition of Excellence Award 2022</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/recognition-excellence-award-opengov-asia/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<img src="">
+		<div class="card-content">
+			<h3>Article by FutureCIO: Stopping Singapore's looming labour shortage</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/article-by-futurecio/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+				<img src="">
+		<div class="card-content">
+			<h3>First batch of SDDA graduates</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/first-batch-sdda-graduates/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<div class="card-content">
+			<h3>CE's speech at Staff Recognition Ceremony 2022</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/ce-speech-staff-recognition-ceremony-2022/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+				<img src="">
+		<div class="card-content">
+			<h3>The Business Times Article | Building the hybrid human-digital workforce of the future</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/the-business-times-article-building-hybrid-human-digital-workforce/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<img src="">
+		<div class="card-content">
+			<h3>Director (Corporate Development)'s participation in Accenture's HerStories conversations</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/director-corporate-dev-herstories/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+				<img src="">
+		<div class="card-content">
+			<h3>CE's presentation at GovInsider's AI x Gov Summit</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/ce-presentation-govinsider-ai-gov-summit/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<img src="">
+		<div class="card-content">
+			<h3>GovInsider's interview with CE on digitalisation and automation</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/govinsider-ce-interview-digitalisation-automation/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+				<img src="">
+		<div class="card-content">
+			<h3>Blog post by UiPath: Serving the public better with smart robots</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/blog-post-uipath/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<img src="">
+		<div class="card-content">
+			<h3>VITAL Newsletter Feb 2022</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/vital-newsletter-feb2022/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+				<img src="">
+		<div class="card-content">
+			<h3>VITAL CE joins SSON Asia Advisory Board 2022</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/ce-sson-asia-advisory-board-2022/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<img src="">
+		<div class="card-content">
+			<h3>DCE's presentation at the Singapore OpenGov Leadership Forum</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/dce-presentation-sg-opengov-leadership-forum/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+				<img src="">
+		<div class="card-content">
+			<h3>VITAL Data Hackathon Jan 2022</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/vital-data-hackathon-2022/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<img src="">
+		<div class="card-content">
+			<h3>ASEAN Workshop on IT Application in Civil Service Modernisation</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/asean-workshop-it-app-cs-modernisation/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+				<img src="">
+		<div class="card-content">
+			<h3>CE’s presentation at the 24th Asian Shared Services and Outsourcing Week</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/24th-asian-shared-services-outsourcing-week/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<img src="">
+		<div class="card-content">
+			<h3>Business Resilience Impact Award (Silver) at SSON Asia Impact Awards 2021</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/business-resilience-impact-award-sson-asia-2021/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+				<img src="">
+		<div class="card-content">
+			<h3>CE’s fireside chat at GovInsider’s Festival of Innovation 2021</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/ce-fireside-chat-govinsider-festival-innovation-2021/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<img src="">
+		<div class="card-content">
+			<h3>VITAL partners X0PA to make hiring processes more effective and efficient</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/vital-xopa-hiring-processes-effective-efficient/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+		<div class="card-content">
+			<h3>Inaugural Enabling Mark Award (Gold)</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/inaugural-enabling-mark-gold-award/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<img src="">
+		<div class="card-content">
+			<h3>GovInsider's interview with CE on how AI and robots will change Singapore's public sector</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/how-ai-robots-change-sg-public-sector/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+				<img src="">
+		<div class="card-content">
+			<h3>VITAL’s 15th anniversary speech by CE</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/vital-15-anniversary-speech/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<img src="">
+		<div class="card-content">
+			<h3>Minister Lawrence Wong's visit to VITAL</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/minister-lawrence-wong-visit-vital/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+				<img src="">
+		<div class="card-content">
+			<h3>Meet the Team Leading SG Govt Robotics Shift</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/meet-team-leading-sggovt-robotics-shift/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+		<div class="card-content">
+			<h3>VITAL 10th anniversary commemorative book</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/vital-10-commemorative-book/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
 </div>
