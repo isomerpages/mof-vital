@@ -316,7 +316,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/webinar3%2007.jpg">
 		<div class="card-content">
 			<h3>Public sector automation webinar series | session 3</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/webinar3/">READ MORE</a>
