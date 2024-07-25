@@ -7,7 +7,7 @@ description: VITAL's VAP Members
 <table class="vital-table-1">
    <tbody>
       <tr>
-         <th style="width: 80%;">
+         <th style="width: 30%;">
             Name
          </th>
          <th>
