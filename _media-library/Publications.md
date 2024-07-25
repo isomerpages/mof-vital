@@ -475,7 +475,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/govasia%2001.png">
 		<div class="card-content">
 			<h3>Article by OpenGov: Modernising, transforming and digitalising corporate shared services</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/opengov-modernising-transforming-digitalising/">READ MORE</a>
@@ -484,7 +484,6 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="">
 		<div class="card-content">
 			<h3>Government Trends 2023 by the Deloitte Centre for Government Insights</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/deloitte-government-trends-2023/">READ MORE</a>
@@ -495,7 +494,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/alphasoc%2001.jpg">
 		<div class="card-content">
 			<h3>Sharing of VITAL's inclusive hiring journey with public officers</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/alphasoc-visit/">READ MORE</a>
@@ -504,7 +503,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="">
+				<img src="/images/media/malaysian%2001.jpg">
 		<div class="card-content">
 			<h3>Visit by the Accountant General of Malaysia</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/malaysianag/">READ MORE</a>
