@@ -227,7 +227,7 @@ description: ""
 				<img src="">
 		<div class="card-content">
 			<h3>CE’s participation in panel discussion at Ngee Ann Polytechnic's CET Annual</h3><br>
-			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/cet-annual/">READ MORE</a>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/cet-annual/&quot;">READ MORE</a>
 		</div>
 	</div>
 		</div>
@@ -295,7 +295,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/Recipient.jpg">
 		<div class="card-content">
 			<h3>Recipient of the Special Appreciation Award 2022</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/recipient-special-appreciation-award-2022/">READ MORE</a>
@@ -304,7 +304,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="">
+				<img src="/images/media/AIGov.jpg">
 		<div class="card-content">
 			<h3>CE's presentation at GovInsider's AI x Gov Summit</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/ce-presentation-govinsider-ai-gov-summit/">READ MORE</a>
@@ -315,7 +315,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/DCEPresentation.jpg">
 		<div class="card-content">
 			<h3>DCE's presentation at the Singapore OpenGov Leadership Forum</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/dce-presentation-singapore-opengov-leadership-forum/">READ MORE</a>
@@ -324,7 +324,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="">
+				<img src="/images/media/VITALCorporateVid.jpg">
 		<div class="card-content">
 			<h3>VITAL Corporate Video</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/vital-corporate-video/">READ MORE</a>
@@ -335,7 +335,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/CEPPresentation.jpg">
 		<div class="card-content">
 			<h3>CE’s presentation at the 24th Asian Shared Services and Outsourcing Week</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/ce-presentation-24th-asian-shared-services-outsourcing-week/">READ MORE</a>
@@ -344,7 +344,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="">
+				<img src="/images/media/CEFiresideChat.jpg">
 		<div class="card-content">
 			<h3>CE’s fireside chat at GovInsider’s Festival of Innovation 2021</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/ce-fireside-chat-govinsider-festival-innovation-2021/">READ MORE</a>
