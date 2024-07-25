@@ -1091,7 +1091,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/minister%20lawrence%20wong's%20visit%20to%20vital.png">
 		<div class="card-content">
 			<h3>Minister Lawrence Wong's visit to VITAL</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/minister-lawrence-wong-visit-vital/">READ MORE</a>
