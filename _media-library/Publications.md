@@ -396,7 +396,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/opengov%202023.jpg">
 		<div class="card-content">
 			<h3>VITAL receives Recognition of Excellence Award 2023</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/recognition-of-excellence-award-2023/">READ MORE</a>
