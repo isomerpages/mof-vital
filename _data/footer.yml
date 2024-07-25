@@ -8,6 +8,10 @@ navlinks:
     collection: about-us
   - title: Our Services
     collection: our-portfolio
+  - title: Partners
+    collection: demand-aggregation
+  - title: Media-Library
+    collection: publications
   - title: Careers
     collection: careers
 links:
