@@ -992,7 +992,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="/images/media/hackathon_image2.ong">
+				<img src="/images/media/hackathon_image2.png">
 		<div class="card-content">
 			<h3>VITAL Data Hackathon Jan 2022</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/vital-data-hackathon-2022/">READ MORE</a>
