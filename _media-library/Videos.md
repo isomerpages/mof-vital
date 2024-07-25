@@ -175,7 +175,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/VITALHiring.jpg">
 		<div class="card-content">
 			<h3>VITAL's inclusive hiring and employment</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/inclusive-hiring/">READ MORE</a>
@@ -184,7 +184,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="">
+				<img src="/images/media/VITALCoP.jpg">
 		<div class="card-content">
 			<h3>VITAL Communities of Practice (CoP) 2023</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/cop2023video/">READ MORE</a>
@@ -195,7 +195,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/Hackathon2022.jpg">
 		<div class="card-content">
 			<h3>VITAL Data Hackathon in November 2022</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/data-hackathon-nov-2022/">READ MORE</a>
@@ -204,7 +204,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="">
+				<img src="/images/media/VITALAward.jpg">
 		<div class="card-content">
 			<h3>VITAL Go the Extra Mile for Service Awards FY2022</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/gems-award-2022/">READ MORE</a>
