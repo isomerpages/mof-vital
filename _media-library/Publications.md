@@ -67,7 +67,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/Public_Service_Week_2024___One_Public_Service_Award.jpg">
 		<div class="card-content">
 			<h3>One Public Service Award: Project Cumulus</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/one-public-service-award-project-cumulus/">READ MORE</a>
