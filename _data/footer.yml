@@ -8,8 +8,8 @@ navlinks:
     collection: about-us
   - title: Our Portfolio
     collection: our-portfolio
-  - title: Career
-    collection: career
+  - title: Careers
+    collection: careers
 links:
   - title: Best Viewed Browsers
     url: /best-viewed-browsers
