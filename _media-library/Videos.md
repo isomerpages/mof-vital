@@ -135,7 +135,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/sms%20chee%2001.jpg">
 		<div class="card-content">
 			<h3>Senior Minister of State Chee Hong Tat's visit to VITAL</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/sms-chee-visit-video/">READ MORE</a>
