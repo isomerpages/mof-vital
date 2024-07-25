@@ -336,7 +336,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/pst%2001.jpg">
 		<div class="card-content">
 			<h3>VITAL receives Workforce Transformation Award</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/workforce-transformation/">READ MORE</a>
