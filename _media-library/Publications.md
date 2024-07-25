@@ -325,7 +325,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="">
+				<img src="/images/media/0714%2001.jpg">
 		<div class="card-content">
 			<h3>VITAL's ReVITALise townhall on 14 July 2023</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/townhall-0714/">READ MORE</a>
