@@ -365,7 +365,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="">
+				<img src="/images/media/sslc%201.png">
 		<div class="card-content">
 			<h3>CE's presentation at the Shared Services Forum for Agency Implementation Leaders</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/sslc-2023/">READ MORE</a>
