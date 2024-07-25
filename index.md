@@ -22,7 +22,7 @@ sections:
       description: As part of VITAL, you will play a key role in delivering corporate
         services to public agencies and officers.
       button: READ MORE
-      url: /career/join-vital/
+      url: /careers/join-vital/
       image: /images/home/CorporateImg2_Asian_.jpg
       alt: Working in VITAL
   - infopic:
