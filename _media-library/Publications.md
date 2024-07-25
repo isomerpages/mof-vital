@@ -107,6 +107,7 @@ description: ""
 		<div class="card-content">
 			<h3>VITAL Staff Recognition Ceremony 2024</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/vital-staff-recognition-ceremony-2024/">READ MORE</a>
+			<p>15 Apr 2024</p>
 		</div>
 	</div>
 		</div>
@@ -116,6 +117,7 @@ description: ""
 		<div class="card-content">
 			<h3>Welcome aboard VITAL,&nbsp;CE Clarence Tang!</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/welcome-aboard-vital-ce-clarence-tang/">READ MORE</a>
+			<p>02 Apr 2024</p>
 		</div>
 	</div>
 		</div>
