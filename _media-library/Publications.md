@@ -514,7 +514,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/01cloud.png">
 		<div class="card-content">
 			<h3>Article by GovInsider: Key lessons from the Singapore government's WOG cloud migration strategy</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/wog-cloud-migration-strategy/">READ MORE</a>
@@ -523,7 +523,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="">
+				<img src="/images/media/newsletter%20feb%2023%2001.jpg">
 		<div class="card-content">
 			<h3>VITAL Newsletter Feb 2023</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/newsletter-feb-2023/">READ MORE</a>
@@ -534,7 +534,6 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
 		<div class="card-content">
 			<h3>FY2023 MOF Committee of Supply Debate Speech by Senior Minister of State Mr Chee Hong Tat</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/fy2023-supply-debate-speech/">READ MORE</a>
@@ -543,7 +542,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="">
+				<img src="/images/media/cambodia%202.jpg">
 		<div class="card-content">
 			<h3>CE's talks to senior officials from Cambodia</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/cambodia/">READ MORE</a>
@@ -554,7 +553,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/03cloud.png">
 		<div class="card-content">
 			<h3>D(SIC)’s participation in GovInsider’s panel discussion on Cloud solutions</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/govinsider-cloud-solutions/">READ MORE</a>
@@ -563,7 +562,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="">
+				<img src="/images/media/">
 		<div class="card-content">
 			<h3>Article by PSD Challenge: Towards an inclusive workplace</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/psd-towards-an-inclusive-workplace/">READ MORE</a>
@@ -574,7 +573,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/cop%201.jpg">
 		<div class="card-content">
 			<h3>VITAL Communities of Practice (CoP) 2023</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/cop2023/">READ MORE</a>
@@ -583,7 +582,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="">
+				<img src="/images/media/">
 		<div class="card-content">
 			<h3>CE's participation in the Human Capital Singapore and Workforce Singapore Masterclass</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/hcs-masterclass/">READ MORE</a>
@@ -594,7 +593,6 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
 		<div class="card-content">
 			<h3>CE's new year message to VITAL staff</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/ce-new-year-message-2023/">READ MORE</a>
@@ -603,7 +601,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="">
+				<img src="/images/media/hackathon%20nov22%201.jpg">
 		<div class="card-content">
 			<h3>VITAL Data Hackathon in November 2022</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/data-hackathon-nov-2022/">READ MORE</a>
