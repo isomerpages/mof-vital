@@ -376,7 +376,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/knowledge%202023.png">
 		<div class="card-content">
 			<h3>CE’s participation in panel discussion at Knowledge 2023</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/knowledge-2023/">READ MORE</a>
