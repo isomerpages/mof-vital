@@ -5,8 +5,8 @@ faq: /faq/
 copyright_agency: VITAL GOVERNMENT OF SINGAPORE
 navlinks:
   - title: About VITAL
-    collection: about-vital
-  - title: Our Portfolio
+    collection: about-us
+  - title: Our Services
     collection: our-portfolio
   - title: Careers
     collection: careers
