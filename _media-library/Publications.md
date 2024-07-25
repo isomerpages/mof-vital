@@ -356,7 +356,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/hcs%20003.jpg">
 		<div class="card-content">
 			<h3>CE's participation in the Human Capital Singapore &amp; Workforce Singapore Masterclass</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/hcs-masterclass-june2023/">READ MORE</a>
