@@ -129,6 +129,7 @@ description: ""
 		<div class="card-content">
 			<h3>VITAL Wins Big at GovInsider Festival of Innovation Awards 2024</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/vital-wins-big-at-govinsider-festival-of-innovation-awards-2024/">READ MORE</a>
+			<p>26 Mar 2024</p>
 		</div>
 	</div>
 		</div>
