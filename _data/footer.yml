@@ -7,7 +7,7 @@ navlinks:
   - title: About VITAL
     collection: about-vital
   - title: Our Services
-    collection: our-services
+    collection: our-portfolio
   - title: Partners
     collection: partners
   - title: Media Library
@@ -19,4 +19,3 @@ links:
     url: /best-viewed-browsers
   - title: Useful Links
     url: /useful-links
-
