@@ -215,7 +215,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/NgeeAnnPoly.jpg">
 		<div class="card-content">
 			<h3>D(CS)'s presentation at Ngee Ann Polytechnic's CET Annual</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/cet-annual-presentation/">READ MORE</a>
@@ -224,7 +224,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="">
+				<img src="/images/media/CENgeeAnnPoly.jpg">
 		<div class="card-content">
 			<h3>CE’s participation in panel discussion at Ngee Ann Polytechnic's CET Annual</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/cet-annual/&quot;">READ MORE</a>
@@ -235,7 +235,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/UiPath.jpg">
 		<div class="card-content">
 			<h3>CE's participation in UiPath FORWARD5 conference</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/video-uipath-forward5/">READ MORE</a>
@@ -244,7 +244,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="">
+				<img src="/images/media/HackathonAug2022.jpg">
 		<div class="card-content">
 			<h3>VITAL Data Hackathon in August 2022</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/vital-data-hackathon-aug-2022/">READ MORE</a>
@@ -255,7 +255,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/VITALCorporateBrand.jpg">
 		<div class="card-content">
 			<h3>Strengthening corporate branding, partnership and engagement</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/strengthen-corp-branding-partnership-engagement/">READ MORE</a>
@@ -264,7 +264,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="">
+				<img src="/images/media/GovInsiderInterview.jpg">
 		<div class="card-content">
 			<h3>GovInsider’s interview with CE at Festival of Innovation 2022</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/govinsider-interview-ce-festival-innovation-2022/">READ MORE</a>
@@ -275,7 +275,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/CEPanel.jpg">
 		<div class="card-content">
 			<h3>CE’s participation in panel discussion at GovInsider’s Festival of Innovation 2022</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/ce-participation-in-festival-of-innovation-2022/">READ MORE</a>
