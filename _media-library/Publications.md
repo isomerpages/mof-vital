@@ -790,7 +790,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/">
 		<div class="card-content">
 			<h3>OpenGov’s interview with CE on intelligent automation for public sector</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/opengov-interview-ce-intelligent-automation/">READ MORE</a>
@@ -1097,7 +1097,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="">
+				<img src="/images/media/roboticshift_2.png">
 		<div class="card-content">
 			<h3>Meet the Team Leading SG Govt Robotics Shift</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/meet-team-leading-sggovt-robotics-shift/">READ MORE</a>
