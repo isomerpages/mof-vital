@@ -227,7 +227,7 @@ description: ""
 				<img src="">
 		<div class="card-content">
 			<h3>CE’s participation in panel discussion at Ngee Ann Polytechnic's CET Annual</h3><br>
-			<a class="btn" href=https://www.vital.gov.sg/media-library/videos/cet-annual/">READ MORE</a>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/cet-annual/">READ MORE</a>
 		</div>
 	</div>
 		</div>
