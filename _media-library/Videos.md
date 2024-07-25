@@ -155,7 +155,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/Ch8.png">
 		<div class="card-content">
 			<h3>VITAL’s interview with Channel 8 programme “The Budget and You 2023”</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/ch8/">READ MORE</a>
@@ -164,7 +164,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="">
+				<img src="/images/media/Podcast.png">
 		<div class="card-content">
 			<h3>CE's interview with SSONext Podcast</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/podcast/">READ MORE</a>
