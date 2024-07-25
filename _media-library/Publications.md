@@ -455,7 +455,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/csc%20sharing%2001.jpeg">
 		<div class="card-content">
 			<h3>Service Delivery Community of Practice: Leveraging RPA to improve work productivity</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/sharing-service-leaders/">READ MORE</a>
