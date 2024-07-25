@@ -58,6 +58,26 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
+		<img src="">
+		<div class="card-content">
+			<h3>GovInsider Article: When is it time to choose SaaS over legacy?</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/govinsider-article-when-is-it-time-to-choose-saas-over-legacy/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+		<img src="">
+		<div class="card-content">
+			<h3>One Public Service Award: Project Cumulus</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/one-public-service-award-project-cumulus/">READ MORE</a>
+		</div>
+	</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
 		<img src="/images/VITALites_NP_Graduation_Ceremony_2024.jpg">
 		<div class="card-content">
 			<h3>Celebrating VITAL's Data Analytics Graduates</h3><br>
