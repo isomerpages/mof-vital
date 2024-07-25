@@ -144,7 +144,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="">
+				<img src="/images/media/VITALCumulusServices.jpg">
 		<div class="card-content">
 			<h3>VITAL's Cumulus services</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/cumulus/">READ MORE</a>
@@ -284,7 +284,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="">
+				<img src="/images/media/SSONBoardMeeting.jpg">
 		<div class="card-content">
 			<h3>SSON Asia Advisory Board Member Interview</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/sson-asia-advisory-board-member-interview/">READ MORE</a>
