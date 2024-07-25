@@ -621,7 +621,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="">
+				<img src="/images/media/istana%2005.jpg">
 		<div class="card-content">
 			<h3>VITAL recognised as HR Powerbank Early Adopter</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/hrpowerbank-early-adopter/">READ MORE</a>
@@ -632,7 +632,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/istana%2003.jpg">
 		<div class="card-content">
 			<h3>Speech by President Halimah Yacob at the Human Capital Singapore and SG Enable Masterclass</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/president-speech-hcs/">READ MORE</a>
@@ -661,7 +661,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="">
+				<img src="/images/media/sson%20award%205.jpg">
 		<div class="card-content">
 			<h3>VITAL receives SSON Impact Awards 2022</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/impact-awards-2022/">READ MORE</a>
@@ -681,7 +681,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="">
+				<img src="/images/media/cet%20annual.png">
 		<div class="card-content">
 			<h3>D(CS)'s presentation at Ngeen Ann Polytechnic's CET Annual</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/ngee-ann-polytechnic-cet-annual/">READ MORE</a>
@@ -790,7 +790,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="/images/media/">
+		<img src="/images/media/reimagining_1.png">
 		<div class="card-content">
 			<h3>OpenGov’s interview with CE on intelligent automation for public sector</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/opengov-interview-ce-intelligent-automation/">READ MORE</a>
@@ -799,7 +799,6 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="">
 		<div class="card-content">
 			<h3>Advertorial by SG Enable: Tapping the abilities of persons with autism</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/tapping-abilities-persons-autism/">READ MORE</a>
@@ -810,7 +809,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/hackathon_1.png">
 		<div class="card-content">
 			<h3>Article by GovInsider: Hackathons aren’t just for hackers</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/hackathons-are-not-just-for-hackers/">READ MORE</a>
@@ -819,7 +818,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="">
+				<img src="/images/media/aug_hackathon_1.png">
 		<div class="card-content">
 			<h3>VITAL Data Hackathon in August 2022</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/data-hackathon-aug-2022/">READ MORE</a>
@@ -830,7 +829,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/inpersontownhall2022_image1.jpg">
 		<div class="card-content">
 			<h3>VITAL's first in-person ReVITALise townhall since COVID-19</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/first-in-person-townhall-since-covid/">READ MORE</a>
@@ -839,7 +838,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="">
+				<img src="/images/media/festivalinnovation.png">
 		<div class="card-content">
 			<h3>CE’s participation in panel discussion at GovInsider’s Festival of Innovation 2022</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/govinsider-festival-innovation-2022/">READ MORE</a>
@@ -850,7 +849,6 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
 		<div class="card-content">
 			<h3>The VITAL DREAM Teams</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/vital-dream-teams/">READ MORE</a>
@@ -859,7 +857,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="">
+				<img src="/images/media/ssow_image1.png">
 		<div class="card-content">
 			<h3>CE’s participation in panel discussion at the 25th SSOW Australasia</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/ce-participation-panel-discussion-25-ssow-australasia/">READ MORE</a>
@@ -870,7 +868,6 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
 		<div class="card-content">
 			<h3>Ministry of Finance Family National Day Awards</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/mof-family-national-day-awards/">READ MORE</a>
@@ -879,7 +876,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="">
+				<img src="/images/media/excellenceaward_image1.png">
 		<div class="card-content">
 			<h3>VITAL receives Recognition of Excellence Award 2022</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/recognition-excellence-award-opengov-asia/">READ MORE</a>
@@ -890,7 +887,6 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
 		<div class="card-content">
 			<h3>Article by FutureCIO: Stopping Singapore's looming labour shortage</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/article-by-futurecio/">READ MORE</a>
@@ -899,7 +895,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="">
+				<img src="/images/media/firstbatchsdda_image1.png">
 		<div class="card-content">
 			<h3>First batch of SDDA graduates</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/first-batch-sdda-graduates/">READ MORE</a>
@@ -918,7 +914,6 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="">
 		<div class="card-content">
 			<h3>The Business Times Article | Building the hybrid human-digital workforce of the future</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/the-business-times-article-building-hybrid-human-digital-workforce/">READ MORE</a>
@@ -929,7 +924,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/dcd_herstories_image1.png">
 		<div class="card-content">
 			<h3>Director (Corporate Development)'s participation in Accenture's HerStories conversations</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/director-corporate-dev-herstories/">READ MORE</a>
@@ -938,7 +933,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="">
+				<img src="/images/media/aixgovheader.png">
 		<div class="card-content">
 			<h3>CE's presentation at GovInsider's AI x Gov Summit</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/ce-presentation-govinsider-ai-gov-summit/">READ MORE</a>
@@ -949,7 +944,6 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
 		<div class="card-content">
 			<h3>GovInsider's interview with CE on digitalisation and automation</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/govinsider-ce-interview-digitalisation-automation/">READ MORE</a>
@@ -958,7 +952,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="">
+				<img src="/images/media/uipathblogpost_image1.png">
 		<div class="card-content">
 			<h3>Blog post by UiPath: Serving the public better with smart robots</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/blog-post-uipath/">READ MORE</a>
@@ -969,7 +963,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/fa_vital_newsletter%20-%20page%201.jpg">
 		<div class="card-content">
 			<h3>VITAL Newsletter Feb 2022</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/vital-newsletter-feb2022/">READ MORE</a>
@@ -978,7 +972,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="">
+				<img src="/images/media/sson_image1.png">
 		<div class="card-content">
 			<h3>VITAL CE joins SSON Asia Advisory Board 2022</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/ce-sson-asia-advisory-board-2022/">READ MORE</a>
@@ -989,7 +983,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/opengovimage1.png">
 		<div class="card-content">
 			<h3>DCE's presentation at the Singapore OpenGov Leadership Forum</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/dce-presentation-sg-opengov-leadership-forum/">READ MORE</a>
@@ -998,7 +992,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="">
+				<img src="/images/media/hackathon_image2.ong">
 		<div class="card-content">
 			<h3>VITAL Data Hackathon Jan 2022</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/vital-data-hackathon-2022/">READ MORE</a>
@@ -1009,7 +1003,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/asean1.png">
 		<div class="card-content">
 			<h3>ASEAN Workshop on IT Application in Civil Service Modernisation</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/asean-workshop-it-app-cs-modernisation/">READ MORE</a>
@@ -1018,7 +1012,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="">
+				<img src="/images/media/sson24_header.png">
 		<div class="card-content">
 			<h3>CE’s presentation at the 24th Asian Shared Services and Outsourcing Week</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/24th-asian-shared-services-outsourcing-week/">READ MORE</a>
@@ -1029,7 +1023,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/sson%20awards%20edm.png">
 		<div class="card-content">
 			<h3>Business Resilience Impact Award (Silver) at SSON Asia Impact Awards 2021</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/business-resilience-impact-award-sson-asia-2021/">READ MORE</a>
