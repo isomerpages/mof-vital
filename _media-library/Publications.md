@@ -612,7 +612,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/webinar%201.png">
 		<div class="card-content">
 			<h3>Public sector automation webinar series | session 1</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/webinar/">READ MORE</a>
@@ -641,7 +641,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="">
+				<img src="/images/media/revitalise%2001.jpeg">
 		<div class="card-content">
 			<h3>VITAL's ReVITALise townhall on 1 November 2022</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/revitalise-1-nov-2022/">READ MORE</a>
@@ -652,7 +652,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/community%20chest.jpeg">
 		<div class="card-content">
 			<h3>VITAL receives Community Chest Awards 2022</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/community-chest-2022/">READ MORE</a>
@@ -672,7 +672,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/ssow%202022.jpg">
 		<div class="card-content">
 			<h3>CE’s presentation at the 25th Asian Shared Services and Outsourcing Week</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/ssow-2022/">READ MORE</a>
@@ -692,7 +692,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/mfa%20scp%2001.jpg">
 		<div class="card-content">
 			<h3>MFA SCP Robotics Process Automation for Leaders Programme</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/mfa-scp/">READ MORE</a>
@@ -701,7 +701,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="">
+				<img src="/images/media/psd%20challenge.png">
 		<div class="card-content">
 			<h3>Article by PSD Challenge: Learn the tunes of these unsung public agencies</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/psd-challenge-unsung-public-agencies/">READ MORE</a>
@@ -712,7 +712,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/forward5%201.jpeg">
 		<div class="card-content">
 			<h3>CE's participation in UiPath FORWARD5 conference</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/forward5-conference/">READ MORE</a>
@@ -731,7 +731,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/automation%20platform.png">
 		<div class="card-content">
 			<h3>Article by GovInsider: VITAL launches automation platform for whole of government</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/vital-launches-automation-platform/">READ MORE</a>
@@ -740,7 +740,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="">
+				<img src="/images/media/green%20procurement.png">
 		<div class="card-content">
 			<h3>Supporting green and sustainable procurement</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/green-procurement/">READ MORE</a>
@@ -751,7 +751,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/da%20contract.png">
 		<div class="card-content">
 			<h3>Demand aggregation contracts to yield value for money and increase procurement efficiency</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/da-contracts/">READ MORE</a>
@@ -760,7 +760,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="">
+				<img src="/images/media/newsletter%20aug%202022%201.jpg">
 		<div class="card-content">
 			<h3>VITAL Newsletter Aug 2022</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/newsletter-aug-2022/">READ MORE</a>
@@ -771,7 +771,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/dpm%20speech%20at%20the%20inclusive%20business%20forum%202022.jpg">
 		<div class="card-content">
 			<h3>DPM Lawrence Wong’s speech at the Inclusive Business Forum 2022</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/dpm-inclusive-business-forum-2022/">READ MORE</a>
