@@ -424,7 +424,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="">
+				<img src="/images/media/sdda%20may%2023%2001.jpg">
 		<div class="card-content">
 			<h3>SDDA Graduation Ceremony in May 2023</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/sdda-graduation-may-2023/">READ MORE</a>
