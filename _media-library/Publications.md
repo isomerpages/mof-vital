@@ -58,7 +58,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/GovInsider_Live___SaaS_Day_July9.jpg">
 		<div class="card-content">
 			<h3>GovInsider Article: When is it time to choose SaaS over legacy?</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/govinsider-article-when-is-it-time-to-choose-saas-over-legacy/">READ MORE</a>
