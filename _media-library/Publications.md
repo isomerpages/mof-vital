@@ -405,7 +405,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="">
+				<img src="/images/media/enabling%20champion%2002.jpg">
 		<div class="card-content">
 			<h3>D(CS) receives Enabling Champion Award</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/enabling-champion-award/">READ MORE</a>
