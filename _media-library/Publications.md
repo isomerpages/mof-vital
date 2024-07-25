@@ -1038,7 +1038,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="">
+				<img src="/images/media/edm%20-%20fireside%20chat%20-%20for%20website.jpg">
 		<div class="card-content">
 			<h3>CE’s fireside chat at GovInsider’s Festival of Innovation 2021</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/ce-fireside-chat-govinsider-festival-innovation-2021/">READ MORE</a>
@@ -1049,7 +1049,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/xopa.png">
 		<div class="card-content">
 			<h3>VITAL partners X0PA to make hiring processes more effective and efficient</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/vital-xopa-hiring-processes-effective-efficient/">READ MORE</a>
@@ -1068,7 +1068,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/ai-future_1.jpg">
 		<div class="card-content">
 			<h3>GovInsider's interview with CE on how AI and robots will change Singapore's public sector</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/how-ai-robots-change-sg-public-sector/">READ MORE</a>
