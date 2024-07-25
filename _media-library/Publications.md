@@ -39,6 +39,7 @@ description: ""
 	text-decoration: none;
 	border-radius: 4px;
 	color: white;
+	margin-bottom: 0.5px;
 	}
 	.card-content .btn:hover{
 	opacity: 0.8;
@@ -62,6 +63,7 @@ description: ""
 		<div class="card-content">
 			<h3>GovInsider Article: When is it time to choose SaaS over legacy?</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/govinsider-article-when-is-it-time-to-choose-saas-over-legacy/">READ MORE</a>
+			<p>19 Jul 2024</p>
 		</div>
 	</div>
 		</div>
@@ -71,6 +73,7 @@ description: ""
 		<div class="card-content">
 			<h3>One Public Service Award: Project Cumulus</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/one-public-service-award-project-cumulus/">READ MORE</a>
+			<p>10 Jul 2024</p>
 		</div>
 	</div>
 		</div>
@@ -82,6 +85,7 @@ description: ""
 		<div class="card-content">
 			<h3>Celebrating VITAL's Data Analytics Graduates</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/celebrating-vital-s-data-analytics-graduates/">READ MORE</a>
+			<p>14 May 2024</p>
 		</div>
 	</div>
 		</div>
@@ -91,6 +95,7 @@ description: ""
 		<div class="card-content">
 			<h3>MOF Ministry Family Data Symposium 2024</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/mof-ministry-family-data-symposium-2024/">READ MORE</a>
+			<p>23 Apr 2024</p>
 		</div>
 	</div>
 		</div>
