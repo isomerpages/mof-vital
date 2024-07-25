@@ -435,7 +435,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-		<img src="">
+		<img src="/images/media/rpa%20training%2001.jpeg">
 		<div class="card-content">
 			<h3>RPA citizen developer training</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/rpatraining/">READ MORE</a>
