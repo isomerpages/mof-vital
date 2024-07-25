@@ -562,7 +562,7 @@ description: ""
 		</div>
 		<div class="column">
 			<div class="card">
-				<img src="/images/media/">
+				<img src="/images/media/210223_01.png">
 		<div class="card-content">
 			<h3>Article by PSD Challenge: Towards an inclusive workplace</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/publications/psd-towards-an-inclusive-workplace/">READ MORE</a>
