@@ -92,6 +92,7 @@ description: ""
 		<div class="card-content">
 			<h3>Work Transformation Part V: Design Thinking</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/wt5-design-thinking/">READ MORE</a>
+			<p>02 Oct 2023</p>
 		</div>
 	</div>
 		</div>
