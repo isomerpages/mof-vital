@@ -312,6 +312,7 @@ description: ""
 		<div class="card-content">
 			<h3>SSON Asia Advisory Board Member Interview</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/sson-asia-advisory-board-member-interview/">READ MORE</a>
+			<p>07 Jul 2022</p>
 		</div>
 	</div>
 		</div>
@@ -323,6 +324,7 @@ description: ""
 		<div class="card-content">
 			<h3>Recipient of the Special Appreciation Award 2022</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/recipient-special-appreciation-award-2022/">READ MORE</a>
+			<p>16 Jun 2022</p>
 		</div>
 	</div>
 		</div>
@@ -332,6 +334,7 @@ description: ""
 		<div class="card-content">
 			<h3>CE's presentation at GovInsider's AI x Gov Summit</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/ce-presentation-govinsider-ai-gov-summit/">READ MORE</a>
+			<p>07 Apr 2022</p>
 		</div>
 	</div>
 		</div>
