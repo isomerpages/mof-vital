@@ -104,6 +104,7 @@ description: ""
 		<div class="card-content">
 			<h3>Workforce Transformation IV: Data Analytics</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/wt4-data-analytics/">READ MORE</a>
+			<p>27 Sep 2023</p>
 		</div>
 	</div>
 		</div>
@@ -113,6 +114,7 @@ description: ""
 		<div class="card-content">
 			<h3>Workforce Transformation III: RPA Citizen Developers</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/permalink/wt3-rpa-citizen-developers/">READ MORE</a>
+			<p>25 Sep 2023</p>
 		</div>
 	</div>
 		</div>
