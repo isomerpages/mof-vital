@@ -290,6 +290,7 @@ description: ""
 		<div class="card-content">
 			<h3>GovInsider’s interview with CE at Festival of Innovation 2022</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/govinsider-interview-ce-festival-innovation-2022/">READ MORE</a>
+			<p>13 Jul 2022</p>
 		</div>
 	</div>
 		</div>
@@ -301,6 +302,7 @@ description: ""
 		<div class="card-content">
 			<h3>CE’s participation in panel discussion at GovInsider’s Festival of Innovation 2022</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/ce-participation-in-festival-of-innovation-2022/">READ MORE</a>
+			<p>13 Jul 2022</p>
 		</div>
 	</div>
 		</div>
