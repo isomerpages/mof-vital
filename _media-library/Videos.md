@@ -126,6 +126,7 @@ description: ""
 		<div class="card-content">
 			<h3>Workforce Transformation Part II: Robotic Process Automation, RPA</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/permalink/wt2-robotic-process-automation/">READ MORE</a>
+			<p>20 Sep 2023</p>
 		</div>
 	</div>
 		</div>
