@@ -170,6 +170,7 @@ description: ""
 		<div class="card-content">
 			<h3>VITAL’s interview with Channel 8 programme “The Budget and You 2023”</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/ch8/">READ MORE</a>
+			<p>14 Mar 2023</p>
 		</div>
 	</div>
 		</div>
@@ -179,6 +180,7 @@ description: ""
 		<div class="card-content">
 			<h3>CE's interview with SSONext Podcast</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/podcast/">READ MORE</a>
+			<p>21 Feb 2023</p>
 		</div>
 	</div>
 		</div>
@@ -190,6 +192,7 @@ description: ""
 		<div class="card-content">
 			<h3>VITAL's inclusive hiring and employment</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/inclusive-hiring/">READ MORE</a>
+			<p>07 Feb 2023</p>
 		</div>
 	</div>
 		</div>
