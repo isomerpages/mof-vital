@@ -136,6 +136,7 @@ description: ""
 		<div class="card-content">
 			<h3>Workforce Transformation Part I: Introduction</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/permalink/wt1-introduction/">READ MORE</a>
+			<p>18 Sep 2023</p>
 		</div>
 	</div>
 		</div>
