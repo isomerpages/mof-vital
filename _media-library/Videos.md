@@ -60,6 +60,7 @@ description: ""
 		<div class="card-content">
 			<h3>VITAL at PST IdeasFest 2024</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/vital-at-pst-ideasfest/">READ MORE</a>
+			<p>31 May 2024</p>
 		</div>
 	</div>
 		</div>
@@ -69,6 +70,7 @@ description: ""
 		<div class="card-content">
 			<h3>Reflections from VITAL's Inaugural Bot Hackathon</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/reflections-vital-inaugural-bot-hackathon/">READ MORE</a>
+			<p>21 Feb 2024</p>
 		</div>
 	</div>
 		</div>
