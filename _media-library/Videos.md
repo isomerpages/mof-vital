@@ -236,6 +236,7 @@ description: ""
 		<div class="card-content">
 			<h3>D(CS)'s presentation at Ngee Ann Polytechnic's CET Annual</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/cet-annual-presentation/">READ MORE</a>
+			<p>14 Oct 2022</p>
 		</div>
 	</div>
 		</div>
