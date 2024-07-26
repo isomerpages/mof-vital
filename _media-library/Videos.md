@@ -39,6 +39,7 @@ description: ""
 	text-decoration: none;
 	border-radius: 4px;
 	color: white;
+	margin-bottom: 0.5px;
 	}
 	.column{
 	float: left;
