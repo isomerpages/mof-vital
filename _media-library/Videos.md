@@ -246,6 +246,7 @@ description: ""
 		<div class="card-content">
 			<h3>CE’s participation in panel discussion at Ngee Ann Polytechnic's CET Annual</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/cet-annual/&quot;">READ MORE</a>
+			<p>14 Oct 2022</p>
 		</div>
 	</div>
 		</div>
@@ -257,6 +258,7 @@ description: ""
 		<div class="card-content">
 			<h3>CE's participation in UiPath FORWARD5 conference</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/video-uipath-forward5/">READ MORE</a>
+			<p>29 Sep 2022</p>
 		</div>
 	</div>
 		</div>
