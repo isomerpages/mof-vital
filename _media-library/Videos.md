@@ -346,6 +346,7 @@ description: ""
 		<div class="card-content">
 			<h3>DCE's presentation at the Singapore OpenGov Leadership Forum</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/dce-presentation-singapore-opengov-leadership-forum/">READ MORE</a>
+			<p>17 Feb 2022</p>
 		</div>
 	</div>
 		</div>
@@ -355,6 +356,7 @@ description: ""
 		<div class="card-content">
 			<h3>VITAL Corporate Video</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/vital-corporate-video/">READ MORE</a>
+			<p>25 Jan 2022</p>
 		</div>
 	</div>
 		</div>
@@ -366,6 +368,7 @@ description: ""
 		<div class="card-content">
 			<h3>CE’s presentation at the 24th Asian Shared Services and Outsourcing Week</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/ce-presentation-24th-asian-shared-services-outsourcing-week/">READ MORE</a>
+			<p>19 Oct 2021</p>
 		</div>
 	</div>
 		</div>
@@ -375,6 +378,7 @@ description: ""
 		<div class="card-content">
 			<h3>CE’s fireside chat at GovInsider’s Festival of Innovation 2021</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/ce-fireside-chat-govinsider-festival-innovation-2021/">READ MORE</a>
+			<p>14 Sep 2021</p>
 		</div>
 	</div>
 		</div>
