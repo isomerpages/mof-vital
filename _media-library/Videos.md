@@ -268,6 +268,7 @@ description: ""
 		<div class="card-content">
 			<h3>VITAL Data Hackathon in August 2022</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/vital-data-hackathon-aug-2022/">READ MORE</a>
+			<p>02 Aug 2022</p>
 		</div>
 	</div>
 		</div>
@@ -279,6 +280,7 @@ description: ""
 		<div class="card-content">
 			<h3>Strengthening corporate branding, partnership and engagement</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/strengthen-corp-branding-partnership-engagement/">READ MORE</a>
+			<p>18 Jul 2022</p>
 		</div>
 	</div>
 		</div>
