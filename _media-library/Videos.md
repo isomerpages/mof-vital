@@ -82,6 +82,7 @@ description: ""
 		<div class="card-content">
 			<h3 style="font0">VITAL Citizen Developers take the Global Stage</h3><br>
 			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/vital-citizen-developers-global-stage/">READ MORE</a>
+			<p>20 Oct 2023</p>
 		</div>
 	</div>
 		</div>
