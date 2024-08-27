@@ -30,39 +30,39 @@ description: VITAL's VAP Members
       </tr>
       <tr>
          <td>
-            Mr Hoe Siu Loon
+            Ms Yvonne Chan
          </td>
          <td>
-            Associate Professor of Information Systems (Practice), SMU
+           Chief Financial Officer, SMU  
          </td>
       </tr>
       <tr>
-         <td>Ms Yvonne Chan</td>
-         <td>Chief Financial Officer, SMU   
-         </td>
-      </tr>
-      <tr>
-         <td>
-            Mr Tan Eng Pheng
-         </td>
-         <td>
-            ACE (Economic and National Development), GovTech
+         <td>Mr Terence Lee</td>
+         <td>Chief Procurement Officer, Asia Pacific, Procurement / Supply Chain Optimization, GEODIS Singapore
          </td>
       </tr>
       <tr>
          <td>
-             Mr Terence Lee     
+            Mr Goh Teck Seng
          </td>
          <td>
-            Chief Procurement Officer, Asia Pacific, Procurement / Supply Chain Optimization, GEODIS Singapore
+            DCE (Corporate &amp; Development), LTA
          </td>
       </tr>
       <tr>
          <td>
-             Ms Yvonne Chan       
+             Mr Ng Hock Keong     
          </td>
          <td>
-            Chief Financial Officer, SMU
+            DCE (InfoComm Technology &amp; Digital Services), CPFB
+         </td>
+      </tr>
+      <tr>
+         <td>
+             Ms Lim Soo Hoon       
+         </td>
+         <td>
+            Senior Advisor, MOF (Chairperson)
          </td>
 		 </tr>
    </tbody>
