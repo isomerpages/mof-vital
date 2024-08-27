@@ -28,7 +28,15 @@ variant: markdown
             Deputy Chief Executive
          </td>
       </tr>
-      <tr>
+   	 <tr>
+			 <td>
+				Kavitha Subash
+			 </td>
+			 <td>
+				 Group Director (Finance &amp; Procurement)
+			 </td>
+		 </tr>
+		 <tr>
          <td>
             Lee Boon Kim
          </td>
