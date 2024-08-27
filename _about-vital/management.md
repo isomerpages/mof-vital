@@ -30,39 +30,39 @@ variant: markdown
       </tr>
       <tr>
          <td>
-            Leong Siew Keong
+            Lee Boon Kim
          </td>
          <td>
-            Chief Information Officer
+            Group Director (HR &amp; Payroll)
          </td>
       </tr>
       <tr>
-         <td>Lee Boon Kim</td>
-         <td>Group Director (HR &amp; Payroll)      
-         </td>
-      </tr>
-      <tr>
-         <td>
-            Kavitha Subash
-         </td>
-         <td>
-            Group Director (Finance &amp; Procurement)
+         <td>Leong Siew Keong</td>
+         <td>Chief Information Officer     
          </td>
       </tr>
       <tr>
          <td>
-            Adeline Ng        
+            Selvarani T Pillai
          </td>
          <td>
-            Director, HR &amp; Payroll (MOE)
+            Director, Assurance, Risk &amp; Special Projects
          </td>
       </tr>
       <tr>
          <td>
-            Regina Raja         
+            Terence Ong        
          </td>
          <td>
-            Director, HR &amp; Payroll (Statutory Boards)
+            Director, Central Services
+         </td>
+      </tr>
+      <tr>
+         <td>
+            Sharon Yap         
+         </td>
+         <td>
+            Director, Corporate Development
          </td>
       </tr>
       <tr>
@@ -83,34 +83,42 @@ variant: markdown
       </tr>
       <tr>
          <td>
-            Selvarani T Pillai
+            Adeline Ng
          </td>
          <td>
-            Director, Assurance, Risk &amp; Special Projects
+            Director, HR Services (MOE)
          </td>
       </tr>		 
 		 <tr>
          <td>
-            Sharon Yap
+            Regina Raja
          </td>
          <td>
-            Director, Corporate Development
+            Director, HR &amp; Payroll (Statutory Boards)
          </td>
       </tr>		 
 		  <tr>
          <td>
-            Alex Tang
+            Chim Geok Ping
          </td>
          <td>
-            Director, Service Partnership &amp; Innovation
+            Director, Payroll Services (MOE)
          </td>
       </tr>
 		 <tr>
 			 <td>
-				 Terence Ong
+				 Aw Choon Ghee
 			 </td>
 			 <td>
-				 Director, Central Services
+				 Director, Procurement &amp; Travel Services
+			 </td>
+		 </tr>
+		 <tr>
+			 <td>
+				 Alex Tang
+			 </td>
+			 <td>
+				 Director, Service Partnership &amp; Innovation
 			 </td>
 		 </tr>
    </tbody>
