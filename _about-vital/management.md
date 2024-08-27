@@ -81,15 +81,7 @@ variant: markdown
             Director, Finance Services
          </td>
       </tr>
-      <tr>
-         <td>
-           Aw Choon Ghee         
-         </td>
-         <td>
-            Director, Procurement &amp; Travel Services
-         </td>
-      </tr>
-      <tr>
+  <tr>
          <td>
             Adeline Ng
          </td>
