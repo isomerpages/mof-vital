@@ -81,5 +81,3 @@ variant: markdown
 <div class="top-left"><p style="font-size: 30px;"><b>2023</b></p></div>
 	<div class="text-box"><p>Launch of Central RPA Platform and Project Cumulus </p></div>
 </div>
-
-
