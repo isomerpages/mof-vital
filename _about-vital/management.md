@@ -83,18 +83,18 @@ variant: markdown
       </tr>
   <tr>
          <td>
-            Adeline Ng
-         </td>
-         <td>
-            Director, HR Services (MOE)
-         </td>
-      </tr>		 
-		 <tr>
-         <td>
             Regina Raja
          </td>
          <td>
             Director, HR &amp; Payroll (Statutory Boards)
+         </td>
+      </tr>		 
+		 <tr>
+         <td>
+            Adeline Ng
+         </td>
+         <td>
+            Director, HR Services (MOE)
          </td>
       </tr>		 
 		  <tr>
