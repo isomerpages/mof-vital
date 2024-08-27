@@ -76,3 +76,10 @@ variant: markdown
 	<div class="top-left"><p style="font-size: 30px;"><b>2021</b></p></div>
 	<div class="text-box"><p>Supported the roll-out of HRP, the new central HR and payroll administration system for ministries</p></div>
 </div>
+<div class="container">
+<img style="margin-bottom: 5px; height: 90px;" src="/images/overview/RedShape.png">
+<div class="top-left"><p style="font-size: 30px;"><b>2023</b></p></div>
+	<div class="text-box"><p>Launch of Central RPA Platform and Project Cumulus </p></div>
+</div>
+
+
