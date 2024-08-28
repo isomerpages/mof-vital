@@ -1,6 +1,0 @@
-collections:
-  our-portfolio:
-    output: true
-    order:
-      - services.md
-      - for-suppliers.md

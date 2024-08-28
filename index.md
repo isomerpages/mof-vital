@@ -7,38 +7,51 @@ description: VITAL is the shared services arm of the Singapore Government. We
 permalink: /
 sections:
   - hero:
-      title: Forging VITAL Partnerships
-      subtitle: Building strong partnership is crucial for us to excel in our work.
-      background: /images/hero/hero-banner.png
-      key_highlights:
-        - title: CORPORATE SERVICES
-          description: ""
-          url: /our-portfolio/services
-        - title: CAREER
-          description: ""
-          url: /career/being-vital
-        - title: PARTNERSHIP
-          description: ""
-          url: /our-portfolio/for-suppliers
+      background: /images/home/HomePageBanner.gif
   - infopic:
-      title: Overview
-      description: VITAL is the central agency for corporate shared services entrusted
-        with managing and transforming corporate service delivery for the
+      title: <h4><b>LEARN ABOUT VITAL</b></h4><br>
+      description: VITAL is the Central Agency for Corporate Shared Services, tasked
+        with transforming and delivering corporate shared services for the
         Singapore Public Service.
-      image: /images/home/overview.jpg
+      image: /images/home/CorporateImg1_Asian_.jpg
       alt: Overview
       url: /about-us/overview
-      button: FIND OUT MORE
+      button: READ MORE
   - infopic:
-      title: Working in VITAL
+      title: <h4><b>CAREERS AT VITAL</b></h4><br>
       description: As part of VITAL, you will play a key role in delivering corporate
-        services to public agencies and officers. You will also have the
-        opportunity to work on projects to optimise processes and improve
-        efficiency.
-      button: Find out more
-      url: /career/our-vitalites
-      image: /images/home/working-in-vital.jpg
+        services to public agencies and officers.
+      button: READ MORE
+      url: /career/join-vital/
+      image: /images/home/CorporateImg2_Asian_.jpg
       alt: Working in VITAL
+  - infopic:
+      title: <h4><b>SERVICES</b></h4><br>
+      id: infopic
+      description: VITAL helps over 100 public agencies take care of their corporate
+        and administrative processes in the areas of Human Resource (HR),
+        Finance and Procurement.
+      button: READ MORE
+      url: /our-portfolio/services/
+      image: /images/home/CorporateImg8_Asiain_.jpg
+      alt: Image alt text
+  - infopic:
+      title: <h4><b>PARTNER WITH VITAL</b></h4><br>
+      id: infopic
+      description: VITAL works with businesses and service providers to co-create and
+        offer corporate services solutions to government agencies.
+      button: READ MORE
+      url: /demand-aggregation/
+      image: /images/home/CorporateImg12_Asian_.jpg
+      alt: Image alt text
+  - infopic:
+      title: <h4><b>UPDATES</b></h4><br>
+      id: infopic
+      description: Stay updated with VITAL's latest news and achievements!
+      button: READ MORE
+      url: /publications/
+      image: /images/home/CorporateImg11_Asian_.jpg
+      alt: Image alt text
   - infobar:
       title: VITAL Corporate Video
       description: <div class="home-video"><iframe id="corp_video_player"

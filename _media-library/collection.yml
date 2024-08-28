@@ -1,0 +1,6 @@
+collections:
+  media-library:
+    output: true
+    order:
+      - Publications.md
+      - Videos.md

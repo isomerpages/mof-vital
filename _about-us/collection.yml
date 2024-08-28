@@ -1,9 +1,0 @@
-collections:
-  about-us:
-    output: true
-    order:
-      - overview.md
-      - milestones.md
-      - management.md
-      - partners.md
-      - media-library.md

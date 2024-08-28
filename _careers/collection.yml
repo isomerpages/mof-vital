@@ -1,0 +1,6 @@
+collections:
+  careers:
+    output: true
+    order:
+      - Join VITAL.md
+      - Our VITALites.md

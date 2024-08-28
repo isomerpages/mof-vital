@@ -1,0 +1,12 @@
+collections:
+  about-vital:
+    output: true
+    order:
+      - About VITAL.md
+      - Milestones.md
+      - Awards & Achievement.md
+      - Our Vision, Mission & Core Values.md
+      - management.md
+      - VITAL Advisory Panel Members.md
+      - partners.md
+      - media-library.md

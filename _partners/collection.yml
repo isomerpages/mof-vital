@@ -1,0 +1,6 @@
+collections:
+  partners:
+    output: true
+    order:
+      - Demand Aggregation.md
+      - HRPS Training Module.md
