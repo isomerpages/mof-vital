@@ -26,7 +26,7 @@ VITAL is one of the lead agencies for public sector DA and manages the following
 <ul>
     <li>AV Equipment and Accessories&nbsp;</li>
     <li>Electronics &amp; Electrical Appliances&nbsp;</li>
-    <li>Warrants of Arrest Execution&nbsp;</li>
+   
     <li>Temporary and Permanent Employee&nbsp;</li>
     <li>Postage Paid Envelopes&nbsp;</li>
     <li>Meeting/ Event Spaces and Related Services&nbsp;</li>
