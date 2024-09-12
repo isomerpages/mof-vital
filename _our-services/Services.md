@@ -78,7 +78,7 @@ variant: markdown
 			<img style="padding: 15px;" alt="ls" src="/images/our-services/LearningServices_HTML_.png">
 		</div>
 		<div class="flip-card-back">
-			<p style="font-size: 18px; padding: 15px; line-height: 21px; justify-content: center;">VITAL supports public agencies in the area of learning and development by taking care of the end-to-end administrative work required when officers register and attend training courses. Our learning services include external course registration, in-house course administration, training record management, training statistics analysis and HRMS learning hub management.
+			<p style="font-size: 18px; padding: 15px; line-height: 21px; justify-content: center;">VITAL supports public agencies in the area of learning and development by taking care of the end-to-end administrative work required when officers register and attend training courses. Our learning services include external course registration, in-house course administration, training record management and training statistics analysis.
 </p>
 		</div>
 			</div>
