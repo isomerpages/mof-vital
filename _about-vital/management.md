@@ -102,7 +102,7 @@ variant: markdown
             Chim Geok Ping
          </td>
          <td>
-            Director, Payroll Services (MOE)
+            Director, Payroll Services 
          </td>
       </tr>
 		 <tr>

@@ -13,13 +13,20 @@ description: VITAL's VAP Members
          <th>
             Designation
          </th>
+				</tr><tr>
+         <td>
+            Ms Lim Soo Hoon   
+         </td>
+         <td>
+            Chairman of VITAL Advisory Panel and Senior Advisor, MOF
+         </td>
       </tr>
       <tr>
          <td>
             Mr Tan Eng Pheng
          </td>
          <td>
-            ACE (Economic and National Development), GovTech
+            Assistant Chief Executive (Economic and National Development), GovTech
          </td>
       </tr>
       <tr>
@@ -33,7 +40,7 @@ description: VITAL's VAP Members
             Ms Yvonne Chan
          </td>
          <td>
-           Chief Financial Officer, SMU  
+           Chief Financial Officer (CFO), SMU
          </td>
       </tr>
       <tr>
@@ -46,7 +53,7 @@ description: VITAL's VAP Members
             Mr Goh Teck Seng
          </td>
          <td>
-            DCE (Corporate &amp; Development), LTA
+            Deputy Chief Executive (Corporate &amp; Development), LTA
          </td>
       </tr>
       <tr>
@@ -54,15 +61,7 @@ description: VITAL's VAP Members
              Mr Ng Hock Keong     
          </td>
          <td>
-            DCE (InfoComm Technology &amp; Digital Services), CPFB
-         </td>
-      </tr>
-      <tr>
-         <td>
-             Ms Lim Soo Hoon       
-         </td>
-         <td>
-            Senior Advisor, MOF (Chairperson)
+            Deputy CEO (InfoComm Technology &amp; Digital Services), CPFB
          </td>
 		 </tr>
    </tbody>
