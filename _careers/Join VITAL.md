@@ -36,5 +36,5 @@ service partners.</p>
 	</div>
 </div>
 <h4><b>To Learn More</b></h4>
-<p style="line-height: 25px;">Follow us on <a href="https://lnkd.in/gSidSEj2">LinkedIn</a>! and click here to learn more about the <a href="careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=VITAL">opportunities</a> available in VITAL!</p>
+<p style="line-height: 25px;">Follow us on <a href="https://lnkd.in/gSidSEj2">LinkedIn</a>! and click here to learn more about the <a href="[Careers@Gov Singapore](https://jobs.careers.gov.sg/?a=VITAL)">opportunities</a> available in VITAL!</p>
 <img src="/images/2023_VITAL_s_Employer_Branding.png">
