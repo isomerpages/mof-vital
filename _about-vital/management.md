@@ -94,7 +94,7 @@ variant: markdown
             Adeline Ng
          </td>
          <td>
-            Director, HR Services (MOE)
+            Director, HR Services 
          </td>
       </tr>		 
 		  <tr>
