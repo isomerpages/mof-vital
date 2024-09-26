@@ -8,10 +8,10 @@ variant: markdown
    <tbody>
       <tr>
          <th>
-            Name
+            Designation
          </th>
          <th>
-            Designation
+            Name
          </th>
       </tr>
       <tr>
@@ -22,18 +22,18 @@ variant: markdown
             Chief Executive
          </td>
       </tr>
-      <tr>
-         <td>Yuen Sai Kuan </td>
+      <tr></tr><tr></tr><tr>
+         <td>Deputy Chief Executive</td>
          <td>
-            Deputy Chief Executive
+            Yuen Sai Kuan 
          </td>
       </tr>
    	 <tr>
 			 <td>
-				Kavitha Subash
+				Group Director (Finance &amp; Procurement)
 			 </td>
 			 <td>
-				 Group Director (Finance &amp; Procurement)
+				 Kavitha Subash
 			 </td>
 		 </tr>
 		 <tr>
