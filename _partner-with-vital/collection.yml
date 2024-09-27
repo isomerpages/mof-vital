@@ -1,5 +1,5 @@
 collections:
-  partners:
+  partner-with-vital:
     output: true
     order:
       - Demand Aggregation.md
