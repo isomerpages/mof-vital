@@ -8,117 +8,117 @@ variant: markdown
    <tbody>
       <tr>
          <th>
-            Name
-         </th>
-         <th>
             Designation
          </th>
+         <th>
+            Name
+         </th>
       </tr>
       <tr>
          <td>
-            Clarence Tang 
+            Chief Executive 
          </td>
          <td>
-            Chief Executive
+            Clarence Tang
          </td>
       </tr>
-      <tr>
-         <td>Yuen Sai Kuan </td>
+      <tr></tr><tr></tr><tr>
+         <td>Deputy Chief Executive</td>
          <td>
-            Deputy Chief Executive
+            Yuen Sai Kuan 
          </td>
       </tr>
    	 <tr>
 			 <td>
-				Kavitha Subash
+				Group Director (Finance &amp; Procurement)
 			 </td>
 			 <td>
-				 Group Director (Finance &amp; Procurement)
+				 Kavitha Subash
 			 </td>
 		 </tr>
 		 <tr>
          <td>
-            Lee Boon Kim
-         </td>
-         <td>
             Group Director (HR &amp; Payroll)
          </td>
-      </tr>
-      <tr>
-         <td>Leong Siew Keong</td>
-         <td>Chief Information Officer     
-         </td>
-      </tr>
-      <tr>
          <td>
-            Selvarani T Pillai
+            Lee Boon Kim
          </td>
+      </tr>
+      <tr>
+         <td>Chief Information Officer</td>
+         <td>Leong Siew Keong
+         </td>
+      </tr>
+      <tr>
          <td>
             Director, Assurance, Risk &amp; Special Projects
          </td>
-      </tr>
-      <tr>
          <td>
-            Terence Ong        
-         </td>
-         <td>
-            Director, Central Services
+            Selvarani T Pillai
          </td>
       </tr>
       <tr>
          <td>
-            Sharon Yap         
+            Director, Central Services        
          </td>
          <td>
-            Director, Corporate Development
+            Terence Ong
          </td>
       </tr>
       <tr>
          <td>
-            Koh-Tham Kah Wai       
+            Director, Corporate Development   
          </td>
          <td>
-            Director, Finance Services
+            Sharon Yap
+         </td>
+      </tr>
+      <tr>
+         <td>
+            Director, Finance Services       
+         </td>
+         <td>
+            Koh-Tham Kah Wai 
          </td>
       </tr>
   <tr>
          <td>
-            Regina Raja
+           Director, HR &amp; Payroll (Statutory Boards)
          </td>
          <td>
-            Director, HR &amp; Payroll (Statutory Boards)
+            Regina Raja
          </td>
       </tr>		 
 		 <tr>
          <td>
-            Adeline Ng
+            Director, HR Services
          </td>
          <td>
-            Director, HR Services (MOE)
+            Adeline Ng
          </td>
       </tr>		 
 		  <tr>
          <td>
-            Chim Geok Ping
+            Director, Payroll Services
          </td>
          <td>
-            Director, Payroll Services 
+            Chim Geok Ping 
          </td>
       </tr>
 		 <tr>
 			 <td>
-				 Aw Choon Ghee
+				 Director, Procurement &amp; Travel Services
 			 </td>
 			 <td>
-				 Director, Procurement &amp; Travel Services
+				 Aw Choon Ghee
 			 </td>
 		 </tr>
 		 <tr>
 			 <td>
-				 Alex Tang
+				 Director, Service Partnership &amp; Innovation
 			 </td>
 			 <td>
-				 Director, Service Partnership &amp; Innovation
+				 Alex Tang
 			 </td>
 		 </tr>
    </tbody>
