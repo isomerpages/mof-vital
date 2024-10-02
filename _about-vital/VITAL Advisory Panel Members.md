@@ -4,6 +4,11 @@ permalink: /vap-members/
 variant: markdown
 description: VITAL's VAP Members
 ---
+Established in 2017, the VITAL Advisory Panel (VAP) provides thought leadership to VITAL on shared services strategy, including business model, operations management, service delivery, technology application, and workforce development. 
+
+The panel serves as a sounding board for key initiatives and offers insights on best practices. VAP members&nbsp;have expertise in areas such as Procurement, Finance, HR and IT transformation, and have provided VITAL with valuable insights on our transformation and shared services initiatives.
+
+<br>
 <table class="vital-table-1">
    <tbody>
       <tr>
@@ -40,7 +45,7 @@ description: VITAL's VAP Members
             Ms Yvonne Chan
          </td>
          <td>
-           Chief Financial Officer (CFO), SMU
+           Chief Financial Officer, SMU
          </td>
       </tr>
       <tr>
@@ -61,7 +66,7 @@ description: VITAL's VAP Members
              Mr Ng Hock Keong     
          </td>
          <td>
-            Deputy CEO (InfoComm Technology &amp; Digital Services), CPFB
+            Deputy Chief Executive (InfoComm Technology &amp; Digital Services), CPFB
          </td>
 		 </tr>
    </tbody>
