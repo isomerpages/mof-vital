@@ -72,12 +72,17 @@ variant: markdown
 	<div class="text-box"><p>Migrated and rolled out Digital Workplace - Asset Management System (DWP-AMS)</p></div>
 </div>
 <div class="container">
-	<img style="margin-bottom: 10px; height: 180px;" src="/images/overview/BlueShape.png">
-	<div class="top-left"><p style="font-size: 30px;"><b>2021</b></p></div>
-	<div class="text-box"><p>Appointed as the Central Agency for Corporate Shared Services and R&amp;A lead for Corporate and Administrative services across the Singapore Government, whilst supporting the roll-out of HRP, the new central HR and payroll administration system for ministries</p></div>
+	<img style="margin-bottom: 10px; height: 120px;" src="/images/overview/BlueShape.png">
+	<div class="top-left"><p style="font-size: 30px;"><b>2020</b></p></div>
+	<div class="text-box"><p>Appointed as the Central Agency for Corporate Shared Services and R&amp;A lead for Corporate and Administrative services across the Singapore Government</p></div>
 </div>
 <div class="container">
-<img style="margin-bottom: 5px; height: 90px;" src="/images/overview/RedShape.png">
+<img style="margin-bottom: 5px; height: 110px;" src="/images/overview/RedShape.png">
+<div class="top-left"><p style="font-size: 30px;"><b>2021</b></p></div>
+	<div class="text-box"><p>Supported the roll-out of HRP, the new central HR and payroll administration system for ministries</p></div>
+<div class="container">
+<img style="margin-bottom: 5px; height: 90px;" src="/images/overview/BlueShape.png">
 <div class="top-left"><p style="font-size: 30px;"><b>2023</b></p></div>
 	<div class="text-box"><p>Launch of Central RPA Platform and Project Cumulus </p></div>
+</div>
 </div>
