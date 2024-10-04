@@ -4,10 +4,7 @@ permalink: /vap-members/
 variant: markdown
 description: VITAL's VAP Members
 ---
-Established in 2017, the VITAL Advisory Panel (VAP) provides thought leadership to VITAL on shared services strategy, including business model, operations management, service delivery, technology application, and workforce development. 
-
-The panel serves as a sounding board for key initiatives and offers insights on best practices. VAP members&nbsp;have expertise in areas such as Procurement, Finance, HR and IT transformation, and have provided VITAL with valuable insights on our transformation and shared services initiatives.
-
+Established in 2017, the VITAL Advisory Panel (VAP) provides thought leadership to VITAL on shared services strategy, including business model, operations management, service delivery, technology application, and workforce development. The panel serves as a sounding board for key initiatives and offers insights on best practices. 
 <br>
 <table class="vital-table-1">
    <tbody>
