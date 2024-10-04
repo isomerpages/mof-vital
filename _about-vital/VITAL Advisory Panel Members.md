@@ -41,7 +41,7 @@ The VITAL Advisory Panel (VAP) provides thought leadership to VITAL on shared se
       <tr>
          <td>
             Ms Yvonne Chan
-         </td>
+				</td>
          <td>
            Chief Financial Officer, SMU
          </td>
@@ -67,5 +67,12 @@ The VITAL Advisory Panel (VAP) provides thought leadership to VITAL on shared se
             Deputy Chief Executive (InfoComm Technology &amp; Digital Services), CPFB
          </td>
 		 </tr>
+         <tr><td>
+            Ms Aileen Tan
+				</td>
+         <td>
+                Group Chief People and Sustainability Officer, SingTel
+         </td>
+      </tr>
    </tbody>
 </table>
