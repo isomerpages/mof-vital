@@ -26,6 +26,33 @@ The VITAL Advisory Panel (VAP) provides thought leadership to VITAL on shared se
       </tr>
       <tr>
          <td>
+            Ms Aileen Tan
+         </td>
+         <td>
+            Group Chief People and Sustainability Officer, SingTel
+         </td>
+      </tr>
+      <tr>
+         <td>Mr Goh Teck Seng</td>
+         <td>
+            Deputy Chief Executive (Corporate &amp; Development), LTA
+         </td>
+      </tr>
+      <tr>
+         <td>
+            Mr Hoe Siu Loon
+				</td>
+         <td>
+           Associate Professor of Information Systems (Practice), SMU
+         </td>
+      </tr>
+      <tr>
+         <td>Mr Ng Hock Keong</td>
+         <td>Deputy Chief Executive (InfoComm Technology &amp; Digital Services), CPFB
+         </td>
+      </tr>
+      <tr>
+         <td>
             Mr Tan Eng Pheng
          </td>
          <td>
@@ -33,45 +60,18 @@ The VITAL Advisory Panel (VAP) provides thought leadership to VITAL on shared se
          </td>
       </tr>
       <tr>
-         <td>Mr Hoe Siu Loon</td>
          <td>
-            Associate Professor of Information Systems (Practice), SMU
-         </td>
-      </tr>
-      <tr>
-         <td>
-            Ms Yvonne Chan
-				</td>
-         <td>
-           Chief Financial Officer, SMU
-         </td>
-      </tr>
-      <tr>
-         <td>Mr Terence Lee</td>
-         <td>Chief Procurement Officer, Asia Pacific, Procurement / Supply Chain Optimization, GEODIS Singapore
-         </td>
-      </tr>
-      <tr>
-         <td>
-            Mr Goh Teck Seng
+             Mr Terence Lee   
          </td>
          <td>
-            Deputy Chief Executive (Corporate &amp; Development), LTA
-         </td>
-      </tr>
-      <tr>
-         <td>
-             Mr Ng Hock Keong     
-         </td>
-         <td>
-            Deputy Chief Executive (InfoComm Technology &amp; Digital Services), CPFB
+            Chief Procurement Officer, Asia Pacific, Procurement / Supply Chain Optimization, GEODIS Singapore
          </td>
 		 </tr>
          <tr><td>
-            Ms Aileen Tan
+            Ms Yvonne Chan
 				</td>
          <td>
-                Group Chief People and Sustainability Officer, SingTel
+               Chief Financial Officer, SMU
          </td>
       </tr>
    </tbody>
