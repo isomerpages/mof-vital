@@ -37,7 +37,7 @@ variant: markdown
 	<div class="text-box"><p>Set up one-stop Travel Agent Services</p></div>
 </div>
 <div class="container">
-	<img style="margin-bottom: 5px; height: 90px;" src="/images/overview/RedShape.png">
+	<img style="margin-bottom: 5px; height: 90px; width: 4000px" src="/images/overview/RedShape.png">
 	<div class="top-left"><p style="font-size: 30px;"><b>2009</b></p></div>
 	<div class="text-box"><p>Set up Asset Accounting Services</p></div>
 </div>
