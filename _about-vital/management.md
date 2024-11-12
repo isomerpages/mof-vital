@@ -65,6 +65,14 @@ variant: markdown
             Terence Ong
          </td>
       </tr>
+		<tr>
+			 <td>
+				 Director, Centre of Excellence
+			 </td>
+			 <td>
+				Hai Liang Peng
+			 </td>
+		 </tr>
       <tr>
          <td>
             Director, Corporate Development   
