@@ -1,7 +1,7 @@
 ---
-title: VITAL Advisory Panel Members
+title: VITAL Advisory Panel
 permalink: /vap-members/
-variant: markdown
+variant: tiptap
 description: VITAL's VAP Members
 ---
 The VITAL advisory panel provides thought leadership to VITAL on shared services strategy, including business model, operations management, service delivery, technology application, and workforce development. The panel serves as a sounding board for key initiatives and offers insights on best practices. 
