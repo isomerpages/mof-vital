@@ -4,7 +4,7 @@ permalink: /vap-members/
 variant: markdown
 description: VITAL's VAP Members
 ---
-The VITAL Advisory Panel (VAP) provides thought leadership to VITAL on shared services strategy, including business model, operations management, service delivery, technology application, and workforce development. The panel serves as a sounding board for key initiatives and offers insights on best practices. 
+The VITAL advisory panel provides thought leadership to VITAL on shared services strategy, including business model, operations management, service delivery, technology application, and workforce development. The panel serves as a sounding board for key initiatives and offers insights on best practices. 
 
 <br>
 <table class="vital-table-1">
@@ -21,7 +21,7 @@ The VITAL Advisory Panel (VAP) provides thought leadership to VITAL on shared se
             Ms Lim Soo Hoon   
          </td>
          <td>
-            Chairman of VITAL Advisory Panel and Senior Advisor, MOF
+            Senior Advisor, Ministry of Finance and Chairperson of VITAL Advisory Panel
          </td>
       </tr>
       <tr>
@@ -33,9 +33,9 @@ The VITAL Advisory Panel (VAP) provides thought leadership to VITAL on shared se
          </td>
       </tr>
       <tr>
-         <td>Mr Goh Teck Seng</td>
+         <td>Ms Hai Yin Chiang</td>
          <td>
-            Deputy Chief Executive (Corporate &amp; Development), LTA
+            Assistant Chief Executive (Corporate Group), Singapore Tourism Board
          </td>
       </tr>
       <tr>
@@ -43,35 +43,35 @@ The VITAL Advisory Panel (VAP) provides thought leadership to VITAL on shared se
             Mr Hoe Siu Loon
 				</td>
          <td>
-           Associate Professor of Information Systems (Practice), SMU
+           Associate Professor of Information Systems (Practice), Singapore Management University
          </td>
       </tr>
       <tr>
-         <td>Mr Ng Hock Keong</td>
-         <td>Deputy Chief Executive (InfoComm Technology &amp; Digital Services), CPFB
+         <td>Mr Kenneth Lim</td>
+         <td>Director (Shared Services), Nanyang Technological University
          </td>
       </tr>
       <tr>
          <td>
-            Mr Tan Eng Pheng
+            Mr Ng Hock Keong
+         </td>
+         <td>
+            Deputy Chief Executive (Infocomm Technology &amp; Digital Services), Central Provident Fund Board
+         </td>
+      </tr>
+      <tr>
+         <td>
+             Mr Tan Eng Pheng   
          </td>
          <td>
             Assistant Chief Executive (Economic and National Development), GovTech
-         </td>
-      </tr>
-      <tr>
-         <td>
-             Mr Terence Lee   
-         </td>
-         <td>
-            Chief Procurement Officer, Asia Pacific, Procurement / Supply Chain Optimization, GEODIS Singapore
          </td>
 		 </tr>
          <tr><td>
             Ms Yvonne Chan
 				</td>
          <td>
-               Chief Financial Officer, SMU
+               Chief Financial Officer, Singapore Management University
          </td>
       </tr>
    </tbody>
