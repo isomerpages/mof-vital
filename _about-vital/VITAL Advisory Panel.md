@@ -82,7 +82,7 @@ Provident Fund Board</p>
 <p>Mr Tan Eng Pheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Chief Executive (Economic and National Development), GovTech</p>
+<p>Senior Advisor, Government Digital Transformation, GovTech</p>
 </td>
 </tr>
 <tr>
