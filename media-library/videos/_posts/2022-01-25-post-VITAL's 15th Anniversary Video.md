@@ -7,4 +7,7 @@ description: VITAL Corporate Video
 image: ""
 variant: tiptap
 ---
-<div class="home-video"><iframe id="video_player" title="VITAL Corporate Video" width="640" height="350" src="https://www.youtube.com/embed/RgqYee3O6Bo?rel=0&amp;showinfo=0" allow="encrypted-media" allowfullscreen=""></iframe></div>
+<div class="iframe-wrapper">
+<iframe height="350" width="640" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RgqYee3O6Bo?rel=0&amp;showinfo=0"></iframe>
+</div>
+<p></p>
