@@ -14,5 +14,5 @@ image: ""
 This book is dedicated specially to the pioneers of VITAL, who have paved the way for us to grow and become what we are today.
 	</p>
 <p style="font-size: 20px;color:#585858;text-align:justify;">
-	Click <a href="/media/10yearsofbeingvital.pdf">here</a> to download VITAL's 10th anniversary coffee book.
+	Click <a href="/media/10yearsofbeingvital.pdf">here</a> to download VITAL's 10th anniversary coffee table book.
 </p>
