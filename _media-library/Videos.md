@@ -354,8 +354,8 @@ description: ""
 			<div class="card">
 				<img src="/images/media/VITALCorporateVid.jpg">
 		<div class="card-content">
-			<h3>VITAL Corporate Video</h3><br>
-			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/vital-corporate-video/">READ MORE</a>
+			<h3>VITAL's 15th Anniversary Video</h3><br>
+			<a class="btn" href="https://www.vital.gov.sg/media-library/videos/vital-15th-anniversary-video">READ MORE</a>
 			<p>25 Jan 2022</p>
 		</div>
 	</div>
