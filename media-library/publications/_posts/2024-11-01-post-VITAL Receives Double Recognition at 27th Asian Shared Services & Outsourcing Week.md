@@ -10,9 +10,9 @@ variant: tiptap
 ---
 <p></p>
 <p>VITAL is proud to have participated in the 27th Annual Asian Shared Services
-&amp; Outsourcing Week, a globally recognised, annual industry awards ceremony,
-which honours and celebrates SSC and service delivery teams who have exceeded
-industry standards in their SS&amp;O initiative.</p>
+&amp; Outsourcing (SS&amp;O) Week, a globally recognised, annual industry
+awards ceremony, which honours and celebrates SSC and service delivery
+teams who have exceeded industry standards in their SS&amp;O initiative.</p>
 <p>Represented by Mr. Sai Kuan Yuen, our Deputy Chief Executive, we are thrilled
 to have received honorary mentions for two SSON Impact Awards – Automation
 Impact Award and Diversity &amp; Inclusion Impact Award.</p>
@@ -29,9 +29,5 @@ Public Service!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SSON_2024___Automation_Impact_Award.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SSON_2204___Diversity___Inclusion_Impact_Award.jpg">
 </div>
 <p></p>
