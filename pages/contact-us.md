@@ -13,8 +13,8 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: <p><span>For queries/appeals from MPs, POHs or agency QSMs, or suspected
-          scams, click</span> <a href="https://go.gov.sg/vision-qsm"
+      - other: <p><span>For queries/appeals from MPs, POHs, agency QSMs, or for
+          suspected scams, click</span> <a href="https://go.gov.sg/vision-qsm"
           target="">here.</a> (Singpass required)</p>
     title: QSM Enquiries & Suspected Scams
   - content:
