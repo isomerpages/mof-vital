@@ -1,13 +1,13 @@
 ---
 title: Feedback
 permalink: /feedback/
+variant: markdown
 ---
-
 # Feedback
 
-We welcome your feedback and suggestions on our services. Please contact our [VITAL Helpdesk](mailto:vital_helpdesk@vital.gov.sg).
+We welcome your feedback and suggestions on our services. Please reach us [here](https://go.gov.sg/vision-helpdesk). (Singpass required)
 
-For queries/appeals from MPs, POHs or agency QSMs, or suspected scams, please email to <a href="mailto:vital-QSM@vital.gov.sg" target="_blank">VITAL QSM</a>.
+For queries/appeals from MPs, POHs, agency QSMs, or for suspected scams, click <a href="https://go.gov.sg/vision-qsm" target="_blank">here</a>. (Singpass required)
 
 To make a whistleblowing report, please fill up this <a href="https://go.gov.sg/vitalwhistleblowing" target="">online form</a><span> or email to </span> <a href="mailto:whistleblow@vital.gov.sg" target="">VITAL Whistleblowing</a>.
 
