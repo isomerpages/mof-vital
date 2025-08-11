@@ -42,7 +42,7 @@ contacts:
           good faith, based upon genuine concerns. However, we will act against
           any person who makes false, malicious or frivolous report, including
           reporting the matter to the police.
-    title: .
+    title: Confidentiality
 locations:
   - address:
       - 5 Maxwell Road
