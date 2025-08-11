@@ -37,11 +37,11 @@ contacts:
       - phone: ""
       - email: ""
       - other: We are committed to ensuring that your identity and all disclosed
-          information shall be treated with the strictest confidence. No action
-          will be taken against any person who submits a report that is made in
-          good faith, based upon genuine concerns. However, we will act against
-          any person who makes false, malicious or frivolous report, including
-          reporting the matter to the police.
+          information during Whistleblowing shall be treated with the strictest
+          confidence. No action will be taken against any person who submits a
+          report made in good faith, based upon genuine concerns. However, we
+          will act against any person who makes false, malicious or frivolous
+          report, including reporting the matter to the police.
     title: Confidentiality
 locations:
   - address:
