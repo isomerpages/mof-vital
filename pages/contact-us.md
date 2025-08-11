@@ -7,10 +7,8 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: <p>Please direct all enquiries to our helpdesk
-          email.</p><p><span>E-mail:</span> <a
-          href="mailto:vital_helpdesk@vital.gov.sg" target="">VITAL
-          Helpdesk</a></p>
+      - other: For general enquiries, click <a href="https://go.gov.sg/vision-helpdesk"
+          target="">here</a>. (Singpass required)
     title: VITAL Helpdesk
   - content:
       - phone: ""
@@ -44,7 +42,7 @@ contacts:
           good faith, based upon genuine concerns. However, we will act against
           any person who makes false, malicious or frivolous report, including
           reporting the matter to the police.
-    title: ""
+    title: .
 locations:
   - address:
       - 5 Maxwell Road
