@@ -14,8 +14,8 @@ contacts:
       - phone: ""
       - email: ""
       - other: <p><span>For queries/appeals from MPs, POHs or agency QSMs, or suspected
-          scams, please email to </span> <a href="mailto:vital-QSM@vital.gov.sg"
-          target="">VITAL QSM</a>.</p>
+          scams, click</span> <a href="https://go.gov.sg/vision-qsm"
+          target="">here.</a> (Singpass required)</p>
     title: QSM Enquiries & Suspected Scams
   - content:
       - phone: ""
