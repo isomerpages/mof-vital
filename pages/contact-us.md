@@ -13,10 +13,11 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: <p><span>For queries/appeals from MPs, POHs, agency QSMs, or for
-          suspected scams, click</span> <a href="https://go.gov.sg/vision-qsm"
-          target="">here.</a> (Singpass required)</p>
-    title: QSM Enquiries & Suspected Scams
+      - other: <p><span>If you wish to submit feedback on VITAL’s services to the
+          Quality Service Manager (QSM), click</span> <a
+          href="https://go.gov.sg/vision-qsm" target="">here.</a> (Singpass
+          required)</p>
+    title: QSM Feedback
   - content:
       - phone: ""
       - email: ""
