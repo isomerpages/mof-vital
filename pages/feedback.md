@@ -7,7 +7,7 @@ variant: markdown
 
 We welcome your feedback and suggestions on our services. Please reach us [here](https://go.gov.sg/vision-helpdesk). (Singpass required)
 
-For queries/appeals from MPs, POHs, agency QSMs, or for suspected scams, click <a href="https://go.gov.sg/vision-qsm" target="_blank">here</a>. (Singpass required)
+If you wish to submit feedback on VITAL’s services to the Quality Service Manager (QSM), click <a href="https://go.gov.sg/vision-qsm" target="_blank">here</a>. (Singpass required)
 
 To make a whistleblowing report, please fill up this <a href="https://go.gov.sg/vitalwhistleblowing" target="">online form</a><span> or email to </span> <a href="mailto:whistleblow@vital.gov.sg" target="">VITAL Whistleblowing</a>.
 
