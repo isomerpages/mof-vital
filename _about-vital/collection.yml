@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - About VITAL.md
+      - Our Mission, Vision & Values.md
       - Milestones.md
       - Awards & Achievement.md
-      - Our Mission, Vision & Values.md
       - management.md
       - VITAL Advisory Panel.md
       - partners.md
