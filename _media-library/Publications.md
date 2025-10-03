@@ -67,6 +67,16 @@ description: ""
 		</div>
 	</div>
 		</div>
+		<div class="column">
+			<div class="card">
+					<img src="/images/Citizen_Developer_Day.png">
+		<div class="card-content">
+			<h3>Confidence catalyses citizen developer programmes in the public sector</h3><br>
+			<a class="btn" href="/govinsider-article-confidence-catalyses-citizen-developer-programmes-in-the-public-sector/">READ MORE</a>
+			<p>9 July 2025</p>
+		</div>
+	</div>
+		</div>
 	</div>
 	<div class="row">
 		<div class="column">
