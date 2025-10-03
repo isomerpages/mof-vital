@@ -59,11 +59,11 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-					<img src="/images/Citizen_Developer_Day.png">
+					<img src="/images/DSC_0188.jpg">
 		<div class="card-content">
-			<h3>Confidence catalyses citizen developer programmes in the public sector</h3><br>
-			<a class="btn" href="/govinsider-article-confidence-catalyses-citizen-developer-programmes-in-the-public-sector/">READ MORE</a>
-			<p>9 July 2025</p>
+			<h3>ReVITALise! Townhall August 2025</h3><br>
+			<a class="btn" href="/revitalise-townhall-august-2025/">READ MORE</a>
+			<p>19 August 2025</p>
 		</div>
 	</div>
 		</div>
