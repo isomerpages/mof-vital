@@ -21,3 +21,17 @@ in celebrating how far we’ve come, and in shaping the road ahead together.
 <br>
 <br>Here’s to continuing our mission to transform and deliver corporate shared
 services for the Singapore Public Service!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC_0188.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC_9938.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC_0191.jpg">
+</div>
+<p></p>
