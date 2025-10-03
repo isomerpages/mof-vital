@@ -7,3 +7,17 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>On 19 August, VITAL came together as One VITAL for our bi-annual ReVITALise!
+Townhall – a day filled with reflection, recognition and renewed energy
+for the journey ahead.
+<br>
+<br>From a hearty buffet lunch and gallery walk of FY24 achievements to award
+presentations, Q&amp;A with senior management, and fun staff activities,
+the event strengthened bonds and celebrated our collective journey.
+<br>
+<br>The townhall was more than just an update; it was a reminder that transformation
+at VITAL is powered by our people. Thank you to all staff who joined us
+in celebrating how far we’ve come, and in shaping the road ahead together.
+<br>
+<br>Here’s to continuing our mission to transform and deliver corporate shared
+services for the Singapore Public Service!</p>
