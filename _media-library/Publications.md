@@ -59,6 +59,28 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
+					<img src="/images/DSC_0188.jpg">
+		<div class="card-content">
+			<h3>ReVITALise! Townhall August 2025</h3><br>
+			<a class="btn" href="/revitalise-townhall-august-2025/">READ MORE</a>
+			<p>19 August 2025</p>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+					<img src="/images/Citizen_Developer_Day.png">
+		<div class="card-content">
+			<h3>Confidence catalyses citizen developer programmes in the public sector</h3><br>
+			<a class="btn" href="/govinsider-article-confidence-catalyses-citizen-developer-programmes-in-the-public-sector/">READ MORE</a>
+			<p>9 July 2025</p>
+		</div>
+	</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="column">
+			<div class="card">
 		<img src="/images/GovInsider_Live___SaaS_Day_July9.jpg">
 		<div class="card-content">
 			<h3>GovInsider Article: When is it time to choose SaaS over legacy?</h3><br>

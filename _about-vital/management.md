@@ -23,7 +23,7 @@ variant: markdown
          </td>
       </tr>
       <tr></tr><tr></tr><tr>
-         <td>Deputy Chief Executive</td>
+         <td>Deputy Chief Executive &amp; Chief Data Officer</td>
          <td>
             Yuen Sai Kuan 
          </td>
@@ -51,7 +51,7 @@ variant: markdown
       </tr>
       <tr>
          <td>
-            Director, Assurance, Risk &amp; Special Projects
+            Director, Assurance &amp; Risk
          </td>
          <td>
             Selvarani T Pillai
@@ -97,15 +97,7 @@ variant: markdown
             Regina Raja
          </td>
       </tr>		 
-		 <tr>
-         <td>
-            Director, HR Services
-         </td>
-         <td>
-            Adeline Ng
-         </td>
-      </tr>		 
-		  <tr>
+		 		  <tr>
          <td>
             Director, Payroll Services
          </td>
