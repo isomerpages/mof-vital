@@ -2,4 +2,5 @@ collections:
   vital20:
     output: true
     order:
+      - VITAL 20th Anniversary.md
       - Our Journey.md
