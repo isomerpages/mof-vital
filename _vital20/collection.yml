@@ -1,0 +1,4 @@
+collections:
+  vital20:
+    output: true
+    order: []
