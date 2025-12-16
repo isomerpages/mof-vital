@@ -1,4 +1,5 @@
 collections:
   vital20:
     output: true
-    order: []
+    order:
+      - Our Journey.md
