@@ -10,7 +10,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Colorful_Geometric_Anniversary_Banner.png">
 </div>
-<h4>Message from our CE</h4>
+<h4><strong>Message from our CE</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Colorful_Geometric_Anniversary_Banner__1_.png">
 </div>
