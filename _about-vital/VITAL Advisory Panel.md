@@ -53,15 +53,6 @@ Panel</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Hoe Siu Loon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Associate Professor of Information Systems (Practice), Singapore Management
-University</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Kenneth Lim</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -70,19 +61,19 @@ University</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Hock Keong</p>
+<p>Ms Lee Mui Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Deputy Chief Executive (Infocomm Technology &amp; Digital Services), Central
-Provident Fund Board</p>
+<p>Chief Operating Officer, ServiceSG, Public Service Division</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Eng Pheng</p>
+<p>Mr Tan Bee Teck</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Advisor, Government Digital Transformation, GovTech</p>
+<p>Assistant Chief Executive, Economic and National Development, Government
+Digital Transformation, GovTech</p>
 </td>
 </tr>
 <tr>
@@ -90,7 +81,7 @@ Provident Fund Board</p>
 <p>Ms Yvonne Chan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chief Financial Officer, Singapore Management University</p>
+<p>Chief Financial Officer and Vice President, Singapore Management University</p>
 </td>
 </tr>
 </tbody>
