@@ -62,7 +62,7 @@ variant: markdown
             Director, Central Services        
          </td>
          <td>
-            Terence Ong
+            Timothy Pak
          </td>
       </tr>
 		<tr>
@@ -78,7 +78,7 @@ variant: markdown
             Director, Corporate Development   
          </td>
          <td>
-            Sharon Yap
+            Shannon Boo
          </td>
       </tr>
       <tr>
