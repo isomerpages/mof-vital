@@ -7,7 +7,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: For general enquiries, click <a href="https://go.gov.sg/vision-helpdesk"
+      - other: For general enquiries, click <a href="https://go.gov.sg/vision-enquiry"
           target="">here</a>. (Singpass required)
     title: VITAL Helpdesk
   - content:
