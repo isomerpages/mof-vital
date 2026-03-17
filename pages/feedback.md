@@ -5,7 +5,7 @@ variant: markdown
 ---
 # Feedback
 
-We welcome your feedback and suggestions on our services. Please reach us [here](https://go.gov.sg/vision-helpdesk). (Singpass required)
+We welcome your feedback and suggestions on our services. Please reach us [here](https://go.gov.sg/vision-enquiry). (Singpass required)
 
 If you wish to submit feedback on VITAL’s services to the Quality Service Manager (QSM), click <a href="https://go.gov.sg/vision-qsm" target="_blank">here</a>. (Singpass required)
 
