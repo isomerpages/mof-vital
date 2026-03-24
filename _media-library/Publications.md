@@ -62,7 +62,7 @@ description: ""
 					<img src="/images/VITAL20_Logo_vf.jpg">
 		<div class="card-content">
 			<h3>Celebrating 20 Years of People and Partnerships</h3><br>
-			<a class="btn" href="/images/VITAL20_Logo_vf.jpg">READ MORE</a>
+			<a class="btn" href="/celebrating-20-years-of-people-and-partnerships/">READ MORE</a>
 			<p>24 February 2026</p>
 		</div>
 	</div>
