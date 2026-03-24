@@ -63,7 +63,7 @@ description: ""
 		<div class="card-content">
 			<h3>Celebrating 20 Years of People and Partnerships</h3><br>
 			<a class="btn" href="/images/VITAL20_Logo_vf.jpg">READ MORE</a>
-			<p>19 August 2025</p>
+			<p>24 February 2026</p>
 		</div>
 	</div>
 		</div>
