@@ -61,8 +61,8 @@ description: ""
 			<div class="card">
 					<img src="/images/DSC_0188.jpg">
 		<div class="card-content">
-			<h3>ReVITALise! Townhall August 2025</h3><br>
-			<a class="btn" href="/revitalise-townhall-august-2025/">READ MORE</a>
+			<h3>Celebrating 20 Years of People and Partnerships</h3><br>
+			<a class="btn" href="/images/VITAL20_Logo_vf.jpg">READ MORE</a>
 			<p>19 August 2025</p>
 		</div>
 	</div>
