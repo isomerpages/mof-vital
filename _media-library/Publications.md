@@ -59,6 +59,29 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
+					<img src="/images/VITAL20_Logo_vf.jpg">
+		<div class="card-content">
+			<h3>Celebrating 20 Years of People and Partnerships</h3><br>
+			<a class="btn" href="/celebrating-20-years-of-people-and-partnerships/">READ MORE</a>
+			<p>24 February 2026</p>
+		</div>
+	</div>
+		</div>
+		<div class="column">
+			<div class="card">
+					<img src="/images/download.jpg">
+		<div class="card-content">
+			<h3>ReVITALise! Townhall February 2026</h3><br>
+			<a class="btn" href="/revitalise-townhall-february-2026/">READ MORE</a>
+			<p>2 February 2026</p>
+		</div>
+	</div>
+		</div>
+	</div>
+<div class="card-container">
+	<div class="row">
+		<div class="column">
+			<div class="card">
 					<img src="/images/DSC_0188.jpg">
 		<div class="card-content">
 			<h3>ReVITALise! Townhall August 2025</h3><br>
@@ -1261,4 +1284,4 @@ description: ""
 	</div>
 		</div>
 	</div>
-</div>
+</div></div>
