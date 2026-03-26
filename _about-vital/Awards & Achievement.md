@@ -39,7 +39,7 @@ description: ""
     <div class="column">
         <h3><u><center><b>2026</b></center></u></h3>
         <ul>
-            <li>GovInsider Festival of Innovation Awards 2026 - Rising Digital Star Award (Special Mention) to staff Quan Tat Hoong</li>
+            <li>GovInsider Festival of Innovation Awards 2026 - Rising Digital Star Award (Special Mention) to Mr Quan Tat Hoong</li>
         </ul>
     </div>
     <div class="column">
