@@ -85,4 +85,9 @@ variant: markdown
 <div class="top-left"><p style="font-size: 30px;"><b>2023</b></p></div>
 	<div class="text-box"><p>Launch of Central RPA Platform </p></div>
 </div>
+	<div class="container">
+<img style="margin-bottom: 5px; height: 90px;" src="/images/overview/RedShape.png">
+<div class="top-left"><p style="font-size: 30px;"><b>2026</b></p></div>
+	<div class="text-box"><p>Attained ISO 9001:2015 Certification </p></div>
+</div>
 </div>

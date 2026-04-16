@@ -40,6 +40,7 @@ description: ""
         <h3><u><center><b>2026</b></center></u></h3>
         <ul>
             <li>GovInsider Festival of Innovation Awards 2026 - Rising Digital Star Award (Special Mention) to Mr Quan Tat Hoong</li>
+					<li>Attained ISO 9001:2015 Certification</li>
         </ul>
     </div>
     <div class="column">
