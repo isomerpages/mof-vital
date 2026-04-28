@@ -63,7 +63,7 @@ description: ""
 				<img src="/images/VITAL20_Logo_vf.jpg">
 				<div class="card-content">
 					<h3>VITAL's Staff Recognition Ceremony 2026</h3><br>
-					<a class="btn" href="//vital-s-staff-recognition-ceremony-2026/">READ MORE</a>
+					<a class="btn" href="/vital-s-staff-recognition-ceremony-2026/">READ MORE</a>
 					<p>24 April 2026</p>
 				</div>
 			</div>
