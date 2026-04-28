@@ -60,7 +60,7 @@ description: ""
 	<div class="row">
 		<div class="column">
 			<div class="card">
-				<img src="/images/VITAL20_Logo_vf.jpg">
+				<img src="/images/download__6_.jpg">
 				<div class="card-content">
 					<h3>VITAL's Staff Recognition Ceremony 2026</h3><br>
 					<a class="btn" href="/vital-s-staff-recognition-ceremony-2026/">READ MORE</a>
