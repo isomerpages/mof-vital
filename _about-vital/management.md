@@ -118,7 +118,7 @@ variant: markdown
 				 Director, Service Partnership &amp; Innovation
 			 </td>
 			 <td>
-				 Alex Tang
+				 Mic Tay
 			 </td>
 		 </tr>
    </tbody>
